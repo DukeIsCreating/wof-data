@@ -97,8 +97,8 @@ This music was used to introduce prizes to the wheel.
 Sometimes a prize bed would have audio or music unique to that occasion. One example is when Vanna plays the floor piano.
 Other examples are single-use holiday music
 
-Slug | Artist | Title | First Occurrence | Notes
-- | - | - | - | -
+| Slug | Artist | Title | First Occurrence | Notes
+| - | - | - | - | -
 | MusicBox | [Unknown] | [Unknown] | S3-E544-R2 (Susan/Mike/Bonnie) | Appears to be a sample of the featured music box playing
 | JingleBells | [Unknown] | Jingle Bells [Unknown Arrangement] | S6-E1047-R4 (Aprill/Mary/Arun)
 | 12Days | [Unknown] | 12 Days of Christmas [Unknown Arrangement] | S6-E1048-R2 (Hal/Patt/Carol)
