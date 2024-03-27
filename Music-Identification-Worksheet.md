@@ -91,6 +91,8 @@ This music was used to introduce prizes to the wheel.
 | HeartBassDrum | ⚠️[Unknown] | ⚠️[Unknown] | S7-E1236-R2 (Peter/Amanda/Debby)
 | Oriental | ⚠️[Unknown] | ⚠️[Unknown] | S7-E1240-R5 (Steve/Tom/Gary)
 | Ragtime2 | ⚠️[Unknown] | ⚠️[Unknown] | S7-E1273-R4 (Alan/Larry/Shirley)
+| Ranchera | ⚠️[Unknown] | ⚠️[Unknown] | S8-E1464-R2 (Debb/Joe/Corliss)
+| Luau | ⚠️[Unknown] | ⚠️[Unknown] | S8-E1512-R2 (Stella/Bill/Scott)
 
 # Prize Beds (One-offs and diagetics)
 
