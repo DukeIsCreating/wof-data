@@ -14,7 +14,7 @@ These are the main opening themes.
 | Slug | Artist | Title | First Occurrence | Notes
 | - | - | - | - | -
 | Chitty | Richard M. Sherman, Robert B. Sherman | Chitty Chitty Bang Bang | Shopper's Bazaar | Used for the Shopper's Bazaar Pilot
-| GiveItOne | Maynard Ferguson | Give It One | Pilot 1 | Used for the Edd Byrnes pilot
+| GiveItOne | Maynard Ferguson | Give It One | Pilot 1 | Used for the Edd Byrnes pilots
 | BigWheels | Alan Thicke | Big Wheels | 1975
 | ChangingKeys1983 | Merv Griffin | Changing Keys (1983) | 1983 | "Chirpy" version
 | ChangingKeys1984 | Merv Griffin | Changing Keys (1984) | 1984
@@ -93,6 +93,9 @@ This music was used to introduce prizes to the wheel.
 | Ragtime2 | ⚠️[Unknown] | ⚠️[Unknown] | S7-E1273-R4 (Alan/Larry/Shirley)
 | Ranchera | ⚠️[Unknown] | ⚠️[Unknown] | S8-E1464-R2 (Debb/Joe/Corliss)
 | Luau | ⚠️[Unknown] | ⚠️[Unknown] | S8-E1512-R2 (Stella/Bill/Scott)
+| GhostOfRisingSax | ⚠️[Unknown] | ⚠️[Unknown] | S9-E1585-R2 (Bob/Don/Ron) | Melody similar to RisingSax but with bassy horns instead
+| NewOrleans | ⚠️[Unknown] | ⚠️[Unknown] | S9-E1735-R4 (Carol Lee/Mark/Fred)
+| Montreal | ⚠️[Unknown] | ⚠️[Unknown] | S9-E142-R4 (Kathy/Ken/Sharon)
 
 # Prize Beds (One-offs and diagetics)
 
@@ -106,3 +109,7 @@ Other examples are single-use holiday music
 | 12Days | ⚠️[Unknown] | 12 Days of Christmas ⚠️[Unknown Arrangement] | S6-E1048-R2 (Hal/Patt/Carol)
 | Chopsticks | Performed by Vanna White | Chopsticks | S6-E1146-R2 (Lynda & Beverly/Scott & Ken/Smitty & Andy)
 | Clavinova | ⚠️[Unknown] | ⚠️[Unknown] | S7-E1320-R4 (Laura/Connie/Steve) | Vanna pretends to perform and Pat cracks wise about the convincingness of the performance
+
+# Credit
+
+Information is compiled from https://wheeloffortunehistory.fandom.com, various Google/YouTube searches, and Shazam.
