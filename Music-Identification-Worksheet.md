@@ -95,7 +95,7 @@ This music was used to introduce prizes to the wheel.
 | Luau | ⚠️[Unknown] | ⚠️[Unknown] | S8-E1512-R2 (Stella/Bill/Scott)
 | GhostOfRisingSax | ⚠️[Unknown] | ⚠️[Unknown] | S9-E1585-R2 (Bob/Don/Ron) | Melody similar to RisingSax but with bassy horns instead
 | NewOrleans | ⚠️[Unknown] | ⚠️[Unknown] | S9-E1735-R4 (Carol Lee/Mark/Fred)
-| Montreal | ⚠️[Unknown] | ⚠️[Unknown] | S9-E142-R4 (Kathy/Ken/Sharon)
+| Montreal | ⚠️[Unknown] | ⚠️[Unknown] | S9-E1742-R4 (Kathy/Ken/Sharon)
 
 # Prize Beds (One-offs and diagetics)
 
