@@ -90,13 +90,15 @@ This music was used to introduce prizes to the wheel.
 | WestHarmonica | ⚠️[Unknown] | ⚠️[Unknown] | S7-E1227-R2 (John/Karen/Frances)
 | HeartBassDrum | ⚠️[Unknown] | ⚠️[Unknown] | S7-E1236-R2 (Peter/Amanda/Debby)
 | Oriental | ⚠️[Unknown] | ⚠️[Unknown] | S7-E1240-R5 (Steve/Tom/Gary)
-| Ragtime2 | ⚠️[Unknown] | ⚠️[Unknown] | S7-E1273-R4 (Alan/Larry/Shirley)
+| RagtimeFast | ⚠️[Unknown] | ⚠️[Unknown] | S7-E1273-R4 (Alan/Larry/Shirley)
 | Ranchera | ⚠️[Unknown] | ⚠️[Unknown] | S8-E1464-R2 (Debb/Joe/Corliss)
 | Luau | ⚠️[Unknown] | ⚠️[Unknown] | S8-E1512-R2 (Stella/Bill/Scott)
-| GhostOfRisingSax | ⚠️[Unknown] | ⚠️[Unknown] | S9-E1585-R2 (Bob/Don/Ron) | Melody similar to RisingSax but with bassy horns instead
+| GhostOfBubbleTriplets | ⚠️[Unknown] | ⚠️[Unknown] | S9-E1585-R2 (Bob/Don/Ron) | Melody similar to BubbleTriplets but with bassy horns instead
 | NewOrleans | ⚠️[Unknown] | ⚠️[Unknown] | S9-E1735-R4 (Carol Lee/Mark/Fred)
 | Montreal | ⚠️[Unknown] | ⚠️[Unknown] | S9-E1742-R4 (Kathy/Ken/Sharon)
-
+| YetMoreSax | ⚠️[Unknown] | ⚠️[Unknown] | S10-E1783-R2 (Kathy/Mark/Bob)
+| Fairytale | ⚠️[Unknown] | ⚠️[Unknown] | S10-E1785-R2 (Peter/Barbara/Marilyn)
+| Gliss | ⚠️[Unknown] | ⚠️[Unknown] | S10-E1790-R2 (Jorge/Victoria/Karen)
 # Prize Beds (One-offs and diagetics)
 
 Sometimes a prize bed would have audio or music unique to that occasion. One example is when Vanna plays the floor piano.
