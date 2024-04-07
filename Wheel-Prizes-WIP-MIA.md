@@ -82,7 +82,9 @@ I'm listing episodes for which I know or suspect I'm missing a prize wedge varia
 I do not have wedge exemplars for wedge variants from the following episodes:
 
 S5-E823 Deb/Art/Amy 11/11/1987 (For CURIO Wedge)
+
 S6-E1104 Shirley/Pat/Jeff 3/28/1989 (For COUCH Wedge)
+
 S10-E1911 Wayne/Andrea/Al 4/19/1993 (For PINS Wedge)
 
 ### Potential Missing Wedge Exemplars
@@ -90,8 +92,11 @@ S10-E1911 Wayne/Andrea/Al 4/19/1993 (For PINS Wedge)
 I might be missing wedge exemplars for wedge variants from the following episodes:
 
 S5-E854 Jim/Sheree/Anne 1/4/1988 (For potential JEEP-S5 Wedge)
+
 S6-E1098 Ollie/Connie/Lori 3/9/1989 (For potential SPACE-S6 Wedge)
+
 S6-E1140 Annette/Ed/Tracy 5/29/1989 (For potential MEXICO-S6 Wedge)
+
 S7-E1341 Rita/Anne/Patty 5/14/1990 (For potential TENNIS-S7 Wedge)
 
 ### Remaining Recap-only episodes
@@ -99,60 +104,115 @@ S7-E1341 Rita/Anne/Patty 5/14/1990 (For potential TENNIS-S7 Wedge)
 No new wedge variants are expected from these, just more instances of existing variants.
 
 S1-E152 Mark/Carol/Debi 5/1/1984
+
 S2-E256 Ken/Kathy/Bruce 12/3/1984
+
 S2-E276 Judy/Jim/Kathy 1/8/1985
+
 S2-E285 Karen/Kimberly/Mike 1/16/1985
+
 S2-E300 Steve/Christina/Debra 1/31/1985
+
 S2-E307 Pat/Mike/Tammie 3/8/1985
+
 S2-E312 Mischelle/Dee/Harry 2/26/1985
+
 S2-E316 Terry/Rob/Pam 3/4/1985
+
 S2-E320 Hal/Chris/Rita 2/14/1985
+
 S2-E337 Corilee/Bernard/Jim 4/1/1985
+
 S5-E794 Doug/Wayne/Jamie 9/24/1987
+
 S5-E854 Jim/Sheree/Anne 1/4/1988
+
 S5-E864 Dan/Larry/Elaine 1/14/1988
+
 S5-E882 Hank/Nancy/Becky 2/12/1988
+
 S5-E886 Marj/Paula/Denia 2/26/1988
+
 S6-E1039 Debbie/Kim/Duncan 12/6/1988
+
 S6-E1040 Nadia/Cresia/Betty 12/7/1988
+
 S6-E1045 Kathy/Carol/Matt 1/10/1989
+
 S6-E1051 Edna/Tracy/Steve 12/9/1988
+
 S6-E1054 Jim/Debbie/Ken 12/14/1988
+
 S6-E1055 Pat/Laura/Otis 12/15/1988
+
 S6-E1058 Monica/Marlene/Alison 1/13/1989
+
 S6-E1061 Arnie/Judy/Valerie 1/16/1989
+
 S6-E1063 Sam/Sharon/Joanna 1/19/1989
+
 S6-E1066 Hal/Joy/Sherril 1/23/1989
+
 S6-E1068 Eileen/Irene/Ray 1/24/1989
+
 S6-E1069 Sandy/Ginger/Dave 1/30/1989
+
 S6-E1073 Dennis/Carol/Lisa 2/13/1989
+
 S6-E1075 Bill/Gail/Carolynn 2/15/1989
+
 S6-E1093 Kathy/Shelly/Lee 3/10/1989
+
 S6-E1099 Charles/Sherrie/Karen 2/28/1989
+
 S6-E1103 Lori/Diane/Teri 3/24/1989
+
 S6-E1121 Jimmy/Abbie/Maddy 3/13/1989
+
 S6-E1125 Ted/Peggy/Mary 4/12/1989
+
 S6-E1129 Steve/Sandy/Roland 4/19/1989
+
 S6-E1133 LaTanya/Andy/Kim 5/2/1989
+
 S6-E1134 Ari/Bob/Gloria 5/22/1989
+
 S6-E1139 Barry/Nicole/Linda 5/26/1989
+
 S6-E1154 Mike/Sean/Traci 5/18/1989
+
 S6-E1159 Cynthia/Scott/Jeff 6/2/1989
+
 S6-E1163 Ron/Maurice/Jenee 6/5/1989
+
 S6-E1168 Arlene/Tina/Bill 6/12/1989
+
 S6-E1169 Kathy/Bill/Claudia 6/14/1989
+
 S6-E1170 Gene/Bill/Pati 6/15/1989
+
 S8-E1417 Victoria/Roland/Henry 11/13/1990
+
 S8-E1528 Dori/Luke/Hillary 5/8/1991
+
 S9-E1573 Jerry/Matt/Steve 9/18/1991
+
 S9-E1651 David/Marianne/Gail 1/13/1992
+
 S10-E1889 Jacqueline/Alex/Bernie 3/11/1993
+
 S10-E1890 Christopher/Debra/Bernie 3/12/1993
+
 S10-E1910 Eric/Michelle/Ryan 4/9/1993
+
 S10-E1912 Andrea/Steve/Paul 4/20/1993
+
 S10-E1913 Glenda/Sal/Steve 4/21/1993
+
 S10-E1914 Clare/Susan/Sal 4/22/1993
+
 S10-E1915 Susan/Tripp/John 4/23/1993
+
 S10-E1917 Marti/Trippe/Kim 4/27/1993
 
 ## Partial Episodes
@@ -160,11 +220,17 @@ S10-E1917 Marti/Trippe/Kim 4/27/1993
 For the following episodes I only have access to partial video. Prize information may be missing or incomplete for these episodes.
 
 S2-E350 Lu Ann/Rich/Sharon 4/19/1985 (PARTIAL) (ULTRA RARE BOX PRIZE WEDGE)
+
 S4-E770 Jackie/Gail/Ron 6/15/1987 (PARTIAL)
+
 S9-E1564 Michelle/Carrie/Scott 9/5/1991 (PARTIAL)
+
 S9-E1610 Joe/Joan/Debbie 11/8/1991 (PARTIAL)
+
 S10-E1828 Jane/Carolyn/Skip 12/16/1992 (PARTIAL)
+
 S10-E1843 Rick/Kathleen/Sandra 1/6/1993 (PARTIAL)
+
 S10-E1844 Caprice/Jake/Athena 1/7/1993 (PARTIAL)
 
 ## Puzzles Known
