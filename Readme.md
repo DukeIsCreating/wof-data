@@ -62,6 +62,22 @@ This poses minor issues if episodes are renumbered due to new learnings, but we'
 
 There is also the small possibility that multiple episodes exist with the same contestant names in the same order. These should not occur near enough to each other to cause ambiguity, and season number can likely be used to disambiguate in this case.
 
+## About Wedge Variants
+
+There are SO MANY wedge variants. A new wedge variant is specified whenever a sample of a prize wedge is found that has discernable differences in typography or positioning of the letters on the prize wedge.
+
+This can be challenging, because differences in video quality (especially color/brightness bleed), angle of shot, and lighting differences can cause the false perception of discernable differences. All I can say is that I've done my best, and if things need to be regrouped its easy enough to do.
+
+Variants are named by the text on the wedge, the season they first occur in, and if necessary, a single letter qualifier discerning variant when multiple variants of the same wedge text appear in a season. These name elements are separated by a pin (-). For Example:
+
+```
+RING-S1
+TRIP-S1-A
+TRIP-S1-B
+```
+It should happen infrequently, but if it is found that a wedge variant appeared in an earlier season than originally thought, the variant name will be updated to reference the correct initial season.
+
+
 # Credits
 
 My information is compiled from several sources:
