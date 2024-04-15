@@ -10,11 +10,6 @@ I've located these episodes but have not fully processed prizes from them yet. P
 
 | Week | Ep | Ep | Ep | Ep | Ep |
 | --- | --- | --- | --- | --- | --- |
-| S1-W4 | | | | S1-E19 | S1-E20
-| S1-W9 | S1-E41
-| S1-W18 | | | | S1-E89
-| S1-W21 | | | | | S1-E105
-| S1-W25 | | | | | S1-E125
 | S1-W26 | | | S1-E128
 | S1-W38 | S1-E186
 | S2-W48 | | | | S2-E239 | S2-E240
@@ -47,9 +42,19 @@ I've located these episodes but have not fully processed prizes from them yet. P
 | S9-W314 | | | S9-E1568 | S9-E1569 | S9-E1570
 | S9-W315 | | S9-E1572
 | S9-W329 | S9-E1641 | S9-E1642 | S9-E1643 | S9-E1644 | S9-E1645
-| S9-W330 | S9-E1646 | S9-E1647 | S9-E1648 | S9-E1649 | S9-E1650
+| S9-W330 | S9-E1646 | S9-E1647 | S9-E1648 | | S9-E1650
 | S9-W352 | | | S10-E1758
-| S10-W353| | S10-E1762 | S10-E1763
+| S10-W353 | | S10-E1762 | S10-E1763
+
+# New Data Elements Not Complete
+
+- Wheel Position
+- Left Wedge
+- Over Wedge
+- Right Wedge
+- Disposition
+
+These will be filled in as time permits.
 
 # Not Yet Started
 
@@ -61,19 +66,19 @@ I hope to eventually include info about Surprise Wedge prizes for episodes in wh
 
 I have not started anything from any era of daytime yet.
 
-## Syndicated Seasons 11+
+## Syndicated Seasons 12+
 
-I have not touched anything above season 10 yet.
+I have not touched anything above season 11 yet.
 
 # Missing In Action
 
-I am missing data/media that is needed to compile information about the following episodes.
+I am missing data/media that is needed to compile information about the following episodes:
 
 ## Recap Only
 
 For these episodes, I have only been able to glean information from recaps on the Buy A Vowel forums. Source video is needed to document wedge appearance/variant and prize bed music.
 
-If I am missing prize bed music or wedge variant info and the episode is not in this list, it should be in the Work in Progress list.
+If I have some infor for the epoisode, but I am missing prize bed music or wedge variant info and the episode is not in this list, the episode should be in the Work in Progress list.
 
 I'm listing episodes for which I know or suspect I'm missing a prize wedge variant exemplar first, as those are higher priority to set eyes on.
 
@@ -81,11 +86,15 @@ I'm listing episodes for which I know or suspect I'm missing a prize wedge varia
 
 I do not have wedge exemplars for wedge variants from the following episodes:
 
-S5-E823 Deb/Art/Amy 11/11/1987 (For CURIO Wedge)
+S5-E823 Deb/Art/Amy 11/11/1987 (For CURIO-S5 Wedge)
 
-S6-E1104 Shirley/Pat/Jeff 3/28/1989 (For COUCH Wedge)
+S6-E1104 Shirley/Pat/Jeff 3/28/1989 (For COUCH-S6 Wedge)
 
-S10-E1911 Wayne/Andrea/Al 4/19/1993 (For PINS Wedge)
+S10-E1911 Wayne/Andrea/Al 4/19/1993 (For PINS-S10 Wedge)
+
+S11-E2030 David & Elbertha/Chuck & Bridget/Kitty & Mariann 12/24/1993 (For RACE-S11 Wedge)
+
+S11-E2121 Michelle/Jennifer/Andrea 5/16/1994 (For DARWIN-S11 Wedge)
 
 ### Potential Missing Wedge Exemplars
 
@@ -101,7 +110,7 @@ S7-E1341 Rita/Anne/Patty 5/14/1990 (For potential TENNIS-S7 Wedge)
 
 ### Remaining Recap-only episodes
 
-No new wedge variants are expected from these, just more instances of existing variants.
+No new wedge variants are especially expected from these, just more instances of existing variants.
 
 S1-E152 Mark/Carol/Debi 5/1/1984
 
@@ -215,6 +224,14 @@ S10-E1915 Susan/Tripp/John 4/23/1993
 
 S10-E1917 Marti/Trippe/Kim 4/27/1993
 
+S11-E1958 Ben/Lance/Michelle 9/15/1993
+
+S11-E1959 Ben/Sue/Doug 9/16/1993
+
+S11-E1996 Maria/George/Karolyn 11/8/1993
+
+S11-E2080 Bob/Dan/Robin 3/11/1994
+
 ## Partial Episodes
 
 For the following episodes I only have access to partial video. Prize information may be missing or incomplete for these episodes.
@@ -233,6 +250,8 @@ S10-E1843 Rick/Kathleen/Sandra 1/6/1993 (PARTIAL)
 
 S10-E1844 Caprice/Jake/Athena 1/7/1993 (PARTIAL)
 
+S11-E2133 Roger/Mike/Dave 6/1/1994 (CUT 2nd prize segment)
+
 ## Puzzles Known
 
 These episodes have puzzles present in Buy-A-Vowel Puzzle Compendium, meaning that some record of the episode still exists somewhere. However, I have not found a recap or a video for them.
@@ -240,42 +259,40 @@ These episodes have puzzles present in Buy-A-Vowel Puzzle Compendium, meaning th
 | Week | Ep | Ep | Ep | Ep | Ep |
 | --- | --- | --- | --- | --- | --- |
 | S1-W2 | | | | | S1-E10
-| S1-W4 | | | | S1-E19 | S1-E20
 | S1-W5 | S1-E22 | | | S1-E25
 | S1-W6 | S1-E27
 | S1-W9 | | S1-E43
-| | | | | | S2-E225
-| | S2-E241 | S2-E242
-| | | | | S2-E259
-| | S2-E271 | | S2-E273
-| | | S2-E282
-| | S2-E291 | S2-E292
-| | | | | | S2-E300
-| | | | | | S2-E305
-| | S2-E306 | | S2-E308
-| | | | | | S2-E315
-| | | | | S2-E324
-| | | | | | S2-E340
-| | | | S2-E343 | S2-E344
-| | | | S3-E413
-| | | | S3-E463
-| | | | | | S3-E530
-| | S3-E531 | S3-E532 | S3-E533 | S3-E534 |
-| | | | S3-E563
-| | | S4-E627
-| | S4-E641 | S4-E642 | S4-E643 | S4-E644 | S4-E645
-| | S4-E661 | S4-E662
-| | S5-E816
-| | | | S5-E858
-| | | | S5-E883 | | S5-E885
-| | | | S5-E888 | S5-E889 | S5-E890
-| | | S5-E892 | S5-E893 | S5-E894
-| | | | S5-E913
-| | | | S5-E923
-| | | | S5-E938
-| | | S5-E942 | S5-E944
-| | | | S5-E953
-| | S7-E1341
+| S2-W45 | | | | | S2-E225
+| S2-W49 | S2-E241 | S2-E242
+| S2-W52 | | | | S2-E259
+| S2-W57 | | S2-E282
+| S2-W59 | S2-E291 | S2-E292
+| S2-W60 | | | | | S2-E300
+| S2-W61 | | | | | S2-E305
+| S2-W62 | S2-E306 | | S2-E308
+| S2-W63 | | | | | S2-E315
+| S2-W65 | | | | S2-E324
+| S2-W68 | | | | | S2-E340
+| S2-W69 | | | S2-E343 | S2-E344
+| S3-W83 | | | S3-E413
+| S3-W93 | | | S3-E463
+| S3-W106 | | | | | S3-E530
+| S3-W107 | S3-E531 | S3-E532 | S3-E533 | S3-E534 |
+| S3-W113 | | | S3-E563
+| S4-W126 | | S4-E627
+| S4-W129 | S4-E641 | S4-E642 | S4-E643 | S4-E644 | S4-E645
+| S4-W133 | S4-E661 | S4-E662
+| S5-W164 | S5-E816
+| S5-W172 | | | S5-E858
+| S5-W177 | | | S5-E883 | | S5-E885
+| S5-W178 | | | S5-E888 | S5-E889 | S5-E890
+| S5-W179 | | S5-E892 | S5-E893 | S5-E894
+| S5-W183 | | | S5-E913
+| S5-W185 | | | S5-E923
+| S5-W188 | | | S5-E938
+| S5-W189 | | S5-E942 | S5-E944
+| S5-W191 | | | S5-E953
+| S7-W269 | S7-E1341
 | | | | | S8-E1390
 | | | | | S8-E1435
 | | S8-E1436 | S8-E1437
@@ -296,6 +313,27 @@ These episodes have puzzles present in Buy-A-Vowel Puzzle Compendium, meaning th
 | | | S10-E1822 | | | S10-E1825
 | | | | | | S10-E1885
 | | | S10-E1932
+| | S11-E1966 | S11-E1967 | S11-E1968 | S11-E1969
+| | S11-E1971 | S11-E1976 | S11-E1973 | S11-E1974 | S11-E1975
+| | | S11-E1977
+| | S11-E2046 | S11-E2047 | S11-E2048 | | S11-E2050
+| | | S11-E2052 | S11-E2053
+| | | S11-E2056 | | S11-E2058 | S11-E2059 | S11-E2060
+| | | | S11-E2062 | S11-E2063 | S11-E2064 | S11-E2065
+| | | S11-E2066
+| | | | S11-E2073 | S11-E2074 | S11-E2075
+| | S11-E2081
+| | | | | | S11-E2094
+| | S11-E2096 | | | S11-E2099 | S11-E2100
+| | | S11-E2101 | S11-E2102 | S11-E2103 | S11-E2104
+| | S11-E2106 | S11-E2107 | | S11-E2109 | S11-E2110
+| | S11-E2111 | | S1-E2113 | S1-E2114
+| | S11-E2116 | S11-E2117 | S11-E2118 | S11-E2119 | S11-E2120
+| | | S11-E2122 | S11-E2123 | S11-E2124 | S11-E2125
+| | S11-E2126 | S11-E2127 | S11-E2128 | S11-E2129 | S11-E2130
+| | S11-E2136 | S11-E2137 | S11-E2138 | S11-E2139
+| | S11-E2141 | S11-E2143
+
 
 ## Presumed Lost
 
@@ -321,3 +359,5 @@ E1367, E1368, E1373-E1375, E1377-E1382, E1384-E1389, E1392, E1393, E1396-E1416, 
 E1561, E1563, E1564, E1571, E1574-E1580, E1583, E1584, E1590-E1600, E1605-E1613, E1616-E1624, E1627-E1640, E1652-E1682, E1684-E1687, E1689-E1715, E1718-E1722, E1726-E1730, E1736-E1740, E1746-E1750, E1752-E1754
 ### Season 10
 E1852-E1860, E1862, E1864, E1866-E1869, E1871-E1878, E1881-E1883, E1886-E1888, E1891-E1899, E1902-E1909, E1916, E1919, E1921, E1922, E1928-E1930, E1933, E1934, E1936, E1938, E1940-E1945, E1947-E1949
+### Season 11
+E1951-E1956, E1960, E1961, E1963-E1965, E1976, E1979-E1994, E1998, E1999, E2001, E2002, E2004-E2020, E2024-E2029, E2031-E2045, E2049, E2051, E2054, E2055, E2057, E2068-E2072, E2076-E2079, E2082-E2084, E2086-E2093, E2095, E2098, E2108, E2131, E2132, E2134, E2142, E2144

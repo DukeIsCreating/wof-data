@@ -58,10 +58,10 @@ This music was used to introduce prizes to the wheel.
 | Frisco | Merv Griffin | Frisco Disco | S1-E2-R2 (Kelli/Barry/Pam)
 | EerieElegance | ⚠️[Unknown] | ⚠️[Unknown] | S1-E6-R2 (Bob/Pearl/Carmen)
 | ShortHorns | ⚠️[Unknown] | ⚠️[Unknown] | S1-E7-R2 (Ed/Dawn/Ellen)
+| DiscoSax | ⚠️[Unknown] | ⚠️[Unknown] | S1-E20-R2 (Morry/Kim/Sandy)
 | HornsCall | ⚠️[Unknown] | ⚠️[Unknown] | S1-E39-R2 (Jim/Marian/Lori) | Might be a later/earlier stanza of EerieElegance, they have similar melodies but different instrumentation
 | Child | Merv Griffin | I Remember The Child | S1-E71-R2 (Lloyd/Linda/Debbie) | Better example S1-E72-R2 (Paul/Marilyn/Linda)
 | Samba | Unknown Artist | Country Samba | S1-E73-R2 (Tom/Cindi/Velma) | Better example S2-E198-R2 (Anita/Paula/Wayne)
-| DiscoSax | ⚠️[Unknown] | ⚠️[Unknown] | S2-E196-R2 (Bob/Ali/Debbie)
 | DeepCalm | ⚠️[Unknown] | ⚠️[Unknown] | S2-E200-R2 (Marsha/Leslie/Jerry)
 | ChangingKeys1984 | Merv Griffin | Changing Keys (1984) | S2-E201-R2 (Tony/Tery/Cheryl) | Yes, the main theme was used as a prize bed, just this one time as far as I know.
 | Mournful | ⚠️[Unknown] | ⚠️[Unknown] | S2-E202-R2 (Joan/Scott/Sharon)
