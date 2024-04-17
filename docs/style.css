@@ -56,6 +56,11 @@ table, th, td {
   border-color: var(--table-border-color)
 }
 
+table {
+  margin: auto;
+  width: auto;
+}
+
 th {
 	font-weight: 700;
 	font-size: 133%;
