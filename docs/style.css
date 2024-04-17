@@ -11,7 +11,7 @@ body {
   font-weight: 600;
   color: black;
   text-shadow: 0px 0px 3px var(--shadow-color), 0px 0px 5px var(--shadow-color), 0px 0px 8px var(--shadow-color), 0px 0px 3px var(--shadow-color), 0px 0px 5px var(--shadow-color), 0px 0px 8px var(--shadow-color);
-  background-color: lime;
+  background-color: #4C9F81;
   background-image: url("WheelBgSmaller.jpg");
   background-attachment: fixed;
 }
