@@ -46,7 +46,7 @@ h2 {
 
 ul {
   margin: auto;
-  width: 400px;
+  width: 50%;
   list-style-type: "\02B25  "
 }
 
@@ -74,7 +74,8 @@ td {
 p {
   text-align: center;
   margin: auto;
-  width: 75%;
+  width: 50%;
+  padding-bottom: 20px;
 }
 
 .nobreak {

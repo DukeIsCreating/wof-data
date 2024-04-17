@@ -1,7 +1,7 @@
 
 # Duke's Wheel of Fortune Information Database
 
-As a fan of the game, I have been compiling gameplay-related information about the game, mainly for personal use at home. However, I'm more than willing to share the fruits of my research here.
+As a fan of the game, I have been compiling gameplay-related information about the game for personal use at home. However, I'm more than willing to share the fruits of my research here.
 
 # Chaos Disclaimer
 
@@ -9,19 +9,10 @@ Please note that as of now everything is in a preliminary state. Schemas, folder
 
 # Data Sets
 
-## [Wheel-Prizes](Wheel-Prizes.html)
-
-Contains a database of wheel prizes offered.
-
-For each prize, I have attempted to capture:
-- the Episode and Round in which the prize was added to the wheel
-- Which prize wedge was used, including variant information
-- Which prize bed music was used
-- The stated value of the prize
-- An abbreviation of the prize plug describing the prize, or the full prize plug. (moving to full prize plugs over time)
-- The position of the prize wedge on the wheel
-- What happened to the prize wedge in gameplay
-- Any other miscellaneous notes.
+| Data Set | Description |
+| --- | --- |
+| [Wheel-Prizes](Wheel-Prizes.html) | Contains a database of wheel prizes offered. |
+| | More to come
 
 # Credits
 
@@ -33,9 +24,11 @@ The Wheel of Fortune History Fandom (https://wheeloffortunehistory.fandom.com) h
 
 And lots of fun time analyzing episode video.
 
+# Terms of Use
+
 The information I have compiled here regards a series of public contests, and I claim no ownership or copyright over the data contained within.
 
-Having said that, in addition to the efforts of those above, I too have put a lot of personal time into compiling this information. If you find it useful and/or redistribute it, please give credit where it is due. You may simply credit me as "Duke".
+Having said that, in addition to the efforts of those above, I too have put a lot of personal time into compiling this information. Don't try to commercialize it. If you find it useful and/or redistribute it, please give credit where it is due. You may simply credit me as "Duke".
 
 # Disclaimers
 
