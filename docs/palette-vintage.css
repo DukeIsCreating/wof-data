@@ -1,0 +1,83 @@
+:root {
+	--color-black: #000000;
+	--color-white: #ffffff;
+	--color-glitter-silver: #c0c0c0;
+	--color-tangelo: #D66119;
+	--color-orange: #FC9D37;
+	--color-dk-orange: #D6842C;
+	--color-gamboge: #FFAA00;
+	--color-lt-gamboge: #FFBF66;
+	--color-peach: #F4C65A;
+	--color-brown: #B7A216;
+	--color-lemon: FFF78C;
+	--color-yellow: FFFF00;
+	--color-lime: #CFE288;
+	--color-cornflower: #1093E5;
+	--color-azure: #80BCFC;
+	--color-red: #ff624b;
+}
+
+.black-shadow {
+  text-shadow: 0px 0px 3px var(--color-black), 0px 0px 5px var(--color-black), 0px 0px 8px var(--color-black), 0px 0px 3px var(--color-black), 0px 0px 5px var(--color-black), 0px 0px 8px var(--color-black), 0px 0px 3px var(--color-black), 0px 0px 5px var(--color-black), 0px 0px 8px var(--color-black), 0px 0px 3px var(--color-black), 0px 0px 5px var(--color-black), 0px 0px 8px var(--color-black);
+}
+
+.white-shadow {
+  text-shadow: 0px 0px 3px var(--color-white), 0px 0px 5px var(--color-white), 0px 0px 8px var(--color-white), 0px 0px 3px var(--color-white), 0px 0px 5px var(--color-white), 0px 0px 8px var(--color-white), 0px 0px 3px var(--color-white), 0px 0px 5px var(--color-white), 0px 0px 8px var(--color-white), 0px 0px 3px var(--color-white), 0px 0px 5px var(--color-white), 0px 0px 8px var(--color-white);
+}
+
+.glitter-silver-shadow {
+  text-shadow: 0px 0px 3px var(--color-glitter-silver), 0px 0px 5px var(--color-glitter-silver), 0px 0px 8px var(--color-glitter-silver), 0px 0px 3px var(--color-glitter-silver), 0px 0px 5px var(--color-glitter-silver), 0px 0px 8px var(--color-glitter-silver), 0px 0px 3px var(--color-glitter-silver), 0px 0px 5px var(--color-glitter-silver), 0px 0px 8px var(--color-glitter-silver), 0px 0px 3px var(--color-glitter-silver), 0px 0px 5px var(--color-glitter-silver), 0px 0px 8px var(--color-glitter-silver);
+}
+
+.tangelo-shadow {
+  text-shadow: 0px 0px 3px var(--color-tangelo), 0px 0px 5px var(--color-tangelo), 0px 0px 8px var(--color-tangelo), 0px 0px 3px var(--color-tangelo), 0px 0px 5px var(--color-tangelo), 0px 0px 8px var(--color-tangelo), 0px 0px 3px var(--color-tangelo), 0px 0px 5px var(--color-tangelo), 0px 0px 8px var(--color-tangelo), 0px 0px 3px var(--color-tangelo), 0px 0px 5px var(--color-tangelo), 0px 0px 8px var(--color-tangelo);
+}
+
+.orange-shadow {
+  text-shadow: 0px 0px 3px var(--color-orange), 0px 0px 5px var(--color-orange), 0px 0px 8px var(--color-orange), 0px 0px 3px var(--color-orange), 0px 0px 5px var(--color-orange), 0px 0px 8px var(--color-orange), 0px 0px 3px var(--color-orange), 0px 0px 5px var(--color-orange), 0px 0px 8px var(--color-orange), 0px 0px 3px var(--color-orange), 0px 0px 5px var(--color-orange), 0px 0px 8px var(--color-orange);
+}
+
+.dk-orange-shadow {
+  text-shadow: 0px 0px 3px var(--color-dk-orange), 0px 0px 5px var(--color-dk-orange), 0px 0px 8px var(--color-dk-orange), 0px 0px 3px var(--color-dk-orange), 0px 0px 5px var(--color-dk-orange), 0px 0px 8px var(--color-dk-orange), 0px 0px 3px var(--color-dk-orange), 0px 0px 5px var(--color-dk-orange), 0px 0px 8px var(--color-dk-orange), 0px 0px 3px var(--color-dk-orange), 0px 0px 5px var(--color-dk-orange), 0px 0px 8px var(--color-dk-orange);
+}
+
+.gamboge-shadow {
+  text-shadow: 0px 0px 3px var(--color-gamboge), 0px 0px 5px var(--color-gamboge), 0px 0px 8px var(--color-gamboge), 0px 0px 3px var(--color-gamboge), 0px 0px 5px var(--color-gamboge), 0px 0px 8px var(--color-gamboge), 0px 0px 3px var(--color-gamboge), 0px 0px 5px var(--color-gamboge), 0px 0px 8px var(--color-gamboge), 0px 0px 3px var(--color-gamboge), 0px 0px 5px var(--color-gamboge), 0px 0px 8px var(--color-gamboge);
+}
+
+.lt-gamboge-shadow {
+  text-shadow: 0px 0px 3px var(--color-lt-gamboge), 0px 0px 5px var(--color-lt-gamboge), 0px 0px 8px var(--color-lt-gamboge), 0px 0px 3px var(--color-lt-gamboge), 0px 0px 5px var(--color-lt-gamboge), 0px 0px 8px var(--color-lt-gamboge), 0px 0px 3px var(--color-lt-gamboge), 0px 0px 5px var(--color-lt-gamboge), 0px 0px 8px var(--color-lt-gamboge), 0px 0px 3px var(--color-lt-gamboge), 0px 0px 5px var(--color-lt-gamboge), 0px 0px 8px var(--color-lt-gamboge);
+}
+
+.peach-shadow {
+  text-shadow: 0px 0px 3px var(--color-peach), 0px 0px 5px var(--color-peach), 0px 0px 8px var(--color-peach), 0px 0px 3px var(--color-peach), 0px 0px 5px var(--color-peach), 0px 0px 8px var(--color-peach), 0px 0px 3px var(--color-peach), 0px 0px 5px var(--color-peach), 0px 0px 8px var(--color-peach), 0px 0px 3px var(--color-peach), 0px 0px 5px var(--color-peach), 0px 0px 8px var(--color-peach);
+}
+
+.brown-shadow {
+  text-shadow: 0px 0px 3px var(--color-brown), 0px 0px 5px var(--color-brown), 0px 0px 8px var(--color-brown), 0px 0px 3px var(--color-brown), 0px 0px 5px var(--color-brown), 0px 0px 8px var(--color-brown), 0px 0px 3px var(--color-brown), 0px 0px 5px var(--color-brown), 0px 0px 8px var(--color-brown), 0px 0px 3px var(--color-brown), 0px 0px 5px var(--color-brown), 0px 0px 8px var(--color-brown);
+}
+
+.lemon-shadow {
+  text-shadow: 0px 0px 3px var(--color-lemon), 0px 0px 5px var(--color-lemon), 0px 0px 8px var(--color-lemon), 0px 0px 3px var(--color-lemon), 0px 0px 5px var(--color-lemon), 0px 0px 8px var(--color-lemon), 0px 0px 3px var(--color-lemon), 0px 0px 5px var(--color-lemon), 0px 0px 8px var(--color-lemon), 0px 0px 3px var(--color-lemon), 0px 0px 5px var(--color-lemon), 0px 0px 8px var(--color-lemon);
+}
+
+.yellow-shadow {
+  text-shadow: 0px 0px 3px var(--color-yellow), 0px 0px 5px var(--color-yellow), 0px 0px 8px var(--color-yellow), 0px 0px 3px var(--color-yellow), 0px 0px 5px var(--color-yellow), 0px 0px 8px var(--color-yellow), 0px 0px 3px var(--color-yellow), 0px 0px 5px var(--color-yellow), 0px 0px 8px var(--color-yellow), 0px 0px 3px var(--color-yellow), 0px 0px 5px var(--color-yellow), 0px 0px 8px var(--color-yellow);
+}
+
+.lime-shadow {
+  text-shadow: 0px 0px 3px var(--color-lime), 0px 0px 5px var(--color-lime), 0px 0px 8px var(--color-lime), 0px 0px 3px var(--color-lime), 0px 0px 5px var(--color-lime), 0px 0px 8px var(--color-lime), 0px 0px 3px var(--color-lime), 0px 0px 5px var(--color-lime), 0px 0px 8px var(--color-lime), 0px 0px 3px var(--color-lime), 0px 0px 5px var(--color-lime), 0px 0px 8px var(--color-lime);
+}
+
+.cornflower-shadow {
+  text-shadow: 0px 0px 3px var(--color-cornflower), 0px 0px 5px var(--color-cornflower), 0px 0px 8px var(--color-cornflower), 0px 0px 3px var(--color-cornflower), 0px 0px 5px var(--color-cornflower), 0px 0px 8px var(--color-cornflower), 0px 0px 3px var(--color-cornflower), 0px 0px 5px var(--color-cornflower), 0px 0px 8px var(--color-cornflower), 0px 0px 3px var(--color-cornflower), 0px 0px 5px var(--color-cornflower), 0px 0px 8px var(--color-cornflower);
+}
+
+.azure-shadow {
+  text-shadow: 0px 0px 3px var(--color-azure), 0px 0px 5px var(--color-azure), 0px 0px 8px var(--color-azure), 0px 0px 3px var(--color-azure), 0px 0px 5px var(--color-azure), 0px 0px 8px var(--color-azure), 0px 0px 3px var(--color-azure), 0px 0px 5px var(--color-azure), 0px 0px 8px var(--color-azure), 0px 0px 3px var(--color-azure), 0px 0px 5px var(--color-azure), 0px 0px 8px var(--color-azure);
+}
+
+.red-shadow {
+  text-shadow: 0px 0px 3px var(--color-red), 0px 0px 5px var(--color-red), 0px 0px 8px var(--color-red), 0px 0px 3px var(--color-red), 0px 0px 5px var(--color-red), 0px 0px 8px var(--color-red), 0px 0px 3px var(--color-red), 0px 0px 5px var(--color-red), 0px 0px 8px var(--color-red), 0px 0px 3px var(--color-red), 0px 0px 5px var(--color-red), 0px 0px 8px var(--color-red);
+}
+

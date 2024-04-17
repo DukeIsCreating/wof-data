@@ -9,7 +9,7 @@
 | 1 | 3 | Steven/Pam/Jodi | 9/26/1983 | 2 | TRIP | TRIP-S1-A | Frisco | $1,236 | It's a trip to Mexico! We'll fly you and a guest from Los Angeles to Puerto Vallarta, where you'll stay at the Buganvilias-Sheraton, the newest sun spot in Puerto Vallarta. This magnificent hotel is located right on the beach, offers a luxurious pool, tennis, water sports, fine dining and dancing. A honeymoon hideaway, a dream come true, furnished by the Buganvilias-Sheraton. And you'll fly to exotic Puerto Vallarta, Mexico via Western Airlines famous Fiesta Flight. Western flies to the six major coastal resorts and exciting cities of Mexico. Western Airlines: we've got a name to live up to! Total retail value $1,236! |  |
 | 1 | 4 | Kathy/Janet/Barry | 9/21/1983 | 2 | $ | CASH-S1 | Frisco | $500 | You'll receive five crisp new $100 bills. That's $500 in cash to spend any way you want to! |  |
 | 1 | 5 | Lisa/Bob/Nancy | 9/20/1983 | 2 | PIN | PIN-S1 | Tony | $4,000 | You'll receive a gift certificate to Van Cleef & Arpels, with which you might choose this superb hummingbird pin, a jeweler's work of art. 18 karat yellow gold with 1.20 carats of pave diamonds and ruby eye. $4,000! |  |
-| 1 | 6 | Bob/Pearl/Carmen | 9/27/1983 | 2 | FUR | FUR-S1-B | EerieElegance | $2,000 | a Dicker and Dicker mink coat worth $2,000! |  |
+| 1 | 6 | Bob/Pearl/Carmen | 9/27/1983 | 2 | FUR | FUR-S1-B | EerieElegance | $2,000 | You can wrap up in this sensational natural pink glow mink jacket. A fun look for day and an elegant look for night. Furnished by Dicker & Dicker of Beverly Hills. $2,000! |  |
 | 1 | 7 | Ed/Dawn/Ellen | 9/28/1983 | 2 | SCOOTER | SCOOTER-S1 | ShortHorns | $1,500 | a Bajaj motor scooter worth $1,500! |  |
 | 1 | 8 | Barbara/Harlene/Kevin | 9/29/1983 | 2 | SILVER | SILVER-S1 | EerieElegance | $2,040 | a Tiffany & Co. Stirling Silver "English King" flatware service for 8 worth $2,040! |  |
 | 1 | 9 | Cyn/Susan/Steve | 9/30/1983 | 2 | TRIP | TRIP-S1-A | Frisco | $1,236 | a trip to Mexico and stay at Buganvillas Sheraton worth $1,236! |  |
@@ -49,11 +49,11 @@
 | 1 | 137 | Misa/Chloe/Frank | 4/3/1984 | 2 | RING | RING-S1 | Frisco | $2,800 | a Van Cleef & Arpels gift certificate featuring man's ring with nine 1.10-karat diamonds with platinum in an 18-karat gold band worth $2,800! |  |
 | 1 | 140 | Virginia/Bob/Norma | 4/6/1984 | 2 | STEREO | STEREO-S1 | Frisco | $800 | a component stereo system worth $800! |  |
 | 1 | 148 | Chuck/Sonja/Cindy | 4/18/1984 | 2 | TRIP | TRIP-S1-A | Frisco | $566 | a trip to Lake Tahoe (Del Webb's High Sierra) worth $566! |  |
-| 1 | 152 | Mark/Carol/Debi | 5/1/1984 | 2 | CRYSTAL |  |  | $1,320 | a Tiffany furnished crystal stemware worth $1,320! |  |
+| 1 | 152 | Mark/Carol/Debi | 5/1/1984 | 2 | CRYSTAL |  |  | $1,320 | a Tiffany furnished crystal stemware worth $1,320! | Recap Only |
 | 1 | 153 | Bill/Jude/MaryAnn | 5/2/1984 | 2 | VASES | VASES-S1 | Tony | $1,100 | a pair of Cloisonne Chinese vases worth $1,100! |  |
 | 1 | 154 | Betty/Debbie/David | 5/3/1984 | 2 | TRIP | TRIP-S1-A | Tony | $4,328 | a trip to Hong Kong and 1-week stay at Holiday Inn Golden Mile worth $4,328! |  |
 | 1 | 176 | Mike/Elizabeth/Diane | 6/4/1984 | 2 | SILVER | SILVER-S1 | Tony | $2,040 | a Tiffany & Co. furnished "English King" Sterling Silver service for 8 worth $2,040! |  |
-| 1 | 186 | Edith/Andrew/Lorraine | 6/18/1984 | 2 | SILVER |  |  | $2,000 | a $2,000 sterling silver mug from Tiffany and Co.! |  |
+| 1 | 186 | Edith/Andrew/Lorraine | 6/18/1984 | 2 | SILVER | SILVER-S1 | Tony | $2,000 | a $2,000 sterling silver mug from Tiffany and Co.! |  |
 
 ## Season 2
 
@@ -1466,7 +1466,7 @@
 | 11 | 1995 | Jim/Virginia/George | 11/5/1993 | 2 | OCHO RIOS | OCHO-RIOS-S11 | Island | $5,703 | A stay at the the Jamaican Grand Renaissance Resort, Bic Sports Lombada sail board including wet suit. Total retail value $5,703! |  |
 | 11 | 1995 | Jim/Virginia/George | 11/5/1993 | 4 | ANNUITY | ANNUITY-S11 | 1980PrizeCue | $10,000 | RVP's Nest Egg Annuity, at maturity worth $10,000! |  |
 | 11 | 1996 | Maria/George/Karolyn | 11/8/1993 | 2 | PEARLS |  |  | $4,850 | a Ross-Simons 30-inch pearl necklace with gold clasp worth $4,850! | No second prize this episode; round 4 was entirely a speed-up round. |
-| 11 | 1997 | Reggie/Maria/Dejan | 11/9/1993 | 2 | SHOP | SHOP-S7-A | SaxxyG | $8,700 | a Beverly Hills shopping spree! It's a stay at Merv Griffin's Beverly Hilton, along with a $5,000 gift certificate to Fred Hayman's! Shop 'til you drop worth $8,700! | Possibly Maria's excitement prevented this wedge from being used again� |
+| 11 | 1997 | Reggie/Maria/Dejan | 11/9/1993 | 2 | SHOP | SHOP-S7-A | SaxxyG | $8,700 | a Beverly Hills shopping spree! It's a stay at Merv Griffin's Beverly Hilton, along with a $5,000 gift certificate to Fred Hayman's! Shop 'til you drop worth $8,700! | Possibly Maria's excitement prevented this wedge from being used again... |
 | 11 | 1997 | Reggie/Maria/Dejan | 11/9/1993 | 4 | PIANO | PIANO-S11 | Tony | $8,898 | Kimball's La Petite Grand Piano worth $8,898! |  |
 | 11 | 2000 | Stephen/Chanelle/Darryle | 11/12/1993 | 2 | CHINA | CHINA-S11 | Otherworld | $2,449 | a package of Oneida stemware and False Craft china worth $2,449! |  |
 | 11 | 2000 | Stephen/Chanelle/Darryle | 11/12/1993 | 4 | CRUISE | CRUISE-S7 | FortePiano | $6,380 | a Caribbean sailing holiday worth $6,380! |  |
@@ -1501,4 +1501,19 @@
 | 11 | 2140 | Heather/Steve/Linda | 6/10/1994 | 4 | CRUISE | CRUISE-S11-B | 1980PrizeCue | $5,762 | a trip to Costa Rica, a package worth $5,762 |  |
 | 11 | 2145 | Dave/Jona/Glen | 6/17/1994 | 2 | WAIKIKI | WAIKIKI-S11 | Luau | $3,740 | a 6-night holiday in Waikiki worth $3,740! |  |
 | 11 | 2145 | Dave/Jona/Glen | 6/17/1994 | 4 | RING | RING-S7-B | Otherworld | $9,500 | a Frances Klein dinner ring with 2.41-karat diamond and platinum, worth $9,500! |  |
+
+## Season 12
+
+| S# | Ep# | Contestants | Air Date | Round | Wedge Text | Wedge Variant | Music Cue | Value | Description | Notes |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 12 | 2339 | David/John/Derek | 6/22/1995 | 2 | STUDY |  |  | $2,724 | an Encyclopedia Britannica 32-volume library with Insight 486SX desktop computer worth $2,724! |  |
+| 12 | 2339 | David/John/Derek | 6/22/1995 | 4 | BAHAMAS |  |  |  | a trip to the Bahamas! | No prize plug. No value provided. |
+| 12 | 2337 | Angela/Adam/Ben | 6/20/1995 | 2 | COMPUTER |  |  | $2,199 | a Gateway 2000 family PC with Corel Draw! worth $2,199! | No second prize this episode; round 4 was entirely a speed-up round. |
+| 12 | 2329 | Beth/Donna/Susie | 6/8/1995 | 2 | EXERCISE |  |  | $1,350 | Jacques Moret fashion bodyware and a Nordic Track exercise machine worth $1,350! | No second prize this episode; round 4 was entirely a speed-up round. |
+| 12 | 2328 | Willie/Bill/Donna | 6/7/1995 | 2 | TOOBIE BOAT |  |  | $2,395 | a Water Ventures Toobie Boat with 2.5 HP motor worth $2,395 |  |
+| 12 | 2328 | Willie/Bill/Donna | 6/7/1995 | 4 | GREECE |  |  | $10,000 | a $10,000 trip to Greece! | No prize plug. |
+| 12 | 2327 | Jeff/Natasha/Willie | 6/6/1995 | 2 | VIDEO |  |  | $1,350 | a Sanyo 31-inch stereo TV with surround sound plus 4-head Hi-Fi VCR worth $1,350! |  |
+| 12 | 2327 | Jeff/Natasha/Willie | 6/6/1995 | 4 | CAMPER |  |  | $9,000 | a Camper worth almost $9,000 | No prize plug. |
+| 12 | 2326 | Kyle/David/David | 6/5/1995 | 2 | LAGUNA |  |  | $5,080 | a Festival of Arts Pageant of the Masters holiday with stay at the Ritz-Carlton Laguna Niguel with palm tree acrylic on canvas worth $5,080! |  |
+| 12 | 2326 | Kyle/David/David | 6/5/1995 | 4 | SPA |  |  | $7,000 | a Spa worth over $7,000 | No prize plug. |
 

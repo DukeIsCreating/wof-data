@@ -4,14 +4,16 @@ This document attempts to inform whether and when either case is true.
 
 # Episodes that are Work in Progress
 
+## Syndicated Season 12
+
+This entire season is now WIP. I appear to have access to all 195 episodes in both recap and video form so it will take some time. Updates with season 12 episodes will start appearing, but data will be incomplete.
+
 ## Syndicated Seasons 1-10
 
 I've located these episodes but have not fully processed prizes from them yet. Patience while I work through the list, please.
 
 | Week | Ep | Ep | Ep | Ep | Ep |
 | --- | --- | --- | --- | --- | --- |
-| S1-W26 | | | S1-E128
-| S1-W38 | S1-E186
 | S2-W48 | | | | S2-E239 | S2-E240
 | S2-W55 | S2-E271 | | S2-E273
 | S2-W80 | | | | S3-E399
@@ -49,9 +51,6 @@ I've located these episodes but have not fully processed prizes from them yet. P
 # New Data Elements Not Complete
 
 - Wheel Position
-- Left Wedge
-- Over Wedge
-- Right Wedge
 - Disposition
 
 These will be filled in as time permits.
@@ -82,7 +81,7 @@ If I have some infor for the epoisode, but I am missing prize bed music or wedge
 
 I'm listing episodes for which I know or suspect I'm missing a prize wedge variant exemplar first, as those are higher priority to set eyes on.
 
-### Known Missing Wedge Exemplars
+### Known Missing Wedge Exemplar
 
 I do not have wedge exemplars for wedge variants from the following episodes:
 
@@ -96,7 +95,7 @@ S11-E2030 David & Elbertha/Chuck & Bridget/Kitty & Mariann 12/24/1993 (For RACE-
 
 S11-E2121 Michelle/Jennifer/Andrea 5/16/1994 (For DARWIN-S11 Wedge)
 
-### Potential Missing Wedge Exemplars
+### Potential Missing Wedge Exemplar
 
 I might be missing wedge exemplars for wedge variants from the following episodes:
 
