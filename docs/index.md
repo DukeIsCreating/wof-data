@@ -1,4 +1,3 @@
-<link href="style.css" rel="stylesheet"></link>
 
 # Duke's Wheel of Fortune Information Database
 
