@@ -67,13 +67,14 @@ th {
 	font-stretch: condensed;
 	text-shadow: 0px 0px 3px var(--shadow-color-head), 0px 0px 5px var(--shadow-color-head), 0px 0px 8px var(--shadow-color-head), 0px 0px 3px var(--shadow-color-head), 0px 0px 5px var(--shadow-color-head), 0px 0px 8px var(--shadow-color-head);
 	background-color: #D8D820a0;
+	padding: 6px 8px;
 }
 
 td {
 	font-weight: 500;
 	text-shadow: 0px 0px 3px var(--shadow-color), 0px 0px 5px var(--shadow-color), 0px 0px 8px var(--shadow-color);
 	background-color: #f0f0c8a0;
-	padding: 2px 4px;
+	padding: 6px 8px;
 }
 
 p {
