@@ -7,7 +7,9 @@ function disableGithubStyles() {
         var sheet = document.styleSheets[i];
         if (sheet.href.includes("/assets/css/style.css?")) {
             sheet.disabled = true;
-            sheet.parentNode.removeChild(sheet);
+            if (sheet.parentNode !== null) {
+                sheet.parentNode.removeChild(sheet);
+            }
         }
     }
 }
