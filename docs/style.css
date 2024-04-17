@@ -71,6 +71,12 @@ td {
 	padding: 2px 4px;
 }
 
+p {
+  text-align: center;
+  margin: auto;
+  width: 75%;
+}
+
 .nobreak {
 	white-space: nowrap;
 }
