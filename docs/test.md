@@ -1,3 +1,5 @@
+<link href="style.css" rel="stylesheet"></link>
+
 # Duke's Wheel of Fortune Information Database
 
 As a fan of the game, I have been compiling gameplay-related information about the game, mainly for personal use at home. However, I'm more than willing to share the fruits of my research here.
