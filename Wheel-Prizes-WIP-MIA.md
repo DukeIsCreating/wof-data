@@ -6,7 +6,7 @@ This document attempts to inform whether and when either case is true.
 
 ## Syndicated Season 12
 
-This entire season is now WIP. I appear to have access to all 195 episodes in both recap and video form so it will take some time. Updates with season 12 episodes will start appearing, but data will be incomplete.
+This entire season is now WIP. Recap pass is complete. Video source pass starting.
 
 ## Syndicated Seasons 1-10
 
@@ -34,8 +34,6 @@ I've located these episodes but have not fully processed prizes from them yet. P
 | S4-W154 | | S4-E767
 | S4-W155 | | S4-E772 | | S4-E774
 | S4-W156 | | | S4-E778 | | S4-E780
-| S5-W157 | S5-E781 | S5-E782
-| S5-W159 | | S5-E792 | S5-E793 | | S5-E795
 | S8-W274 | S8-E1366
 | S8-W275 | | | | S8-E1369 | S8-E1370
 | S8-W279 | | | | S8-E1394 | S8-E1395
@@ -65,9 +63,9 @@ I hope to eventually include info about Surprise Wedge prizes for episodes in wh
 
 I have not started anything from any era of daytime yet.
 
-## Syndicated Seasons 12+
+## Syndicated Seasons 13+
 
-I have not touched anything above season 11 yet.
+I have not touched anything from season 13 or above yet.
 
 # Missing In Action
 

@@ -97,9 +97,19 @@ p {
   line-height: 140%;
 }
 
-.Contestants {
+td.Contestants {
   background-color: #5B4400;
   border-collapse: separate;
+}
+
+tr.Contestants {
+  background-color: #5B4400;
+  border-collapse: separate;
+}
+
+table.Contestants {
+  border-collapse: separate;
+  border-width : 0px;
 }
 
 .Player {
@@ -111,6 +121,8 @@ p {
   color: white;
   border-width: 5px;
   border-collapse: separate;
+  padding: 3px 4px;
+  white-space: nowrap;
 }
 
 .Player1 {

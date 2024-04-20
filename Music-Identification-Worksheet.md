@@ -67,6 +67,7 @@ This music was used to introduce prizes to the wheel.
 | Mournful | ⚠️[Unknown] | ⚠️[Unknown] | S2-E202-R2 (Joan/Scott/Sharon)
 | Struttin | Merv Griffin | Struttin' On Sunset | S2-E260-R2 (Barry/Jovan/Renee)
 | LetsGoDancin | Victor Feldman | Let's Go Dancin' | S2-E266-R2 (Joni/Carol/Ed)
+| RagtimeHigh | ⚠️[Unknown] | ⚠️[Unknown] | S5-E795-R2 (David/Sandy)
 | Elevator | ⚠️[Unknown] | ⚠️[Unknown] | S5-E801-R4 (Rhonda/Patt/Jay)
 | Buzzword | Merv Griffin | Buzzword | S5-839-R2 (Norm/Marci/Dean) | Better example S6-E990-R4 (David/Jennifer/Ellen)
 | CatWalk | ⚠️[Unknown] | ⚠️[Unknown] | S5-E874-R2 (Rick/Julie/Gretchen)
