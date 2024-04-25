@@ -12,7 +12,7 @@
 | 1 | 6 | Bob/Pearl/Carmen | 9/27/1983 | 2 | FUR | FUR-S1-B | EerieElegance | $2,000 | You can wrap up in this sensational natural pink glow mink jacket. A fun look for day and an elegant look for night. Furnished by Dicker & Dicker of Beverly Hills. $2,000! |  |
 | 1 | 7 | Ed/Dawn/Ellen | 9/28/1983 | 2 | SCOOTER | SCOOTER-S1 | ShortHorns | $1,500 | It's the Bajaj Motor Scooter. Up to 100 miles per gallon, up to 60 miles per hour. Travel inexpensive, low maintenance miles at a fraction of the cost of a car. Furnished by Bajaj America. Retail value $1,500! |  |
 | 1 | 8 | Barbara/Harlene/Kevin | 9/29/1983 | 2 | SILVER | SILVER-S1 | EerieElegance | $2,040 | You'll receive this elegant Sterling Silver service for eight in the "English King" pattern, made first by Tiffany in 1885 after a rich Georgian design. Each place setting includes dinner fork and knife, dessert spoon, butter spreader and tea spoon. Furnished by Tiffany & Co. Retail value $2,040! |  |
-| 1 | 9 | Cyn/Susan/Steve | 9/30/1983 | 2 | TRIP | TRIP-S1-A | Frisco | $1,236 | a trip to Mexico and stay at Buganvillas Sheraton worth $1,236! |  |
+| 1 | 9 | Cyn/Susan/Steve | 9/30/1983 | 2 | TRIP | TRIP-S1-A | Frisco | $1,236 | It's a trip to Mexico! We'll fly you and a guest from Los Angeles to Puerto Vallarta, where you'll stay at the Buganvilias-Sheraton, the newest sun spot in Puerto Vallarta. This magnificent hotel is located right on the beach, offering a luxurious pool, tennis, water sports, fine dining and dancing. A honeymoon hideaway, a dream come true, furnished by the Buganvilias-Sheraton. And you'll fly to exotic Puerto Vallarta, Mexico via Western Airlines famous Fiesta Flight. Western flies to the six major coastal resorts and exciting cities of Mexico. Western Airlines: we've got a name to live up to! Total retail value $1,236! |  |
 | 1 | 11 | Laura/Lisa/Glenn | 10/4/1983 | 2 | PIN | PIN-S1 | Tony | $4,000 | a Van Cleef & Arpels gift certificate featuring hummingbird pin with gold, diamond, and ruby worth $4,000! |  |
 | 1 | 12 | Rick/Joan/Cecelia | 10/5/1983 | 2 | WATCH | WATCH-S1 | Tony | $1,550 | a Cartier Santos watch worth $1,550! |  |
 | 1 | 13 | Dan/Gloria/Ola | 10/6/1983 | 2 | FUR | FUR-S1-B | Tony | $3,000 | a Dicker and Dicker mink shawl worth $3,000! |  |
@@ -26,12 +26,14 @@
 | 1 | 21 | Susan/Charles/Rhea | 10/17/1983 | 2 | TRIP | TRIP-S1-B | Frisco | $2,515 | a trip to Miami and stay at Deauville Hotel and Tennis Club worth $2,515! |  |
 | 1 | 23 | Pattie/Dave/Anne | 10/19/1983 | 2 | RING | RING-S1 | Tony | $1,029 | a House of Commons 1.4-karat gold lady's dinner ring with sapphire and diamond worth $1,029! |  |
 | 1 | 24 | Jackie/Jeff/Pat | 10/20/1983 | 2 | TV | TV-S1 | EerieElegance | $1,189 | a table model 25-inch portable color TV with side speakers and infrared remote worth $1,189! |  |
+| 1 | 25 | Harriette/Christine/Susie | 10/21/1983 | 2 | BIKE | BIKE-S1 | EerieElegance | $1,799 | a Kawasaki GPZ350 motorcycle worth $1,799! |  |
 | 1 | 36 | Claudia/Lynn/Richard | 11/7/1983 | 2 | FUR | FUR-S1-B | Tony | $2,800 | a Dicker & Dicker gold frost mink jacket worth $2,800! |  |
 | 1 | 37 | Jenea/Kevin/Lucy | 11/8/1983 | 2 | JADE | JADE-S1-A | Tony | $1,500 | a Chinese jade perfume bottle worth $1,500! |  |
 | 1 | 38 | Kevin/La Verne/Cheryl | 11/9/1983 | 2 | TV | TV-S1 | Frisco | $890 | a Panasonic Omni component video system with 19-inch TV, two-way speakers, and rack worth $890! |  |
 | 1 | 39 | Jim/Marian/Lori | 11/10/1983 | 2 | FUR | FUR-S1-A | HornsCall | $4,000 | a Dicker and Dicker mink jacket worth $4000! |  |
 | 1 | 41 | Ginger/Joy/Andy | 11/15/1983 | 2 | RING | RING-S1 | EerieElegance | $2,810 | a bow ring with diamonds in 18-karat gold! It's a Tiffany & Co. gift certificate worth $2,810! |  |
 | 1 | 42 | Theresa/Patti/Scott | 11/14/1983 | 2 | SCOOTER | SCOOTER-S1 | ShortHorns | $1,500 | a Bajaj America motor scooter worth $1,500! |  |
+| 1 | 43 | Debbie/Luella/Doug | 11/16/1983 | 2 | BIKE | BIKE-S1 | DiscoSax | $1,990 | a Kawasaki GPZ305 motorcycle worth $1,990! |  |
 | 1 | 47 | Debra/Ginny/Bob | 11/22/1983 | 2 | FUR | FUR-S1-B | EerieElegance | $1,500 | a Dicker & Dicker man's mink and leather jacket worth $1,500! |  |
 | 1 | 71 | Lloyd/Linda/Debbie | 1/2/1984 | 2 | JADE | JADE-S1-A | Child | $2,250 | a Chinese Jade incense burner worth $2,250! |  |
 | 1 | 72 | Paul/Marilyn/Linda | 1/3/1984 | 2 | CRYSTAL | CRYSTAL-S1 | Child | $1,200 | It's a set of Tiffany & Co. hand-cut crystal stemware for 8 worth $1,200! |  |
@@ -98,19 +100,21 @@
 | 2 | 236 | Michael/Sandy/Karen | 11/5/1984 | 2 | RING | RING-S1 | Tony | $8,900 | a Van Cleef and Arpels furnished man's 18-karat gold ring worth $8,900! |  |
 | 2 | 237 | Verna Dean/Steve/Sharon | 11/9/1984 | 2 | JEWEL | JEWEL-S2-A | Mournful | $2,995 | an 18K gold bow necklace, with pink sapphires and diamonds, and it's worth $2,995! |  |
 | 2 | 238 | Janice/Faye/Marvin | 11/13/1984 | 2 | BIKE | BIKE-S1 | Frisco | $2,855 | a Kawasaki GPZ 550 motorcycle worth $2,855! |  |
-| 2 | 239 | Paul/Cheri/Kathy | 11/6/1984 | 2 | BIKE |  |  | $1,990 | a Kawasaki GPZ305 motorcycle worth $1,990! |  |
-| 2 | 240 | Sharon/Cathy/Rich | 11/8/1984 | 2 | CHINA |  |  | $1,120 | a Ceralene Raynaud fine French iris-patterned china service for 8 worth $1,120! |  |
+| 2 | 239 | Lance/Virginia/Brenda | 11/7/1984 | 2 | PIN | PIN-S2 | Mournful | $5,950 | This dazzling diamond star pin may be yours with your Tiffany gift certificate. It has 43 diamonds totaling over 2 carats. $5,950! |  |
+| 2 | 240 | Sharon/Blake/Barbara | 11/8/1984 | 2 | MINI CAR | MINI-CAR-S2-A | Struttin | $6,375 | This Mini-T is a versitile 12 miles per hour electric car! Designed to convert from golf cart to roadster or stake bed truck within minutes. From the Mini-T Corporation. Retail value $6,375! |  |
+| 2 | 241 | Paul/Cheri/Kathy | 11/12/1984 | 2 | BIKE | BIKE-S1 | ShortHorns | $1,990 | a Kawasaki GPZ305 motorcycle worth $1,990! |  |
+| 2 | 242 | Sharon/Cathy/Rich | 11/14/1984 | 2 | CHINA | CHINA-S1 | Tony | $1,120 | a Ceralene Raynaud fine French iris-patterned china service for 8 worth $1,120! |  |
 | 2 | 245 | Marge/Bill/Patricia | 11/16/1984 | 2 | TRIP | TRIP-S1-A | Samba | $3,304 | a trip to St. Thomas in the Virgin Islands worth $3304! |  |
 | 2 | 247 | Scott/Bus/Susie | 11/20/1984 | 2 | SILVER | SILVER-S1 | Mournful | $975 | a Tiffany & Co. gift certificate featuring "Muffineer" Stirling silver sugar shaker worth $975! |  |
 | 2 | 248 | James/Gale/Sharon | 11/21/1984 | 2 | FUR | FUR-S1-B | Frisco | $2,000 | a man's mink jacket from Dicker and Dicker of Beverly Hills with a retail value of $2,000! |  |
 | 2 | 249 | Nancy/Al/Nicki | 11/22/1984 | 2 | RING | RING-S2 | Tony | $2,600 | a Van Cleef and Arpels furnished 3-karat sapphire and gold ring worth $2,600! |  |
 | 2 | 250 | Elizabeth/Casey/Stacey | 11/23/1984 | 2 | RING | RING-S2 | Tony | $3,415 | a Tiffany furnished 4.92-karat opal ring worth $3,415! |  |
 | 2 | 251 | Sharon/Dee Dee/Brent | 11/26/1984 | 2 | FUR | FUR-S1-B | Tony | $2,600 | a Mongolian leather wrap coat worth $2,600! |  |
-| 2 | 252 | Laura/Bob/Rochelle | 11/27/1984 | 2 | MINI CAR | MINI-CAR-S2 | Frisco | $6,375 | a Mini-T electric car worth $6,375! |  |
+| 2 | 252 | Laura/Bob/Rochelle | 11/27/1984 | 2 | MINI CAR | MINI-CAR-S2-B | Frisco | $6,375 | a Mini-T electric car worth $6,375! |  |
 | 2 | 253 | Jean/Anita/Julia | 11/28/1984 | 2 | WATCH | WATCH-S1 | Frisco | $2,100 | a Gucci gift certificate featuring 18-karat gold pocket watch with bit design worth $2,100! |  |
 | 2 | 254 | Caren/Jodi/Marcia | 11/29/1984 | 2 | PIN | PIN-S2 | Tony | $2,500 | a Tiffany & Co. gift certificate featuring Paloma Picasso zircon and carved crystal flower pin worth $2,500! |  |
 | 2 | 255 | Jeanette/Tim/Colleen | 11/30/1984 | 2 | WATCHES | WATCHES-S1 | Frisco | $3,280 | You'll receive these his and her ultra contemporary European watches. Anodized steel and yellow gold with quartz movements. The look of tomorrow. Furnished by Van Cleef and Arpels. Worth $3280! |  |
-| 2 | 256 | Ken/Kathy/Bruce | 12/3/1984 | 2 | SILVER |  |  | $1,975 | a Tiffany furnished sterling silver box worth $1,975! |  |
+| 2 | 256 | Ken/Kathy/Bruce | 12/3/1984 | 2 | SILVER | SILVER-S1 | Tony | $1,975 | a Tiffany furnished sterling silver box worth $1,975! |  |
 | 2 | 257 | Susan/Helen/Bill | 12/4/1984 | 2 | CHINA | CHINA-S1 | Tony | $1,400 | a set of Raynaud Ceralene fine and patterned dinnerware worth $1,400! |  |
 | 2 | 258 | Evelyn/Liz/Don | 12/5/1984 | 2 | JADE | JADE-S1-A | Tony | $2,250 | a Chinese jade incense burner worth $2,250! |  |
 | 2 | 260 | Barry/Jovan/Renee | 12/7/1984 | 2 | BIKE | BIKE-S1 | Struttin | $1,990 | the GPZ305 motorcycle by Kawasaki, valued at $1,990! |  |
@@ -119,10 +123,12 @@
 | 2 | 268 | Joe/Terry/Cheryl | 12/19/1984 | 2 | SILVER | SILVER-S1 | Mournful | $2,000 | a Tiffany & Co. gift certificate featuring French patterned Stirling silver hinged box worth $2,000! |  |
 | 2 | 269 | Reiko/Ralph/Conrad | 12/20/1984 | 2 | RING | RING-S2 | Tony | $4,250 | a Sunshine Jewelers gold diamond and ruby ring worth $4,250! |  |
 | 2 | 270 | Judy/Christi/Ken | 12/21/1984 | 2 | RING | RING-S1 | Tony | $4,250 | a Sunshine Jewelers gold, diamond, and ruby ring worth $4,250! |  |
+| 2 | 271 | Bob/Norma/Sheron | 12/18/1984 | 2 | CHINA | CHINA-S1 | Tony | $1,320 | Exquisite dinnerware for eight with waterflowers pattern. Limoges china from Ceralene Reynard. $1,320! |  |
 | 2 | 272 | Kathe/Esther/Dennis | 12/25/1984 | 2 | CHINA | CHINA-S1 | Tony | $1,400 | a set of Raynaud Crinoline China worth $1,400! |  |
+| 2 | 273 | Jim/Julie/Molie | 12/26/1984 | 2 | PIN | PIN-S2 | Tony | $2,475 | With your Tiffany gift certificate, you might select this delightful brushed gold unicorn pin. With a diamond collar, and diamond toe, and ruby eyes, it's $2,475! |  |
 | 2 | 274 | John/Larry/Peggy | 12/24/1984 | 2 | RING | RING-S2 | Tony | $1,575 | You'll receive a Tiffany gift certificate in which you might choose this man's 18-carat gold ring with very large round black onyx centre. It's worth $1,575! |  |
 | 2 | 275 | Laverne/Michael/Suzanne | 12/28/1984 | 2 | BIKE | BIKE-S1 | ShortHorns | $5,524 | a Harley-Davidson American-made Sportster street bike worth $5,524! |  |
-| 2 | 276 | Judy/Jim/Kathy | 1/8/1985 | 2 | JADE |  |  | $1,500 | a translucent jade perfume bottle carved with roses and leaves worth $1,500! |  |
+| 2 | 276 | Judy/Jim/Kathy | 1/8/1985 | 2 | JADE | JADE-S2 | Tony | $1,500 | a translucent jade perfume bottle carved with roses and leaves worth $1,500! |  |
 | 2 | 277 | Iola/Teri/Jim | 1/7/1985 | 2 | PIN | PIN-S2 | Tony | $2,475 | a Tiffany & Co. gift certificate featuring brushed gold unicorn pin with diamond and ruby worth $2,475! |  |
 | 2 | 278 | Dave/Melanie/Vicky | 1/9/1985 | 2 | CHINA | CHINA-S1 | Mournful | $1,600 | a Raynaud Ceralene china service for 8 with far-east influenced decorations worth $1,600! |  |
 | 2 | 279 | Rita/Lynn/Jonas | 1/18/1985 | 2 | RING | RING-S2 | Tony | $2,400 | a Gucci furnished 18-karat gold emerald ring worth $2,400! |  |
@@ -130,7 +136,7 @@
 | 2 | 281 | Richard/Evvy/David | 1/14/1985 | 2 | STEREO | STEREO-S1 | LetsGoDancin | $1,550 | a state-of-the-art stereo/music system worth $1,550! |  |
 | 2 | 283 | Regina/Jim/Gary | 1/11/1985 | 2 | CRUISE | CRUISE-S2 | Samba | $2,706 | a Windjammer Barefoot Cruises 6-day Bahamas cruise worth $2,706! |  |
 | 2 | 284 | Cynthia/John/Susie | 1/17/1985 | 2 | JADE | JADE-S1-A | Tony | $2,250 | a Chinese jade elephant incense burner worth $2,250! |  |
-| 2 | 285 | Karen/Kimberly/Mike | 1/16/1985 | 2 | CRUISE |  |  | $7,850 | a Epirotiki Cruises Mediterranean cruise worth $7,850! |  |
+| 2 | 285 | Karen/Kimberly/Mike | 1/16/1985 | 2 | CRUISE | CRUISE-S2 | Samba | $7,850 | a Epirotiki Cruises Mediterranean cruise worth $7,850! |  |
 | 2 | 286 | Kathy/Richard/Dawn | 1/21/1985 | 2 | RING | RING-S2 | Frisco | $2,600 | a Cartier gift certificate featuring man's cabochon sapphire dome ring with diamonds in gold worth $2,600! |  |
 | 2 | 287 | Steve/Kelli/Jim | 1/22/1985 | 2 | JEWELRY | JEWELRY-S2 | Mournful | $1,833 | a pair of Sunshine Jewelers 14-karat gold, diamond, and ruby earrings worth $1,833! |  |
 | 2 | 288 | Andrea/Doug/Sandy | 1/23/1985 | 2 | FRIDGE | FRIDGE-S2 | Struttin | $1,299 | an Admiral refrigerator "a la mode" worth $1,299 |  |
@@ -143,23 +149,23 @@
 | 2 | 297 | Peg/Renee/Doc | 2/1/1985 | 2 | GRAPHIC | GRAPHIC-S2-B | Frisco | $1,600 | a Martin Lawrence Galleries limited edition Aquarium serigraph by Hiro Yamagata worth $1,600! |  |
 | 2 | 298 | Melanie/Helene/Art | 1/28/1985 | 2 | RING | RING-S2 | Tony | $2,301 | a Sunshine Jewelers wing-shaped gold, diamond, and ruby ring worth $2,301! |  |
 | 2 | 299 | Ken/Irene/Gina | 2/7/1985 | 2 | TRIP | TRIP-S1-A | Tony | $1,101 | a ski weekend at Squaw Valley USA and stay at Olympic Village Inn worth $1,101! |  |
-| 2 | 300 | Steve/Christina/Debra | 1/31/1985 | 2 | BIKE |  |  | $5,524 | a Harley-Davidon Sportster street bike worth $5,524! |  |
+| 2 | 300 | Steve/Christina/Debra | 1/31/1985 | 2 | BIKE | BIKE-S1 | ShortHorns | $5,524 | a Harley-Davidon Sportster street bike worth $5,524! |  |
 | 2 | 301 | Judy/Tim/Iris | 2/15/1985 | 2 | JADE | JADE-S1-A | Tony | $1,500 | a Jade rose & leaf shaped perfume bottle worth $1,500! |  |
 | 2 | 302 | Kathy/Marty/Molly | 2/12/1985 | 2 | CLOCK | CLOCK-S2 | Tony | $825 | a Van Cleef & Arpels brass carriage clock worth $825! |  |
 | 2 | 303 | Dennis/Sheila/Debbie | 2/13/1985 | 2 | RING | RING-S2 | Tony | $4,250 | a Sunshine Jewelers gold, diamond, and ruby ring worth $4,250! |  |
 | 2 | 304 | Joyce/Nancy/Mark | 2/8/1985 | 2 | JADE | JADE-S1-A | Tony | $2,250 | a handcarved jade incense burner worth $2,250! |  |
-| 2 | 307 | Pat/Mike/Tammie | 3/8/1985 | 2 | PIN |  |  | $1,800 | a Gucci gift certificate featuring stainless steel and 18-karat gold pin worth $1,800! |  |
+| 2 | 307 | Pat/Mike/Tammie | 3/8/1985 | 2 | PIN | PIN-S2 | Tony | $1,800 | a Gucci gift certificate featuring stainless steel and 18-karat gold pin worth $1,800! |  |
 | 2 | 309 | Bob/Kati/Mike | 2/21/1985 | 2 | WATCH | WATCH-S1 | Tony | $7,990 | a Van Cleef & Arpels Concord man's gold and diamond dress watch worth $7,990! |  |
 | 2 | 310 | Mary/Dan/Marianne | 2/22/1985 | 2 | FUR | FUR-S1-B | Tony | $4,000 | A snowtop mink jacket from Dicker & Dicker of Beverly Hills. Worth $4,000! |  |
 | 2 | 311 | Bob/Kathy/Mike | 2/25/1985 | 2 | FUR | FUR-S1-B | Mournful | $6,000 | a Dicker & Dicker chinchilla jacket worth $6,000! |  |
-| 2 | 312 | Mischelle/Dee/Harry | 2/26/1985 | 2 | FUR |  |  | $4,000 | a Dicker & Dicker gold frost mink jacket worth $4,000! |  |
+| 2 | 312 | Mischelle/Dee/Harry | 2/26/1985 | 2 | FUR | FUR-S1-B | Mournful | $4,000 | a Dicker & Dicker gold frost mink jacket worth $4,000! |  |
 | 2 | 313 | Kathy Jo/Tom/Beth | 2/27/1985 | 2 | CYCLE | CYCLE-S2 | ShortHorns | $1,201 | Kawasaki's KLT-110, it's designed for three-wheeling off-road fun, 5 speeds, and automatic clutch delivers a smooth ride with lots of power for the hills. $1,201! |  |
 | 2 | 314 | Maynard/Mary/Charlotte | 2/28/1985 | 2 | TRIP | TRIP-S1-A | Samba | $5,456 | a trip to Paris and 1-week stay at PLM Hotel Saint Jacques worth $5,456! |  |
-| 2 | 316 | Terry/Rob/Pam | 3/4/1985 | 2 | VASES |  |  | $1,100 | a pair of Chinese vases, valued at $1,100! |  |
+| 2 | 316 | Terry/Rob/Pam | 3/4/1985 | 2 | VASES | VASES-S1 | Mournful | $1,100 | a pair of Chinese vases, valued at $1,100! |  |
 | 2 | 317 | Howard/Bridgette/Derry | 3/5/1985 | 2 | CRYSTAL | CRYSTAL-S1 | Tony | $1,320 | Designed for Tiffany and Co. in this beautiful swag pattern, this set of English cut crystal includes service for 8, including champagne, wine, and water glasses. It's worth $1,320! |  |
 | 2 | 318 | Ann/Derek/Jerry | 3/6/1985 | 2 | FUR | FUR-S1-B | Tony | $4,000 | a Dicker and Dicker gold frost mink jacket worth $4,000! |  |
 | 2 | 319 | Mary/Dick/Chris | 3/7/1985 | 2 | TRIP | TRIP-S1-A | Samba | $1,230 | a Trip to New Orleans worth $1,230! |  |
-| 2 | 320 | Hal/Chris/Rita | 2/14/1985 | 2 | FUR |  |  | $4,000 | a Dicker and Dicker white mink jacket worth $4,000! |  |
+| 2 | 320 | Hal/Chris/Rita | 2/14/1985 | 2 | FUR | FUR-S1-B | Tony | $4,000 | a Dicker and Dicker white mink jacket worth $4,000! |  |
 | 2 | 322 | John/Doreen/Janis | 3/12/1985 | 2 | RING | RING-S2 | Tony | $4,250 | a Sunshine Jewelers gold, diamond, and ruby ring worth $4,250! |  |
 | 2 | 323 | Marge/Eddie/Susie | 3/13/1985 | 2 | WATCH | WATCH-S1 | Tony | $8,950 | a Van Cleef & Arpels lady's 18-karat gold and diamond dress watch worth $8,950! |  |
 | 2 | 327 | Amelia/Judi/Patrick | 3/19/1985 | 2 | SILVER | SILVER-S1 | Tony | $1,100 | a Tiffany & Co. Paul Revere Stirling Silver bowl worth $1,100! |  |
@@ -168,7 +174,7 @@
 | 2 | 333 | Carol/Susan/Beverly | 3/27/1985 | 2 | CHINA | CHINA-S1 | Tony | $1,320 | Service for eight in Ceraline's Bangkok pattern. Graceful stylized peyonies in vivid coppertones mixed with golds. Fine Limoges China from Reynaud Ceraline. $1,320! |  |
 | 2 | 334 | Clayton/Carolyn/Laurie | 3/28/1985 | 2 | TV | TV-S1 | Frisco | $1,329 | a 25-inch color TV and antique pine colonial cabinet worth $1,329! |  |
 | 2 | 336 | Susan/Beth/Ted | 4/3/1985 | 2 | HORSE | HORSE-S2 | Mournful | $950 | an alabaster horse finished in gold and silver leaf. Its worth $950! |  |
-| 2 | 337 | Corilee/Bernard/Jim | 4/1/1985 | 2 | WATCH |  |  | $8,950 | a Van Cleef & Arpels lady's 18-karat gold and diamond dress watch worth $8,950! |  |
+| 2 | 337 | Corilee/Bernard/Jim | 4/1/1985 | 2 | WATCH | WATCH-S1 | LetsGoDancin | $8,950 | a Van Cleef & Arpels lady's 18-karat gold and diamond dress watch worth $8,950! |  |
 | 2 | 338 | Judy/Mark/Shelia | 4/2/1985 | 2 | CLOCK | CLOCK-S2 | Tony | $558 | a battery-operated clock worth $558! |  |
 | 2 | 339 | Ted/Greg/Karen | 4/4/1985 | 2 | BOWL | BOWL-S2 | DeepCalm | $1,150 | a hand-carved Chinese serpentine bowl worth $1,150! |  |
 | 2 | 342 | Carolyn/Scott/Mawnna | 4/9/1985 | 2 | VASES | VASES-S1 | Tony | $3,750 | a pair of Chinese Cloisonne vases worth $3,750! |  |
@@ -195,7 +201,7 @@
 
 | S# | Ep# | Contestants | Air Date | Round | Wedge Text | Wedge Variant | Music Cue | Value | Description | Notes |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 3 | 391 | Vicky/Scott/Kim | 9/9/1985 | 2 | FUR | FUR-S1-B | Frisco | $4,000 | an Opal Mink Jacket, by Dicker and Dicker of Beverly Hills! It's worth $4,000! |  |
+| 3 | 391 | Vicki/Scott/Kim | 9/9/1985 | 2 | FUR | FUR-S1-B | Frisco | $4,000 | an Opal Mink Jacket, by Dicker and Dicker of Beverly Hills! It's worth $4,000! |  |
 | 3 | 399 | Dianne/Donna/Chris | 10/7/1985 | 2 | SILVER |  |  | $3,200 | an evening sterling silver bag might be purchased with a $3,200 Cartier gift certificate! |  |
 | 3 | 404 | Marsha/Cheryl/Bob | 9/26/1985 | 2 | SILVER | SILVER-S1 | Tony | $4,725 | a Tiffany gift certificate featuring oversized Sterling Silver "tanker" worth $4,725! |  |
 | 3 | 417 | Ednita/Mario/Kathy | 10/10/1985 | 2 | WATCH | WATCH-S1 | Tony | $2,275 | a Jules Jurgensen watch worth $2,275! |  |
@@ -205,20 +211,20 @@
 | 3 | 450 | Niki/Tony/Terry | 12/5/1985 | 2 | TV | TV-S1 | LetsGoDancin | $1,200 | a television set worth $1,200! |  |
 | 3 | 460 | Mary/Mike/Patty | 12/20/1985 | 2 | CAR |  |  | $15,205 | the Oldsmobile Cutlass Cruiser Wagon! With all the options offered, it's worth $15,205! |  |
 | 3 | 461 | Helen/Anna/Gene | 12/23/1985 | 2 | VIDEO | VIDEO-S3 | Frisco | $1,250 | a Panasonic home video cassette recorder worth $1,250! |  |
-| 3 | 481 | Virginia/Karin/Kent | 1/20/1986 | 2 | MINI CAR | MINI-CAR-S2 | Frisco | $6,375 | a Mini-T 12 MPH electric car worth $6,375! |  |
+| 3 | 481 | Virginia/Karin/Kent | 1/20/1986 | 2 | MINI CAR | MINI-CAR-S2-B | Frisco | $6,375 | a Mini-T 12 MPH electric car worth $6,375! |  |
 | 3 | 493 | Judith/Elizabeth/Blue | 2/18/1986 | 2 | FUR |  |  | $5,000 | a wonderful $5,000 mink and lamb jacket from Dicker and Dicker worth $5000! |  |
 | 3 | 494 | John/Molly/Linda | 2/11/1986 | 2 | CRUISE | CRUISE-S2 | Samba | $6,366 | a Sitmar Cruises 10-day Caribbean cruise worth $6,366! |  |
-| 3 | 495 | Janet/Nina/Rich | 2/5/1986 | 2 | SILVER | SILVER-S2 | Mournful | $2,800 | a sterling silver music box by Cartier, with a hand-enameled dragon design on the lid, valued at $2,800! |  |
+| 3 | 495 | Janet/Nina/Rich | 2/5/1986 | 2 | SILVER | SILVER-S3 | Mournful | $2,800 | a sterling silver music box by Cartier, with a hand-enameled dragon design on the lid, valued at $2,800! |  |
 | 3 | 498 | Barbara/Marc/Kathleen | 2/12/1986 | 2 | CLOCK | CLOCK-S2 | Tony | $6,800 | a Louis Cartier Paris Archive Designs nephrite and mother-of-pearl mantel clock with gold and black enamel trim worth $6,800! |  |
-| 3 | 499 | Becky/Eileen/Carron | 2/13/1986 | 2 | TRUCK | TRUCK-S3 | DiscoSax | $7,505 | Mazda's 1986 V2000 truck comes with carpeting, tinted glass, 5-spd overdrive, ventilated front disc breaks and more! Valued at $7,505! |  |
+| 3 | 499 | Becki/Eileen/Carron | 2/13/1986 | 2 | TRUCK | TRUCK-S3 | DiscoSax | $7,505 | Mazda's 1986 V2000 truck comes with carpeting, tinted glass, 5-spd overdrive, ventilated front disc breaks and more! Valued at $7,505! |  |
 | 3 | 501 | Pam/Dolores/Allan | 2/17/1986 | 2 | EARCLIPS | EARCLIPS-S3 | Tony | $8,300 | a Van Cleef & Arpels gift certificate featuring 18-karat gold and 3.44-karat diamond "leafspray" earclips worth $8,300! |  |
 | 3 | 510 | Bonnie/Bert/Carol | 2/28/1986 | 2 | BIKE | BIKE-S1 | ShortHorns | $5,324 | a Harley-Davidson Sportster worth $5,324! |  |
 | 3 | 517 | Dick/Diane/Betty | 3/14/1986 | 2 | WATCH | WATCH-S3 | Tony | $8,900 | an 18-karat gold Piaget watch worth a massive $8,900! |  |
 | 3 | 524 | Linda/Joan/Tom | 3/19/1986 | 2 | TRIP | TRIP-S3 | Samba | $2,848 | a trip for 2 to Grotto Bay Beach Hotel in Bermuda. It's worth $2,848! |  |
 | 3 | 537 | Brad/Cornelia/Pam | 4/15/1986 | 2 | BRACELET | BRACELET-S3 | Tony | $4,000 | an 18 carat golden bracelet, worth $4,000! |  |
 | 3 | 539 | Nick/Toots/Don | 4/17/1986 | 2 | ART | ART-S3 | Tony | $4,700 | a limited edition lithograph from Norman Rockwell! This "After the Prom" piece is worth $4,700! |  |
-| 3 | 544 | Susan/Mike/Bonnie | 4/24/1986 | 2 | SILVER | SILVER-S2 | MusicBox | $2,800 | a Cartier Stirling Silver dragon music box worth $2,800! |  |
-| 3 | 551 | Ken/John/Andra | 5/5/1986 | 2 | MINI CAR | MINI-CAR-S2 | LetsGoDancin | $1,995 | a James Mini Car valued at $1,995! |  |
+| 3 | 544 | Susan/Mike/Bonnie | 4/24/1986 | 2 | SILVER | SILVER-S3 | MusicBox | $2,800 | a Cartier Stirling Silver dragon music box worth $2,800! |  |
+| 3 | 551 | Ken/John/Andra | 5/5/1986 | 2 | MINI CAR | MINI-CAR-S2-B | LetsGoDancin | $1,995 | a James Mini Car valued at $1,995! |  |
 | 3 | 561 | Tom/Dina/Janie | 5/19/1986 | 2 | WATCH |  |  | $4,750 | a Lucien Piccard timepiece worth $4,750! |  |
 
 ## Season 4
@@ -232,7 +238,7 @@
 | 4 | 616 | Marsha/Ed/Kathleen | 10/20/1986 | 2 | FUR | FUR-S4 | Tony | $4,000 | A spiffy fur for high-fashion warmth- the elegance of mink. They're all combined in this striped two-toned fur jacket. This part of the Fall collection from Dicker and Dicker of Beverly Hills. Worth $4,000! |  |
 | 4 | 619 | Bob/Larry/Phyllis | 10/23/1986 | 2 | FUR | FUR-S4 | Mournful | $7,500 | a Dicker & Dicker full-length pure white mink coat worth $7,500! |  |
 | 4 | 629 | Erin/Anne/Bostic | 11/10/1986 | 2 | WATCHES | WATCHES-S1 | Mournful | $5,175 | a pair of Jules Jurgensen his-and-hers 14-karat gold watches worth $5,175! |  |
-| 4 | 631 | Lorraine/Patti/Mark | 11/6/1986 | 2 | SILVER | SILVER-S2 | Tony | $2,000 | a silver French sterling silver-hinged box with floral detailing and feet! From Tiffany, it's worth $2,000! |  |
+| 4 | 631 | Lorraine/Patti/Mark | 11/6/1986 | 2 | SILVER | SILVER-S3 | Tony | $2,000 | a silver French sterling silver-hinged box with floral detailing and feet! From Tiffany, it's worth $2,000! |  |
 | 4 | 632 | Lee/Becky/Peter | 11/17/1986 | 2 | PIN |  |  | $4,575 | a Schlumberger's diamond ram head pin with a ruby eye. From Tiffany &Co., it's a $4,575 18-karart gold pin! |  |
 | 4 | 637 | Kate/Marc/Caryn | 11/18/1986 | 2 | CAR | CAR-S1 | ShortHorns | $13,187 | a brand new Renault Alliance DL Convertible! Retail value of this car is $13,187! |  |
 | 4 | 651 | Jeff/Ruth/Debbie | 11/13/1986 | 2 | TV PHONE | TV-PHONE-S4 | LetsGoDancin | $2,900 | the Luma phone from Luma Telephone worth $2,900! |  |
@@ -281,7 +287,7 @@
 | 5 | 796 | John/Nancy/Peter | 10/5/1987 | 2 | BOAT | BOAT-S2 | Samba | $1,495 | a Snark high-performance sailboat worth $1,495! |  |
 | 5 | 796 | John/Nancy/Peter | 10/5/1987 | 4 | FUR | FUR-S4 | Tony | $4,500 | a gold frost mink coat worth $4,500! |  |
 | 5 | 801 | Rhonda/Patt/Jay | 10/12/1987 | 2 | FUR | FUR-S4 | Tony | $3,500 | an Edwards Lowell golden frost mink jacket worth $3,500! |  |
-| 5 | 801 | Rhonda/Patt/Jay | 10/12/1987 | 4 | SILVER | SILVER-S2 | Elevator | $4,906 | Lynne Deutch Sterling silver flatware worth $4,906! |  |
+| 5 | 801 | Rhonda/Patt/Jay | 10/12/1987 | 4 | SILVER | SILVER-S3 | Elevator | $4,906 | Lynne Deutch Sterling silver flatware worth $4,906! |  |
 | 5 | 809 | Mary Beth/Donna/Robin | 10/22/1987 | 2 | RING | RING-S1 | Frisco | $2,725 | a Krementz Jewelry 14-karat yellow gold ring with topaz and diamonds worth $2,725! |  |
 | 5 | 809 | Mary Beth/Donna/Robin | 10/22/1987 | 4 | TRIP | TRIP-S3 | Samba | $4,850 | a trip to Rio de Janeiro and 6-night stay at Hotel Inter-Continental Rio worth $4,850. |  |
 | 5 | 822 | Norm/Diane/Linda | 11/10/1987 | 2 | TRIP | TRIP-S5-A | LetsGoDancin | $5,678 | a trip to New York and stay at Roseland Ranch worth $5,678! |  |
@@ -500,8 +506,8 @@
 | 6 | 1053 | Monica/Sheila/Alec | 1/12/1989 | 4 | BANGLE | BANGLE-S5 | Child | $6,000 | an 18-karat textured gold Black Panther Pawprint bangle worth $6,000! |  |
 | 6 | 1054 | Jim/Debbie/Ken | 12/14/1988 | 2 | RING |  |  | $2,725 | a Krementz 14-karat yellow gold ring with 3 oval topaz center stones and 4 full-cut diamonds worth $2,725! |  |
 | 6 | 1054 | Jim/Debbie/Ken | 12/14/1988 | 4 | PIANO |  |  | $5,898 | a Kimball La Petite grand piano worth $5,898! |  |
-| 6 | 1055 | Pat/Laura/Otis | 12/15/1988 | 2 | FUR |  |  | $5,000 | a Dicker & Dicker white mink dinner jacket worth $5,000! |  |
-| 6 | 1055 | Pat/Laura/Otis | 12/15/1988 | 4 | JEWELS |  |  | $9,450 | a Krementz 18-karat gold and diamond necklace worth $9,450! |  |
+| 6 | 1055 | Pat/Laura/Otis | 12/15/1988 | 2 | FUR | FUR-S6-B | Elevator | $5,000 | a Dicker & Dicker white mink dinner jacket worth $5,000! |  |
+| 6 | 1055 | Pat/Laura/Otis | 12/15/1988 | 4 | JEWELS | JEWELS-S6 | Mournful | $9,450 | a Krementz 18-karat gold and diamond necklace worth $9,450! |  |
 | 6 | 1056 | Vivian/Susan/David | 12/16/1988 | 2 | KITCHEN | KITCHEN-S6 | Tangerines | $2,867 | a Gibson kitchen with refrigerator/freezer, portable dishwasher, and gas range worth $2,867! |  |
 | 6 | 1056 | Vivian/Susan/David | 12/16/1988 | 4 | ART | ART-S6-B | Elevator | $12,000 | a real and signed Picasso etching worth $12,000! |  |
 | 6 | 1057 | Marlene/Ron/John | 1/11/1989 | 2 | TRIP | TRIP-S5-B | Tony | $3,304 | a trip to Hawaii and 6-night stay at Maui Prince Hotel/Makena Resort worth $3,304! |  |
@@ -512,8 +518,8 @@
 | 6 | 1059 | Sandra/Jon/Anne | 12/12/1988 | 4 | ROOM | ROOM-S6 | Samba | $15,120 | a Waldo living room collection worth $15,120! |  |
 | 6 | 1060 | Ray/Debbie/Jo Deen | 1/9/1989 | 2 | ART | ART-S6-B | Tony | $3,750 | a pair of Chinese decorated Cloisonne vases worth $3,750! |  |
 | 6 | 1060 | Ray/Debbie/Jo Deen | 1/9/1989 | 4 | KITCHEN | KITCHEN-S6 | LetsGoDancin | $5,984 | A gift certificate for Craft Maid kitchen cabinetry worth $5,984! |  |
-| 6 | 1061 | Arnie/Judy/Valerie | 1/16/1989 | 2 | DIAMONDS |  |  | $5,000 | a pair of Lazare Kaplan diamonds worth $5,000! |  |
-| 6 | 1061 | Arnie/Judy/Valerie | 1/16/1989 | 4 | FURS |  |  | $10,200 | His/hers Edwards-Lowell ranch mink jackets worth $10,200! |  |
+| 6 | 1061 | Arnie/Judy/Valerie | 1/16/1989 | 2 | DIAMONDS | DIAMONDS-S6 | Tony | $5,000 | a pair of Lazare Kaplan diamonds worth $5,000! |  |
+| 6 | 1061 | Arnie/Judy/Valerie | 1/16/1989 | 4 | FURS | FURS-S6 | Elevator | $10,200 | His/hers Edwards-Lowell ranch mink jackets worth $10,200! |  |
 | 6 | 1062 | Fred/Ruth/Norma | 1/17/1989 | 2 | FUR | FUR-S6-B | Child | $5,000 | a Dicker & Dicker white mink swing coat with full double tuxedo collar worth $5,000! |  |
 | 6 | 1062 | Fred/Ruth/Norma | 1/17/1989 | 4 | TRIP | TRIP-S6-B | LetsGoDancin | $6,505 | a pair of Daniel Mink his-and-hers watches and a holiday at the Paris Left Bank Hotel-Pullman-Saint Jacques worth $6,505! |  |
 | 6 | 1063 | Sam/Sharon/Joanna | 1/19/1989 | 2 | ROOM |  |  | $3,254 | a Broyhill living room with sofa, loveseat, pillows, and oak tables, plus Sunset floor and table lamps worth $3,254! |  |
@@ -522,8 +528,8 @@
 | 6 | 1064 | Pam/Sarina/Lois | 2/1/1989 | 4 | BOND | BOND-S6 | Tangerines | $10,000 | a United States Savings Bond that matures to $10,000! |  |
 | 6 | 1065 | Lenore/Sissy/Randy | 2/2/1989 | 2 | CRUISE | CRUISE-S6-B | Samba | $3,600 | a Princess Cruises Mexican Riviera cruise worth $3,600! |  |
 | 6 | 1065 | Lenore/Sissy/Randy | 2/2/1989 | 4 | BAR | BAR-S6 | Tony | $9,424 | an Old English style bar from Customcraft worth $9,424! |  |
-| 6 | 1066 | Hal/Joy/Sherril | 1/23/1989 | 2 | WATCH |  |  | $3,590 | a Lucien Piccard lady's 40-diamond watch made of 14-karat gold and with quartz movement worth $3,590! |  |
-| 6 | 1066 | Hal/Joy/Sherril | 1/23/1989 | 4 | FUR |  |  | $8,950 | a pair of Edwards Lowell jackets, his a reversible with leather and fur, hers a natural tourmaline and pastel mink, totaling $8,950! |  |
+| 6 | 1066 | Hal/Joy/Sherril | 1/23/1989 | 2 | WATCH | WATCH-S6 | Tony | $3,590 | a Lucien Piccard lady's 40-diamond watch made of 14-karat gold and with quartz movement worth $3,590! |  |
+| 6 | 1066 | Hal/Joy/Sherril | 1/23/1989 | 4 | FUR | FUR-S6-B | Child | $8,950 | a pair of Edwards Lowell jackets, his a reversible with leather and fur, hers a natural tourmaline and pastel mink, totaling $8,950! |  |
 | 6 | 1067 | Ellen/James/Robert | 2/3/1989 | 2 | ROOM | ROOM-S6 | Frisco | $3,076 | an Easy Rest sofa bed with Borroni glass-top cocktail table worth $3,076! | No second prize this episode; round 4 was entirely a speed-up round. |
 | 6 | 1068 | Eileen/Irene/Ray | 1/24/1989 | 2 | TRIP |  |  | $4,362 | Ricardo luggage and a trip to Paradise Island Resort & Casino worth $4,362! |  |
 | 6 | 1068 | Eileen/Irene/Ray | 1/24/1989 | 4 | DINE |  |  | $7,119 | a Crawford of Jamestown oak dining room with silver flatware worth $7,119! |  |
@@ -630,32 +636,32 @@
 | 6 | 1119 | Vinnie/Ann/Elinor | 3/27/1989 | 4 | PIN | PIN-S6-A | Tony | $11,000 | a Van Cleef & Arpels gift certificate featuring a white gold and pav� diamond pin worth $11,000! |  |
 | 6 | 1120 | Kelli/Rochelle/Bob | 4/6/1989 | 2 | TRIP | TRIP-S5-B | Samba | $4,932 | a trip to Tampa and stay at Saddlebrook Resort, plus FoxBat Magic Plus wood golf clubs worth $4,932! |  |
 | 6 | 1120 | Kelli/Rochelle/Bob | 4/6/1989 | 4 | RING | RING-S6-B | Elevator | $8,950 | a Fred Joaillier gift certificate featuring a black natural pearl with diamond worth $8,950! |  |
-| 6 | 1121 | Jimmy/Abbie/Maddy | 3/13/1989 | 2 | ART |  |  | $4,950 | a LeRoy Neiman Bistro Garden serigraph worth $4,950! |  |
-| 6 | 1121 | Jimmy/Abbie/Maddy | 3/13/1989 | 4 | WATCH |  |  | $7,650 | a Fred Joaillier 18-karat gold Mickey Mouse watch worth $7,650! |  |
+| 6 | 1121 | Jimmy/Abbie/Maddy | 3/13/1989 | 2 | ART | ART-S6-C | Child | $4,950 | a LeRoy Neiman Bistro Garden serigraph worth $4,950! |  |
+| 6 | 1121 | Jimmy/Abbie/Maddy | 3/13/1989 | 4 | WATCH | WATCH-S6 | DeepCalm | $7,650 | a Fred Joaillier 18-karat gold Mickey Mouse watch worth $7,650! |  |
 | 6 | 1122 | Michelle/Bettye/Andy | 4/5/1989 | 2 | WATCH | WATCH-S6 | Mournful | $2,920 | a Jules Jurgensen 14-karat yellow gold cased lady's quartz watch with 28 diamonds worth $2,920! |  |
 | 6 | 1122 | Michelle/Bettye/Andy | 4/5/1989 | 4 | PIN | PIN-S6-A | Mournful | $11,500 | a Van Cleef & Arpels gift certificate featuring a diamond squirrel pin worth $11,500! |  |
 | 6 | 1123 | Warren/Donna/Andrea | 4/10/1989 | 2 | WATCH | WATCH-S6 | LetsGoDancin | $3,250 | a Fred Joaillier steel and gold Mickey Mouse watch worth $3,250! |  |
 | 6 | 1123 | Warren/Donna/Andrea | 4/10/1989 | 4 | ROOM | ROOM-S5-B | Child | $7,148 | a Swan Brass Beds "Sir Bentley" bed with nightstand totaling $7,148! |  |
 | 6 | 1124 | Gwen/John/Billie | 4/11/1989 | 2 | PIN | PIN-S6-A | Frisco | $5,900 | a Van Cleef & Arpels gift certificate featuring an 18-karat gold and diamond cat pin worth $5,900! |  |
 | 6 | 1124 | Gwen/John/Billie | 4/11/1989 | 4 | SPREE | SPREE-S6 | LetsGoDancin | $8,000 | a Fred Hayman Beverly Hills shopping spree worth $8,000! |  |
-| 6 | 1125 | Ted/Peggy/Mary | 4/12/1989 | 2 | PIN |  |  | $4,500 | a Fred Joaillier gift certificate featuring a French hot air balloon enamel and jeweled pin worth $4,500! |  |
-| 6 | 1125 | Ted/Peggy/Mary | 4/12/1989 | 4 | TRUCK |  |  | $11,379 | a Jeep Comanche Pioneer pickup worth $11,379! |  |
+| 6 | 1125 | Ted/Peggy/Mary | 4/12/1989 | 2 | PIN | PIN-S6-A | Tony | $4,500 | a Fred Joaillier gift certificate featuring a French hot air balloon enamel and jeweled pin worth $4,500! |  |
+| 6 | 1125 | Ted/Peggy/Mary | 4/12/1989 | 4 | TRUCK | TRUCK-S6-B | DiscoSax | $11,379 | a Jeep Comanche Pioneer pickup worth $11,379! |  |
 | 6 | 1126 | Sallie/Wendy/Cheyney | 4/13/1989 | 2 | PIANO | PIANO-S6-B | Tony | $3,672 | a Kimball piano worth $3,672! |  |
 | 6 | 1126 | Sallie/Wendy/Cheyney | 4/13/1989 | 4 | BOND | BOND-S6 | Frisco | $10,000 | a United States Savings Bond that matures to $10,000! |  |
 | 6 | 1127 | Fred/Fran/Betty | 4/18/1989 | 2 | STOVE | STOVE-S6 | LetsGoDancin | $2,895 | an Almira classic wood range worth $2,895! |  |
 | 6 | 1127 | Fred/Fran/Betty | 4/18/1989 | 4 | CRUISE | CRUISE-S6-B | Samba | $5,622 | a Caribbean cruise worth $5,622! |  |
 | 6 | 1128 | Elaine/Dedra/Kenneth | 4/27/1989 | 2 | WATCH | WATCH-S6 | Child | $3,490 | a Lucien Piccard 14-karat gold designer watch worth $3,490! |  |
 | 6 | 1128 | Elaine/Dedra/Kenneth | 4/27/1989 | 4 | PIANO | PIANO-S6-B | Elevator | $5,898 | a Kimball La Petite grand piano worth $5,898! |  |
-| 6 | 1129 | Steve/Sandy/Roland | 4/19/1989 | 2 | ROOM |  |  | $6,799 | a Berkline Alpine living room group with brass coffee table and �tag�re worth $6,799! |  |
-| 6 | 1129 | Steve/Sandy/Roland | 4/19/1989 | 4 | PIN |  |  | $9,700 | a Van Cleef & Arpels gift certificate featuring an 18-karat gold, black onyx, and diamond pin worth $9,700! |  |
+| 6 | 1129 | Steve/Sandy/Roland | 4/19/1989 | 2 | ROOM | ROOM-S5-B | Frisco | $6,799 | a Berkline Alpine living room group with brass coffee table and �tag�re worth $6,799! |  |
+| 6 | 1129 | Steve/Sandy/Roland | 4/19/1989 | 4 | PIN |  |  | $9,700 | a Van Cleef & Arpels gift certificate featuring an 18-karat gold, black onyx, and diamond pin worth $9,700! | PARTIAL episode source, prize plug missing |
 | 6 | 1131 | Sheryl/Tammy/David | 4/26/1989 | 2 | ROOM | ROOM-S5-B | Frisco | $3,221 | a living room package by Broyhill as well as Fredrick Ramond lamps, all worth $3,221! |  |
 | 6 | 1131 | Sheryl/Tammy/David | 4/26/1989 | 4 | RING | RING-S6-B | Child | $10,750 | a gift certificate from Fred Joaillier featuring a distinctive ruby and diamond band, retail value $10,750! |  |
 | 6 | 1132 | Jim/Jeannette/Tammi | 4/28/1989 | 2 | KITCHEN | KITCHEN-S6 | Tangerines | $3,235 | a Tappan double-oven range, refrigerator/freezer, dishwasher, and trash compactor worth $3,235! |  |
 | 6 | 1132 | Jim/Jeannette/Tammi | 4/28/1989 | 4 | RING | RING-S6-B | DeepCalm | $5,800 | a Fred Joaillier gift certificate featuring emerald and diamond ring worth $5,800! |  |
-| 6 | 1133 | LaTanya/Andy/Kim | 5/2/1989 | 2 | CRUISE |  |  | $5,040 | an Epirotiki Cruises 11-day cruise on the Pegasus to South America worth $5,040! |  |
-| 6 | 1133 | LaTanya/Andy/Kim | 5/2/1989 | 4 | RING |  |  | $10,000 | a Fred Joaillier gift certificate featuring a gold band with sparkling diamonds worth $10,000! |  |
-| 6 | 1134 | Ari/Bob/Gloria | 5/22/1989 | 2 | TRIP |  |  | $4,048 | a trip to the Caribbean with a stay at Mullet Bay Resort in St. Maarten, including a Holiday Car Rental tour, a prize worth $4,048! |  |
-| 6 | 1134 | Ari/Bob/Gloria | 5/22/1989 | 4 | PIN |  |  | $9,500 | a Van Cleef & Arpels gift certificate featuring a diamond, black onyx, and gold penguin pin worth $9,500! |  |
+| 6 | 1133 | LaTanya/Andy/Kim | 5/2/1989 | 2 | CRUISE | CRUISE-S6-B | Samba | $5,040 | an Epirotiki Cruises 11-day cruise on the Pegasus to South America worth $5,040! |  |
+| 6 | 1133 | LaTanya/Andy/Kim | 5/2/1989 | 4 | RING | RING-S6-B | Mournful | $10,000 | a Fred Joaillier gift certificate featuring a gold band with sparkling diamonds worth $10,000! |  |
+| 6 | 1134 | Ari/Bob/Gloria | 5/22/1989 | 2 | TRIP | TRIP-S6-A | Samba | $4,048 | a trip to the Caribbean with a stay at Mullet Bay Resort in St. Maarten, including a Holiday Car Rental tour, a prize worth $4,048! |  |
+| 6 | 1134 | Ari/Bob/Gloria | 5/22/1989 | 4 | PIN |  |  | $9,500 | a Van Cleef & Arpels gift certificate featuring a diamond, black onyx, and gold penguin pin worth $9,500! | PARTIAL episode source, prize plug missing |
 | 6 | 1135 | Yvonne/Stephanie/Joy | 5/24/1989 | 2 | TRIP | TRIP-S6-A | CatWalk | $3,180 | a trip to Germany and stay at Orbis Hotel worth $3,180! |  |
 | 6 | 1135 | Yvonne/Stephanie/Joy | 5/24/1989 | 4 | PIN | PIN-S6-A | Child | $8,000 | a Van Cleef & Arpels gift certificate featuring gold and sapphire teddy bear worth $8,000! |  |
 | 6 | 1136 | Carol/Paula/Marvin | 5/3/1989 | 2 | ROOM | ROOM-S5-B | Frisco | $4,044 | a Carson's of High Point room with sofa and glass/brass �tag�re worth $4,044! |  |
@@ -664,10 +670,10 @@
 | 6 | 1137 | Mike/Franny/Andy | 5/1/1989 | 4 | CHINA | CHINA-S6 | Tony | $5,290 | a Haviland oriental patterned porcelain service for 12 worth $5,290! |  |
 | 6 | 1138 | Callie/Semaj/Sterling | 5/25/1989 | 2 | HI-TECH | HI-TECH-S6 | DiscoSax | $2,850 | an Emerson microwave oven, color TV, VHS recorder, stereo system, and cassette deck worth $2,850! |  |
 | 6 | 1138 | Callie/Semaj/Sterling | 5/25/1989 | 4 | RING | RING-S6-B | Child | $9,600 | a Van Cleef & Arpels gift certificate featuring a diamond and emerald ring worth $9,600! |  |
-| 6 | 1139 | Barry/Nicole/Linda | 5/26/1989 | 2 | EGYPT |  |  | $5,300 | a trip to Egypt and stay at the Al-Jazira Sheraton Hotel worth $5,300! |  |
-| 6 | 1139 | Barry/Nicole/Linda | 5/26/1989 | 4 | TRUCK |  |  | $16,338 | a Chevrolet C/K pickup worth $16,338! |  |
-| 6 | 1140 | Annette/Ed/Tracy | 5/29/1989 | 2 | MEXICO |  |  | $3,089 | a trip to Mexico with stays at the Crowne Plaza Mexico City and Acapulco Plaza worth $3,089! |  |
-| 6 | 1140 | Annette/Ed/Tracy | 5/29/1989 | 4 | BIKE |  |  | $5,995 | a Harley Davidson Sportster 1200 worth $5,995! |  |
+| 6 | 1139 | Barry/Nicole/Linda | 5/26/1989 | 2 | EGYPT | EGYPT-S6 | CatWalk | $5,300 | a trip to Egypt and stay at the Al-Jazira Sheraton Hotel worth $5,300! |  |
+| 6 | 1139 | Barry/Nicole/Linda | 5/26/1989 | 4 | TRUCK | TRUCK-S6-B | DiscoSax | $16,338 | a Chevrolet C/K pickup worth $16,338! |  |
+| 6 | 1140 | Annette/Ed/Tracy | 5/29/1989 | 2 | MEXICO | MEXICO-S6 | Samba | $3,089 | a trip to Mexico with stays at the Crowne Plaza Mexico City and Acapulco Plaza worth $3,089! |  |
+| 6 | 1140 | Annette/Ed/Tracy | 5/29/1989 | 4 | BIKE | BIKE-S6 | Struttin | $5,995 | a Harley Davidson Sportster 1200 worth $5,995! |  |
 | 6 | 1141 | Steve/Nilou/Nancy | 4/21/1989 | 2 | ROOM | ROOM-S5-B | Frisco | $3,348 | a La-Z-Boy sleep sofa, plus Colonial Heirlooms desk/hutch, waterfowl accents and red basket worth $3,348! |  |
 | 6 | 1141 | Steve/Nilou/Nancy | 4/21/1989 | 4 | HEART | HEART-S6 | Elevator | $12,000 | a Fred Joaillier gift certificate featuring a gold tie necklace with heart motif worth $12,000! |  |
 | 6 | 1142 | Sue/Susan/Vince | 4/24/1989 | 2 | VIDEO | VIDEO-S6-B | Tangerines | $3,199 | A Colortyme home entertainment center with TV, stereo, VCR, and Sony Auto Handycam worth $3,199! |  |
@@ -691,8 +697,8 @@
 | 6 | 1151 | Jeff/Jill/Melanie | 5/15/1989 | 4 | TRIP | TRIP-S6-B | Frisco | $6,068 | a 8 day and 7 night trip to New Orleans including a stay at the historical Bourbon Orleans hotel, woth $6,068! |  |
 | 6 | 1152 | Kristi/O.J./Gary | 5/16/1989 | 2 | PIN | PIN-S6-A | Elevator | $4,500 | a Fred Joaillier furnished hot-air balloon pin worth $4,500! |  |
 | 6 | 1152 | Kristi/O.J./Gary | 5/16/1989 | 4 | TOUR | TOUR-S6 | LetsGoDancin | $7,316 | a students' European tour and AESU meet-up worth $7,316! |  |
-| 6 | 1154 | Mike/Sean/Traci | 5/18/1989 | 2 | OFFICE |  |  | $4,098 | a Zenith Laptop Computer & Encyclopedia Britannica Encyclopedias, worth $4,098! |  |
-| 6 | 1154 | Mike/Sean/Traci | 5/18/1989 | 4 | TRIP |  |  | $5,801 | Trip to St. James Court in London, England, worth $5,801! |  |
+| 6 | 1154 | Mike/Sean/Traci | 5/18/1989 | 2 | OFFICE | OFFICE-S6 | Tangerines | $4,098 | a Zenith Laptop Computer & Encyclopedia Britannica Encyclopedias, worth $4,098! |  |
+| 6 | 1154 | Mike/Sean/Traci | 5/18/1989 | 4 | TRIP | TRIP-S6-B | LetsGoDancin | $5,801 | Trip to St. James Court in London, England, worth $5,801! |  |
 | 6 | 1155 | Sean/Gary/Jeff | 5/19/1989 | 2 | GAME | GAME-S6 | Tangerines | $2,995 | an Intermark Amusements Competition Basketball set worth $2,995! | No second prize this episode for unknown reasons. |
 | 6 | 1156 | Kevin/Nicole/Steve | 5/23/1989 | 2 | TRIP | TRIP-S6-B | Frisco | $3,455 | a 4th of July holiday at Hawkeye Hunting Club in Texas worth $3,455! |  |
 | 6 | 1156 | Kevin/Nicole/Steve | 5/23/1989 | 4 | DINE | DINE-S6 | Elevator | $8,094 | a Chromcraft dining furniture group, Haviland gold-trimmed porcelain service for 12 with ribbons and bows, and Orrefors crystal stemware totaling $8,094! |  |
@@ -700,16 +706,16 @@
 | 6 | 1157 | Shari/Gordon/Clara | 6/1/1989 | 4 | ROOM | ROOM-S6 | Mournful | $5,758 | a American of Martinsville oriental decorated room with Waverly bedroom ensemble worth $5,758! |  |
 | 6 | 1158 | Dennis/Derek/Donna | 5/31/1989 | 2 | CLOCK | CLOCK-S6-B | DeepCalm | $2,789 | a Baldwin grandfather clock worth $2,789! |  |
 | 6 | 1158 | Dennis/Derek/Donna | 5/31/1989 | 4 | DIAMONDS | DIAMONDS-S6 | Child | $6,500 | a Keen Jewelry "Ice on Ice" diamond tennis bracelet worth $6,500! |  |
-| 6 | 1159 | Cynthia/Scott/Jeff | 6/2/1989 | 2 | PATIO |  |  | $2,897 | a Pacific Sun La Jolla outdoor furniture collection with Char-Broil gas barbecue worth $2,897! |  |
-| 6 | 1159 | Cynthia/Scott/Jeff | 6/2/1989 | 4 | RING |  |  | $9,000 | a Fred Joaillier gift certificate featuring a diamond and sapphire diagonal ribbon ring worth $9,000! |  |
+| 6 | 1159 | Cynthia/Scott/Jeff | 6/2/1989 | 2 | PATIO | PATIO-S6-A | Samba | $2,897 | a Pacific Sun La Jolla outdoor furniture collection with Char-Broil gas barbecue worth $2,897! |  |
+| 6 | 1159 | Cynthia/Scott/Jeff | 6/2/1989 | 4 | RING | RING-S6-B | Mournful | $9,000 | a Fred Joaillier gift certificate featuring a diamond and sapphire diagonal ribbon ring worth $9,000! |  |
 | 6 | 1160 | Karen/Cathy/Larry | 5/4/1989 | 2 | TRIP | TRIP-S6-B | Frisco | $4,317 | a trip to Florida and stay at Sonesta Beach Hotel Key Biscayne, plus a Snark Suncatcher Sailboat totaling $4,317! |  |
 | 6 | 1160 | Karen/Cathy/Larry | 5/4/1989 | 4 | RING | RING-S6-B | Elevator | $11,000 | a Van Cleef & Arpels gift certificate featuring a freshwater pearl and diamond octagon entourage ring worth $11,000! |  |
 | 6 | 1161 | Joanie/Dick/Rochella | 6/6/1989 | 2 | TRIP | TRIP-S6-A | Samba | $5,070 | a T. Anthony 5-piece luggage set, plus a trip to the Caribbean with a stay at Paradise Island Resort & Casino, totaling $5,070! |  |
 | 6 | 1161 | Joanie/Dick/Rochella | 6/6/1989 | 4 | VIDEO | VIDEO-S6-D | Frisco | $12,500 | a Curtis Mathes Paramount II home entertainment center worth $12,500! |  |
-| 6 | 1162 | Clay/Robin/Sandi | 6/7/1989 | 2 | PATIO | PATIO-S6 | LetsGoDancin | $2,899 | a U.S. Leisure outdoor patio furniture collection, plus $1,000 worth of flowers, totaling $2,899! |  |
+| 6 | 1162 | Clay/Robin/Sandi | 6/7/1989 | 2 | PATIO | PATIO-S6-B | LetsGoDancin | $2,899 | a U.S. Leisure outdoor patio furniture collection, plus $1,000 worth of flowers, totaling $2,899! |  |
 | 6 | 1162 | Clay/Robin/Sandi | 6/7/1989 | 4 | CAR | CAR-S6 | ShortHorns | $18,393 | a Chevrolet Lumina Euro with Oki Telecom cellular phone worth $18,393! |  |
-| 6 | 1163 | Ron/Maurice/Jenee | 6/5/1989 | 2 | TRIP |  |  | $3,290 | a trip to Germany and stay at Dusseldorf Hilton very much worth $3,290! |  |
-| 6 | 1163 | Ron/Maurice/Jenee | 6/5/1989 | 4 | BANGLE |  |  | $11,500 | a Fred Joaillier gift certificate featuring a polished gold bracelet with pair of flowers worth $11,500! |  |
+| 6 | 1163 | Ron/Maurice/Jenee | 6/5/1989 | 2 | TRIP | TRIP-S6-A | Frisco | $3,290 | a trip to Germany and stay at Dusseldorf Hilton very much worth $3,290! |  |
+| 6 | 1163 | Ron/Maurice/Jenee | 6/5/1989 | 4 | BANGLE | BANGLE-S6 | Child | $11,500 | a Fred Joaillier gift certificate featuring a polished gold bracelet with pair of flowers worth $11,500! |  |
 | 6 | 1164 | Theresa/Pat/Roland | 6/13/1989 | 2 | ART | ART-S6-C | Frisco | $2,700 | a Laguna Arts Festival holiday with Tivoli Terrace Restaurant dining and original watercolor worth $2,700! |  |
 | 6 | 1164 | Theresa/Pat/Roland | 6/13/1989 | 4 | TRIP | TRIP-S6-A | LetsGoDancin | $11,019 | a City Lights holiday at the Drake in New York, St. James Court in London, and Hotel-Pullman-Saint Jacques Left Bank in Paris worth $11,019! |  |
 | 6 | 1165 | Charlie/Dorothy/Robert | 6/16/1989 | 2 | WATCH | WATCH-S6 | DeepCalm | $5,200 | a Jean D'Eve 18-karat gold maple watch worth $5,200! |  |
@@ -718,12 +724,12 @@
 | 6 | 1166 | Ron/Lindsay/Jim | 6/8/1989 | 4 | RING | RING-S6-B | Child | $14,000 | a Marcus David lady's handcrafted diamond ring worth $14,000! |  |
 | 6 | 1167 | Gina/Gordie/Rob | 6/9/1989 | 2 | ORGAN | ORGAN-S6 | Struttin | $4,185 | a Schafer & Sons organ worth $4,185! |  |
 | 6 | 1167 | Gina/Gordie/Rob | 6/9/1989 | 4 | JEWELS | JEWELS-S6 | Child | $13,500 | black onyx and diamond loop earrings, featured in the Fred Joaillier gift certificate worth $13,500! |  |
-| 6 | 1168 | Arlene/Tina/Bill | 6/12/1989 | 2 | PATIO |  |  | $2,952 | a John Deere mower and Mallin patio table and chairs worth $2,952! |  |
-| 6 | 1168 | Arlene/Tina/Bill | 6/12/1989 | 4 | JEWELS |  |  | $9,500 | a Van Cleef & Arpels gift certificate featuring diamond and gold bow earclips worth $9,500! |  |
-| 6 | 1169 | Kathy/Bill/Claudia | 6/14/1989 | 2 | TRIP |  |  | $3,232 | a 10-day vacation at two of Yugoslavia's resorts worth $3,232! |  |
-| 6 | 1169 | Kathy/Bill/Claudia | 6/14/1989 | 4 | PIN |  |  | $9,500 | a Van Cleef & Arpels gift certificate featuring a black onyx, gold, and diamond penguin pin worth $9,500! |  |
-| 6 | 1170 | Gene/Bill/Pati | 6/15/1989 | 2 | TRIP |  |  | $4,600 | a trip to Jamaica and stay at Mallards Beach Hotel, plus Olympus special edition camera worth $4,600! |  |
-| 6 | 1170 | Gene/Bill/Pati | 6/15/1989 | 4 | CAR |  |  | $14,870 | a Buick Skylark worth $14,870! |  |
+| 6 | 1168 | Arlene/Tina/Bill | 6/12/1989 | 2 | PATIO | PATIO-S6-B | Samba | $2,952 | a John Deere mower and Mallin patio table and chairs worth $2,952! |  |
+| 6 | 1168 | Arlene/Tina/Bill | 6/12/1989 | 4 | JEWELS | JEWELS-S6 | Elevator | $9,500 | a Van Cleef & Arpels gift certificate featuring diamond and gold bow earclips worth $9,500! |  |
+| 6 | 1169 | Kathy/Bill/Claudia | 6/14/1989 | 2 | TRIP | TRIP-S6-A | Tangerines | $3,232 | a 10-day vacation at two of Yugoslavia's resorts worth $3,232! |  |
+| 6 | 1169 | Kathy/Bill/Claudia | 6/14/1989 | 4 | PIN | PIN-S6-A | Child | $9,500 | a Van Cleef & Arpels gift certificate featuring a black onyx, gold, and diamond penguin pin worth $9,500! |  |
+| 6 | 1170 | Gene/Bill/Pati | 6/15/1989 | 2 | TRIP | TRIP-S6-A | Struttin | $4,600 | a trip to Jamaica and stay at Mallards Beach Hotel, plus Olympus special edition camera worth $4,600! |  |
+| 6 | 1170 | Gene/Bill/Pati | 6/15/1989 | 4 | CAR | CAR-S6 | DiscoSax | $14,870 | a Buick Skylark worth $14,870! |  |
 
 ## Season 7
 
@@ -949,7 +955,7 @@
 | 7 | 1285 | Dan/J D/Betty | 2/16/1990 | 4 | TRIP |  |  | $7,212 | a Ricardo luggage set for a holiday at the Ritz Charton-Laguna Niguel worth $7,212! |  |
 | 7 | 1286 | Patty/Catherine/J.D. | 2/19/1990 | 2 | SAIL | SAIL-S7 | 1980PrizeCue | $3,400 | a pair of BIC Sport sailboards worth $3,400! |  |
 | 7 | 1286 | Patty/Catherine/J.D. | 2/19/1990 | 4 | FUR | FUR-S7-A | WaitingForU | $5,500 | a Dicker & Dicker full-length mink coat worth $5,500! |  |
-| 7 | 1287 | Judy/Patty/Hal | 2/20/1990 | 2 | PIN |  |  | $4,200 | a Van Cleef & Arpels diamond and bow pin worth $4,200! |  |
+| 7 | 1287 | Judy/Patty/Hal | 2/20/1990 | 2 | PIN | PIN-S7-A | TangeloSax | $4,200 | a Van Cleef & Arpels diamond and bow pin worth $4,200! |  |
 | 7 | 1287 | Judy/Patty/Hal | 2/20/1990 | 4 | LONDON | LONDON-S7-B | Bassment | $5,256 | a trip to London and stay at St. James Court worth $5,256! |  |
 | 7 | 1288 | Tammy/Patty/Randy | 2/21/1990 | 2 | SHOP | SHOP-S7-C | Island | $3,500 | a shopping spree at Epcot Center's Moroccan Pavilion worth $3,500! |  |
 | 7 | 1288 | Tammy/Patty/Randy | 2/21/1990 | 4 | FUR | FUR-S7-A | WaitingForU | $5,000 | a Dicker & Dicker white mink jacket worth $5,000! |  |
@@ -1337,8 +1343,8 @@
 | 10 | 1817 | Tina/Millie/Gerry | 12/1/1992 | 4 | MUSIC | MUSIC-S10 | (diegetic) | $5,850 | A hand-crafted baroque music box worth $5,850! |  |
 | 10 | 1818 | Darcey/Bill/Tina | 12/2/1992 | 2 | RUG | RUG-S10 | Oriental | $3,900 | a Emser International handmade Chinese silk oriental rug worth $3,900! |  |
 | 10 | 1818 | Darcey/Bill/Tina | 12/2/1992 | 4 | RING | RING-S10 | WaitingForU | $7,800 | a Fred Joaillier man's gold ring with diamonds worth $7,800! |  |
-| 10 | 1819 | Tina/Carol/Cristy | 12/3/1992 | 2 | EARCLIPS | EARCLIPS-S9 | Gliss | $4,400 | a pair of Van Cleef & Arpels 18-karat gold and diamond earclips with blue lapis worth $4,400! |  |
-| 10 | 1819 | Tina/Carol/Cristy | 12/3/1992 | 4 | HAWAII | HAWAII-S7 | Luau | $5,701 | a trip to Hawaii and 6-night stay at Kona Hilton Beach & Tennis Resort, plus South Pacific fishing trip worth $5,701! |  |
+| 10 | 1819 | Tina/Carol/Christy | 12/3/1992 | 2 | EARCLIPS | EARCLIPS-S9 | Gliss | $4,400 | a pair of Van Cleef & Arpels 18-karat gold and diamond earclips with blue lapis worth $4,400! |  |
+| 10 | 1819 | Tina/Carol/Christy | 12/3/1992 | 4 | HAWAII | HAWAII-S7 | Luau | $5,701 | a trip to Hawaii and 6-night stay at Kona Hilton Beach & Tennis Resort, plus South Pacific fishing trip worth $5,701! |  |
 | 10 | 1820 | Chris/Nancy/Carol | 12/4/1992 | 2 | PIN | PIN-S10 | Tony | $2,500 | a Fred Joaillier red french enamel umbrella pin worth $2,500! |  |
 | 10 | 1820 | Chris/Nancy/Carol | 12/4/1992 | 4 | SPA | SPA-S6-A | BubbleTriplets | $7,331 | a spa vacation in Tampa with a week at Safety Harbor Spa & Fitness Center worth $7,331! |  |
 | 10 | 1821 | Carol/Ronnie/Eileen | 12/7/1992 | 2 | TRIP | TRIP-S7-D | BubbleTriplets | $1,970 | a trip to Costa Rica and stay at Cariari Hotel & Country Club worth $1,970! |  |
@@ -1376,7 +1382,7 @@
 | 10 | 1839 | Tom/Barbara/Donna | 12/31/1992 | 2 | CARIBBEAN | CARIBBEAN-S10 | BubbleTriplets | $4,490 | a Caribbean vacation at the Mullet Bay Resort and Casino with a Holiday Car Rental worth $4,490! |  |
 | 10 | 1839 | Tom/Barbara/Donna | 12/31/1992 | 4 | TRIP | TRIP-S7-F | BustleSax | $6,375 | a Grand Canyon rafting trip on the Colorado River worth $6,375! |  |
 | 10 | 1840 | Jenny/Andrea/Tom | 1/1/1993 | 2 | SAIL | SAIL-S10 | 1980PrizeCue | $3,225 | a Windjammer Cruise on the waters of Maine with island hopping worth $3,225! |  |
-| 10 | 1840 | Jenny/Andrea/Tom | 1/1/1993 | 4 | BIKE | BIKE-S6 | Nightwalk | $7,475 | a bicycle tour of River Avon in England worth $7,475! |  |
+| 10 | 1840 | Jenny/Andrea/Tom | 1/1/1993 | 4 | BIKE | BIKE-10 | Nightwalk | $7,475 | a bicycle tour of River Avon in England worth $7,475! |  |
 | 10 | 1841 | Arsenia/Rick/Jenny | 1/4/1993 | 2 | CARMEL | CARMEL-S9 | Montreal | $4,401 | a holiday at Quail Lodge Resort & Golf Club in Carmel, California worth $4,401! |  |
 | 10 | 1841 | Arsenia/Rick/Jenny | 1/4/1993 | 4 | JEWELRY | JEWELRY-S7 | Otherworld | $6,376 | a Krementz swirl necklace with 1.98-karat diamond and 18-karat gold worth $6,376! |  |
 | 10 | 1842 | Rick/Russell/Roy | 1/5/1993 | 2 | WATCH | WATCH-S9-A | SaxxyG | $3,940 | a 14 karat gold Jules Jergensen quartz watch set in an oval case surrounded by 1 carat of sparkling diamonds. $3,940! |  |
@@ -1472,12 +1478,12 @@
 | 11 | 2000 | Stephen/Chanelle/Darryle | 11/12/1993 | 4 | CRUISE | CRUISE-S7 | FortePiano | $6,380 | a Caribbean sailing holiday worth $6,380! |  |
 | 11 | 2003 | Adam & Ann/Alicia & Darren/Jayna & Kelly | 11/17/1993 | 2 | MONTANA | MONTANA-S11 | WestHarmonica | $5,802 | a trip to Montana worth $5,802! | No second prize this episode for unknown reasons. |
 | 11 | 2021 | Mark/Maryann/Marcan | 12/13/1993 | 2 | POOL TABLE | POOL-TABLE-S11 | RisingSax | $2,850 | a red Olhausen Eclipse pool table worth $2,850! | No second prize this episode; round 4 was entirely a speed-up round. |
-| 11 | 2022 | Marcan/Rob/Erol | 12/14/1993 | 2 | BRACELET | BRACELET-S11 | SaxxyG | $5,500 | a Francis Klein hand-painted French black enamel and 18-karat gold bracelet worth $5,500! |  |
-| 11 | 2022 | Marcan/Rob/Erol | 12/14/1993 | 4 | BRAZIL | BRAZIL-S11 | BubbleTriplets | $8,415 | a holiday in Rio de Janeiro worth $8,415! |  |
+| 11 | 2022 | Marcan/Ron/Erol | 12/14/1993 | 2 | BRACELET | BRACELET-S11 | SaxxyG | $5,500 | a Francis Klein hand-painted French black enamel and 18-karat gold bracelet worth $5,500! |  |
+| 11 | 2022 | Marcan/Ron/Erol | 12/14/1993 | 4 | BRAZIL | BRAZIL-S11 | BubbleTriplets | $8,415 | a holiday in Rio de Janeiro worth $8,415! |  |
 | 11 | 2023 | Joel/Marcan/Peter | 12/15/1993 | 2 | MEXICO | MEXICO-S11 | Ranchera | $2,820 | a trip to Mexico and stay at Melia Puerto Vallarta worth $2,820! |  |
 | 11 | 2023 | Joel/Marcan/Peter | 12/15/1993 | 4 | WATCH | WATCH-S11 | WaitingForU | $5,200 | a Croton 14-karat gold man's panther link bracelet watch with diamonds worth $5,200! |  |
-| 11 | 2030 | David & Elbertha/Chuck & Bridget/Kitty & Mariann | 12/24/1993 | 2 | RACE |  |  | $8,990 | a Racing dream package: Tires, racing school, and Sonoma Mission stay worth $8,990! |  |
-| 11 | 2030 | David & Elbertha/Chuck & Bridget/Kitty & Mariann | 12/24/1993 | 4 | RANCH |  |  | $9,080 | a trip to Roseland Ranch in Stanfordville, NY worth $9,080! |  |
+| 11 | 2030 | David & Elbertha/Chuck & Bridget/Kitty & Mariann | 12/24/1993 | 2 | RACE | RACE-S11 | Nightwalk | $8,990 | a Racing dream package: Tires, racing school, and Sonoma Mission stay worth $8,990! |  |
+| 11 | 2030 | David & Elbertha/Chuck & Bridget/Kitty & Mariann | 12/24/1993 | 4 | RANCH | RANCH-S11 | WestHarmonica | $9,080 | a trip to Roseland Ranch in Stanfordville, NY worth $9,080! |  |
 | 11 | 2061 | Kevin/Alan/Meredith | 2/14/1994 | 2 | RING | RING-S11 | Gliss | $9,000 | Hammerman's 20-karat blue topaz with diamonds and 18-karat gold worth $9,000! | No second prize this episode for unknown reasons. |
 | 11 | 2067 | George/Alison/Scott | 2/22/1994 | 2 | VIDEO/PHONE | VIDEO-PHONE-S11 | BustleSax | $2,277 | a Panasonic Compact Palmcorder and a Panasonic Hand-Held Cellular Phone totaling $2,277! |  |
 | 11 | 2067 | George/Alison/Scott | 2/22/1994 | 4 | SEA DOO | SEA-DOO-S11 | MorningSax | $5,499 | a Sea-Doo! Seats 3, 60-hp Bombardier Rotax engine, tows water-skiers & other water toys, neutral & reverse settings, worth $5,499! |  |

@@ -14,9 +14,7 @@ I've located these episodes but have not fully processed prizes from them yet. P
 
 | Week | Ep | Ep | Ep | Ep | Ep |
 | --- | --- | --- | --- | --- | --- |
-| S2-W48 | | | | S2-E239 | S2-E240
-| S2-W55 | S2-E271 | | S2-E273
-| S2-W80 | | | | S3-E399
+| S3-W80 | | | | S3-E399
 | S3-W90 | | | | S3-E449
 | S3-W92 | | | | | S3-E460
 | S3-W93 | | | S3-E463
@@ -73,9 +71,9 @@ I am missing data/media that is needed to compile information about the followin
 
 ## Recap Only
 
-For these episodes, I have only been able to glean information from recaps on the Buy A Vowel forums. Source video is needed to document wedge appearance/variant and prize bed music.
+For these episodes, I have only been able to glean information from recaps. Source video is needed to document wedge appearance/variant and prize bed music.
 
-If I have some infor for the epoisode, but I am missing prize bed music or wedge variant info and the episode is not in this list, the episode should be in the Work in Progress list.
+If I have some info for the epoisode, but I am missing prize bed music or wedge variant info and the episode is not in this list, the episode should be in the Work in Progress list.
 
 I'm listing episodes for which I know or suspect I'm missing a prize wedge variant exemplar first, as those are higher priority to set eyes on.
 
@@ -89,8 +87,6 @@ S6-E1104 Shirley/Pat/Jeff 3/28/1989 (For COUCH-S6 Wedge)
 
 S10-E1911 Wayne/Andrea/Al 4/19/1993 (For PINS-S10 Wedge)
 
-S11-E2030 David & Elbertha/Chuck & Bridget/Kitty & Mariann 12/24/1993 (For RACE-S11 Wedge)
-
 S11-E2121 Michelle/Jennifer/Andrea 5/16/1994 (For DARWIN-S11 Wedge)
 
 ### Potential Missing Wedge Exemplar
@@ -101,8 +97,6 @@ S5-E854 Jim/Sheree/Anne 1/4/1988 (For potential JEEP-S5 Wedge)
 
 S6-E1098 Ollie/Connie/Lori 3/9/1989 (For potential SPACE-S6 Wedge)
 
-S6-E1140 Annette/Ed/Tracy 5/29/1989 (For potential MEXICO-S6 Wedge)
-
 S7-E1341 Rita/Anne/Patty 5/14/1990 (For potential TENNIS-S7 Wedge)
 
 ### Remaining Recap-only episodes
@@ -111,27 +105,7 @@ No new wedge variants are especially expected from these, just more instances of
 
 S1-E152 Mark/Carol/Debi 5/1/1984
 
-S2-E256 Ken/Kathy/Bruce 12/3/1984
-
-S2-E276 Judy/Jim/Kathy 1/8/1985
-
-S2-E285 Karen/Kimberly/Mike 1/16/1985
-
-S2-E300 Steve/Christina/Debra 1/31/1985
-
-S2-E307 Pat/Mike/Tammie 3/8/1985
-
-S2-E312 Mischelle/Dee/Harry 2/26/1985
-
-S2-E316 Terry/Rob/Pam 3/4/1985
-
-S2-E320 Hal/Chris/Rita 2/14/1985
-
-S2-E337 Corilee/Bernard/Jim 4/1/1985
-
 S5-E794 Doug/Wayne/Jamie 9/24/1987
-
-S5-E854 Jim/Sheree/Anne 1/4/1988
 
 S5-E864 Dan/Larry/Elaine 1/14/1988
 
@@ -149,15 +123,9 @@ S6-E1051 Edna/Tracy/Steve 12/9/1988
 
 S6-E1054 Jim/Debbie/Ken 12/14/1988
 
-S6-E1055 Pat/Laura/Otis 12/15/1988
-
 S6-E1058 Monica/Marlene/Alison 1/13/1989
 
-S6-E1061 Arnie/Judy/Valerie 1/16/1989
-
 S6-E1063 Sam/Sharon/Joanna 1/19/1989
-
-S6-E1066 Hal/Joy/Sherril 1/23/1989
 
 S6-E1068 Eileen/Irene/Ray 1/24/1989
 
@@ -173,29 +141,7 @@ S6-E1099 Charles/Sherrie/Karen 2/28/1989
 
 S6-E1103 Lori/Diane/Teri 3/24/1989
 
-S6-E1121 Jimmy/Abbie/Maddy 3/13/1989
-
-S6-E1125 Ted/Peggy/Mary 4/12/1989
-
-S6-E1129 Steve/Sandy/Roland 4/19/1989
-
-S6-E1133 LaTanya/Andy/Kim 5/2/1989
-
-S6-E1134 Ari/Bob/Gloria 5/22/1989
-
-S6-E1139 Barry/Nicole/Linda 5/26/1989
-
-S6-E1154 Mike/Sean/Traci 5/18/1989
-
 S6-E1159 Cynthia/Scott/Jeff 6/2/1989
-
-S6-E1163 Ron/Maurice/Jenee 6/5/1989
-
-S6-E1168 Arlene/Tina/Bill 6/12/1989
-
-S6-E1169 Kathy/Bill/Claudia 6/14/1989
-
-S6-E1170 Gene/Bill/Pati 6/15/1989
 
 S8-E1417 Victoria/Roland/Henry 11/13/1990
 
@@ -237,6 +183,18 @@ S2-E350 Lu Ann/Rich/Sharon 4/19/1985 (PARTIAL) (ULTRA RARE BOX PRIZE WEDGE)
 
 S4-E770 Jackie/Gail/Ron 6/15/1987 (PARTIAL)
 
+S6-E1121 Jimmy/Abbie/Maddy 3/13/1989 (PARTIAL)
+
+S6-E1125 Ted/Peggy/Mary 4/12/1989 (PARTIAL)
+
+S6-E1129 Steve/Sandy/Roland 4/19/1989 (PARTIAL)
+
+S6-E1133 LaTanya/Andy/Kim 5/2/1989 (PARTIAL)
+
+S6-E1134 Ari/Bob/Gloria 5/22/1989 (PARTIAL)
+
+S6-E1139 Barry/Nicole/Linda 5/26/1989 (PARTIAL)
+
 S9-E1564 Michelle/Carrie/Scott 9/5/1991 (PARTIAL)
 
 S9-E1610 Joe/Joan/Debbie 11/8/1991 (PARTIAL)
@@ -256,29 +214,23 @@ These episodes have puzzles present in Buy-A-Vowel Puzzle Compendium, meaning th
 | Week | Ep | Ep | Ep | Ep | Ep |
 | --- | --- | --- | --- | --- | --- |
 | S1-W2 | | | | | S1-E10
-| S1-W5 | S1-E22 | | | S1-E25
+| S1-W5 | S1-E22 | | | 
 | S1-W6 | S1-E27
-| S1-W9 | | S1-E43
 | S2-W45 | | | | | S2-E225
-| S2-W49 | S2-E241 | S2-E242
 | S2-W52 | | | | S2-E259
 | S2-W57 | | S2-E282
 | S2-W59 | S2-E291 | S2-E292
-| S2-W60 | | | | | S2-E300
 | S2-W61 | | | | | S2-E305
 | S2-W62 | S2-E306 | | S2-E308
 | S2-W63 | | | | | S2-E315
 | S2-W65 | | | | S2-E324
 | S2-W68 | | | | | S2-E340
-| S2-W69 | | | S2-E343 | S2-E344
+| S2-W69 | | | S2-E343
 | S3-W83 | | | S3-E413
-| S3-W93 | | | S3-E463
 | S3-W106 | | | | | S3-E530
 | S3-W107 | S3-E531 | S3-E532 | S3-E533 | S3-E534 |
 | S3-W113 | | | S3-E563
 | S4-W126 | | S4-E627
-| S4-W129 | S4-E641 | S4-E642 | S4-E643 | S4-E644 | S4-E645
-| S4-W133 | S4-E661 | S4-E662
 | S5-W164 | S5-E816
 | S5-W172 | | | S5-E858
 | S5-W177 | | | S5-E883 | | S5-E885
@@ -293,17 +245,13 @@ These episodes have puzzles present in Buy-A-Vowel Puzzle Compendium, meaning th
 | | | | | S8-E1390
 | | | | | S8-E1435
 | | S8-E1436 | S8-E1437
-| | S8-E1446 | S8-E1447 | S8-E1448 | S8-E1449 | S8-E1450
 | | S8-E1486
 | | | | S8-E1503 | S8-E1504 | S8-E1505
-| | S8-E1531 | | | S8-E1534 | S8-E1535
 | | | | | | S8-E1550
 | | S8-E1551 | S8-E1552
 | | S9-E1586 | S9-E1587 | S9-E1588 | S9-E1589
 | | | | | S9-E1614 | S9-E1615
 | | | | | | S9-E1625
-| | S9-E1641 | S9-E1642 | S9-E1643 | S9-E1644 | S9-E1645
-| | S9-E1646 | S9-E1647 | S9-E1648 | | S9-E1650
 | | | | S9-E1733 | S9-E1734
 | | | | | S9-E1744 | S9-E1745
 | | | | | | S10-E1805
