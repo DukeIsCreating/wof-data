@@ -4,12 +4,13 @@
 	--shadow-color-inv: #000000;
 	--shadow-color-lime: #CFE288;
 	--table-border-color: #707010;
+	--nameplate-color: #5b534b;
 }
 
 body {
   font-family: "Besley";
   font-weight: 600;
-  color: black;
+  color: black !important; 
   text-shadow: 0px 0px 3px var(--shadow-color), 0px 0px 5px var(--shadow-color), 0px 0px 8px var(--shadow-color), 0px 0px 3px var(--shadow-color), 0px 0px 5px var(--shadow-color), 0px 0px 8px var(--shadow-color);
   background-color: #4C9F81;
   background-image: url("WheelBgSmaller.jpg");
@@ -18,7 +19,7 @@ body {
 
 a {
   text-shadow: 0px 0px 3px var(--shadow-color-inv), 0px 0px 5px var(--shadow-color-inv), 0px 0px 8px var(--shadow-color-inv), 0px 0px 3px var(--shadow-color-inv), 0px 0px 5px var(--shadow-color-inv), 0px 0px 8px var(--shadow-color-inv);
-  color: white;
+  color: white !important;
 }
 
 a:visited {
@@ -108,12 +109,12 @@ p {
 }
 
 td.Contestants {
-  background-color: #5B4400;
+  background-color: var(--nameplate-color);
   border-collapse: separate;
 }
 
 tr.Contestants {
-  background-color: #5B4400;
+  background-color: var(--nameplate-color);
   border-collapse: separate;
 }
 
@@ -123,7 +124,7 @@ table.Contestants {
 }
 
 .Player {
-  background-color: #5B4400;
+  background-color: var(--nameplate-color);
   font-family: Arial;
   font-weight: 700;
   font-stretch: condensed;

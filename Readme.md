@@ -1,3 +1,5 @@
+For a web view of the data, visit https://dukeiscreating.github.io/wof-data/
+
 See [Index page](docs/index.md) for more information.
 
 # Data Formats

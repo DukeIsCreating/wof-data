@@ -13,6 +13,7 @@
 | 1 | 7 | Ed/Dawn/Ellen | 9/28/1983 | 2 | SCOOTER | SCOOTER-S1 | ShortHorns | $1,500 | It's the Bajaj Motor Scooter. Up to 100 miles per gallon, up to 60 miles per hour. Travel inexpensive, low maintenance miles at a fraction of the cost of a car. Furnished by Bajaj America. Retail value $1,500! |  |
 | 1 | 8 | Barbara/Harlene/Kevin | 9/29/1983 | 2 | SILVER | SILVER-S1 | EerieElegance | $2,040 | You'll receive this elegant Sterling Silver service for eight in the "English King" pattern, made first by Tiffany in 1885 after a rich Georgian design. Each place setting includes dinner fork and knife, dessert spoon, butter spreader and tea spoon. Furnished by Tiffany & Co. Retail value $2,040! |  |
 | 1 | 9 | Cyn/Susan/Steve | 9/30/1983 | 2 | TRIP | TRIP-S1-A | Frisco | $1,236 | It's a trip to Mexico! We'll fly you and a guest from Los Angeles to Puerto Vallarta, where you'll stay at the Buganvilias-Sheraton, the newest sun spot in Puerto Vallarta. This magnificent hotel is located right on the beach, offering a luxurious pool, tennis, water sports, fine dining and dancing. A honeymoon hideaway, a dream come true, furnished by the Buganvilias-Sheraton. And you'll fly to exotic Puerto Vallarta, Mexico via Western Airlines famous Fiesta Flight. Western flies to the six major coastal resorts and exciting cities of Mexico. Western Airlines: we've got a name to live up to! Total retail value $1,236! |  |
+| 1 | 10 | Richard/Claire/Melissa | 10/3/1983 | 2 | VIDEO | VIDEO-S1 | ShortHorns | $4,558 | For the video enthusiast, this fabulous state of the art video package includes a cassette recorder with timer and picture search, a light-sensitive color camera with zoom lens, a 25 inch color video monitor with infrared digital remote control, and a stereo video disc player. Retail value of this entertainment package, $4,558! |  |
 | 1 | 11 | Laura/Lisa/Glenn | 10/4/1983 | 2 | PIN | PIN-S1 | Tony | $4,000 | a Van Cleef & Arpels gift certificate featuring hummingbird pin with gold, diamond, and ruby worth $4,000! |  |
 | 1 | 12 | Rick/Joan/Cecelia | 10/5/1983 | 2 | WATCH | WATCH-S1 | Tony | $1,550 | a Cartier Santos watch worth $1,550! |  |
 | 1 | 13 | Dan/Gloria/Ola | 10/6/1983 | 2 | FUR | FUR-S1-B | Tony | $3,000 | a Dicker and Dicker mink shawl worth $3,000! |  |
@@ -142,6 +143,8 @@
 | 2 | 288 | Andrea/Doug/Sandy | 1/23/1985 | 2 | FRIDGE | FRIDGE-S2 | Struttin | $1,299 | an Admiral refrigerator "a la mode" worth $1,299 |  |
 | 2 | 289 | Mike/Renita/Laura | 1/24/1985 | 2 | FUR | FUR-S1-B | Tony | $4,000 | a Dicker and Dicker man's lumberjacket mink coat worth $4,000! |  |
 | 2 | 290 | Milt/Fran/Stuart | 1/25/1985 | 2 | FUR | FUR-S1-B | Tony | $4,500 | a Dicker and Dicker mink jacket worth $4,500! |  |
+| 2 | 291 | Denise/Gloria/Ron | 1/29/1985 | 2 | TRIP | TRIP-S1-B | Samba | $3,086 | We'll fly you and a guest from Los Angeles to the West Indies! That's where you'll stay at the Holiday Inn Trinidad's luxury hotel in downtown Port of Spain. Pool, tropical grounds, dining in a revolving roof restaurant and musical entertainment at the Holiday Inn Trinidad! Retail value $3,086! |  |
+| 2 | 292 | Janelle/Sharon/Ilene | 2/19/1985 | 2 | PIANO | PIANO-S2 | Tony | $2,295 | It's the Chickering spinet piano! Impressive in Italian provincial walnut. It's distinctive tone may delight professional and beginner alike. By Chickering and Sons, it's $2,295! |  |
 | 2 | 293 | Stacey/John/Kim | 2/4/1985 | 2 | FUR | FUR-S1-B | Frisco | $6,500 | a Dicker and Dicker full-length mink coat worth $6,500! |  |
 | 2 | 294 | Marylou/Lee/Greg | 2/5/1985 | 2 | RING | RING-S2 | Tony | $2,400 | a Van Cleef & Arpels gift certificate featuring man's 18-karat double-framed gold ring with diamonds worth $2,400! |  |
 | 2 | 295 | Deborah/Cheryl/Robyn | 2/6/1985 | 2 | RING | RING-S1 | Tony | $4,000 | 18 kt gold and diamond ring available with gift certificate from Gucci worth $4,000! |  |
@@ -155,6 +158,7 @@
 | 2 | 303 | Dennis/Sheila/Debbie | 2/13/1985 | 2 | RING | RING-S2 | Tony | $4,250 | a Sunshine Jewelers gold, diamond, and ruby ring worth $4,250! |  |
 | 2 | 304 | Joyce/Nancy/Mark | 2/8/1985 | 2 | JADE | JADE-S1-A | Tony | $2,250 | a handcarved jade incense burner worth $2,250! |  |
 | 2 | 307 | Pat/Mike/Tammie | 3/8/1985 | 2 | PIN | PIN-S2 | Tony | $1,800 | a Gucci gift certificate featuring stainless steel and 18-karat gold pin worth $1,800! |  |
+| 2 | 308 | Shannon/Larry/Meryl | 2/20/1985 | 2 | RING | RING-S2 | Tony | $4,000 | You can liven up any finger with this 18 karat gold and diamond ring. It's part of the spectacular "Krako" collection, and it could be one of our contestants' with their gift certificate from Gucci. $4,000! |  |
 | 2 | 309 | Bob/Kati/Mike | 2/21/1985 | 2 | WATCH | WATCH-S1 | Tony | $7,990 | a Van Cleef & Arpels Concord man's gold and diamond dress watch worth $7,990! |  |
 | 2 | 310 | Mary/Dan/Marianne | 2/22/1985 | 2 | FUR | FUR-S1-B | Tony | $4,000 | A snowtop mink jacket from Dicker & Dicker of Beverly Hills. Worth $4,000! |  |
 | 2 | 311 | Bob/Kathy/Mike | 2/25/1985 | 2 | FUR | FUR-S1-B | Mournful | $6,000 | a Dicker & Dicker chinchilla jacket worth $6,000! |  |
@@ -202,17 +206,18 @@
 | S# | Ep# | Contestants | Air Date | Round | Wedge Text | Wedge Variant | Music Cue | Value | Description | Notes |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 3 | 391 | Vicki/Scott/Kim | 9/9/1985 | 2 | FUR | FUR-S1-B | Frisco | $4,000 | an Opal Mink Jacket, by Dicker and Dicker of Beverly Hills! It's worth $4,000! |  |
-| 3 | 399 | Dianne/Donna/Chris | 10/7/1985 | 2 | SILVER |  |  | $3,200 | an evening sterling silver bag might be purchased with a $3,200 Cartier gift certificate! |  |
+| 3 | 399 | Dianne/Donna/Chris | 10/7/1985 | 2 | SILVER | SILVER-S1 | Mournful | $3,200 | It's a Cartier gift certificate, with which one of our contestants might select this extravagant evening bag. It's Sterling Silver with black enamel detail and sapphire clasp. It's part of the exclusive "Petal" collection. It's $3,200! |  |
 | 3 | 404 | Marsha/Cheryl/Bob | 9/26/1985 | 2 | SILVER | SILVER-S1 | Tony | $4,725 | a Tiffany gift certificate featuring oversized Sterling Silver "tanker" worth $4,725! |  |
+| 3 | 413 | Ron/Margot/Elaine | 10/9/1985 | 2 | FUR | FUR-S1-B | Tony | $3,000 | a Dicker and Dicker raindrop design mink jacket worth $3,000! |  |
 | 3 | 417 | Ednita/Mario/Kathy | 10/10/1985 | 2 | WATCH | WATCH-S1 | Tony | $2,275 | a Jules Jurgensen watch worth $2,275! |  |
-| 3 | 418 | Ron/Margot/Elaine | 10/9/1985 | 2 | FUR | FUR-S1-B | Tony | $3,000 | a Dicker and Dicker raindrop design mink jacket worth $3,000! |  |
 | 3 | 436 | Angela/Mark/Nina | 11/11/1985 | 2 | CRUISE | CRUISE-S2 | Samba | $4,000 | a Princess Cruises 7-day vacation to the Golden Mexican Riviera worth $4,000! |  |
-| 3 | 449 | Kerri/Rick/Lulu | 10/31/1985 | 2 | CRUISE |  |  | $6,366 | a 10-day voyage across the Caribbean from Sitmar Cruises worth $6,366! |  |
+| 3 | 449 | Kerri/Rick/Lulu | 10/31/1985 | 2 | CRUISE | CRUISE-S2 | Samba | $6,366 | a 10-day voyage across the Caribbean from Sitmar Cruises worth $6,366! |  |
 | 3 | 450 | Niki/Tony/Terry | 12/5/1985 | 2 | TV | TV-S1 | LetsGoDancin | $1,200 | a television set worth $1,200! |  |
-| 3 | 460 | Mary/Mike/Patty | 12/20/1985 | 2 | CAR |  |  | $15,205 | the Oldsmobile Cutlass Cruiser Wagon! With all the options offered, it's worth $15,205! |  |
+| 3 | 460 | Mary/Mike/Patty | 12/20/1985 | 2 | CAR | CAR-S1 | DiscoSax | $15,205 | the Oldsmobile Cutlass Cruiser Wagon! With all the options offered, it's worth $15,205! |  |
 | 3 | 461 | Helen/Anna/Gene | 12/23/1985 | 2 | VIDEO | VIDEO-S3 | Frisco | $1,250 | a Panasonic home video cassette recorder worth $1,250! |  |
+| 3 | 463 | Mike/Anita/Mary | 12/25/1985 | 2 | TRUCK | TRUCK-S3 | Disco | $6,869 | The new Isuzu Pickup Truck! This is built tough with a sporty design for use on or off the road, it's rugged as well as economical. From American Isuzu Motors. Retail value $6,869! |  |
 | 3 | 481 | Virginia/Karin/Kent | 1/20/1986 | 2 | MINI CAR | MINI-CAR-S2-B | Frisco | $6,375 | a Mini-T 12 MPH electric car worth $6,375! |  |
-| 3 | 493 | Judith/Elizabeth/Blue | 2/18/1986 | 2 | FUR |  |  | $5,000 | a wonderful $5,000 mink and lamb jacket from Dicker and Dicker worth $5000! |  |
+| 3 | 493 | Judith/Elizabeth/Blue | 2/18/1986 | 2 | FUR | FUR-S3 | Tony | $5,000 | a wonderful $5,000 mink and lamb jacket from Dicker and Dicker worth $5000! |  |
 | 3 | 494 | John/Molly/Linda | 2/11/1986 | 2 | CRUISE | CRUISE-S2 | Samba | $6,366 | a Sitmar Cruises 10-day Caribbean cruise worth $6,366! |  |
 | 3 | 495 | Janet/Nina/Rich | 2/5/1986 | 2 | SILVER | SILVER-S3 | Mournful | $2,800 | a sterling silver music box by Cartier, with a hand-enameled dragon design on the lid, valued at $2,800! |  |
 | 3 | 498 | Barbara/Marc/Kathleen | 2/12/1986 | 2 | CLOCK | CLOCK-S2 | Tony | $6,800 | a Louis Cartier Paris Archive Designs nephrite and mother-of-pearl mantel clock with gold and black enamel trim worth $6,800! |  |
@@ -221,6 +226,10 @@
 | 3 | 510 | Bonnie/Bert/Carol | 2/28/1986 | 2 | BIKE | BIKE-S1 | ShortHorns | $5,324 | a Harley-Davidson Sportster worth $5,324! |  |
 | 3 | 517 | Dick/Diane/Betty | 3/14/1986 | 2 | WATCH | WATCH-S3 | Tony | $8,900 | an 18-karat gold Piaget watch worth a massive $8,900! |  |
 | 3 | 524 | Linda/Joan/Tom | 3/19/1986 | 2 | TRIP | TRIP-S3 | Samba | $2,848 | a trip for 2 to Grotto Bay Beach Hotel in Bermuda. It's worth $2,848! |  |
+| 3 | 531 | Donna/Michael/Richard | 4/24/1986 | 2 | WATCH | WATCH-S3 | DeepCalm | $2,275 | This elegant Jules Jurgensen ladies' quartz watch! This is styled in a 14 karat yellow gold case set with 28 firey diamonds and basket weave bracelet. It's elegance by Jules Jurgensen. This is $2,275! |  |
+| 3 | 532 | Terry/Chuck/Leslie | 4/10/1986 |  |  |  |  |  |  |  |
+| 3 | 533 | Chris/Frances/Janet | 5/7/1986 |  |  |  |  |  |  |  |
+| 3 | 534 | Darryl/Beth/Janet | 4/1/1986 |  |  |  |  |  |  |  |
 | 3 | 537 | Brad/Cornelia/Pam | 4/15/1986 | 2 | BRACELET | BRACELET-S3 | Tony | $4,000 | an 18 carat golden bracelet, worth $4,000! |  |
 | 3 | 539 | Nick/Toots/Don | 4/17/1986 | 2 | ART | ART-S3 | Tony | $4,700 | a limited edition lithograph from Norman Rockwell! This "After the Prom" piece is worth $4,700! |  |
 | 3 | 544 | Susan/Mike/Bonnie | 4/24/1986 | 2 | SILVER | SILVER-S3 | MusicBox | $2,800 | a Cartier Stirling Silver dragon music box worth $2,800! |  |
@@ -235,8 +244,8 @@
 | 4 | 600 | Brenda/David/Cary | 9/26/1986 | 2 | TRIP | TRIP-S3 | Samba | $2,247 | a trip to Nashville and 6-night stay at Opryland Hotel, Grand Ole Opry, plus General Jackson showboat dinner and show excursion worth $2,247. |  |
 | 4 | 611 | Julie/David/Nita | 10/13/1986 | 2 | VIDEO | VIDEO-S3 | LetsGoDancin | $1,745 | a video camera and a video deck worth $1,745 dollars! |  |
 | 4 | 615 | Kathy/Michael/Martha | 10/17/1986 | 2 | STEREO | STEREO-S1 | Frisco | $1,595 | a stereo chair! Computerized massage lounger, built-in AM/FM radio, cassette player with surround stereo from H.W.E inc. It's worth $1,595! |  |
-| 4 | 616 | Marsha/Ed/Kathleen | 10/20/1986 | 2 | FUR | FUR-S4 | Tony | $4,000 | A spiffy fur for high-fashion warmth- the elegance of mink. They're all combined in this striped two-toned fur jacket. This part of the Fall collection from Dicker and Dicker of Beverly Hills. Worth $4,000! |  |
-| 4 | 619 | Bob/Larry/Phyllis | 10/23/1986 | 2 | FUR | FUR-S4 | Mournful | $7,500 | a Dicker & Dicker full-length pure white mink coat worth $7,500! |  |
+| 4 | 616 | Marsha/Ed/Kathleen | 10/20/1986 | 2 | FUR | FUR-S3 | Tony | $4,000 | A spiffy fur for high-fashion warmth- the elegance of mink. They're all combined in this striped two-toned fur jacket. This part of the Fall collection from Dicker and Dicker of Beverly Hills. Worth $4,000! |  |
+| 4 | 619 | Bob/Larry/Phyllis | 10/23/1986 | 2 | FUR | FUR-S3 | Mournful | $7,500 | a Dicker & Dicker full-length pure white mink coat worth $7,500! |  |
 | 4 | 629 | Erin/Anne/Bostic | 11/10/1986 | 2 | WATCHES | WATCHES-S1 | Mournful | $5,175 | a pair of Jules Jurgensen his-and-hers 14-karat gold watches worth $5,175! |  |
 | 4 | 631 | Lorraine/Patti/Mark | 11/6/1986 | 2 | SILVER | SILVER-S3 | Tony | $2,000 | a silver French sterling silver-hinged box with floral detailing and feet! From Tiffany, it's worth $2,000! |  |
 | 4 | 632 | Lee/Becky/Peter | 11/17/1986 | 2 | PIN |  |  | $4,575 | a Schlumberger's diamond ram head pin with a ruby eye. From Tiffany &Co., it's a $4,575 18-karart gold pin! |  |
@@ -245,7 +254,7 @@
 | 4 | 655 | Michelle/Debbie/Harvey | 11/21/1986 | 2 | CAR | CAR-S1 | LetsGoDancin | $31,211 | a Cadillac Seville! It's worth $31,211! |  |
 | 4 | 660 | Dan/Denise/Jo Anne | 12/22/1986 | 2 | ART | ART-S3 | Mournful | $5,200 | a boy's childhood lithograph featured by Steve Stein Art Gallery worth $5,200! |  |
 | 4 | 671 | Ann/Valerie/Helen | 1/7/1987 | 2 | TRIP | TRIP-S3 | Samba | $3,400 | a trip to Montego Bay, Jamaica retailing for $3,400! |  |
-| 4 | 681 | Maggie/Faye/Scott | 1/26/1987 | 2 | FUR | FUR-S4 | Tony | $10,000 | a full fur coat from Dicker & Dicker of Beverly Hills, worth $10,000! |  |
+| 4 | 681 | Maggie/Faye/Scott | 1/26/1987 | 2 | FUR | FUR-S3 | Tony | $10,000 | a full fur coat from Dicker & Dicker of Beverly Hills, worth $10,000! |  |
 | 4 | 686 | Susanne/Rosemarie/Shauna | 2/3/1987 | 2 | TRIP | TRIP-S3 | Samba | $1,688 | a week at the Radisson Paraiso Hotel Acapulco worth $1,688! |  |
 | 4 | 688 | Dan/Judi/Bonnie | 2/4/1987 | 2 | CAR | CAR-S1 | ShortHorns | $15,800 | a 2-door Jeep Cherokee Chief, valued at $15,800! |  |
 | 4 | 703 | Linda/Dave/Leonid | 2/25/1987 | 2 | JADE |  |  | $2,250 | a Chinese jade incense burner decorated with a phoenix bird. It's worth $2,250! |  |
@@ -255,10 +264,10 @@
 | 4 | 737 | Sue/Glenn/Maggie | 4/7/1987 | 2 | ART |  |  | $4,200 | an Erte bronze vase worth $4,200! |  |
 | 4 | 741 | Bob/Nancy/Eleanor | 4/2/1987 | 2 | BANGLE |  |  | $7,900 | a bangle from Tiffany. The bracelet is worth $7,900! |  |
 | 4 | 745 | Marjie/Steve/Pam | 5/1/1987 | 2 | WATCH | WATCH-S3 | Tony | $4,990 | a Lucien Piccard 1.75-karat diamond lady's watch worth $4,990! |  |
-| 4 | 750 | Robin/Jeff/Mamie | 5/8/1987 | 2 | FUR | FUR-S4 | Tony | $9,000 | a Dicker & Dicker chinchilla jacket worth $9,000! |  |
+| 4 | 750 | Robin/Jeff/Mamie | 5/8/1987 | 2 | FUR | FUR-S3 | Tony | $9,000 | a Dicker & Dicker chinchilla jacket worth $9,000! |  |
 | 4 | 760 | Sandra/Janet/Ray | 5/22/1987 | 2 | CAR | CAR-S1 | DiscoSax | $15,636 | a Buick Skylark limited sedan worth $15,636! |  |
 | 4 | 767 | Paula/Miriam/Jim | 5/15/1987 | 2 | CRYSTAL |  |  | $1,000 | an Orrefors crystal bowl worth $1,000! |  |
-| 4 | 768 | Chris/Martin/Dorothy | 6/3/1987 | 2 | FUR | FUR-S4 | DeepCalm | $9,500 | It's simple, elegant, the beauty is in the richness of the fur. Inviting to the touch, a Russian Sable evening jacket, the most coveted of all furs, from Dicker & Dicker of Beverly Hills. $9,500! |  |
+| 4 | 768 | Chris/Martin/Dorothy | 6/3/1987 | 2 | FUR | FUR-S3 | DeepCalm | $9,500 | It's simple, elegant, the beauty is in the richness of the fur. Inviting to the touch, a Russian Sable evening jacket, the most coveted of all furs, from Dicker & Dicker of Beverly Hills. $9,500! |  |
 | 4 | 769 | Sandy/Jim/Fran | 6/2/1987 | 2 | BOAT | BOAT-S2 | Struttin | $5,342 | an Addictor 190 Deluxe boat worth $5,342! |  |
 | 4 | 770 | Jackie/Gail/Ron | 6/15/1987 | 2 | TRIP | TRIP-S3 | Frisco | $8,620 | a trip to Michael McGinn's Mallow Castle in Ireland via Northwest Airlines worth $8,620! |  |
 | 4 | 771 | Martine/Jim/Gerri | 6/1/1987 | 2 | TRIP | TRIP-S3 | LetsGoDancin | $4,395 | a trip to a Luxury Home at Hawks Resort in Vermont! The value of this prize is $4,395 dollars! |  |
@@ -283,10 +292,10 @@
 | 5 | 792 | David/Dennis/Mike | 9/22/1987 | 2 | GOLD | GOLD-S5-B | Mournful | $2,950 | With a gift certificate, one of our players might choose this classic. It's a man's 18-carat gold I.D. bracelet. With plate for engraving. It's always appropriate, from Fred Joaillier. $2,950! |  |
 | 5 | 793 | Mary Anne/Susan/Kim | 9/23/1987 | 2 | DIAMOND | DIAMOND-S5 | Tony | $5,000 | a set of diamond earrings: from Lazare Kaplan, it's worth $5,000! |  |
 | 5 | 794 | Doug/Wayne/Jamie | 9/24/1987 | 2 | SPREE | SPREE-S5 | Frisco | $3,000 | a spree to Giorgio of Beverly Hills! It's a $3,000 gift certificate! |  |
-| 5 | 795 | David/Sandy | 9/25/1987 | 2 | PIANO | PIANO-S5 | RagtimeHigh | $5,995 | Let the Chickering Cabaret Piano Player take you back to simpler times. Play the old songs, the new songs, pump the pedals, let it play automatically, or play it like a conventional piano. It's from Chickering and Sons. $5,995! |  |
+| 5 | 795 | David/Sandy | 9/25/1987 | 2 | PIANO | PIANO-S2 | RagtimeHigh | $5,995 | Let the Chickering Cabaret Piano Player take you back to simpler times. Play the old songs, the new songs, pump the pedals, let it play automatically, or play it like a conventional piano. It's from Chickering and Sons. $5,995! |  |
 | 5 | 796 | John/Nancy/Peter | 10/5/1987 | 2 | BOAT | BOAT-S2 | Samba | $1,495 | a Snark high-performance sailboat worth $1,495! |  |
-| 5 | 796 | John/Nancy/Peter | 10/5/1987 | 4 | FUR | FUR-S4 | Tony | $4,500 | a gold frost mink coat worth $4,500! |  |
-| 5 | 801 | Rhonda/Patt/Jay | 10/12/1987 | 2 | FUR | FUR-S4 | Tony | $3,500 | an Edwards Lowell golden frost mink jacket worth $3,500! |  |
+| 5 | 796 | John/Nancy/Peter | 10/5/1987 | 4 | FUR | FUR-S3 | Tony | $4,500 | a gold frost mink coat worth $4,500! |  |
+| 5 | 801 | Rhonda/Patt/Jay | 10/12/1987 | 2 | FUR | FUR-S3 | Tony | $3,500 | an Edwards Lowell golden frost mink jacket worth $3,500! |  |
 | 5 | 801 | Rhonda/Patt/Jay | 10/12/1987 | 4 | SILVER | SILVER-S3 | Elevator | $4,906 | Lynne Deutch Sterling silver flatware worth $4,906! |  |
 | 5 | 809 | Mary Beth/Donna/Robin | 10/22/1987 | 2 | RING | RING-S1 | Frisco | $2,725 | a Krementz Jewelry 14-karat yellow gold ring with topaz and diamonds worth $2,725! |  |
 | 5 | 809 | Mary Beth/Donna/Robin | 10/22/1987 | 4 | TRIP | TRIP-S3 | Samba | $4,850 | a trip to Rio de Janeiro and 6-night stay at Hotel Inter-Continental Rio worth $4,850. |  |
@@ -296,12 +305,12 @@
 | 5 | 823 | Deb/Art/Amy | 11/11/1987 | 4 | FUR |  |  | $9,500 | a Dicker and Dicker silver cross mink coat worth $9,500! |  |
 | 5 | 825 | Jean/Kathy/John | 11/13/1987 | 2 | BERMUDA | BERMUDA-S5 | Samba | $4,460 | an Edison Greyhound luggage set and trip to Bermuda worth $4,460! |  |
 | 5 | 825 | Jean/Kathy/John | 11/13/1987 | 4 | CAR | CAR-S1 | ShortHorns | $9,663 | a Mercury Tracer automobile worth $9,663! |  |
-| 5 | 828 | Marie/Laura/Kevin | 11/18/1987 | 2 | PIANO | PIANO-S5 | DeepCalm | $5,898 | a Kimball La Petite grand piano worth $5,898! |  |
+| 5 | 828 | Marie/Laura/Kevin | 11/18/1987 | 2 | PIANO | PIANO-S2 | DeepCalm | $5,898 | a Kimball La Petite grand piano worth $5,898! |  |
 | 5 | 828 | Marie/Laura/Kevin | 11/18/1987 | 4 | TRUCK | TRUCK-S3 | DiscoSax | $12,929 | a 1988 Chevrolet S-10 pickup worth $12,929! |  |
 | 5 | 837 | Joseph/Stacey/Jennie | 12/1/1987 | 2 | ORGAN | ORGAN-S5 | Tony | $4,185 | We add a Schafer and Sons organ worth $4,185! |  |
 | 5 | 837 | Joseph/Stacey/Jennie | 12/1/1987 | 4 | TRIP | TRIP-S5-A | Samba | $8,197 | a Greyhound Luggage ensemble, plus a trip to Hawaii and stay at Westin Kauai worth $8,197! |  |
 | 5 | 839 | Norm/Marci/Dean | 12/3/1987 | 2 | C-BIKE | C-BIKE-S5 | Buzzword | $6,525 | a Leisure Tech Boats C-Bike worth $6,525! |  |
-| 5 | 839 | Norm/Marci/Dean | 12/3/1987 | 4 | FUR | FUR-S4 | Tony | $12,500 | a Dicker & Dicker chinchilla jacket worth $12,500! |  |
+| 5 | 839 | Norm/Marci/Dean | 12/3/1987 | 4 | FUR | FUR-S3 | Tony | $12,500 | a Dicker & Dicker chinchilla jacket worth $12,500! |  |
 | 5 | 840 | Sheila/Greg/Dick | 12/4/1987 | 2 | DESK | DESK-S5 | Frisco | $3,659 | a Zenith portable computer and Broyhill oak desk worth $3,659! |  |
 | 5 | 840 | Sheila/Greg/Dick | 12/4/1987 | 4 | RING | RING-S2 | DeepCalm | $8,500 | a Fred Joaillier furnished diamond ring worth $8,500! |  |
 | 5 | 841 | Susan/Erica/John | 12/7/1987 | 2 | RING | RING-S5 | DeepCalm | $2,725 | a Krementz 14-karat yellow gold ring with topaz and diamond worth $2,725! |  |
@@ -1512,105 +1521,105 @@
 
 | S# | Ep# | Contestants | Air Date | Round | Wedge Text | Wedge Variant | Music Cue | Value | Description | Notes |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 12 | 2146 | Melody/Stacy/Jason | 9/5/1994 | 2 | TRAVEL |  |  | $826 | For your next school trip pack up with Outdoor Products, quality travel gear made in the USA. Great for Travel or Outdoor Recreational Use, Life is a journey! We'll help you Pack! From Outdoor Products. Make those memories last with a new Konica Big mini. One of The world's smallest fully automatic 35mm compact camera. Plus Konica's colour print film. The right film for the right shot, From Konica. Now you're ready for any adventure! $826 dollars! |  |
-| 12 | 2146 | Melody/Stacy/Jason | 9/5/1994 | 4 | KONA |  |  |  |  | No prize plug. |
-| 12 | 2147 | Adam/Lauren/Danielle | 9/6/1994 | 2 | G.C. |  |  | $1,000 | It's a shopping spree at The Sharper Image! A gift certificate for any of their exciting products, such as this Billiards Table, This unique Guitar CD tower, and car model collectibles! Available through their 74 stores and catalogue. From the Sharper Image. $1000 dollars! |  |
-| 12 | 2147 | Adam/Lauren/Danielle | 9/6/1994 | 4 | HERSHEY |  |  |  | a trip to Hershey, Pennsylvania. | No prize plug. |
-| 12 | 2148 | Cameron/Paul/Tonya | 9/7/1994 | 2 | COMPUTER |  |  | $1,599 | It's a student's must. Inside Computer's 386 SX Personal Computer. Comes complete with high performance hard drive, monitor and enhanced keyboard for all your computing needs. Available exclusively through direct mail from Insight computers. Plus a complete collection of Info-taining software including Computer works, your hi-tech tour guide which explores the universe of micro-chips and Meg-O-Bytes, on your own computer. From Software marketing corporation. $1,599 dollars! | Pat: "Our best to you and your floppy disc." |
-| 12 | 2148 | Cameron/Paul/Tonya | 9/7/1994 | 4 | LAS VEGAS |  |  |  |  | No prize plug. |
-| 12 | 2149 | Christine/Barry/James | 9/8/1994 | 2 | WATCHES |  |  | $1,255 | a pair of Krieger watches, one for sailing and boating, plus a lunar one totaling $1,255! |  |
-| 12 | 2149 | Christine/Barry/James | 9/8/1994 | 4 | SPA |  |  |  |  | No prize plug. |
-| 12 | 2150 | Paul/Danielle/Chirstine | 9/9/1994 | 2 | LIMO |  |  | $1,000 | a Carey Limousine voucher worth $1,000! |  |
-| 12 | 2150 | Paul/Danielle/Chirstine | 9/9/1994 | 4 | MALIBU |  |  | $7,216 | a holiday at the Malibu Beach Inn with Goodyear Airship Eagle ride worth $7,216! |  |
-| 12 | 2151 | Shannon/Diane/Dave | 9/12/1994 | 2 | LOBSTER |  |  | $1,000 | a Lobster Gram seafood gift certificate worth $1,000! |  |
-| 12 | 2151 | Shannon/Diane/Dave | 9/12/1994 | 4 | SILVER |  |  |  |  | No prize plug. |
-| 12 | 2152 | Diane/Carolyn/Michael | 9/13/1994 | 2 | PUERTO RICO |  |  | $3,447 | a trip to Puerto Rico and stay at Holiday Inn Crowne Plaza Hotel & Casino worth $3,447! |  |
-| 12 | 2152 | Diane/Carolyn/Michael | 9/13/1994 | 4 | CRUISE |  |  |  | a Caribbean and Amazon cruise. | No prize plug. |
-| 12 | 2153 | Carolyn/Jim/Wayne | 9/14/1994 | 2 | WYOMING |  |  | $4,100 | a Wild West vacation at Vee Bar Ranch plus a ride on the Wyoming/Colorado Excursion Train worth $4,100! | No second prize this episode; round 4 was entirely a speed-up round. |
-| 12 | 2154 | Wayne/Lesley/Jack | 9/15/1994 | 2 | RING |  |  | $3,765 | A stunning Artcarved Luminescence diamond wedding anniversary band in 18 carat yellow gold, with 15 channel set diamonds totalling 1.44 carat weight. From Artcarved. $3,765 dollars! | No second prize this episode; round 4 was entirely a speed-up round. |
-| 12 | 2155 | Diane/Lesley/Rich | 9/16/1994 | 2 | VIRGINIA |  |  | $3,650 | Rediscover the history of colonial Williamsburg. Stay at Kingsmill Resort, located on the James river. You may enjoy golf on their championship courses, a visit to nearby Bush Gardens, or to historic colonial Williamsburg. From Kingsmill. $3,650 dollars! |  |
-| 12 | 2155 | Diane/Lesley/Rich | 9/16/1994 | 4 | JEWELRY |  |  |  | a pair of Multi-Stone Earrings | No prize plug. |
-| 12 | 2156 | George/Diane/Maryanne | 9/19/1994 | 2 | ART |  |  | $2,600 | a porcelain sculpture of Butterflyfish and Blue Damselfish valued at $2,600! |  |
-| 12 | 2156 | George/Diane/Maryanne | 9/19/1994 | 4 | NEW YORK |  |  |  | a trip to New York City. | No prize plug. |
-| 12 | 2157 | George/Anne/David | 9/20/1994 | 2 | ARIZONA |  |  | $3,260 | Feel the magic of Sedona. Bask in sunshine at the world renowned Los Abrigados Resort & Spa, located in picturesque Sedona, Arizona. Capture the ambiance surrounding this first class resort, with a ride on the Verde River canyon excursion trail. $3,260 dollars! |  |
-| 12 | 2157 | George/Anne/David | 9/20/1994 | 4 | ALASKA |  |  |  |  | No prize plug. |
-| 12 | 2158 | David/Ron/Kevin | 9/21/1994 | 2 | MAUI |  |  | $4,924 | a trip to Maui valued at $4,924! |  |
-| 12 | 2158 | David/Ron/Kevin | 9/21/1994 | 4 | WATCH |  |  |  | a men's diamond watch. | No prize plug. |
-| 12 | 2159 | Kathleen/Denise/Kevin | 9/22/1994 | 2 | SHOP |  |  | $3,999 | a gift certificate from Service Merchandise! Choose from their catalogue or redeem at any one of their over 365 stores nationwide. Featuring this 3-karat diamond cluster ring set in 14-karat gold. $3,999 dollars! |  |
-| 12 | 2159 | Kathleen/Denise/Kevin | 9/22/1994 | 4 | SINGAPORE |  |  |  | a trip to Singapore. | No prize plug. |
-| 12 | 2160 | Tanya/Chris/Kevin | 9/23/1994 | 2 | DINE |  |  | $4,001 | Royal Dalton's Dinnerware and Stemware. Retail value $4,001 dollars! | No second prize this episode; round 4 was entirely a speed-up round. |
-| 12 | 2161 | Joy/Bill/Roger | 9/26/1994 | 2 | WATCH |  |  | $1,895 | Kreiger's 18 karat gold and stainless steel watch! The value of this prize at retail is $1,895 dollars! |  |
-| 12 | 2161 | Joy/Bill/Roger | 9/26/1994 | 4 | SHOP |  |  |  |  | No prize plug. |
-| 12 | 2162 | Amy/Joy/George | 9/27/1994 | 2 | D.C. |  |  | $3,840 | a trip to Washington, D.C. worth $3,840! |  |
-| 12 | 2162 | Amy/Joy/George | 9/27/1994 | 4 | JEWELRY |  |  |  | a diamond pin. | No prize plug. |
-| 12 | 2163 | Carol/Asma/Amy | 9/28/1994 | 2 | LAS VEGAS |  |  | $2,650 | a trip to Bally's Casino Resort in Las Vegas worth $2,650! |  |
-| 12 | 2163 | Carol/Asma/Amy | 9/28/1994 | 4 | JEWELRY |  |  |  | a collection of diamond rings. | No prize plug. |
-| 12 | 2164 | Larry/Amy/Ben | 9/29/1994 | 2 | ART |  |  | $1,675 | a Martin Lawrence Galleries limited-edition Morning Garden serigraph worth $1,675! |  |
-| 12 | 2164 | Larry/Amy/Ben | 9/29/1994 | 4 | FISH |  |  |  | a fishing trip to British Columbia. | No prize plug. |
-| 12 | 2165 | Regina/TJ/Ben | 9/30/1994 | 2 | SILVER |  |  | $3,900 | a 52-piece Oneida Silversmiths Sterling flatware service for 8 worth $3,900! | No second prize this episode; round 4 was entirely a speed-up round. |
-| 12 | 2166 | Pat/Ben/Jan | 10/3/1994 | 2 | NEW YORK |  |  | $5,950 |  New York shopping spree at A&S Plaza plus a stay at the Marriott Marquis Hotel and Broadway tickets worth $5,950! |  |
-| 12 | 2166 | Pat/Ben/Jan | 10/3/1994 | 4 | KONA |  |  |  | a Kona trip. | No prize plug. |
-| 12 | 2167 | Dan/Laura/Scot | 10/4/1994 | 2 | HERSHEY |  |  | $3,550 | a trip to Hershey, Pennsylvania! Includes a stay at Hershey Lodge in Hershey Park which features a theme park and entertainment. Also includes a year's supply of Bar None, Cookies n' Mint and Hugs Chocolate. The value of this prize totals $3,550 dollars! |  |
-| 12 | 2167 | Dan/Laura/Scot | 10/4/1994 | 4 | CAYMAN |  |  |  |  | No prize plug. |
-| 12 | 2168 | Art/Eric/Scot | 10/5/1994 | 2 | MEXICO |  |  | $2,220 | a trip to Mexico! Retail value of this trip is $2,220 dollars! |  |
-| 12 | 2169 | Al/Diane/Eric | 10/6/1994 | 2 | SPA |  |  | $3,995 | a Coleman 280 compact spa for "paw-tios" and decks worth $3,995! |  |
-| 12 | 2169 | Al/Diane/Eric | 10/6/1994 | 4 | HAWAII |  |  |  | a Hawaii trip. | No prize plug. |
-| 12 | 2170 | Diane/Frank/Connie | 10/7/1994 | 2 | MALIBU |  |  | $4,008 | a trip to California's renowned beach haven, at Malibu! Also included is a special ride aboard a Goodyear Blimp! Retail value is $4,008 dollars! |  |
-| 12 | 2170 | Diane/Frank/Connie | 10/7/1994 | 4 | DIAMONDS |  |  |  |  | No prize plug. |
-| 12 | 2171 | Jamila/Steve/Connie | 10/10/1994 | 2 | ART |  |  | $1,800 | a Martin Lawrence Galleries limited-edition Reflections of Imperial Gardens serigraph worth $1,800! |  |
-| 12 | 2171 | Jamila/Steve/Connie | 10/10/1994 | 4 | SILVER |  |  |  |  | No prize plug. |
-| 12 | 2172 | Vivienne/Steve/Judy | 10/11/1994 | 2 | DIAMONDS |  |  | $6,000 | a diamond tennis bracelet by Keen Jewelry! In 14-karat gold with 2.75 carats of diamonds, this prize is worth $6,000 dollars! |  |
-| 12 | 2172 | Vivienne/Steve/Judy | 10/11/1994 | 4 | CRUISE |  |  | $6,226 | a Cruise through the Panama Canal from Dolphin Cruise lines! $6,226 dollars! |  |
-| 12 | 2173 | Chris/Yasin/Vivienne | 10/12/1994 | 2 | MEXICO |  |  | $6,554 | a trip to Mexico! This trip is worth $6,554 dollars! |  |
-| 12 | 2173 | Chris/Yasin/Vivienne | 10/12/1994 | 4 | RING |  |  |  |  | No prize plug. |
-| 12 | 2174 | Ted/Yasin/Tamara | 10/13/1994 | 2 | KONA |  |  | $7,092 | a vacation to Hawaii! It's a divers vacation, and if won, the winner will stay aboard the Kona Agressor II and have the opportunity to dive off Hawaii's big island for an entire week. Retail value is $7,092 dollars! |  |
-| 12 | 2174 | Ted/Yasin/Tamara | 10/13/1994 | 4 | SHOP |  |  |  |  | No prize plug. |
-| 12 | 2175 | Donna/Katie/Yasin | 10/14/1994 | 2 | CRYSTAL |  |  | $2,650 | a Dove Sculpture at retail worth $2,650 dollars! |  |
-| 12 | 2175 | Donna/Katie/Yasin | 10/14/1994 | 4 | JEWELRY |  |  |  |  | No prize plug. |
-| 12 | 2176 | Donna/Joanne/Connelly | 10/17/1994 | 2 | SHOP |  |  | $4,192 | a Mall of America in Minnesota shopping spree worth $4,192! |  |
-| 12 | 2176 | Donna/Joanne/Connelly | 10/17/1994 | 4 | SCOOTERS |  |  |  |  | No prize plug. |
-| 12 | 2177 | Eric/Janice/Donna | 10/18/1994 | 2 | WATCHES |  |  | $2,190 | a pair of Steel and 18-karat gold accented Swiss watches! Scratch resistant sapphire crystals and water resistant to 660 feet from Krieger! $2,190 dollars! |  |
-| 12 | 2177 | Eric/Janice/Donna | 10/18/1994 | 4 | JEWELRY |  |  |  |  | No prize plug. |
-| 12 | 2178 | Janice/Susan/Ted | 10/19/1994 | 2 | JEWELRY |  |  | $7,300 | a pair of Hammerman "Compatibles" rings with your choice of gold/platinum, gold/diamond, or all diamond, a prize worth $7,300! |  |
-| 12 | 2178 | Janice/Susan/Ted | 10/19/1994 | 4 | RANCH |  |  | $3,140 | a dude ranch adventure at Roseland Ranch in New York worth $3,140! |  |
-| 12 | 2179 | Susan/Hobie/Danny | 10/20/1994 | 2 | FISH |  |  | $5,190 | a fishing trip to British Columbia and stay at Tahsis Lodge on Vancouver Island worth $5,190! |  |
-| 12 | 2179 | Susan/Hobie/Danny | 10/20/1994 | 4 | BOAT |  |  |  |  | No prize plug. |
-| 12 | 2180 | Bonnie/Danny/Dick | 10/21/1994 | 2 | NEW YORK |  |  | $5,400 | a Big Apple holiday! It's at the heart of Manhattan's Theatre District with a stay at the Renaissance Hotel, includes seats to Damn Yankees at the Marquis plus dinner for two, and is worth $5,400! |  |
-| 12 | 2180 | Bonnie/Danny/Dick | 10/21/1994 | 4 | JUKEBOX |  |  | $8,794 | a Wurlitzer 1015 CD jukebox with Columbia House music worth $8,794! |  |
-| 12 | 2181 | Danny/Jeanne/Rosemary | 10/24/1994 | 2 | EARRINGS |  |  | $5,500 | 18 karat earrings, with diamonds and colored stones. Retail value is $5,500 dollars! |  |
-| 12 | 2181 | Danny/Jeanne/Rosemary | 10/24/1994 | 4 | NEW YORK |  |  |  |  | No prize plug. |
-| 12 | 2182 | Al/Erin/Jacqueline | 10/25/1994 | 2 | CRYSTAL |  |  | $1,099 | Long stem crystal glassware from Da Vinci! $1,099 dollars! |  |
-| 12 | 2182 | Al/Erin/Jacqueline | 10/25/1994 | 4 | ALASKA |  |  |  | a great trip to Alaska | No prize plug. |
-| 12 | 2183 | Jacqueline/Joe/Robyn | 10/26/1994 | 2 | WATCH |  |  | $5,200 | a Croton 14-karat gold man's panther link bracelet watch with 0.5-karat diamond bezel and 11 diamonds worth $5,200! |  |
-| 12 | 2183 | Jacqueline/Joe/Robyn | 10/26/1994 | 4 | RUG |  |  |  |  | No prize plug. |
-| 12 | 2184 | Al/Joe/Steven | 10/27/1994 | 2 | SILVER |  |  | $2,937 | a Wallace Silversmiths tea service with Lazy Susan and chafing dish worth $2,937! |  |
-| 12 | 2184 | Al/Joe/Steven | 10/27/1994 | 4 | SINGAPORE |  |  |  |  | No prize plug. |
-| 12 | 2185 | Josephine/Steven/Stefan | 10/28/1994 | 2 | WATCHES |  |  | $2,580 | a Fendi watch set, two "evening" with 18-karat gold bezel, and two "active" gold overlay/steel with leather, all with quartz movement and worth $2,580! |  |
-| 12 | 2185 | Josephine/Steven/Stefan | 10/28/1994 | 4 | PIANO |  |  |  |  | No prize plug. |
-| 12 | 2186 | Roger/Clasine/Nedwin | 10/31/1994 | 2 | WATCH |  |  | $1,895 | a Krieger watch! The retail value of this watch is $1,895 dollars! | No second prize this episode; round 4 was entirely a speed-up round. |
-| 12 | 2187 | Nedwin/Dan/Shawn | 11/1/1994 | 2 | COINS |  |  | $1,463 | a collection of coins, four from from the Gold/Silver Constitution Set, and four from the Gold Eagle Set valued at $1,463! | No second prize this episode for unknown reasons |
-| 12 | 2188 | Shirley/Dan/Keri | 11/2/1994 | 2 | TV |  |  | $2,500 | a Magnavox large screen TV! The value of this prize is $2,500 dollars! | No second prize this episode; round 4 was entirely a speed-up round. |
-| 12 | 2189 | Greg/Dan/Vincent | 11/3/1994 | 2 | BOOTS |  |  | $1,500 | Cowboy boots from Justin! The value of this prize is $1,500 dollars! | No second prize this episode; round 4 was entirely a speed-up round. |
-| 12 | 2190 | Bree/Greg/Harold | 11/4/1994 | 2 | PIANO |  |  | $6,750 | a QRS Casablanca player piano worth $6,750! | No second prize this episode for unknown reasons |
-| 12 | 2191 | Maia/Stefan/Tim | 11/7/1994 | 2 | BANGKOK |  |  | $5,652 | a trip to Bangkok! The value of this prize is $5,652 dollars! | No second prize this episode; round 4 was entirely a speed-up round. |
-| 12 | 2192 | Scott/Charlene/Tim | 11/8/1994 | 2 | JEWELRY |  |  | $5,900 | a Fred Joaillier gift certificate featuring a 18-karat gold and diamond panther pin worth $5,900! | No second prize this episode; round 4 was entirely a speed-up round. |
-| 12 | 2193 | Marjorie/Charlene/Bhavana | 11/9/1994 | 2 | RING |  |  | $9,500 | a dinner ring with 2.14 karats set in platinum from Frances Klein of Beverly Hills! Retail value is $9,500 dollars! | No second prize this episode; round 4 was entirely a speed-up round. |
-| 12 | 2194 | Lottie/Bhavana/Nathan | 11/10/1994 | 2 | BOAT |  |  | $9,195 | a Rush Regal jet boat worth $9,195! | No second prize this episode; round 4 was entirely a speed-up round. |
-| 12 | 2195 | Sam/Debi/Nathan | 11/11/1994 | 2 | DIAMONDS |  |  | $7,050 | a Krementz 18-karat gold and diamond necklace totaling 1.98 karats worth $7,050! | No second prize this episode for unknown reasons |
-| 12 | 2196 | Gary/Dennis/Nathan | 11/14/1994 | 2 | SILVER |  |  | $6,500 | a Lunt Silversmiths Paul Revere Sterling tea service worth $6,500! | No second prize this episode; round 4 was entirely a speed-up round. |
-| 12 | 2197 | Gary/Beth/Mick | 11/15/1994 | 2 | FIJI |  |  | $9,055 | a trip to Fiji! Retail value is $9,055 dollars! | No second prize this episode; round 4 was entirely a speed-up round. |
-| 12 | 2198 | Darlene/Ron/Mick | 11/16/1994 | 2 | RUG |  |  | $5,500 | an Oriental Rug! Retail value is $5,500 dollars! | No second prize this episode for unknown reasons |
-| 12 | 2199 | Darlene/Renee/Teresa | 11/17/1994 | 2 | COMPUTER |  |  | $1,499 | a computer from AT&T! Retail value is $1,499 dollars! | No second prize this episode for unknown reasons |
-| 12 | 2200 | Gregory/Teresa/Lisa | 11/18/1994 | 2 | PIANO |  |  | $10,190 | a Wurlitzer Grand Piano! Retail value is $10,190 dollars! | No second prize this episode; round 4 was entirely a speed-up round. |
-| 12 | 2201 | Teressa/Gary/Bree | 11/21/1994 | 2 | HANDBAGS |  |  | $2,000 | handbags from Fred Hayman! Retail value is $2,000 dollars! |  |
-| 12 | 2201 | Teressa/Gary/Bree | 11/21/1994 | 4 | BRACELET |  |  | $6,000 | Keen's Diamond Tennis Bracelet! Retail value is $6,000 dollars! | A rare Season 12 Round 4 unprompted prize plug. |
-| 12 | 2202 | Denise/Vince/Sophie | 11/22/1994 | 2 | COMPUTER |  |  | $3,940 | a handheld computer from Scion! Retail value is $3,940 dollars! |  |
-| 12 | 2202 | Denise/Vince/Sophie | 11/22/1994 | 4 | BIKE |  |  |  |  | No prize plug. |
-| 12 | 2203 | Tammy/Rodney/Denise | 11/23/1994 | 2 | BIKE |  |  | $4,299 | a 1995 Kawasaki Ninja 500 sport-bike worth $4,299! |  |
-| 12 | 2203 | Tammy/Rodney/Denise | 11/23/1994 | 4 | DOCUMENT |  |  |  |  | No prize plug. |
-| 12 | 2204 | Tamara/Denise/Tina | 11/24/1994 | 2 | RING |  |  | $4,134 | a Cocktail ring from Krementz and Co. worth $4,134! | No second prize this episode; round 4 was entirely a speed-up round. |
-| 12 | 2205 | Scot/Marilyn/Tom | 11/25/1994 | 2 | ART |  |  | $5,000 | an oil painting created by renowned Texas Artist Clyde Heron! Retail value is $5,000 dollars! |  |
-| 12 | 2205 | Scot/Marilyn/Tom | 11/25/1994 | 4 | DOCUMENT |  |  |  |  | No prize plug. |
+| 12 | 2146 | Melody/Stacy/Jason | 9/5/1994 | 2 | TRAVEL | TRAVEL-S10-B | BustleSax | $826 | For your next school trip pack up with Outdoor Products, quality travel gear made in the USA. Great for Travel or Outdoor Recreational Use, Life is a journey! We'll help you Pack! From Outdoor Products. Make those memories last with a new Konica Big mini. One of The world's smallest fully automatic 35mm compact camera. Plus Konica's colour print film. The right film for the right shot, From Konica. Now you're ready for any adventure! $826 dollars! |  |
+| 12 | 2146 | Melody/Stacy/Jason | 9/5/1994 | 4 | KONA | KONA-S12-A |  |  | A trip to Kona. | No prize plug. |
+| 12 | 2147 | Adam/Lauren/Danielle | 9/6/1994 | 2 | G.C. | GC-S12 | WaitingForU | $1,000 | It's a shopping spree at The Sharper Image! A gift certificate for any of their exciting products, such as this Billiards Table, This unique Guitar CD tower, and car model collectibles! Available through their 74 stores and catalogue. From the Sharper Image. $1000 dollars! |  |
+| 12 | 2147 | Adam/Lauren/Danielle | 9/6/1994 | 4 | HERSHEY | HERSHEY-S12 |  |  | a trip to Hershey, Pennsylvania. | No prize plug. Wedge is only ever on camera obliquely from a distance, variant presumed but not captured. |
+| 12 | 2148 | Cameron/Paul/Tonya | 9/7/1994 | 2 | COMPUTER | COMPUTER-S12-A | DinnerSax | $1,599 | It's a student's must. Inside Computer's 386 SX Personal Computer. Comes complete with high performance hard drive, monitor and enhanced keyboard for all your computing needs. Available exclusively through direct mail from Insight computers. Plus a complete collection of Info-taining software including Computer works, your hi-tech tour guide which explores the universe of micro-chips and Meg-O-Bytes, on your own computer. From Software marketing corporation. $1,599 dollars! | Pat: "Our best to you and your floppy disc." |
+| 12 | 2148 | Cameron/Paul/Tonya | 9/7/1994 | 4 | LAS VEGAS | LAS-VEGAS-S12-A |  |  | a trip to Las Vegas. | No prize plug. |
+| 12 | 2149 | Christine/Barry/James | 9/8/1994 | 2 | WATCHES | WATCHES-S10 | SaxxyG | $1,255 | a pair of Krieger watches, one for sailing and boating, plus a lunar one totaling $1,255! |  |
+| 12 | 2149 | Christine/Barry/James | 9/8/1994 | 4 | SPA | SPA-S10 |  |  | a spa. | No prize plug. |
+| 12 | 2150 | Paul/Danielle/Chirstine | 9/9/1994 | 2 | LIMO | LIMO-S12 | RisingSax | $1,000 | a Carey Limousine voucher worth $1,000! |  |
+| 12 | 2150 | Paul/Danielle/Chirstine | 9/9/1994 | 4 | MALIBU | MALIBU-S12 |  | $7,216 | a holiday at the Malibu Beach Inn with Goodyear Airship Eagle ride worth $7,216! |  |
+| 12 | 2151 | Shannon/Diane/Dave | 9/12/1994 | 2 | LOBSTER | LOBSTER-S12 | HeartBassDrum | $1,000 | a Lobster Gram seafood gift certificate worth $1,000! |  |
+| 12 | 2151 | Shannon/Diane/Dave | 9/12/1994 | 4 | SILVER |  |  |  | a silver tea service. | No prize plug. Wedge is only ever on camera obliquely from a distance, variant not presumed, probably an S10-A or S10-B. |
+| 12 | 2152 | Diane/Carolyn/Michael | 9/13/1994 | 2 | PUERTO RICO | PUIERTO-RICO-S12 | DinnerSax | $3,447 | a trip to Puerto Rico and stay at Holiday Inn Crowne Plaza Hotel & Casino worth $3,447! |  |
+| 12 | 2152 | Diane/Carolyn/Michael | 9/13/1994 | 4 | CRUISE | CRUISE-S12 |  |  | a Caribbean and Amazon cruise. | No prize plug. |
+| 12 | 2153 | Carolyn/Jim/Wayne | 9/14/1994 | 2 | WYOMING | WYOMING-S12 | WestHarmonica | $4,100 | a Wild West vacation at Vee Bar Ranch plus a ride on the Wyoming/Colorado Excursion Train worth $4,100! | No second prize this episode; round 4 was entirely a speed-up round. |
+| 12 | 2154 | Wayne/Lesley/Jack | 9/15/1994 | 2 | RING | RING-S7-B | SaxxyG | $3,765 | A stunning Artcarved Luminescence diamond wedding anniversary band in 18 carat yellow gold, with 15 channel set diamonds totalling 1.44 carat weight. From Artcarved. $3,765 dollars! | No second prize this episode; round 4 was entirely a speed-up round. |
+| 12 | 2155 | Diane/Lesley/Rich | 9/16/1994 | 2 | VIRGINIA | VIRGINIA-S12 | RisingSax | $3,650 | Rediscover the history of colonial Williamsburg. Stay at Kingsmill Resort, located on the James river. You may enjoy golf on their championship courses, a visit to nearby Bush Gardens, or to historic colonial Williamsburg. From Kingsmill. $3,650 dollars! |  |
+| 12 | 2155 | Diane/Lesley/Rich | 9/16/1994 | 4 | JEWELRY | JEWELRY-S12-A |  |  | a pair of Multi-Stone Earrings. | No prize plug. |
+| 12 | 2156 | George/Diane/Maryanne | 9/19/1994 | 2 | ART | ART-S12-A | PluckyPearl | $2,600 | a porcelain sculpture of Butterflyfish and Blue Damselfish valued at $2,600! |  |
+| 12 | 2156 | George/Diane/Maryanne | 9/19/1994 | 4 | NEW YORK | NEW-YORK-S12 |  |  | a trip to New York City. | No prize plug. |
+| 12 | 2157 | George/Anne/David | 9/20/1994 | 2 | ARIZONA | ARIZONA-S10 | DinnerSax | $3,260 | Feel the magic of Sedona. Bask in sunshine at the world renowned Los Abrigados Resort & Spa, located in picturesque Sedona, Arizona. Capture the ambiance surrounding this first class resort, with a ride on the Verde River canyon excursion trail. $3,260 dollars! |  |
+| 12 | 2157 | George/Anne/David | 9/20/1994 | 4 | ALASKA | ALASKA-S12 |  |  | a cruise to Alaska. | No prize plug. |
+| 12 | 2158 | David/Ron/Kevin | 9/21/1994 | 2 | MAUI | MAUI-S12 | Nightwalk | $4,924 | a trip to Maui valued at $4,924! |  |
+| 12 | 2158 | David/Ron/Kevin | 9/21/1994 | 4 | WATCH | WATCH-S11 |  |  | a man's diamond watch. | No prize plug. |
+| 12 | 2159 | Kathleen/Denise/Kevin | 9/22/1994 | 2 | SHOP | SHOP-S12-A | Gliss | $3,999 | a gift certificate from Service Merchandise! Choose from their catalogue or redeem at any one of their over 365 stores nationwide. Featuring this 3-karat diamond cluster ring set in 14-karat gold. $3,999 dollars! |  |
+| 12 | 2159 | Kathleen/Denise/Kevin | 9/22/1994 | 4 | SINGAPORE | SINGAPORE-S12 |  |  | a trip to Singapore. | No prize plug. |
+| 12 | 2160 | Tanya/Chris/Kevin | 9/23/1994 | 2 | DINE | DINE-S10 | FluteBam | $4,001 | Royal Dalton's Dinnerware and Stemware. Retail value $4,001 dollars! | No second prize this episode; round 4 was entirely a speed-up round. |
+| 12 | 2161 | Joy/Bill/Roger | 9/26/1994 | 2 | WATCH | WATCH-S7-C | LegatoUpDownSax | $1,895 | Kreiger's 18 karat gold and stainless steel watch! The value of this prize at retail is $1,895 dollars! |  |
+| 12 | 2161 | Joy/Bill/Roger | 9/26/1994 | 4 | SHOP | SHOP-S12-B |  |  |  | No prize plug. |
+| 12 | 2162 | Amy/Joy/George | 9/27/1994 | 2 | D.C. | DC-S12 | HeartBassDrum | $3,840 | a trip to Washington, D.C. worth $3,840! |  |
+| 12 | 2162 | Amy/Joy/George | 9/27/1994 | 4 | JEWELRY | JEWELRY-S12-A |  |  | a beautiful diamond pin. | No prize plug. |
+| 12 | 2163 | Carol/Asma/Amy | 9/28/1994 | 2 | LAS VEGAS | LAS-VEGAS-S12-B | BustleSax | $2,650 | a trip to Bally's Casino Resort in Las Vegas worth $2,650! |  |
+| 12 | 2163 | Carol/Asma/Amy | 9/28/1994 | 4 | JEWELRY |  |  |  | a collection of diamond rings. | No prize plug. Wedge is only ever on camera obliquely from a distance, variant not presumed. |
+| 12 | 2164 | Larry/Amy/Ben | 9/29/1994 | 2 | ART | ART-S12-B | MutedTrumpet | $1,675 | a Martin Lawrence Galleries limited-edition Morning Garden serigraph worth $1,675! |  |
+| 12 | 2164 | Larry/Amy/Ben | 9/29/1994 | 4 | FISH | FISH-S10 |  |  | a fishing trip to British Columbia. | No prize plug. |
+| 12 | 2165 | Regina/TJ/Ben | 9/30/1994 | 2 | SILVER | SILVER-S12-A | ToothySynth | $3,900 | a 52-piece Oneida Silversmiths Sterling flatware service for 8 worth $3,900! | No second prize this episode; round 4 was entirely a speed-up round. |
+| 12 | 2166 | Pat/Ben/Jan | 10/3/1994 | 2 | NEW YORK | NEW-YORK-S12 | ScoldingSax | $5,950 |  New York shopping spree at A&S Plaza plus a stay at the Marriott Marquis Hotel and Broadway tickets worth $5,950! |  |
+| 12 | 2166 | Pat/Ben/Jan | 10/3/1994 | 4 | KONA | KONA-S12-B |  |  | a great Hawaiian trip. | No prize plug. |
+| 12 | 2167 | Dan/Laura/Scot | 10/4/1994 | 2 | HERSHEY | HERSHEY-S12 | DinnerSax | $3,550 | a trip to Hershey, Pennsylvania! Includes a stay at Hershey Lodge in Hershey Park which features a theme park and entertainment. Also includes a year's supply of Bar None, Cookies n' Mint and Hugs Chocolate. The value of this prize totals $3,550 dollars! |  |
+| 12 | 2167 | Dan/Laura/Scot | 10/4/1994 | 4 | CAYMAN | CAYMAN-S12 |  |  | the Cayman islands, a great trip. | No prize plug. |
+| 12 | 2168 | Art/Eric/Scot | 10/5/1994 | 2 | MEXICO | MEXICO-S11 | Ranchera | $2,220 | a trip to Mexico! Retail value of this trip is $2,220 dollars! |  |
+| 12 | 2169 | Al/Diane/Eric | 10/6/1994 | 2 | SPA | SPA-S10 | SynthSaxDuel | $3,995 | a Coleman 280 compact spa for "paw-tios" and decks worth $3,995! |  |
+| 12 | 2169 | Al/Diane/Eric | 10/6/1994 | 4 | HAWAII | HAWAII-S12 |  |  | a Hawaii trip. | No prize plug. |
+| 12 | 2170 | Diane/Frank/Connie | 10/7/1994 | 2 | MALIBU | MALIBU-S12 | LegatoUpDownSax | $4,008 | a trip to California's renowned beach haven, at Malibu! Also included is a special ride aboard a Goodyear Blimp! Retail value is $4,008 dollars! |  |
+| 12 | 2170 | Diane/Frank/Connie | 10/7/1994 | 4 | DIAMONDS |  |  |  |  | No prize plug. Wedge is only ever on camera obliquely from a distance, variant not presumed. |
+| 12 | 2171 | Jamila/Steve/Connie | 10/10/1994 | 2 | ART | ART-S12-B | MutedTrumpet | $1,800 | a Martin Lawrence Galleries limited-edition Reflections of Imperial Gardens serigraph worth $1,800! |  |
+| 12 | 2171 | Jamila/Steve/Connie | 10/10/1994 | 4 | SILVER | SILVER-S10-B |  |  | a silver tea service. | No prize plug. |
+| 12 | 2172 | Vivienne/Steve/Judy | 10/11/1994 | 2 | DIAMONDS | DIAMONDS-S12 | Fairytale | $6,000 | a diamond tennis bracelet by Keen Jewelry! In 14-karat gold with 2.75 carats of diamonds, this prize is worth $6,000 dollars! |  |
+| 12 | 2172 | Vivienne/Steve/Judy | 10/11/1994 | 4 | CRUISE | CRUISE-S12 | BubbleTriplets | $6,226 | a Cruise through the Panama Canal from Dolphin Cruise lines! $6,226 dollars! |  |
+| 12 | 2173 | Chris/Yasin/Vivienne | 10/12/1994 | 2 | MEXICO | MEXICO-S12 | Ranchera | $6,554 | a trip to Mexico! This trip is worth $6,554 dollars! |  |
+| 12 | 2173 | Chris/Yasin/Vivienne | 10/12/1994 | 4 | RING | RING-S7-B |  |  | a ring. | No prize plug. |
+| 12 | 2174 | Ted/Yasin/Tamara | 10/13/1994 | 2 | KONA | KONA-S12-B | Luau | $7,092 | a vacation to Hawaii! It's a divers vacation, and if won, the winner will stay aboard the Kona Agressor II and have the opportunity to dive off Hawaii's big island for an entire week. Retail value is $7,092 dollars! |  |
+| 12 | 2174 | Ted/Yasin/Tamara | 10/13/1994 | 4 | SHOP | SHOP-S12-B |  |  | a nice prize. | No prize plug. |
+| 12 | 2175 | Donna/Katie/Yasin | 10/14/1994 | 2 | CRYSTAL | CRYSTAL-S12-A | ApartmentLobby | $2,650 | a Dove Sculpture at retail worth $2,650 dollars! |  |
+| 12 | 2175 | Donna/Katie/Yasin | 10/14/1994 | 4 | JEWELRY | JEWELRY-S12-A |  |  | a nice prize. | No prize plug. |
+| 12 | 2176 | Donna/Joanne/Connelly | 10/17/1994 | 2 | SHOP | SHOP-S12-A | Nightwalk | $4,192 | a Mall of America in Minnesota shopping spree worth $4,192! |  |
+| 12 | 2176 | Donna/Joanne/Connelly | 10/17/1994 | 4 | SCOOTERS | SCOOTERS-S7 |  |  | his and hers scooters. | No prize plug. |
+| 12 | 2177 | Eric/Janice/Donna | 10/18/1994 | 2 | WATCHES | WATCHES-S12 | LegatoUpDownSax | $2,190 | a pair of Steel and 18-karat gold accented Swiss watches! Scratch resistant sapphire crystals and water resistant to 660 feet from Krieger! $2,190 dollars! |  |
+| 12 | 2177 | Eric/Janice/Donna | 10/18/1994 | 4 | JEWELRY | JEWELRY-S12-A |  |  | some jewels. | No prize plug. |
+| 12 | 2178 | Janice/Susan/Ted | 10/19/1994 | 2 | JEWELRY | JEWELRY-S12-B | Gliss | $7,300 | a pair of Hammerman "Compatibles" rings with your choice of gold/platinum, gold/diamond, or all diamond, a prize worth $7,300! |  |
+| 12 | 2178 | Janice/Susan/Ted | 10/19/1994 | 4 | RANCH | RANCH-S12 | RisingSax | $3,140 | a dude ranch adventure at Roseland Ranch in New York worth $3,140! |  |
+| 12 | 2179 | Susan/Hobie/Danny | 10/20/1994 | 2 | FISH | FISH-S10 | StruttinB | $5,190 | a fishing trip to British Columbia and stay at Tahsis Lodge on Vancouver Island worth $5,190! |  |
+| 12 | 2179 | Susan/Hobie/Danny | 10/20/1994 | 4 | BOAT | BOAT-S7-A |  |  | a boat. | No prize plug. |
+| 12 | 2180 | Bonnie/Danny/Dick | 10/21/1994 | 2 | NEW YORK | NEW-YORK-S12 | ScoldingSax | $5,400 | a Big Apple holiday! It's at the heart of Manhattan's Theatre District with a stay at the Renaissance Hotel, includes seats to Damn Yankees at the Marquis plus dinner for two, and is worth $5,400! |  |
+| 12 | 2180 | Bonnie/Danny/Dick | 10/21/1994 | 4 | JUKE BOX | JUKE-BOX-S12 | BassGuitarFusion | $8,794 | a Wurlitzer 1015 CD jukebox with Columbia House music worth $8,794! |  |
+| 12 | 2181 | Danny/Jeanne/Rosemary | 10/24/1994 | 2 | EARRINGS | EARRINGS-S12 | TrumpetLonging | $5,500 | 18 karat earrings, with diamonds and colored stones. Retail value is $5,500 dollars! |  |
+| 12 | 2181 | Danny/Jeanne/Rosemary | 10/24/1994 | 4 | NEW YORK | NEW-YORK-S12 |  |  | a trip to New York. | No prize plug. |
+| 12 | 2182 | Al/Erin/Jacqueline | 10/25/1994 | 2 | CRYSTAL | CRYSTAL-S12-B | Fairytale | $1,099 | Long stem crystal glassware from Da Vinci! $1,099 dollars! |  |
+| 12 | 2182 | Al/Erin/Jacqueline | 10/25/1994 | 4 | ALASKA | ALASKA-S12 |  |  | a great trip to Alaska. | No prize plug. |
+| 12 | 2183 | Jacqueline/Joe/Robyn | 10/26/1994 | 2 | WATCH | WATCH-S9-A | LegatoUpDownSax | $5,200 | a Croton 14-karat gold man's panther link bracelet watch with 0.5-karat diamond bezel and 11 diamonds worth $5,200! |  |
+| 12 | 2183 | Jacqueline/Joe/Robyn | 10/26/1994 | 4 | RUG | RUG-S12 |  |  | another prize. | No prize plug. |
+| 12 | 2184 | Al/Joe/Steven | 10/27/1994 | 2 | SILVER | SILVER-S12-B | FluteBam | $2,937 | a Wallace Silversmiths tea service with Lazy Susan and chafing dish worth $2,937! |  |
+| 12 | 2184 | Al/Joe/Steven | 10/27/1994 | 4 | SINGAPORE | SINGAPORE-S12 |  |  | a great trip to Singapore. | No prize plug. |
+| 12 | 2185 | Josephine/Steven/Stefan | 10/28/1994 | 2 | WATCHES | WATCHES-S12 | ToothySynth | $2,580 | a Fendi watch set, two "evening" with 18-karat gold bezel, and two "active" gold overlay/steel with leather, all with quartz movement and worth $2,580! |  |
+| 12 | 2185 | Josephine/Steven/Stefan | 10/28/1994 | 4 | PIANO | PIANO-S11 |  |  | a grand piano. | No prize plug. |
+| 12 | 2186 | Roger/Clasine/Nedwin | 10/31/1994 | 2 | WATCH | WATCH-S9-A | Nightwalk | $1,895 | a Krieger watch! The retail value of this watch is $1,895 dollars! | No second prize this episode; round 4 was entirely a speed-up round. |
+| 12 | 2187 | Nedwin/Dan/Shawn | 11/1/1994 | 2 | COINS | COINS-S12 | WestHarmonica | $1,463 | a collection of coins, four from from the Gold/Silver Constitution Set, and four from the Gold Eagle Set valued at $1,463! | No second prize this episode for unknown reasons |
+| 12 | 2188 | Shirley/Dan/Keri | 11/2/1994 | 2 | TV | TV-S11 | Fairytale | $2,500 | a Magnavox large screen TV! The value of this prize is $2,500 dollars! | No second prize this episode; round 4 was entirely a speed-up round. |
+| 12 | 2189 | Greg/Dan/Vincent | 11/3/1994 | 2 | BOOTS | BOOTS-S12 | Nightwalk | $1,500 | Cowboy boots from Justin! The value of this prize is $1,500 dollars! | No second prize this episode; round 4 was entirely a speed-up round. |
+| 12 | 2190 | Bree/Greg/Harold | 11/4/1994 | 2 | PIANO | PIANO-S11 | HoedownPiano | $6,750 | a QRS Casablanca player piano worth $6,750! | No second prize this episode for unknown reasons |
+| 12 | 2191 | Maia/Stefan/Tim | 11/7/1994 | 2 | BANGKOK | BANGKOK-S12 | Oriental | $5,652 | a trip to Bangkok! The value of this prize is $5,652 dollars! | No second prize this episode; round 4 was entirely a speed-up round. |
+| 12 | 2192 | Scott/Charlene/Tim | 11/8/1994 | 2 | JEWELRY | JEWELRY-S12-A | SynthSaxDuel | $5,900 | a Fred Joaillier gift certificate featuring a 18-karat gold and diamond panther pin worth $5,900! | No second prize this episode; round 4 was entirely a speed-up round. |
+| 12 | 2193 | Marjorie/Charlene/Bhavana | 11/9/1994 | 2 | RING | RING-S7-B | Gliss | $9,500 | a dinner ring with 2.14 karats set in platinum from Frances Klein of Beverly Hills! Retail value is $9,500 dollars! | No second prize this episode; round 4 was entirely a speed-up round. |
+| 12 | 2194 | Lottie/Bhavana/Nathan | 11/10/1994 | 2 | BOAT | BOAT-S7-A | 1980PrizeCue | $9,195 | a Rush Regal jet boat worth $9,195! | No second prize this episode; round 4 was entirely a speed-up round. |
+| 12 | 2195 | Sam/Debi/Nathan | 11/11/1994 | 2 | DIAMONDS | DIAMONDS-S7 | Gliss | $7,050 | a Krementz 18-karat gold and diamond necklace totaling 1.98 karats worth $7,050! | No second prize this episode for unknown reasons |
+| 12 | 2196 | Gary/Dennis/Nathan | 11/14/1994 | 2 | SILVER | SILVER-S10-B | FluteBam | $6,500 | a Lunt Silversmiths Paul Revere Sterling tea service worth $6,500! | No second prize this episode; round 4 was entirely a speed-up round. |
+| 12 | 2197 | Gary/Beth/Mick | 11/15/1994 | 2 | FIJI | FIJI-S12-A | SaxStoryContinues | $9,055 | a trip to Fiji! Retail value is $9,055 dollars! | No second prize this episode; round 4 was entirely a speed-up round. |
+| 12 | 2198 | Darlene/Ron/Mick | 11/16/1994 | 2 | RUG | RUG-S12 | SaxStoryContinues | $5,500 | an Oriental Rug! Retail value is $5,500 dollars! | No second prize this episode for unknown reasons |
+| 12 | 2199 | Darlene/Renee/Teresa | 11/17/1994 | 2 | COMPUTER | COMPUTER-S12-B | Nightwalk | $1,499 | a computer from AT&T! Retail value is $1,499 dollars! | No second prize this episode for unknown reasons |
+| 12 | 2200 | Gregory/Teresa/Lisa | 11/18/1994 | 2 | PIANO | PIANO-S11 | Piano | $10,190 | a Wurlitzer Grand Piano! Retail value is $10,190 dollars! | No second prize this episode; round 4 was entirely a speed-up round. |
+| 12 | 2201 | Teressa/Gary/Bree | 11/21/1994 | 2 | HANDBAGS | HANDBAGS-S12 | DinnerSax | $2,000 | handbags from Fred Hayman! Retail value is $2,000 dollars! |  |
+| 12 | 2201 | Teressa/Gary/Bree | 11/21/1994 | 4 | BRACELET | BRACELET-S12 | Adventure | $6,000 | Keen's Diamond Tennis Bracelet! Retail value is $6,000 dollars! | A rare Season 12 Round 4 unprompted prize plug. |
+| 12 | 2202 | Denise/Vince/Sophie | 11/22/1994 | 2 | COMPUTER | COMPUTER-S12-B | Metro | $3,940 | a handheld computer from Scion! Retail value is $3,940 dollars! |  |
+| 12 | 2202 | Denise/Vince/Sophie | 11/22/1994 | 4 | BIKE | BIKE-S10 |  |  | a motorcycle. | No prize plug. |
+| 12 | 2203 | Tammy/Rodney/Denise | 11/23/1994 | 2 | BIKE | BIKE-S10 | HoedownGuitar | $4,299 | a 1995 Kawasaki Ninja 500 sport-bike worth $4,299! |  |
+| 12 | 2203 | Tammy/Rodney/Denise | 11/23/1994 | 4 | DOCUMENT | DOCUMENT-S12 |  |  | an interesting prize, a document. | No prize plug. |
+| 12 | 2204 | Tamara/Denise/Tina | 11/24/1994 | 2 | RING | RING-S12 | Ranchera | $4,134 | a Cocktail ring from Krementz and Co. worth $4,134! | No second prize this episode; round 4 was entirely a speed-up round. |
+| 12 | 2205 | Scot/Marilyn/Tom | 11/25/1994 | 2 | ART | ART-S10-B | TrumpetFanfare | $5,000 | an oil painting created by renowned Texas Artist Clyde Heron! Retail value is $5,000 dollars! |  |
+| 12 | 2205 | Scot/Marilyn/Tom | 11/25/1994 | 4 | DOCUMENT | DOCUMENT-S12 |  |  | an interesting document. | No prize plug. |
 | 12 | 2206 | Marilyn/Dale/Brenda | 11/28/1994 | 2 | CHINA |  |  | $3,090 | a Porcelain Dinnerware Set! Retail value $3,090 dollars! |  |
 | 12 | 2206 | Marilyn/Dale/Brenda | 11/28/1994 | 4 | JAMAICA |  |  |  | a trip to Jamaica | No prize plug. |
 | 12 | 2207 | Gordon/Brenda/Donna | 11/29/1994 | 2 | HERSHEY |  |  | $5,050 | a Hershey Lodge holiday at Hershey's Christmas Candylane in Pennsylvania worth $5,050! |  |
@@ -1834,4 +1843,21 @@
 | 12 | 2339 | David/John/Derek | 6/22/1995 | 4 | BAHAMAS |  |  |  | a trip to the Bahamas! | No prize plug. No value provided. |
 | 12 | 2340 | David/Brook/Angela | 6/23/1995 | 2 | ORLANDO |  |  | $6,788 | a trip to Orlando! Walt Disney World, in the heart of EPCOT, connected by water or walkway to EPCOT and MGM Studios. Worth $6,788! |  |
 | 12 | 2340 | David/Brook/Angela | 6/23/1995 | 4 | WILD WEST |  |  |  |  | No prize plug. |
+
+## Season DC
+
+| S# | Ep# | Contestants | Air Date | Round | Wedge Text | Wedge Variant | Music Cue | Value | Description | Notes |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| DC | C001 | Fay/Rick/Lou | 7/17/1989 | 2 | TRIP | TRIP-DC-A | BustleSax | $916 | We'll fly you and a guest from Los Angeles to Lake Tahoe! For a 2 night, 3 day stay at Ceasar's Tahoe along the shore of Lake Tahoe. Elegant accomodations, memorable dining and entertainment, year-round entertainment and crystal-clear surroundings. From Caesar's Tahoe. Retail value, $916! |  |
+| DC | C001 | Fay/Rick/Lou | 7/17/1989 | 3 | SOFA | SOFA-DC-A | SaxxyG | $1,350 | Carson's of Highpoint's softly sculptured sofa offers the ultimate in comfort and contemporary styling. It's richly upholstered in a luxurious fabric from Carson's of Highpoint. Retail value $1,350! |  |
+| DC | C001 | Fay/Rick/Lou | 7/17/1989 | 3 | JEWEL | JEWEL-DC-A | SaxxyG | $1,450 | With your Fred Joaillier gift certificate, you might select this lovely neclace. A mother-of-pearl and diamond butterfly suspended on a delicate gold chain. $1,450! |  |
+| DC | C001 | Fay/Rick/Lou | 7/17/1989 | 4 | PATIO | PATIO-DC-A | SaxxyG | $1,850 | Lloyd Flanders heirloom all-leather wicker furniture. Elegant comfort indoors to spacious relaxation outdoors. Can grace a dining room as well as a patio. From Lloyd Flanders. Retail value $1,850! |  |
+| DC | C002 | Eva/Patrick/Rick | 7/18/1989 | 2 | WATCHES | WATCHES-DC-A | TangeloSax | $770 | His and hers watches from Lucien Piccard. Rich gold tones! Swiss crafting is designed to ensure accuracy within seconds per year! From Lucien Picard. Retail value $770! |  |
+| DC | C002 | Eva/Patrick/Rick | 7/18/1989 | 3 | CHINA | CHINA-DC-A | RisingSax | $1,440 | Carico's 40 piece Renaissance china! An intricate classic design of rich blues and burgundy on a warm ivory body, trimmed in 24 karat gold! From Carico. Retail value $1,440! |  |
+| DC | C002 | Eva/Patrick/Rick | 7/18/1989 | 4 | TRIP | TRIP-DC-B | WaitingForU | $1,704 | Put on your traveling shoes and we'll fly you and a companion to Mexico! Aboard Delta airlines, with standard and wide body service. You may visit their exclusive Crown Room lounge and experience warm and friendly hospitality in flight. Delta Airlines. You'll enjoy a six night, seven day stay at the Fiesta Americana Condesta Acapulco. Golden sunshine, sapphire waters, and world class hospitality. From Fiesta Americana Condesta Acapulco. Retail value $1,704! |  |
+| DC | C002 | Eva/Patrick/Rick | 7/18/1989 | 4 | RING | RING-DC-A | WaitingForU | $2,500 | This is an unusual ring. The pretty rose stone is rubelite set in 18 karat gold. You might choose this with your Fred Joaillier gift certificate. Retail value $2,500! |  |
+| DC | C003 | Suzy/Jeff/Patrick | 7/19/1989 | 2 | STEREO | STEREO-DC-A | HeartBassDrum | $599 | Sherwood's audio component system features a 100 watts per channel low distortion amplifier, dual cassette deck, graphic equalizer, and hicory finished cabinet. From Sherwood. Retail value, $599! |  |
+| DC | C003 | Suzy/Jeff/Patrick | 7/19/1989 | 3 | TRIP | TRIP-DC-C | BustleSax | $1,136 | We'll fly you and a companion from Los Angeles to Las Vegas! Aboard Delta airlines with standard and wide body service. You may visit their exclusive Crown Room lounge and experience warm and friendly hospitality in flight. Furnished by Delta Airlines. You'll enjoy a luxurious weekend at the Landmark Hotel and Casino. Excellent accomodations, fine dining, and entertainment from the Landmark Hotel and Casino. Retail value $1,136! |  |
+| DC | C003 | Suzy/Jeff/Patrick | 7/19/1989 | 3 | PEARLS | PEARLS-DC-A | WaitingForU | $1,160 | This is Majorica, the original organically man-made pearls from Spain. Hand polished to perfection. Nearly a century of fine jewelry design from Majorica Jewelry. Retail value $1,160! |  |
+| DC | C003 | Suzy/Jeff/Patrick | 7/19/1989 | 4 | DINE | DINE-S6 | SynthSaxDuel | $1,708 | Chromecraft's 5-piece dining group in beautiful Rattan. Features outstanding designs, square round glass top, and pedestal chairs that roll, swivel, and tilt. From Chromecraft. Retail value $1,708! |  |
 

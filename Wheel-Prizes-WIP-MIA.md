@@ -6,22 +6,18 @@ This document attempts to inform whether and when either case is true.
 
 ## Syndicated Season 12
 
-This entire season is now WIP. Recap pass is complete. Video source pass starting.
+This entire season is now WIP. Recap pass is complete. Video source pass 140 of 195 complete.
 
-## Syndicated Seasons 1-10
+## Daytime
+
+Video source pass 6 of 31 complete.
+
+## Syndicated Seasons 3-10
 
 I've located these episodes but have not fully processed prizes from them yet. Patience while I work through the list, please.
 
 | Week | Ep | Ep | Ep | Ep | Ep |
 | --- | --- | --- | --- | --- | --- |
-| S3-W80 | | | | S3-E399
-| S3-W90 | | | | S3-E449
-| S3-W92 | | | | | S3-E460
-| S3-W93 | | | S3-E463
-| S3-W99 | | | S3-E493
-| S3-W107 | S3-E531 | S3-E532 | S3-E533 | S3-E534
-| S3-W113 | S3-E561
-| S4-W127 | | S4-E632
 | S4-W129 | S4-E641 | S4-E642 | S4-E643 | S4-E644 | S4-E645
 | S4-W133 | S4-E661 | S4-E662
 | S4-W141 | | | S4-E703
@@ -56,10 +52,6 @@ These will be filled in as time permits.
 ## Surprise Wedge Prizes
 
 I hope to eventually include info about Surprise Wedge prizes for episodes in which the Surprise was awarded.
-
-## Daytime
-
-I have not started anything from any era of daytime yet.
 
 ## Syndicated Seasons 13+
 
@@ -179,6 +171,10 @@ S11-E2080 Bob/Dan/Robin 3/11/1994
 
 For the following episodes I only have access to partial video. Prize information may be missing or incomplete for these episodes.
 
+S1-E10 Richard/Claire/Melissa 10/3/1983 (PARTIAL) (missing BR)
+
+S1-E22 Francine/Kim/Paul 10/18/1983 (PARTIAL) (Missing prize plug and pretty much everything else except Paul)
+
 S2-E350 Lu Ann/Rich/Sharon 4/19/1985 (PARTIAL) (ULTRA RARE BOX PRIZE WEDGE)
 
 S4-E770 Jackie/Gail/Ron 6/15/1987 (PARTIAL)
@@ -213,22 +209,18 @@ These episodes have puzzles present in Buy-A-Vowel Puzzle Compendium, meaning th
 
 | Week | Ep | Ep | Ep | Ep | Ep |
 | --- | --- | --- | --- | --- | --- |
-| S1-W2 | | | | | S1-E10
-| S1-W5 | S1-E22 | | | 
-| S1-W6 | S1-E27
+| S1-W5 | | S1-E22 | | | 
+| S1-W6 | S1-E26 | | | 
 | S2-W45 | | | | | S2-E225
 | S2-W52 | | | | S2-E259
 | S2-W57 | | S2-E282
-| S2-W59 | S2-E291 | S2-E292
 | S2-W61 | | | | | S2-E305
-| S2-W62 | S2-E306 | | S2-E308
+| S2-W62 | S2-E306
 | S2-W63 | | | | | S2-E315
 | S2-W65 | | | | S2-E324
 | S2-W68 | | | | | S2-E340
-| S2-W69 | | | S2-E343
-| S3-W83 | | | S3-E413
+| S2-W69 | | | S2-E343 | | S2-E345
 | S3-W106 | | | | | S3-E530
-| S3-W107 | S3-E531 | S3-E532 | S3-E533 | S3-E534 |
 | S3-W113 | | | S3-E563
 | S4-W126 | | S4-E627
 | S5-W164 | S5-E816
@@ -239,7 +231,7 @@ These episodes have puzzles present in Buy-A-Vowel Puzzle Compendium, meaning th
 | S5-W183 | | | S5-E913
 | S5-W185 | | | S5-E923
 | S5-W188 | | | S5-E938
-| S5-W189 | | S5-E942 | S5-E944
+| S5-W189 | | S5-E942
 | S5-W191 | | | S5-E953
 | S7-W269 | S7-E1341
 | | | | | S8-E1390
@@ -279,13 +271,28 @@ These episodes have puzzles present in Buy-A-Vowel Puzzle Compendium, meaning th
 | | S11-E2136 | S11-E2137 | S11-E2138 | S11-E2139
 | | S11-E2141 | S11-E2143
 
+## Known to exist but not in circulation
+
+DC-C046 Dave/Sandra/Ric 9/18/1989
+DC-C115 ?/?/? 12/27/1989 (Held by UCLA/Paley Center)
+DC-C??? ?/?/? 12/1989
+DC-C??? ?/?/? 12/1989
+DC-C??? ?/?/? 12/1989
+DC-C??? ?/?/? 11/1990
+DN-DT032
+DN-DT??? Lonni/Kimberly/Martha 01/1991-02/1991
+DN-DT??? Edward/Diana/Patrick 01/1991-02/1991
+DN-DT005
+DN-DT066
+DN-DT147
+DN-DT148
 
 ## Presumed Lost
 
 Having not found even a trace of these episodes, I presume that they are lost to time unless evidence appears to the contrary.
 
 ### Season 1
-E26, E28-E35, E40, E44-E46, E48-E70, E74-E88, E90-E95 E100-E104, E106-E115, E117-E124, E126, E127, E129-E135, E138, E139, E141-E147, E149-E151, E155-E175, E177-E185, E187-E195
+E27-E35, E40, E44-E46, E48-E70, E74-E88, E90-E95 E100-E104, E106-E115, E117-E124, E126, E127, E129-E135, E138, E139, E141-E147, E149-E151, E155-E175, E177-E185, E187-E195
 ### Season 2
 E228, E231, E234, E243, E244, E246, E261-E265, E321, E325, E326, E329-E331, E335, E341, E346, E347, E349, E351, E353, E355, E356, E359, E362, E366, E369-E373, E375, E376, E378, E380-E385, E387-E390
 ### Season 3
