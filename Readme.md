@@ -1,14 +1,10 @@
 For a web view of the data, visit https://dukeiscreating.github.io/wof-data/
 
-See [Index page](docs/index.md) for more information.
-
 # Data Formats
 
 ## Human-Readable Formats
 
-The main .md files in this folder are human-viewable (with markdown reader) tabular presentations of the data.
-
-Other human-viewable formats such as html, pdf, etc. might be added in the future if interest arises.
+HTML format files are located in the docs folder and are hosted as [github pages](https://dukeiscreating.github.io/wof-data/).
 
 ## Machine-Readable Formats
 

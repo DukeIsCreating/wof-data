@@ -50,7 +50,7 @@ h3 {
   font-weight: 700;
 }
 
-ul {
+ul, ol {
   margin: auto;
   width: 50%;
   list-style-type: "\02B25  ";

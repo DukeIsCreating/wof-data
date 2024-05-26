@@ -4,35 +4,19 @@ This document attempts to inform whether and when either case is true.
 
 # Episodes that are Work in Progress
 
-## Syndicated Season 12
-
-This entire season is now WIP. Recap pass is complete. Video source pass 140 of 195 complete.
-
 ## Daytime
 
-Video source pass 6 of 31 complete.
+Video source pass 11 of 31 complete.
 
-## Syndicated Seasons 3-10
+## Syndicated Seasons 8-10
 
 I've located these episodes but have not fully processed prizes from them yet. Patience while I work through the list, please.
 
 | Week | Ep | Ep | Ep | Ep | Ep |
 | --- | --- | --- | --- | --- | --- |
-| S4-W129 | S4-E641 | S4-E642 | S4-E643 | S4-E644 | S4-E645
-| S4-W133 | S4-E661 | S4-E662
-| S4-W141 | | | S4-E703
-| S4-W143 | | | | S4-E714
-| S4-W146 | | | | | S4-E730
-| S4-W148 | | S4-E737
-| S4-W149 | S4-E741
-| S4-W154 | | S4-E767
-| S4-W155 | | S4-E772 | | S4-E774
-| S4-W156 | | | S4-E778 | | S4-E780
-| S8-W274 | S8-E1366
-| S8-W275 | | | | S8-E1369 | S8-E1370
-| S8-W279 | | | | S8-E1394 | S8-E1395
+| S8-W279 | | | | | S8-E1395
 | S8-W290 | S8-E1446 | S8-E1447 | S8-E1448 | S8-E1449 | S8-E1450
-| S8-W307 | S8-E1531 | | S8-E1534 | S8-E1535
+| S8-W307 | S8-E1531 | | | S8-E1534 | S8-E1535
 | S9-W314 | | | S9-E1568 | S9-E1569 | S9-E1570
 | S9-W315 | | S9-E1572
 | S9-W329 | S9-E1641 | S9-E1642 | S9-E1643 | S9-E1644 | S9-E1645
@@ -73,156 +57,103 @@ I'm listing episodes for which I know or suspect I'm missing a prize wedge varia
 
 I do not have wedge exemplars for wedge variants from the following episodes:
 
-S5-E823 Deb/Art/Amy 11/11/1987 (For CURIO-S5 Wedge)
-
-S6-E1104 Shirley/Pat/Jeff 3/28/1989 (For COUCH-S6 Wedge)
-
-S10-E1911 Wayne/Andrea/Al 4/19/1993 (For PINS-S10 Wedge)
-
-S11-E2121 Michelle/Jennifer/Andrea 5/16/1994 (For DARWIN-S11 Wedge)
+1. S5-E823 Deb/Art/Amy 11/11/1987 (For CURIO-S5 Wedge)
+1. S6-E1104 Shirley/Pat/Jeff 3/28/1989 (For COUCH-S6 Wedge)
+1. S10-E1911 Wayne/Andrea/Al 4/19/1993 (For PINS-S10 Wedge)
+1. S11-E2121 Michelle/Jennifer/Andrea 5/16/1994 (For DARWIN-S11 Wedge)
 
 ### Potential Missing Wedge Exemplar
 
 I might be missing wedge exemplars for wedge variants from the following episodes:
 
-S5-E854 Jim/Sheree/Anne 1/4/1988 (For potential JEEP-S5 Wedge)
-
-S6-E1098 Ollie/Connie/Lori 3/9/1989 (For potential SPACE-S6 Wedge)
-
-S7-E1341 Rita/Anne/Patty 5/14/1990 (For potential TENNIS-S7 Wedge)
+1. S5-E854 Jim/Sheree/Anne 1/4/1988 (For potential JEEP-S5 Wedge)
+1. S6-E1098 Ollie/Connie/Lori 3/9/1989 (For potential SPACE-S6 Wedge)
+1. S7-E1341 Rita/Anne/Patty 5/14/1990 (For potential TENNIS-S7 Wedge)
 
 ### Remaining Recap-only episodes
 
 No new wedge variants are especially expected from these, just more instances of existing variants.
 
-S1-E152 Mark/Carol/Debi 5/1/1984
-
-S5-E794 Doug/Wayne/Jamie 9/24/1987
-
-S5-E864 Dan/Larry/Elaine 1/14/1988
-
-S5-E882 Hank/Nancy/Becky 2/12/1988
-
-S5-E886 Marj/Paula/Denia 2/26/1988
-
-S6-E1039 Debbie/Kim/Duncan 12/6/1988
-
-S6-E1040 Nadia/Cresia/Betty 12/7/1988
-
-S6-E1045 Kathy/Carol/Matt 1/10/1989
-
-S6-E1051 Edna/Tracy/Steve 12/9/1988
-
-S6-E1054 Jim/Debbie/Ken 12/14/1988
-
-S6-E1058 Monica/Marlene/Alison 1/13/1989
-
-S6-E1063 Sam/Sharon/Joanna 1/19/1989
-
-S6-E1068 Eileen/Irene/Ray 1/24/1989
-
-S6-E1069 Sandy/Ginger/Dave 1/30/1989
-
-S6-E1073 Dennis/Carol/Lisa 2/13/1989
-
-S6-E1075 Bill/Gail/Carolynn 2/15/1989
-
-S6-E1093 Kathy/Shelly/Lee 3/10/1989
-
-S6-E1099 Charles/Sherrie/Karen 2/28/1989
-
-S6-E1103 Lori/Diane/Teri 3/24/1989
-
-S6-E1159 Cynthia/Scott/Jeff 6/2/1989
-
-S8-E1417 Victoria/Roland/Henry 11/13/1990
-
-S8-E1528 Dori/Luke/Hillary 5/8/1991
-
-S9-E1573 Jerry/Matt/Steve 9/18/1991
-
-S9-E1651 David/Marianne/Gail 1/13/1992
-
-S10-E1889 Jacqueline/Alex/Bernie 3/11/1993
-
-S10-E1890 Christopher/Debra/Bernie 3/12/1993
-
-S10-E1910 Eric/Michelle/Ryan 4/9/1993
-
-S10-E1912 Andrea/Steve/Paul 4/20/1993
-
-S10-E1913 Glenda/Sal/Steve 4/21/1993
-
-S10-E1914 Clare/Susan/Sal 4/22/1993
-
-S10-E1915 Susan/Tripp/John 4/23/1993
-
-S10-E1917 Marti/Trippe/Kim 4/27/1993
-
-S11-E1958 Ben/Lance/Michelle 9/15/1993
-
-S11-E1959 Ben/Sue/Doug 9/16/1993
-
-S11-E1996 Maria/George/Karolyn 11/8/1993
-
-S11-E2080 Bob/Dan/Robin 3/11/1994
+1. S1-E152 Mark/Carol/Debi 5/1/1984
+1. S5-E794 Doug/Wayne/Jamie 9/24/1987
+1. S5-E864 Dan/Larry/Elaine 1/14/1988
+1. S5-E882 Hank/Nancy/Becky 2/12/1988
+1. S5-E886 Marj/Paula/Denia 2/26/1988
+1. S6-E1039 Debbie/Kim/Duncan 12/6/1988
+1. S6-E1040 Nadia/Cresia/Betty 12/7/1988
+1. S6-E1045 Kathy/Carol/Matt 1/10/1989
+1. S6-E1051 Edna/Tracy/Steve 12/9/1988
+1. S6-E1054 Jim/Debbie/Ken 12/14/1988
+1. S6-E1058 Monica/Marlene/Alison 1/13/1989
+1. S6-E1063 Sam/Sharon/Joanna 1/19/1989
+1. S6-E1068 Eileen/Irene/Ray 1/24/1989
+1. S6-E1069 Sandy/Ginger/Dave 1/30/1989
+1. S6-E1073 Dennis/Carol/Lisa 2/13/1989
+1. S6-E1075 Bill/Gail/Carolynn 2/15/1989
+1. S6-E1093 Kathy/Shelly/Lee 3/10/1989
+1. S6-E1099 Charles/Sherrie/Karen 2/28/1989
+1. S6-E1103 Lori/Diane/Teri 3/24/1989
+1. S6-E1159 Cynthia/Scott/Jeff 6/2/1989
+1. S8-E1417 Victoria/Roland/Henry 11/13/1990
+1. S8-E1528 Dori/Luke/Hillary 5/8/1991
+1. S9-E1573 Jerry/Matt/Steve 9/18/1991
+1. S9-E1651 David/Marianne/Gail 1/13/1992
+1. S10-E1889 Jacqueline/Alex/Bernie 3/11/1993
+1. S10-E1890 Christopher/Debra/Bernie 3/12/1993
+1. S10-E1910 Eric/Michelle/Ryan 4/9/1993
+1. S10-E1912 Andrea/Steve/Paul 4/20/1993
+1. S10-E1913 Glenda/Sal/Steve 4/21/1993
+1. S10-E1914 Clare/Susan/Sal 4/22/1993
+1. S10-E1915 Susan/Tripp/John 4/23/1993
+1. S10-E1917 Marti/Trippe/Kim 4/27/1993
+1. S11-E1958 Ben/Lance/Michelle 9/15/1993
+1. S11-E1959 Ben/Sue/Doug 9/16/1993
+1. S11-E1996 Maria/George/Karolyn 11/8/1993
+1. S11-E2080 Bob/Dan/Robin 3/11/1994
 
 ## Partial Episodes
 
 For the following episodes I only have access to partial video. Prize information may be missing or incomplete for these episodes.
 
-S1-E10 Richard/Claire/Melissa 10/3/1983 (PARTIAL) (missing BR)
-
-S1-E22 Francine/Kim/Paul 10/18/1983 (PARTIAL) (Missing prize plug and pretty much everything else except Paul)
-
-S2-E350 Lu Ann/Rich/Sharon 4/19/1985 (PARTIAL) (ULTRA RARE BOX PRIZE WEDGE)
-
-S4-E770 Jackie/Gail/Ron 6/15/1987 (PARTIAL)
-
-S6-E1121 Jimmy/Abbie/Maddy 3/13/1989 (PARTIAL)
-
-S6-E1125 Ted/Peggy/Mary 4/12/1989 (PARTIAL)
-
-S6-E1129 Steve/Sandy/Roland 4/19/1989 (PARTIAL)
-
-S6-E1133 LaTanya/Andy/Kim 5/2/1989 (PARTIAL)
-
-S6-E1134 Ari/Bob/Gloria 5/22/1989 (PARTIAL)
-
-S6-E1139 Barry/Nicole/Linda 5/26/1989 (PARTIAL)
-
-S9-E1564 Michelle/Carrie/Scott 9/5/1991 (PARTIAL)
-
-S9-E1610 Joe/Joan/Debbie 11/8/1991 (PARTIAL)
-
-S10-E1828 Jane/Carolyn/Skip 12/16/1992 (PARTIAL)
-
-S10-E1843 Rick/Kathleen/Sandra 1/6/1993 (PARTIAL)
-
-S10-E1844 Caprice/Jake/Athena 1/7/1993 (PARTIAL)
-
-S11-E2133 Roger/Mike/Dave 6/1/1994 (CUT 2nd prize segment)
+1. S1-E10 Richard/Claire/Melissa 10/3/1983 (PARTIAL) (missing BR)
+1. S1-E22 Francine/Kim/Paul 10/18/1983 (PARTIAL) (Missing prize plug and pretty much everything else except Paul)
+1. S2-E350 Lu Ann/Rich/Sharon 4/19/1985 (PARTIAL) (ULTRA RARE BOX PRIZE WEDGE)
+1. S4-E770 Jackie/Gail/Ron 6/15/1987 (PARTIAL)
+1. S6-E1121 Jimmy/Abbie/Maddy 3/13/1989 (PARTIAL)
+1. S6-E1125 Ted/Peggy/Mary 4/12/1989 (PARTIAL)
+1. S6-E1129 Steve/Sandy/Roland 4/19/1989 (PARTIAL)
+1. S6-E1133 LaTanya/Andy/Kim 5/2/1989 (PARTIAL)
+1. S6-E1134 Ari/Bob/Gloria 5/22/1989 (PARTIAL)
+1. S6-E1139 Barry/Nicole/Linda 5/26/1989 (PARTIAL)
+1. S9-E1564 Michelle/Carrie/Scott 9/5/1991 (PARTIAL)
+1. S9-E1610 Joe/Joan/Debbie 11/8/1991 (PARTIAL)
+1. S10-E1828 Jane/Carolyn/Skip 12/16/1992 (PARTIAL)
+1. S10-E1843 Rick/Kathleen/Sandra 1/6/1993 (PARTIAL)
+1. S10-E1844 Caprice/Jake/Athena 1/7/1993 (PARTIAL)
+1. S11-E2133 Roger/Mike/Dave 6/1/1994 (CUT 2nd prize segment)
 
 ## Puzzles Known
 
 These episodes have puzzles present in Buy-A-Vowel Puzzle Compendium, meaning that some record of the episode still exists somewhere. However, I have not found a recap or a video for them.
 
+1. S1-E26 Carla/John/Linda 10/24/1983
+1. S2-E225 Bess/Barbara/Terry 10/19/1984
+1. S2-E259 Karen/Lee/Stirling 12/6/1984
+1. S2-E282 Pam/Carmen/Michael 1/10/1985
+1. S2-E305 Al/Dana/Linda 2/11/1985
+1. S2-E306 Jerry/Joan/Elaine 2/18/1985
+1. S2-E315 Roberta/Cecilia/Jules 3/1/1985
+1. S2-E324 Randy/Pat/Lynndi 3/14/1985
+1. S2-E340 Ed/Janice/Dolly 4/5/1985
+1. S2-E343 Don/Pam/Cathy 4/10/1985
+1. S2-E345 Elliot/Babe/Ann 4/12/1985
+1. S3-E530 Brenda/Larry/Jack 3/20/1986
+1. S3-E563 Anne/Patti/Janice 5/21/1986
+1. S4-E627 Robin/Dave/Henry 11/7/1986
+
+
 | Week | Ep | Ep | Ep | Ep | Ep |
 | --- | --- | --- | --- | --- | --- |
-| S1-W5 | | S1-E22 | | | 
-| S1-W6 | S1-E26 | | | 
-| S2-W45 | | | | | S2-E225
-| S2-W52 | | | | S2-E259
-| S2-W57 | | S2-E282
-| S2-W61 | | | | | S2-E305
-| S2-W62 | S2-E306
-| S2-W63 | | | | | S2-E315
-| S2-W65 | | | | S2-E324
-| S2-W68 | | | | | S2-E340
-| S2-W69 | | | S2-E343 | | S2-E345
-| S3-W106 | | | | | S3-E530
-| S3-W113 | | | S3-E563
-| S4-W126 | | S4-E627
 | S5-W164 | S5-E816
 | S5-W172 | | | S5-E858
 | S5-W177 | | | S5-E883 | | S5-E885

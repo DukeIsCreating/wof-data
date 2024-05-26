@@ -186,7 +186,7 @@ Entry	S#	Ep#	Contestants	Air Date	Round	Wedge Text	Wedge Variant	Music Cue	Value
 64	2	364	Jo Ann/Rusti/Fritz	5/16/1985	2	JEWEL	JEWEL-S2-B	Mournful	2700	a Gucci furnished pair of jumbo heart earrings worth $2,700!						
 102	2	365	Rita/Greg/Tracy	5/17/1985	2	STEREO	STEREO-S1	Frisco	1550	a Sony sound system with advanced audio signal, tuner, cassette deck, turntable, speaker, and remote worth $1,550!						
 115	2	367	Susan/George/Chantal	5/21/1985	2	SILVER	SILVER-S1	Tony	2000	a Tiffany and Co. gift certificate featuring Stirling silver French patterned hinged box worth $2,000!						
-63	2	368	Carol/Darrell/Debbie	5/22/1985	2	CAR	CAR-S1	Struttin	14053	an Oldsmobile Cutlass Cruiser front-wheel drive worth $14,053!						
+63	2	368	Carol/Darrell/Debbie	5/22/1985	2	CAR	CAR-S2	Struttin	14053	an Oldsmobile Cutlass Cruiser front-wheel drive worth $14,053!						
 65	2	374	Terrie/Tom/Lynn	5/30/1985	2	TRIP	TRIP-S1-B	Samba	3092	a trip to the West Indies and stay at Holiday Inn Trinidad worth $3,092!						
 67	2	377	Linda/Wayne/Cheryl	6/4/1985	2	JEWEL	JEWEL-S2-B	Tony	6000	a Van Cleef & Arpels gift certificate featuring black onyx link bracelet with gold and diamond tie-overs worth $6,000!						
 78	2	379	Denise/Rob/Mary	6/6/1985	2	LUGGAGE	LUGGAGE-S2	Tony	1130	a pair of Gucci GG Mignon Africa suitcases, plus duffel and shoe bag, totaling $1,130!						
@@ -199,7 +199,7 @@ Entry	S#	Ep#	Contestants	Air Date	Round	Wedge Text	Wedge Variant	Music Cue	Value
 182	3	436	Angela/Mark/Nina	11/11/1985	2	CRUISE	CRUISE-S2	Samba	4000	a Princess Cruises 7-day vacation to the Golden Mexican Riviera worth $4,000!						
 173	3	449	Kerri/Rick/Lulu	10/31/1985	2	CRUISE	CRUISE-S2	Samba	6366	a 10-day voyage across the Caribbean from Sitmar Cruises worth $6,366!						
 189	3	450	Niki/Tony/Terry	12/5/1985	2	TV	TV-S1	LetsGoDancin	1200	a television set worth $1,200!						
-172	3	460	Mary/Mike/Patty	12/20/1985	2	CAR	CAR-S1	DiscoSax	15205	the Oldsmobile Cutlass Cruiser Wagon! With all the options offered, it's worth $15,205!						
+172	3	460	Mary/Mike/Patty	12/20/1985	2	CAR	CAR-S2	DiscoSax	15205	the Oldsmobile Cutlass Cruiser Wagon! With all the options offered, it's worth $15,205!						
 177	3	461	Helen/Anna/Gene	12/23/1985	2	VIDEO	VIDEO-S3	Frisco	1250	a Panasonic home video cassette recorder worth $1,250!						
 1784	3	463	Mike/Anita/Mary	12/25/1985	2	TRUCK	TRUCK-S3	Disco	6869	The new Isuzu Pickup Truck! This is built tough with a sporty design for use on or off the road, it's rugged as well as economical. From American Isuzu Motors. Retail value $6,869!						
 179	3	481	Virginia/Karin/Kent	1/20/1986	2	MINI CAR	MINI-CAR-S2-B	Frisco	6375	a Mini-T 12 MPH electric car worth $6,375!						
@@ -230,37 +230,44 @@ Entry	S#	Ep#	Contestants	Air Date	Round	Wedge Text	Wedge Variant	Music Cue	Value
 218	4	629	Erin/Anne/Bostic	11/10/1986	2	WATCHES	WATCHES-S1	Mournful	5175	a pair of Jules Jurgensen his-and-hers 14-karat gold watches worth $5,175!						
 214	4	631	Lorraine/Patti/Mark	11/6/1986	2	SILVER	SILVER-S3	Tony	2000	a silver French sterling silver-hinged box with floral detailing and feet! From Tiffany, it's worth $2,000!						
 210	4	632	Lee/Becky/Peter	11/17/1986	2	PIN	PIN-S4	Tony	4575	a Schlumberger's diamond ram head pin with a ruby eye. From Tiffany &Co., it's a $4,575 18-karart gold pin!						
-200	4	637	Kate/Marc/Caryn	11/18/1986	2	CAR	CAR-S1	ShortHorns	13187	a brand new Renault Alliance DL Convertible! Retail value of this car is $13,187!						
+200	4	637	Kate/Marc/Caryn	11/18/1986	2	CAR	CAR-S2	ShortHorns	13187	a brand new Renault Alliance DL Convertible! Retail value of this car is $13,187!						
+1807	4	641	Allyn/Roger/Leila	11/24/1986	2	TRIP	TRIP-S3	Samba	2988	One of our contestants could fly with a guest from Los Angeles to the Bahamas. That's for a week's stay at the Xanadu Beach and Marina Resort. Enjoy elegant water view accomodations with private balconies, water sports, tennis, and gourmet dining. From the Xanadu Beach and Marina Resort. It's $2,988!						
+1808	4	642	Becky/Mike/Cathy	11/25/1986	2	GIFT CERT.	GIFT-CERT-S4	LetsGoDancin	1260	One of our contestants could win a gift certificate to shop at Gucci's where they might select this stunning ensemble. It's a green Gaberdeen suit with a satin blouse, red leather shoes, and a bag. It's made in Italy, only from Gucci. $1,260!$1,260						
+1809	4	643	Elise/Gerald/George	11/26/1986	2	CAMERA	CAMERA-S4	Frisco	1200	One of our players could win Ricoh's KR-30SP 35mm camera outfit. It offers automatic features for clean, sharp pictures, with a zoom lens, flash, and auto-winder. It's from Ricoh. $1,200!						
+1810	4	644	Pete/Stephanie/Esther	11/28/1986	2	STEREO	STEREO-S1	Frisco	1750	Enjoy awesome sound with this new state of the art music system. Features include dual cassette deck, compact disc player, nine band equalizer, automatic turntable and speakers. Yours for $1,750!						
+1811	4	645	Mary Ann/La Bena/Chris	11/27/1986	2	TRIP	TRIP-S3	Samba	2438	One of our players might win this: We'll fly them and a guest from Los Angeles for a week's stay in romantic Hawaii. At Holiday Inn Waikiki Beach, deluxe oceanfront accomodations, dancing in the lounge, and within a glance of the renowned Diamond Head Crater. At the Holiday Inn Waikiki Beach. $2,438!						
 213	4	651	Jeff/Ruth/Debbie	11/13/1986	2	TV PHONE	TV-PHONE-S4	LetsGoDancin	2900	the Luma phone from Luma Telephone worth $2,900!						
-212	4	655	Michelle/Debbie/Harvey	11/21/1986	2	CAR	CAR-S1	LetsGoDancin	31211	a Cadillac Seville! It's worth $31,211!						
+212	4	655	Michelle/Debbie/Harvey	11/21/1986	2	CAR	CAR-S2	LetsGoDancin	31211	a Cadillac Seville! It's worth $31,211!						
 201	4	660	Dan/Denise/Jo Anne	12/22/1986	2	ART	ART-S3	Mournful	5200	a boy's childhood lithograph featured by Steve Stein Art Gallery worth $5,200!						
+1812	4	661	May/Roseanne/Lou	12/19/1986	2	PIN	PIN-S4	DeepCalm	4000	One of our players could have their very own dinosaur! Tiffany's unique reptile pin in 18 karat textured gold with diamond spikes and a ruby eye! Retail value $4,000!						
+1813	4	662	Grant/Bronwyn/Warren	12/25/1986	2	SILVER	SILVER-S2	Tony	1450	This is elegant for flowers. Tiffany's Sterling Silver vase. It's made more interesting by its vertical wave design. This is $1,450!						
 193	4	671	Ann/Valerie/Helen	1/7/1987	2	TRIP	TRIP-S3	Samba	3400	a trip to Montego Bay, Jamaica retailing for $3,400!						
 228	4	681	Maggie/Faye/Scott	1/26/1987	2	FUR	FUR-S3	Tony	10000	a full fur coat from Dicker & Dicker of Beverly Hills, worth $10,000!						
 211	4	686	Susanne/Rosemarie/Shauna	2/3/1987	2	TRIP	TRIP-S3	Samba	1688	a week at the Radisson Paraiso Hotel Acapulco worth $1,688!						
-230	4	688	Dan/Judi/Bonnie	2/4/1987	2	CAR	CAR-S1	ShortHorns	15800	a 2-door Jeep Cherokee Chief, valued at $15,800!						
-209	4	703	Linda/Dave/Leonid	2/25/1987	2	JADE			2250	a Chinese jade incense burner decorated with a phoenix bird. It's worth $2,250!						
-208	4	714	Barbara/Judy/Albin	3/12/1987	2	JEWEL			2160	a Giorgio's jeweled bird evening bag worth $2,160!						
+230	4	688	Dan/Judi/Bonnie	2/4/1987	2	CAR	CAR-S2	ShortHorns	15800	a 2-door Jeep Cherokee Chief, valued at $15,800!						
+209	4	703	Linda/Dave/Leonid	2/25/1987	2	JADE	JADE-S4	Tony	2250	a Chinese jade incense burner decorated with a phoenix bird. It's worth $2,250!						
+208	4	714	Barbara/Judy/Albin	3/12/1987	2	JEWEL	JEWEL-S2-B	Mournful	2160	a Giorgio's jeweled bird evening bag worth $2,160!						
 223	4	717	Therese/Ed/Rodger	3/17/1987	2	TRIP	TRIP-S3	Frisco	2340	a 1-week holiday at Vale Beaver Creek in Colorado worth $2,340!						
-207	4	730	Debbie/Joy/Leigh	3/31/1987	2	CAR			13163	Buick's Skyhawk Sport Hatchback, and it's worth $13,163!						
-206	4	737	Sue/Glenn/Maggie	4/7/1987	2	ART			4200	an Erte bronze vase worth $4,200!						
-205	4	741	Bob/Nancy/Eleanor	4/2/1987	2	BANGLE			7900	a bangle from Tiffany. The bracelet is worth $7,900!						
+207	4	730	Debbie/Joy/Leigh	3/31/1987	2	CAR	CAR-S2	DiscoSax	13163	Buick's Skyhawk Sport Hatchback, and it's worth $13,163!						
+206	4	737	Sue/Glenn/Maggie	4/7/1987	2	ART	ART-S3	Mournful	4200	an Erte bronze vase worth $4,200!						
+205	4	741	Bob/Nancy/Eleanor	4/2/1987	2	BANGLE	BANGLE-S2	DeepCalm	7900	a bangle from Tiffany. The bracelet is worth $7,900!						
 226	4	745	Marjie/Steve/Pam	5/1/1987	2	WATCH	WATCH-S3	Tony	4990	a Lucien Piccard 1.75-karat diamond lady's watch worth $4,990!						
 224	4	750	Robin/Jeff/Mamie	5/8/1987	2	FUR	FUR-S3	Tony	9000	a Dicker & Dicker chinchilla jacket worth $9,000!						
-225	4	760	Sandra/Janet/Ray	5/22/1987	2	CAR	CAR-S1	DiscoSax	15636	a Buick Skylark limited sedan worth $15,636!						
-204	4	767	Paula/Miriam/Jim	5/15/1987	2	CRYSTAL			1000	an Orrefors crystal bowl worth $1,000!						
+225	4	760	Sandra/Janet/Ray	5/22/1987	2	CAR	CAR-S2	DiscoSax	15636	a Buick Skylark limited sedan worth $15,636!						
+204	4	767	Paula/Miriam/Jim	5/15/1987	2	CRYSTAL	CRYSTAL-S1	Tony	1000	an Orrefors crystal bowl worth $1,000!						
 1135	4	768	Chris/Martin/Dorothy	6/3/1987	2	FUR	FUR-S3	DeepCalm	9500	It's simple, elegant, the beauty is in the richness of the fur. Inviting to the touch, a Russian Sable evening jacket, the most coveted of all furs, from Dicker & Dicker of Beverly Hills. $9,500!						
 219	4	769	Sandy/Jim/Fran	6/2/1987	2	BOAT	BOAT-S2	Struttin	5342	an Addictor 190 Deluxe boat worth $5,342!						
 220	4	770	Jackie/Gail/Ron	6/15/1987	2	TRIP	TRIP-S3	Frisco	8620	a trip to Michael McGinn's Mallow Castle in Ireland via Northwest Airlines worth $8,620!						
 231	4	771	Martine/Jim/Gerri	6/1/1987	2	TRIP	TRIP-S3	LetsGoDancin	4395	a trip to a Luxury Home at Hawks Resort in Vermont! The value of this prize is $4,395 dollars!						
-199	4	772	Wanda/Nancy/Lee	6/9/1987	2	CAR			23083	the Toyota Supra Dynasty worth $23,083!						
+199	4	772	Wanda/Nancy/Lee	6/9/1987	2	CAR	CAR-S2	ShortHorns	23083	the Toyota Supra Dynasty worth $23,083!						
 217	4	773	MaryAnn/Myrtice/Mickey	5/26/1987	2	TRIP	TRIP-S3	Samba	3485	a holiday in Tokyo plus a 6-night stay at Kuala Lumpur Holiday Inn worth $3,485!						
-198	4	774	Irene/Ingrid/Jerry	6/19/1987	2	WATCH			13700	a ladies' Crown Collection Rolex watch worth $13,700!						
+198	4	774	Irene/Ingrid/Jerry	6/19/1987	2	WATCH	WATCH-S3	DeepCalm	13700	a ladies' Crown Collection Rolex watch worth $13,700!						
 222	4	775	Michael/Greg/Alison	5/29/1987	2	ART	ART-S3	DeepCalm	1800	an R.C. Gorman Wedding Basket lithograph worth $1,800!						
 197	4	776	Ray/Michelle/Rina	6/10/1987	2	RING	RING-S1	Tony	14500	a Cartier 1.50 carat diamond ring worth $14,500!						
 195	4	777	Joy/Elena/Ira	6/16/1987	2	FESTIVAL	FESTIVAL-S4	Frisco	1680	a trip to the Laguna Beach Art Festival with VIP seats at the Pageant of the Masters. Along with a $1,000 gift certificate, it's worth $1,680!						
-196	4	778	Jim/Gene/Deena	6/17/1987	2	JEWEL			12550	a new-for-spring mother-of-pearl and turquoise ear clips and necklace from Fred Joaillier worth $12,550!						
+196	4	778	Jim/Gene/Deena	6/17/1987	2	JEWEL	JEWEL-S2-B	Tony	12550	a new-for-spring mother-of-pearl and turquoise ear clips and necklace from Fred Joaillier worth $12,550!						
 221	4	779	Mel/Betsy/Amber	6/5/1987	2	TRIP	TRIP-S3	Samba	8130	a trip for 4 to Long Island plus luggage worth $8,130!						
-194	4	780	Clay/Vonnie/Robin	6/18/1987	2	TRIP			5910	a trip to Germany on Lufthansa German Airlines, and a rental car and week to drive around from TravelSavers, along with Skyway luggage. It's a package worth $5,910!						
+194	4	780	Clay/Vonnie/Robin	6/18/1987	2	TRIP	TRIP-S3	LetsGoDancin	5910	a trip to Germany on Lufthansa German Airlines, and a rental car and week to drive around from TravelSavers, along with Skyway luggage. It's a package worth $5,910!						
 244	5	781	Vera/Gary/Ken	9/16/1987	2	GOLD	GOLD-S5-A	Frisco	4870	It's 10 ounces of gold provided by Bachus & Stratton, Inc., dealers in Johnson Matthey precious metal bullion products. Worth $4,870!		7	Red 800	Purple 150	Arctic 450	Expired end R2
 243	5	782	Sandy/Mark/Jim	9/29/1987	2	JEWEL	JEWEL-S2-B	DeepCalm	4779	This necklace is really a knockout. A pink kunzite, black onyx, and sparkling pendant on a gold chain. Now it may be one of our players' with a Gucci gift certificate. It's for $4,779!		7	Red 800	Purple 150	Arctic 450	Expired end R2
 242	5	783	Nancy/Tracy/Mitch	10/1/1987	2	TRIP	TRIP-S3	Samba	3620	a trip to Bali! With airfare from Garuda Indonesia and six nights at Nusa Dua Beach Hotel Bali! It's a trip worth $3,620!						
@@ -280,7 +287,7 @@ Entry	S#	Ep#	Contestants	Air Date	Round	Wedge Text	Wedge Variant	Music Cue	Value
 294	5	823	Deb/Art/Amy	11/11/1987	2	CURIO			6370	a DIA curio collection worth $6,370!						
 295	5	823	Deb/Art/Amy	11/11/1987	4	FUR			9500	a Dicker and Dicker silver cross mink coat worth $9,500!						
 274	5	825	Jean/Kathy/John	11/13/1987	2	BERMUDA	BERMUDA-S5	Samba	4460	an Edison Greyhound luggage set and trip to Bermuda worth $4,460!						
-275	5	825	Jean/Kathy/John	11/13/1987	4	CAR	CAR-S1	ShortHorns	9663	a Mercury Tracer automobile worth $9,663!						
+275	5	825	Jean/Kathy/John	11/13/1987	4	CAR	CAR-S2	ShortHorns	9663	a Mercury Tracer automobile worth $9,663!						
 247	5	828	Marie/Laura/Kevin	11/18/1987	2	PIANO	PIANO-S2	DeepCalm	5898	a Kimball La Petite grand piano worth $5,898!						
 248	5	828	Marie/Laura/Kevin	11/18/1987	4	TRUCK	TRUCK-S3	DiscoSax	12929	a 1988 Chevrolet S-10 pickup worth $12,929!						
 268	5	837	Joseph/Stacey/Jennie	12/1/1987	2	ORGAN	ORGAN-S5	Tony	4185	We add a Schafer and Sons organ worth $4,185!						
@@ -1079,12 +1086,12 @@ Entry	S#	Ep#	Contestants	Air Date	Round	Wedge Text	Wedge Variant	Music Cue	Value
 944	7	1364	Kathleen/Yvette/Lynn	6/14/1990	4	ART	ART-S7-A	SaxxyG	8900	a signed limited edition "Young Tiger" serigraph by LeRoy Neiman worth $8,900!						
 1023	7	1365	Lynn/Mark/Kathleen	6/15/1990	2	CRYSTAL	CRYSTAL-S7	WaitingForU	3585	a chandelier from Schnobek worth $3,585!						
 1024	7	1365	Lynn/Mark/Kathleen	6/15/1990	4	FESTIVAL	FESTIVAL-S7	SaxxyG	3820	a Trip to Laguna Beach and a visit to the Laguna Art Festival worth $3,820!						
-1045	8	1366	J.G./Kari/Sean	9/3/1990	2	ARIZONA			4032	a stay at the Wickenburg Inn Tennis and Guest Ranch in Arizona worth $4,032!						
-1046	8	1366	J.G./Kari/Sean	9/3/1990	4	CAMPER			8019	the Starcraft Nova camper worth $8,019!						
-1043	8	1369	Karl/Samantha/Debbie	9/6/1990	2	MEXICO			2932	a trip for four to Mexico! It's a six-night stay at the Fiesta Inn San Jose del Cabo! It's a trip worth $2,932!						
-1044	8	1369	Karl/Samantha/Debbie	9/6/1990	4	CAMPER			8019	the Starcraft Nova camper worth $8,019!						
-1041	8	1370	Gina/Samantha/Karl	9/7/1990	2	MUSIC			3000	a Service Merchandise gift certificate for a Music package worth $3,000!						
-1042	8	1370	Gina/Samantha/Karl	9/7/1990	4	TRIP			7210	a chance to get to Curacao! Flying American Airlines, four people will stay at the Princess Beach Hotel for a week. It's a Trip worth $7,210!						
+1045	8	1366	J.G./Kari/Sean	9/3/1990	2	ARIZONA	ARIZONA-S8	WestHarmonica	4032	a stay at the Wickenburg Inn Tennis and Guest Ranch in Arizona worth $4,032!						
+1046	8	1366	J.G./Kari/Sean	9/3/1990	4	CAMPER	CAMPER-S7	RisingSax	8019	the Starcraft Nova camper worth $8,019!						
+1043	8	1369	Karl/Samantha/Debbie	9/6/1990	2	MEXICO	MEXICO-S7-A	Ranchera	2932	a trip for four to Mexico! It's a six-night stay at the Fiesta Inn San Jose del Cabo! It's a trip worth $2,932!						
+1044	8	1369	Karl/Samantha/Debbie	9/6/1990	4	CAMPER	CAMPER-S7	RisingSax	8019	the Starcraft Nova camper worth $8,019!						
+1041	8	1370	Gina/Samantha/Karl	9/7/1990	2	MUSIC	MUSIC-S6	BustleSax	3000	a Service Merchandise gift certificate for a Music package worth $3,000!						
+1042	8	1370	Gina/Samantha/Karl	9/7/1990	4	TRIP	TRIP-S8	BubbleTriplets	7210	a chance to get to Curacao! Flying American Airlines, four people will stay at the Princess Beach Hotel for a week. It's a Trip worth $7,210!						
 1073	8	1371	Gemini/Julia/Mark	9/10/1990	2	ARIZONA	ARIZONA-S8	WestHarmonica	4947	a trip to Arizona and Foxbat golf clubs worth $4,947!						
 1074	8	1371	Gemini/Julia/Mark	9/10/1990	4	TRIP	TRIP-S7-C	Oriental	5414	a week's trip to Singapore worth $5,414!						
 1071	8	1372	Dede/Don/Gemini	9/11/1990	2	ARUBA	ARUBA-S8	Island	3037	a trip to Aruba worth $3,037!						
@@ -1093,10 +1100,10 @@ Entry	S#	Ep#	Contestants	Air Date	Round	Wedge Text	Wedge Variant	Music Cue	Value
 1040	8	1376	Ron/Russell/Lois	9/17/1990	4	WATCHES	WATCHES-S7-A	SaxxyG	7080	a his & hers set of Lucien Piccard Watches worth $7,080!						
 1037	8	1383	Marlene/Holly/Mindy	9/26/1990	2	GOLF	GOLF-S7-B	BubbleTriplets	4929	a Golf package: a set of Pinseeker golf clubs and a trip to Saddlebrook worth $4,929!						
 1038	8	1383	Marlene/Holly/Mindy	9/26/1990	4	PEARLS	PEARLS-S7	Oriental	11700	a Fred Joaillier black pearl necklace worth $11,700!						
-1035	8	1391	Michelle/Viveca/Pam	10/8/1990	2	MEXICO	MEXICO-S8	Ranchera	2452	a trip to Mexico! It's Eastpak luggage and a week for two at the Crystal Ixtapa worth $2,452!						
+1035	8	1391	Michelle/Viveca/Pam	10/8/1990	2	MEXICO	MEXICO-S8-A	Ranchera	2452	a trip to Mexico! It's Eastpak luggage and a week for two at the Crystal Ixtapa worth $2,452!						
 1036	8	1391	Michelle/Viveca/Pam	10/8/1990	4	JEWEL	JEWEL-S7-F	TangeloSax	5200	a Jewel pendant from Van Cleef and Arpels worth $5,200!						
-1033	8	1394	Alana/Eric/Ruth	10/11/1990	2	MEXICO			2868	Cartier glasses and a trip to Mexico! It's a six-night stay at the Stouffer Presidente Cancun! This package is worth $2,868!						
-1034	8	1394	Alana/Eric/Ruth	10/11/1990	4	PEARLS			9200	Pearls from Fred Joaillier worth $9,200!						
+1033	8	1394	Alana/Eric/Ruth	10/11/1990	2	MEXICO	MEXICO-S8-B	Ranchera	2868	Cartier glasses and a trip to Mexico! It's a six-night stay at the Stouffer Presidente Cancun! This package is worth $2,868!						
+1034	8	1394	Alana/Eric/Ruth	10/11/1990	4	PEARLS	PEARLS-S6	Oriental	9200	Pearls from Fred Joaillier worth $9,200!						
 1031	8	1395	Carol/Bob/Mandy	10/12/1990	2	RING			2750	a JCPenney men's diamond ring worth $2,750!						
 1032	8	1395	Carol/Bob/Mandy	10/12/1990	4	LONDON			5344	a trip to London! It's a six-night stay at St. James Court worth $5,344!						
 1047	8	1417	Victoria/Roland/Henry	11/13/1990	2	HAWAII			2890	a trip to Hawaii for the last total solar eclipse of the century on the Big Island worth $2,890!						
@@ -1178,7 +1185,7 @@ Entry	S#	Ep#	Contestants	Air Date	Round	Wedge Text	Wedge Variant	Music Cue	Value
 1121	9	1725	Florence/Duncan/Shane	5/8/1992	4	TRIP	TRIP-S9-B	1980PrizeCue	6444	a Bitter End Yacht Club Virgin Island cruise worth $6,444!						
 1122	9	1731	Joe/Shane/Peter	5/18/1992	2	RING	RING-S9	WaitingForU	3720	a Diamond Ring worth $3,720!						
 1123	9	1731	Joe/Shane/Peter	5/18/1992	4	CAR	CAR-S9	MorningSax	11626	a 1992 Chevorlet Geo Tracker worth $11,626!						
-1092	9	1732	Chiko/Paul/Judy	5/19/1992	2	MEXICO	MEXICO-S8	Ranchera	2578	a holiday at Epcot's Mexico Pavilion and stay at Villa Del Palmar Oceanfront Resort worth $2,578!						
+1092	9	1732	Chiko/Paul/Judy	5/19/1992	2	MEXICO	MEXICO-S8-A	Ranchera	2578	a holiday at Epcot's Mexico Pavilion and stay at Villa Del Palmar Oceanfront Resort worth $2,578!						
 1093	9	1732	Chiko/Paul/Judy	5/19/1992	4	GAZEBO	GAZEBO-S6	SaxxyG	5040	a Dawson Woodworks redwood products gazebo worth $5,040!						
 1112	9	1735	Carol Lee/Mark/Fred	5/22/1992	2	NEW ORLEANS	NEW-ORLEANS-S9	NewOrleans	4016	a Trip to New Orleans with airfare from Delta Airlines worth $4,016!						
 1113	9	1735	Carol Lee/Mark/Fred	5/22/1992	4	WATCH	WATCH-S9-B	SaxxyG	7390	a 2-carat diamond, 14-carat gold ladies' watch from Lucien Piccard worth $7,390!						
@@ -1280,7 +1287,7 @@ Entry	S#	Ep#	Contestants	Air Date	Round	Wedge Text	Wedge Variant	Music Cue	Value
 1362	10	1801	Richard/Stan/Melissa	11/9/1992	2	WATCH	WATCH-S9-A	Gliss	5750	A superb Mickey Mouse watch! 18 karat gold with leather strap. You may purchase this with your gift certificate from Fred Joaillier. $5,750!	No second prize this episode; round 4 was entirely a speed-up round.					
 1363	10	1802	Jacqui/Michael/Jill	11/10/1992	2	GIFT CERTIF.	GIFT-CERTIF-S10	DinnerSax	1000	a gift certificate to Sharper Image worth $1,000!	No second prize this episode; round 4 was entirely a speed-up round.					
 1282	10	1803	Jason/Scott/Frank	11/11/1992	2	EARCLIPS	EARCLIPS-S10	Fairytale	4400	A set of earclips designed with the most brilliant blue lapis, 18 karat gold and diamond accents. From Van Cleef & Arpel's. $4,400!	No second prize this episode; round 4 was entirely a speed-up round.					
-1283	10	1804	Fiona/Lauralee/Chico	11/12/1992	2	CAR	CAR-S10	Buzzword	17483	a Chrysler Lebaron 5-speed convertible worth $17,483!	No second prize this episode; round 4 was entirely a speed-up round.					
+1283	10	1804	Fiona/Lauralee/Chico	11/12/1992	2	CAR	CAR-S20	Buzzword	17483	a Chrysler Lebaron 5-speed convertible worth $17,483!	No second prize this episode; round 4 was entirely a speed-up round.					
 1218	10	1806	Tiffany/Connie/Pete	11/16/1992	2	VIDEO	VIDEO-S10	StruttinB	1599	a Panasonic super VHS-C Palmcorder with Hi-Fi sound worth $1,599!						
 1219	10	1806	Tiffany/Connie/Pete	11/16/1992	4	PIN	PIN-S7-C	WaitingForU	5000	a Van Cleef & Arpels gift certificate featuring an American flag pin worth $5,000!						
 1364	10	1807	Michael/Connie/Pat	11/17/1992	2	JACKET	JACKET-S10	Nightwalk	1600	A coccoon jacket in taupe and pearl leather, completely outlined in matching braid. From Dicker & Dicker of Beverly Hills. $1,600!						
@@ -1321,7 +1328,7 @@ Entry	S#	Ep#	Contestants	Air Date	Round	Wedge Text	Wedge Variant	Music Cue	Value
 1376	10	1828	Jane/Carolyn/Skip	12/16/1992	2	LAMP	LAMP-S10	WaitingForU	2300	a Louis Comfort Tiffany reproduction "Wisteria" floor lamp.						
 1377	10	1828	Jane/Carolyn/Skip	12/16/1992	4	CHINA					Episode footage is PARTIAL and is missing much of round 4, including prize plug.					
 1248	10	1829	Skip/Jim/Frank	12/17/1992	2	WATCH	WATCH-S9-A	PluckyPearl	3300	a Fred Joaillier J'Adore 18-karat yellow gold quartz watch with green band worth $3,300!						
-1249	10	1829	Skip/Jim/Frank	12/17/1992	4	CAR	CAR-S10	Buzzword	7758	a Toyota Tercel 2-door sedan worth $7,758!						
+1249	10	1829	Skip/Jim/Frank	12/17/1992	4	CAR	CAR-S20	Buzzword	7758	a Toyota Tercel 2-door sedan worth $7,758!						
 1229	10	1830	Daniel/Kelly/Janet	12/18/1992	2	BIKE	BIKE-S6	Montreal	3999	a Kawasaki Zephyr motorcycle worth $3,999!						
 1230	10	1830	Daniel/Kelly/Janet	12/18/1992	4	LONDON	LONDON-S7-A	TonyB	6338	a trip to London and 1-week stay at Conrad by Hilton worth $6,338!						
 1188	10	1831	Sharon & Chana/Betty & Rebecca/Marvin & David	12/21/1992	2	LEARN	LEARN-S7	DinnerSax	2328	a Smith Corona WP 1100 word processor and Encyclopedia Britannica 32 volume set worth $2,328!						
@@ -1343,7 +1350,7 @@ Entry	S#	Ep#	Contestants	Air Date	Round	Wedge Text	Wedge Variant	Music Cue	Value
 1240	10	1839	Tom/Barbara/Donna	12/31/1992	2	CARIBBEAN	CARIBBEAN-S10	BubbleTriplets	4490	a Caribbean vacation at the Mullet Bay Resort and Casino with a Holiday Car Rental worth $4,490!						
 1241	10	1839	Tom/Barbara/Donna	12/31/1992	4	TRIP	TRIP-S7-F	BustleSax	6375	a Grand Canyon rafting trip on the Colorado River worth $6,375!						
 1234	10	1840	Jenny/Andrea/Tom	1/1/1993	2	SAIL	SAIL-S10	1980PrizeCue	3225	a Windjammer Cruise on the waters of Maine with island hopping worth $3,225!						
-1235	10	1840	Jenny/Andrea/Tom	1/1/1993	4	BIKE	BIKE-10	Nightwalk	7475	a bicycle tour of River Avon in England worth $7,475!						
+1235	10	1840	Jenny/Andrea/Tom	1/1/1993	4	BIKE	BIKE-S10	Nightwalk	7475	a bicycle tour of River Avon in England worth $7,475!						
 1184	10	1841	Arsenia/Rick/Jenny	1/4/1993	2	CARMEL	CARMEL-S9	Montreal	4401	a holiday at Quail Lodge Resort & Golf Club in Carmel, California worth $4,401!						
 1185	10	1841	Arsenia/Rick/Jenny	1/4/1993	4	JEWELRY	JEWELRY-S7	Otherworld	6376	a Krementz swirl necklace with 1.98-karat diamond and 18-karat gold worth $6,376!						
 1378	10	1842	Rick/Russell/Roy	1/5/1993	2	WATCH	WATCH-S9-A	SaxxyG	3940	a 14 karat gold Jules Jergensen quartz watch set in an oval case surrounded by 1 carat of sparkling diamonds. $3,940!						
@@ -1370,7 +1377,7 @@ Entry	S#	Ep#	Contestants	Air Date	Round	Wedge Text	Wedge Variant	Music Cue	Value
 1303	10	1879	Greg/Gordon/Larry	2/25/1993	2	ART	ART-S10-B	GhostOfBubbleTriplets	4500	a Salvador Dali Fashion Designer print worth $4,500!	No second prize this episode for unknown reasons.					
 1195	10	1880	Greg/Seth/Tom	2/26/1993	2	BROADWAY	BROADWAY-S10	ScoldingSax	5689	a trip to broadway and 2 tickets to the musical Jelly's Last Jam worth $5,689!	No second prize this episode for unknown reasons.					
 1265	10	1884	Michael/David/David	3/4/1993	2	TRIP	TRIP-S10	TripletsC	5846	A trip for two to the $100,000 International Gold Cup, staying at the Bassy Suites Hotel in Boca Raton, Florida. Valued at $5,846!						
-1266	10	1884	Michael/David/David	3/4/1993	4	SILVER	SILVER-S10-A	Otherworld	6500	Silverware worth $6,500!						
+1266	10	1884	Michael/David/David	3/4/1993	4	SILVER	SILVER-S10	Otherworld	6500	Silverware worth $6,500!						
 1280	10	1889	Jacqueline/Alex/Bernie	3/11/1993	2	RING			7800	a man's diamond ring from Fred Joaillier worth $7,800!						
 1281	10	1889	Jacqueline/Alex/Bernie	3/11/1993	4	CRUISE			8620	a Hawaiian cruise from American Hawaii Cruises, Inc. with airfare by Delta Air Lines worth $8,620!						
 1278	10	1890	Christopher/Debra/Bernie	3/12/1993	2	PARIS			5120	a trip to Paris with a restaurant tour included from Magic Travel, Inc. worth $5,120!						
@@ -1397,10 +1404,10 @@ Entry	S#	Ep#	Contestants	Air Date	Round	Wedge Text	Wedge Variant	Music Cue	Value
 1391	10	1920	Mazie/Dana/Cliff	4/30/1993	4	CHINA	CHINA-S10-B	WaitingForU	9103	Fine porcelain dinner service from Rosenthal Classic, Oneida crystal stemware in the Kenwood pattern, and Oneida Silversmiths' "Grand Majesty" Sterling silver. $9,103!						
 1222	10	1923	Greg/Dick/Ernie	5/5/1993	2	SPA	SPA-S10	BubbleTriplets	7331	a fitness holiday at Safety Harbor Spa & Fitness Center in Tampa Bay worth $7,331!	No second prize this episode; only 3 rounds were played. R2 was 2500 TDV as usual, R3 was 5K TDV.					
 1262	10	1924	Phil/Steve/Florence	5/6/1993	2	WATCHES	WATCHES-S10	WaitingForU	7700	His & Hers Watches by Fred Joaillier worth $7,700!	No second prize this episode; only 3 rounds were played. R2 was 2500 TDV as usual, R3 was 5K TDV.					
-1284	10	1925	Phil/Bill/Dick	5/7/1993	2	CAR	CAR-S10	Buzzword	10954	a Chevrolet Geo Metro convertible worth $10,954	No second prize this episode; only 3 rounds were played. R2 was 2500 TDV as usual, R3 was 5K TDV.					
+1284	10	1925	Phil/Bill/Dick	5/7/1993	2	CAR	CAR-S20	Buzzword	10954	a Chevrolet Geo Metro convertible worth $10,954	No second prize this episode; only 3 rounds were played. R2 was 2500 TDV as usual, R3 was 5K TDV.					
 1392	10	1926	Fred/Paul/Mazie	5/10/1993	2	CRYSTAL	CRYSTAL-S10	Tony	3250	Lalique's Crystal Cockatoo sculpture worth $3,250!						
 1393	10	1926	Fred/Paul/Mazie	5/10/1993	4	DIAMONDS	DIAMONDS-S7	Otherworld	10000	A Hammerman Jewelry gift certificate worth $10,000!						
-1236	10	1927	Terry/Colleen/Paul	5/11/1993	2	SILVER	SILVER-S10-B	WaitingForU	2500	a Stirling silver Paul Revere bowl worth $2,500!						
+1236	10	1927	Terry/Colleen/Paul	5/11/1993	2	SILVER	SILVER-S10	WaitingForU	2500	a Stirling silver Paul Revere bowl worth $2,500!						
 1237	10	1927	Terry/Colleen/Paul	5/11/1993	4	BOAT	BOAT-S7-A	HeartBassDrum	13586	a Regal Valanti 176 ski boat worth $13,586!						
 1238	10	1931	Greg/Jim Bob/Tara	5/17/1993	2	SCOOTERS	SCOOTERS-S7	Nightwalk	2258	a pair of Yamaha Razz scooters worth $2,258!						
 1239	10	1931	Greg/Jim Bob/Tara	5/17/1993	4	TRIP	TRIP-S10	RisingSax	6375	a Grand Canyon rafting trip on the Colorado River worth $6,375!						
@@ -1412,7 +1419,7 @@ Entry	S#	Ep#	Contestants	Air Date	Round	Wedge Text	Wedge Variant	Music Cue	Value
 1252	10	1946	Lin & Barbara/Carton & Mary/Jim & Carolyn	6/7/1993	2	WATCHES	WATCHES-S10	WaitingForU	2580	four Fendi watches, two for him and two for her; one each with gold overlay and leather bands for an active look, the others with 18-karat gold bezel; totaling $2,580!						
 1253	10	1946	Lin & Barbara/Carton & Mary/Jim & Carolyn	6/7/1993	4	TRIP	TRIP-S9-A	1980PrizeCue	10490	a dream vacation for 3 people to Orlando and stay at Walt Disney World Dolphin worth $10,490!						
 1208	10	1950	Jack & Sandra/Mark & Karen/Bill & Sheila	6/11/1993	2	TRAVEL	TRAVEL-S10-B	RisingSax	1749	an Eastpak backpack set and Panasonic palm phone totaling $1,749!						
-1209	10	1950	Jack & Sandra/Mark & Karen/Bill & Sheila	6/11/1993	4	AUSTRALIA	AUSTRALIA-S10	Escape	11435	a trip to Australia, including attendance at Sydney Opera House and tour of Alice Springs and Ayers Rock, totaling $11,435!						
+1209	10	1950	Jack & Sandra/Mark & Karen/Bill & Sheila	6/11/1993	4	AUSTRALIA	AUSTRALIA-S7	Escape	11435	a trip to Australia, including attendance at Sydney Opera House and tour of Alice Springs and Ayers Rock, totaling $11,435!						
 1407	11	1957	Ben/John/Melisa	9/14/1993	2	ORLANDO	ORLANDO-S11	Montreal	4996	a trip to Walt Disney World worth $4,996!						
 1408	11	1957	Ben/John/Melisa	9/14/1993	4	PIN	PIN-S7-C	SaxxyG	6000	a chrysoprase and diamond bow pin worth $6,000!						
 1427	11	1958	Ben/Lance/Michelle	9/15/1993	2				2425	the Victoria Bowl, designed by Lalique, worth $2,425!	Recap does not specify the WEDGE TEXT.					
@@ -1465,7 +1472,7 @@ Entry	S#	Ep#	Contestants	Air Date	Round	Wedge Text	Wedge Variant	Music Cue	Value
 1419	11	2145	Dave/Jona/Glen	6/17/1994	4	RING	RING-S7-B	Otherworld	9500	a Frances Klein dinner ring with 2.41-karat diamond and platinum, worth $9,500!						
 1759	12	2146	Melody/Stacy/Jason	9/5/1994	2	TRAVEL	TRAVEL-S10-B	BustleSax	826	For your next school trip pack up with Outdoor Products, quality travel gear made in the USA. Great for Travel or Outdoor Recreational Use, Life is a journey! We'll help you Pack! From Outdoor Products. Make those memories last with a new Konica Big mini. One of The world's smallest fully automatic 35mm compact camera. Plus Konica's colour print film. The right film for the right shot, From Konica. Now you're ready for any adventure! $826 dollars!						
 1760	12	2146	Melody/Stacy/Jason	9/5/1994	4	KONA	KONA-S12-A			A trip to Kona.	No prize plug.					
-1761	12	2147	Adam/Lauren/Danielle	9/6/1994	2	G.C.	GC-S12	WaitingForU	1000	It's a shopping spree at The Sharper Image! A gift certificate for any of their exciting products, such as this Billiards Table, This unique Guitar CD tower, and car model collectibles! Available through their 74 stores and catalogue. From the Sharper Image. $1000 dollars!						
+1761	12	2147	Adam/Lauren/Danielle	9/6/1994	2	G.C.	GC-S12-A	WaitingForU	1000	It's a shopping spree at The Sharper Image! A gift certificate for any of their exciting products, such as this Billiards Table, This unique Guitar CD tower, and car model collectibles! Available through their 74 stores and catalogue. From the Sharper Image. $1000 dollars!						
 1762	12	2147	Adam/Lauren/Danielle	9/6/1994	4	HERSHEY	HERSHEY-S12			a trip to Hershey, Pennsylvania.	No prize plug. Wedge is only ever on camera obliquely from a distance, variant presumed but not captured.					
 1757	12	2148	Cameron/Paul/Tonya	9/7/1994	2	COMPUTER	COMPUTER-S12-A	DinnerSax	1599	It's a student's must. Inside Computer's 386 SX Personal Computer. Comes complete with high performance hard drive, monitor and enhanced keyboard for all your computing needs. Available exclusively through direct mail from Insight computers. Plus a complete collection of Info-taining software including Computer works, your hi-tech tour guide which explores the universe of micro-chips and Meg-O-Bytes, on your own computer. From Software marketing corporation. $1,599 dollars!	Pat: "Our best to you and your floppy disc."					
 1758	12	2148	Cameron/Paul/Tonya	9/7/1994	4	LAS VEGAS	LAS-VEGAS-S12-A			a trip to Las Vegas.	No prize plug.					
@@ -1476,7 +1483,7 @@ Entry	S#	Ep#	Contestants	Air Date	Round	Wedge Text	Wedge Variant	Music Cue	Value
 1658	12	2151	Shannon/Diane/Dave	9/12/1994	2	LOBSTER	LOBSTER-S12-A	HeartBassDrum	1000	a Lobster Gram seafood gift certificate worth $1,000!						
 1659	12	2151	Shannon/Diane/Dave	9/12/1994	4	SILVER				a silver tea service.	No prize plug. Wedge is only ever on camera obliquely from a distance, variant not presumed, probably an S10-A or S10-B.					
 1631	12	2152	Diane/Carolyn/Michael	9/13/1994	2	PUERTO RICO	PUIERTO-RICO-S12	DinnerSax	3447	a trip to Puerto Rico and stay at Holiday Inn Crowne Plaza Hotel & Casino worth $3,447!						
-1632	12	2152	Diane/Carolyn/Michael	9/13/1994	4	CRUISE	CRUISE-S12			a Caribbean and Amazon cruise.	No prize plug.					
+1632	12	2152	Diane/Carolyn/Michael	9/13/1994	4	CRUISE	CRUISE-S12-A			a Caribbean and Amazon cruise.	No prize plug.					
 1656	12	2153	Carolyn/Jim/Wayne	9/14/1994	2	WYOMING	WYOMING-S12	WestHarmonica	4100	a Wild West vacation at Vee Bar Ranch plus a ride on the Wyoming/Colorado Excursion Train worth $4,100!	No second prize this episode; round 4 was entirely a speed-up round.					
 1756	12	2154	Wayne/Lesley/Jack	9/15/1994	2	RING	RING-S7-B	SaxxyG	3765	A stunning Artcarved Luminescence diamond wedding anniversary band in 18 carat yellow gold, with 15 channel set diamonds totalling 1.44 carat weight. From Artcarved. $3,765 dollars!	No second prize this episode; round 4 was entirely a speed-up round.					
 1754	12	2155	Diane/Lesley/Rich	9/16/1994	2	VIRGINIA	VIRGINIA-S12-A	RisingSax	3650	Rediscover the history of colonial Williamsburg. Stay at Kingsmill Resort, located on the James river. You may enjoy golf on their championship courses, a visit to nearby Bush Gardens, or to historic colonial Williamsburg. From Kingsmill. $3,650 dollars!						
@@ -1509,9 +1516,9 @@ Entry	S#	Ep#	Contestants	Air Date	Round	Wedge Text	Wedge Variant	Music Cue	Value
 1743	12	2170	Diane/Frank/Connie	10/7/1994	2	MALIBU	MALIBU-S12	LegatoUpDownSax	4008	a trip to California's renowned beach haven, at Malibu! Also included is a special ride aboard a Goodyear Blimp! Retail value is $4,008 dollars!						
 1744	12	2170	Diane/Frank/Connie	10/7/1994	4	DIAMONDS					No prize plug. Wedge is only ever on camera obliquely from a distance, variant not presumed.					
 1622	12	2171	Jamila/Steve/Connie	10/10/1994	2	ART	ART-S12-B	MutedTrumpet	1800	a Martin Lawrence Galleries limited-edition Reflections of Imperial Gardens serigraph worth $1,800!						
-1623	12	2171	Jamila/Steve/Connie	10/10/1994	4	SILVER	SILVER-S10-B			a silver tea service.	No prize plug.					
+1623	12	2171	Jamila/Steve/Connie	10/10/1994	4	SILVER	SILVER-S10			a silver tea service.	No prize plug.					
 1741	12	2172	Vivienne/Steve/Judy	10/11/1994	2	DIAMONDS	DIAMONDS-S12	Fairytale	6000	a diamond tennis bracelet by Keen Jewelry! In 14-karat gold with 2.75 carats of diamonds, this prize is worth $6,000 dollars!						
-1742	12	2172	Vivienne/Steve/Judy	10/11/1994	4	CRUISE	CRUISE-S12	BubbleTriplets	6226	a Cruise through the Panama Canal from Dolphin Cruise lines! $6,226 dollars!						
+1742	12	2172	Vivienne/Steve/Judy	10/11/1994	4	CRUISE	CRUISE-S12-A	BubbleTriplets	6226	a Cruise through the Panama Canal from Dolphin Cruise lines! $6,226 dollars!						
 1738	12	2173	Chris/Yasin/Vivienne	10/12/1994	2	MEXICO	MEXICO-S12	Ranchera	6554	a trip to Mexico! This trip is worth $6,554 dollars!						
 1739	12	2173	Chris/Yasin/Vivienne	10/12/1994	4	RING	RING-S7-B			a ring.	No prize plug.					
 1736	12	2174	Ted/Yasin/Tamara	10/13/1994	2	KONA	KONA-S12-B	Luau	7092	a vacation to Hawaii! It's a divers vacation, and if won, the winner will stay aboard the Kona Agressor II and have the opportunity to dive off Hawaii's big island for an entire week. Retail value is $7,092 dollars!						
@@ -1548,7 +1555,7 @@ Entry	S#	Ep#	Contestants	Air Date	Round	Wedge Text	Wedge Variant	Music Cue	Value
 1711	12	2193	Marjorie/Charlene/Bhavana	11/9/1994	2	RING	RING-S7-B	Gliss	9500	a dinner ring with 2.14 karats set in platinum from Frances Klein of Beverly Hills! Retail value is $9,500 dollars!	No second prize this episode; round 4 was entirely a speed-up round.					
 1606	12	2194	Lottie/Bhavana/Nathan	11/10/1994	2	BOAT	BOAT-S7-A	1980PrizeCue	9195	a Rush Regal jet boat worth $9,195!	No second prize this episode; round 4 was entirely a speed-up round.					
 1605	12	2195	Sam/Debi/Nathan	11/11/1994	2	DIAMONDS	DIAMONDS-S7	Gliss	7050	a Krementz 18-karat gold and diamond necklace totaling 1.98 karats worth $7,050!	No second prize this episode for unknown reasons					
-1604	12	2196	Gary/Dennis/Nathan	11/14/1994	2	SILVER	SILVER-S10-B	FluteBam	6500	a Lunt Silversmiths Paul Revere Sterling tea service worth $6,500!	No second prize this episode; round 4 was entirely a speed-up round.					
+1604	12	2196	Gary/Dennis/Nathan	11/14/1994	2	SILVER	SILVER-S10	FluteBam	6500	a Lunt Silversmiths Paul Revere Sterling tea service worth $6,500!	No second prize this episode; round 4 was entirely a speed-up round.					
 1723	12	2197	Gary/Beth/Mick	11/15/1994	2	FIJI	FIJI-S12-A	SaxStoryContinues	9055	a trip to Fiji! Retail value is $9,055 dollars!	No second prize this episode; round 4 was entirely a speed-up round.					
 1721	12	2198	Darlene/Ron/Mick	11/16/1994	2	RUG	RUG-S12	SaxStoryContinues	5500	an Oriental Rug! Retail value is $5,500 dollars!	No second prize this episode for unknown reasons					
 1722	12	2199	Darlene/Renee/Teresa	11/17/1994	2	COMPUTER	COMPUTER-S12-B	Nightwalk	1499	a computer from AT&T! Retail value is $1,499 dollars!	No second prize this episode for unknown reasons					
@@ -1558,11 +1565,11 @@ Entry	S#	Ep#	Contestants	Air Date	Round	Wedge Text	Wedge Variant	Music Cue	Value
 1716	12	2202	Denise/Vince/Sophie	11/22/1994	2	COMPUTER	COMPUTER-S12-B	Metro	3940	a handheld computer from Scion! Retail value is $3,940 dollars!						
 1717	12	2202	Denise/Vince/Sophie	11/22/1994	4	BIKE	BIKE-S10			a motorcycle.	No prize plug.					
 1693	12	2203	Tammy/Rodney/Denise	11/23/1994	2	BIKE	BIKE-S10	HoedownGuitar	4299	a 1995 Kawasaki Ninja 500 sport-bike worth $4,299!						
-1694	12	2203	Tammy/Rodney/Denise	11/23/1994	4	DOCUMENT	DOCUMENT-S12			an interesting prize, a document.	No prize plug.					
+1694	12	2203	Tammy/Rodney/Denise	11/23/1994	4	DOCUMENT	DOCUMENT-S12-A			an interesting prize, a document.	No prize plug.					
 1692	12	2204	Tamara/Denise/Tina	11/24/1994	2	RING	RING-S12-A	Ranchera	4134	a Cocktail ring from Krementz and Co. worth $4,134!	No second prize this episode; round 4 was entirely a speed-up round.					
 1714	12	2205	Scot/Marilyn/Tom	11/25/1994	2	ART	ART-S10-B	TrumpetFanfare	5000	an oil painting created by renowned Texas Artist Clyde Heron! Retail value is $5,000 dollars!						
-1715	12	2205	Scot/Marilyn/Tom	11/25/1994	4	DOCUMENT	DOCUMENT-S12			an interesting document.	No prize plug.					
-1712	12	2206	Marilyn/Dale/Brenda	11/28/1994	2	CHINA	CHINA-S12	WaitingForU	3090	a Porcelain Dinnerware Set! Retail value $3,090 dollars!						
+1715	12	2205	Scot/Marilyn/Tom	11/25/1994	4	DOCUMENT	DOCUMENT-S12-A			an interesting document.	No prize plug.					
+1712	12	2206	Marilyn/Dale/Brenda	11/28/1994	2	CHINA	CHINA-S12-A	WaitingForU	3090	a Porcelain Dinnerware Set! Retail value $3,090 dollars!						
 1713	12	2206	Marilyn/Dale/Brenda	11/28/1994	4	JAMAICA	JAMAICA-S12			a trip to Jamaica.	No prize plug.					
 1650	12	2207	Gordon/Brenda/Donna	11/29/1994	2	HERSHEY	HERSHEY-S12	Otherworld	5050	a Hershey Lodge holiday at Hershey's Christmas Candylane in Pennsylvania worth $5,050!						
 1651	12	2207	Gordon/Brenda/Donna	11/29/1994	4	WATCH	WATCH-S12			a beautiful watch.	No prize plug.					
@@ -1571,7 +1578,7 @@ Entry	S#	Ep#	Contestants	Air Date	Round	Wedge Text	Wedge Variant	Music Cue	Value
 1661	12	2209	Gordon/Matt/Tina	12/1/1994	2	ART	ART-S12-B	WestHarmonica	1875	a Boehm American Artists' porcelain woodcock worth $1,875!						
 1662	12	2209	Gordon/Matt/Tina	12/1/1994	4	VIRGINIA	VIRGINIA-S12-B			a trip to Virginia.	No prize plug.					
 1603	12	2210	Tom/Alan/Bob	12/2/1994	2	NEW YORK	NEW-YORK-S12-A	Otherworld	2796	a Holiday Spectacular at the Sheraton New York Hotel & Towers with two tickets to A Christmas Carol worth $2,796!	No second prize this episode; round 4 was entirely a speed-up round.					
-1654	12	2211	Brian/Tom/John	12/5/1994	2	MUSIC	MUSIC-S12	RisingSax	3700	a trip to Branson, Missouri and stay at Hampton Inn, for live entertainment and family fun, a prize worth $3,700!						
+1654	12	2211	Brian/Tom/John	12/5/1994	2	MUSIC	MUSIC-S12-A	RisingSax	3700	a trip to Branson, Missouri and stay at Hampton Inn, for live entertainment and family fun, a prize worth $3,700!						
 1655	12	2211	Brian/Tom/John	12/5/1994	4	RING	RING-S12-B			a beautiful ring.	No prize plug.					
 1601	12	2212	Kathy/Bob/Brian	12/6/1994	2	YULE TREE	YULE-TREE-S12	Otherworld	2500	an Enesco 7-foot decorator design friendship-themed tree worth $2,500!						
 1602	12	2212	Kathy/Bob/Brian	12/6/1994	4	POLAND	POLAND-S12-A			a great trip to Poland.	No prize plug.					
@@ -1584,10 +1591,10 @@ Entry	S#	Ep#	Contestants	Air Date	Round	Wedge Text	Wedge Variant	Music Cue	Value
 1597	12	2217	Liza/Gary/Marianne	12/13/1994	2	BEAR	BEAR-S12	LegatoUpDownSax	2100	a porcelain polar bear sculpture worth $2,100!						
 1598	12	2217	Liza/Gary/Marianne	12/13/1994	4	DIAMONDS	DIAMONDS-S7			Some beautiful diamonds.	No prize plug.					
 1701	12	2218	John/Erica/Marianne	12/14/1994	2	ART	ART-S10-B	TrumpetLonging	2100	limited edition "When Eagles Dance" sculpture from Ashley Editions worth $2,100!						
-1702	12	2218	John/Erica/Marianne	12/14/1994	4	CHINA	CHINA-S12			China. China? That would be China like eating type, right? Ah, we don't know. Probably. A plate, yeah that's… Oh, a trip! It is a trip. Ok, Ch- well, I don't know! I'm just trying to find out here…	No prize plug.					
+1702	12	2218	John/Erica/Marianne	12/14/1994	4	CHINA	CHINA-S12-A			China. China? That would be China like eating type, right? Ah, we don't know. Probably. A plate, yeah that's… Oh, a trip! It is a trip. Ok, Ch- well, I don't know! I'm just trying to find out here…	No prize plug.					
 1595	12	2219	Ina/Erica/Marc	12/15/1994	2	SEW	SEW-S12	Nightwalk	3000	a New Home Memory Craft 800 sewing machine worth $3,000!						
 1596	12	2219	Ina/Erica/Marc	12/15/1994	4	BALI	BALI-S12			a trip to Bali.	No prize plug.					
-1593	12	2220	La Shawn/Ina/Pam	12/16/1994	2	DOCUMENT	DOCUMENT-S12	WaitingForU	6750	a General George Custer genuine photograph of American history from the Kenneth Rendell Gallery worth $6,750!						
+1593	12	2220	La Shawn/Ina/Pam	12/16/1994	2	DOCUMENT	DOCUMENT-S12-A	WaitingForU	6750	a General George Custer genuine photograph of American history from the Kenneth Rendell Gallery worth $6,750!						
 1594	12	2220	La Shawn/Ina/Pam	12/16/1994	4	NECKLACE	NECKLACE-S7			a beautiful necklace.	No prize plug.					
 1591	12	2221	Carolyn & Michele/Marie & Frank/Sheila & Eric	12/19/1994	2	SCOOTERS	SCOOTERS-S7	HeartBassDrum	2598	a pair of Yamaha Razz scooters worth $2,598!						
 1592	12	2221	Carolyn & Michele/Marie & Frank/Sheila & Eric	12/19/1994	4	TRIP	TRIP-S12-A			a trip to Orlando.	No prize plug.					
@@ -1611,8 +1618,8 @@ Entry	S#	Ep#	Contestants	Air Date	Round	Wedge Text	Wedge Variant	Music Cue	Value
 1645	12	2233	Owen & Grant/Sophie & Elenore/John & Mark	1/18/1995	2	BAHAMAS	BAHAMAS-S12	SteelDrums	10452	an Atlantis Paradise Island holiday worth $10,452!	No second prize this episode for unknown reasons					
 1638	12	2234	Ryan & Diana/Chi Lan & Le/Ben & Julie	1/19/1995	2	BIKES	BIKES-S7	Otherworld	3000	a pair of Klein Pinnacle mountain bikes worth $3,000!	No second prize this episode for unknown reasons					
 1769	12	2235	Chi Lan & Le/Kristie & Shawna/Cedric & Quintan	1/20/1995	2	HAWAII	HAWAII-S12-B	Luau	9952	a trip to Kona, Hawaii worth $9,952!	No second prize this episode; round 4 was entirely a speed-up round.					
-1577	12	2236	John/Beverly/Betty	1/23/1995	2	MUSIC	MUSIC-S12	BustleSax	3700	a trip to Branson, Missouri and stay at Hampton Inn with live theatre, attractions, live sports, and family fun worth $3,700!						
-1578	12	2236	John/Beverly/Betty	1/23/1995	4	GOLF	GOLF-S12			a golf trip.	No prize plug.					
+1577	12	2236	John/Beverly/Betty	1/23/1995	2	MUSIC	MUSIC-S12-A	BustleSax	3700	a trip to Branson, Missouri and stay at Hampton Inn with live theatre, attractions, live sports, and family fun worth $3,700!						
+1578	12	2236	John/Beverly/Betty	1/23/1995	4	GOLF	GOLF-S12-A			a golf trip.	No prize plug.					
 1575	12	2237	Richard/Betty/Jerry	1/24/1995	2	WATCH	WATCH-S9-A	LegatoUpDownSax	5200	a Croton 14-karat gold man's quartz watch with 0.5-karat diamond bezel worth $5,200!						
 1576	12	2237	Richard/Betty/Jerry	1/24/1995	4	DINE	DINE-S9			another nice prize.	No prize plug.					
 1573	12	2238	Sonny/Paul/Richard	1/25/1995	2	COMPUTER	COMPUTER-S12-B	BassGuitarFusion	2925	an AT&T Globalist 200 notebook computer with Microsoft Windows worth $2,925!						
@@ -1624,12 +1631,12 @@ Entry	S#	Ep#	Contestants	Air Date	Round	Wedge Text	Wedge Variant	Music Cue	Value
 1568	12	2241	Janet/Jan/David	1/30/1995	2	NEW ORLEANS		NewOrleans	3796	a trip to New Orleans and stay at the Hilton and Flamingo Casino worth $3,796!	No second prize this episode; round 4 was entirely a speed-up round.					
 1566	12	2242	Howard/Courtney/David	1/31/1995	2	CRYSTAL	CRYSTAL-S12-A	Gliss	2050	a Lalique Virginia crystal peacock bowl worth $2,050!						
 1567	12	2242	Howard/Courtney/David	1/31/1995	4	DIAMONDS	DIAMONDS-S7			some diamond earrings.	No prize plug.					
-1564	12	2243	Verla/Fred/Howard	2/1/1995	2	CRUISE	CRUISE-S12	Ranchera	4800	a cruise to Mexico on the Premier Cruise Lines Big Red Boat worth $4,800!						
+1564	12	2243	Verla/Fred/Howard	2/1/1995	2	CRUISE	CRUISE-S12-A	Ranchera	4800	a cruise to Mexico on the Premier Cruise Lines Big Red Boat worth $4,800!						
 1565	12	2243	Verla/Fred/Howard	2/1/1995	4	CHINA				another great prize.	No prize plug. Prize wedge is never pictured.					
 1563	12	2244	Howard/Michael/Janice	2/2/1995	2	ART	ART-S10-B	PluckyPearl	4000	a Nan Rae flower artwork exhibited at the Paris Grand Palais worth $4,000!	No second prize this episode; round 4 was entirely a speed-up round.					
 1562	12	2245	David/Michael/Patrick	2/3/1995	2	SKI	SKI-S7	BreakfastSax	4460	a skier's vacation at Smugglers' Notch Vermont with Hart F16 snow skis and matching poles worth $4,460!	No second prize this episode; round 4 was entirely a speed-up round.					
 1561	12	2246	Brenda & Sharon/Kassidy & Kay/Jillian & Marge	2/6/1995	2	COMPUTER	COMPUTER-S12-C	BassGuitarFusion	2925	an AT&T Globalist 200 Notebook computer with Microsoft Windows worth $2,925!	No second prize this episode; round 4 was entirely a speed-up round.					
-1560	12	2247	Luann & Rhonda/Melissa & Debbie/Stephen & Susan	2/7/1995	2	PALMCORDER	PALMCORDER-S12	StruttinB	1499	a Panasonic Palmcorder camera valued at $1,499!	No second prize this episode; round 4 was entirely a speed-up round.					
+1560	12	2247	Luann & Rhonda/Melissa & Debbie/Stephen & Susan	2/7/1995	2	PALMCORDER	PALMCORDER-S12-A	StruttinB	1499	a Panasonic Palmcorder camera valued at $1,499!	No second prize this episode; round 4 was entirely a speed-up round.					
 1559	12	2248	Alan & John/Wesley & Stephanie/Austin & Rick	2/8/1995	2	SPACE CAMP	SPACE-CAMP-S10	BustleSax	2500	a U.S. Space Camp holiday in Huntsville, Alabama worth $2,500!	No second prize this episode; round 4 was entirely a speed-up round.					
 1660	12	2249	Eliot & John/Erin & Peggy/Noah & Martin	2/9/1995	2	COMPUTER	COMPUTER-S12-B	Nightwalk	3940	a Psion Series 3A pocket computer worth $3,940!	No second prize this episode for unknown reasons					
 1558	12	2250	Alan & John/Luann & Rhonda/Noah & Martin	2/10/1995	2	BIKES	BIKES-S12	Montreal	3320	a pair of Klein Fervor bicycles worth $3,320!	No second prize this episode for unknown reasons					
@@ -1652,11 +1659,11 @@ Entry	S#	Ep#	Contestants	Air Date	Round	Wedge Text	Wedge Variant	Music Cue	Value
 1549	12	2262	Tom/Nancy/Renae	2/28/1995	2	JEWELRY	JEWELRY-S12-B	TrumpetLonging	7300	a pair of Hammerman Compatibles rings, half with diamonds and half with gold and platinum worth $7,300!						
 1550	12	2262	Tom/Nancy/Renae	2/28/1995	4	BALI	BALI-S12			a great trip to Bali.	No prize plug.					
 1666	12	2263	Renae/Mike/Jackie	3/1/1995	2	RUG	RUG-S12	Carnival	3500	a French Tapestry rug worth $3,500						
-1667	12	2263	Renae/Mike/Jackie	3/1/1995	4	CHINA	CHINA-S12			a trip to China	No prize plug.					
+1667	12	2263	Renae/Mike/Jackie	3/1/1995	4	CHINA	CHINA-S12-A			a trip to China	No prize plug.					
 1703	12	2264	Alan/Jim/Doris	3/2/1995	2	SKI	SKI-S9	FluteBam	4460	a ski holiday at Smuggler's Notch Vermont with Hart Skis worth $4,460!	No second prize this episode for unknown reasons					
 1547	12	2265	Jean/Leigh/Alan	3/3/1995	2	COMPUTER	COMPUTER-S12-C	SwingComputing	3940	a Psion Series 3a handheld computer worth $3,940!						
 1548	12	2265	Jean/Leigh/Alan	3/3/1995	4	NECKLACE	NECKLACE-S7			a beautiful necklace.						
-1545	12	2266	Phil/Alan/Jay	3/6/1995	2	MUSIC	MUSIC-S12	MusicBoxFurElise	1100	an Enesco miniature Victorian musical house worth $1,100!						
+1545	12	2266	Phil/Alan/Jay	3/6/1995	2	MUSIC	MUSIC-S12-A	MusicBoxFurElise	1100	an Enesco miniature Victorian musical house worth $1,100!						
 1546	12	2266	Phil/Alan/Jay	3/6/1995	4	POLAND	POLAND-S12-A			a trip to Poland.	No prize plug.					
 1543	12	2267	Dennis/Gene/Richard	3/7/1995	2	BALI	BALI-S12	1980PrizeCue	5225	a trip to Bali and stay at the Hyatt Hotel worth $5,225!						
 1544	12	2267	Dennis/Gene/Richard	3/7/1995	4	CAMPER	CAMPER-S12		9000	a big camper just under $9,000.	No prize plug.					
@@ -1666,7 +1673,7 @@ Entry	S#	Ep#	Contestants	Air Date	Round	Wedge Text	Wedge Variant	Music Cue	Value
 1538	12	2270	Doreen/Matt/Amy	3/10/1995	2	WATCHES	WATCHES-S10	HeartBassDrum	1190	a pair of Pierre Cardin 23-karat gold-plated dress watches worth $1,190!						
 1539	12	2270	Doreen/Matt/Amy	3/10/1995	4	NECKLACE	NECKLACE-S7		10000	a necklace worth almost $10,000.	No prize plug.					
 1536	12	2271	Glenn/Michelle/Jocelyn	3/13/1995	2	LOBSTER	LOBSTER-S12-B	HeartBassDrum	1000	a Lobster Gram gift package worth $1,000!						
-1537	12	2271	Glenn/Michelle/Jocelyn	3/13/1995	4	DOCUMENT	DOCUMENT-S12			a nice prize.	No prize plug. Pat claims at the end of the round, "This was just a note from Alan Thicke to his agent."					
+1537	12	2271	Glenn/Michelle/Jocelyn	3/13/1995	4	DOCUMENT	DOCUMENT-S12-A			a nice prize.	No prize plug. Pat claims at the end of the round, "This was just a note from Alan Thicke to his agent."					
 1534	12	2272	Donnie/Glenn/Jan	3/14/1995	2	CHINA	CHINA-S10-A	SaxStoryContinues	4450	a Rosenthal porcelain dinnerware set worth $4,450!						
 1535	12	2272	Donnie/Glenn/Jan	3/14/1995	4	DIAMONDS	DIAMONDS-S7			some diamonds.	No prize plug.					
 1533	12	2273	Kathy/Joe/Glenn	3/15/1995	2	CRYSTAL	CRYSTAL-S12-A	SteelDrums	3250	a Lalique Martinique vase worth $3,250!	No second prize this episode; round 4 was entirely a speed-up round.					
@@ -1674,7 +1681,7 @@ Entry	S#	Ep#	Contestants	Air Date	Round	Wedge Text	Wedge Variant	Music Cue	Value
 1532	12	2274	Patty/Joe/Gary	3/16/1995	4	RING	RING-S12-B			a beautiful ring.	No prize plug.					
 1767	12	2275	Steve/Erica/Joe	3/17/1995	2	ART	ART-S10-B	LegatoUpDownSax	1950	a porcelain replica of King Tut's mask worth $1,950!						
 1768	12	2275	Steve/Erica/Joe	3/17/1995	4	PIANO	PIANO-S7-B			a piano too, another terrific prize.	No prize plug.					
-1530	12	2276	Mindy/Sharlene/Joe	3/20/1995	2	SILVER	SILVER-S10-B	SaxStoryContinues	2937	a Wallace Silversmiths 5-piece tea set, Lazy Susan, and chafing dish worth $2,937!	No second prize this episode; round 4 was entirely a speed-up round.					
+1530	12	2276	Mindy/Sharlene/Joe	3/20/1995	2	SILVER	SILVER-S10	SaxStoryContinues	2937	a Wallace Silversmiths 5-piece tea set, Lazy Susan, and chafing dish worth $2,937!	No second prize this episode; round 4 was entirely a speed-up round.					
 1528	12	2277	Mike/Lisa/Sharlene	3/21/1995	2	MALIBU	MALIBU-S12	StruttinB	3108	a vacation at Malibu Beach Inn Southern California worth $3,108!						
 1529	12	2277	Mike/Lisa/Sharlene	3/21/1995	4	PARIS	PARIS-S12			Paris is on the wheel. That's a prize someone can win. That's in France, by the way.	No prize plug.					
 1526	12	2278	Cookie/Lisa/Michael	3/22/1995	2	SEW	SEW-S10	Otherworld	3000	a New Home Memory Craft 8000 sewing machine worth $3,000!						
@@ -1689,102 +1696,102 @@ Entry	S#	Ep#	Contestants	Air Date	Round	Wedge Text	Wedge Variant	Music Cue	Value
 1519	12	2282	Ralph/David/Michelle	3/28/1995	4	SHOP	SHOP-S12-A	StruttinB	8066	a shopping spree Beverly Hills shopping spree with accommodations from Merv's Beverly Hilton and $3,000 Fred Hayman gift certificate worth $8,066!						
 1517	12	2283	Colleen/Jack/Ralph	3/29/1995	2	ST. THOMAS	ST-THOMAS-S12	BubbleTriplets	5224	a trip to St. Thomas and stay at Point Pleasant Resort worth $5,224!	No second prize this episode; round 4 was entirely a speed-up round.					
 1516	12	2284	Ralph/Brian/Todd	3/30/1995	2	STARS	STARS-S12	Fairytale	3700	a Meade telescope worth $3,700!	No second prize this episode; round 4 was entirely a speed-up round.					
-1514	12	2285	Herb/Wilda/Brian	3/31/1995	2	NEW YORK	NEW-YORK-S12	ScoldingSax	4025	 trip to the Big Apple and stay at the historic Waldorf-Astoria Hilton plus Kenneth Salon service and products worth $4,025!						
+1514	12	2285	Herb/Wilda/Brian	3/31/1995	2	NEW YORK	NEW-YORK-S12	ScoldingSax	4025	a trip to the Big Apple and stay at the historic Waldorf-Astoria Hilton plus Kenneth Salon service and products worth $4,025!						
 1515	12	2285	Herb/Wilda/Brian	3/31/1995	4	SHOP	SHOP-S12-B	StruttinB	8056	a Beverly Hills shopping spree with accommodations from Merv's Beverly Hilton and $3,000 Fred Hayman gift certificate worth $8,056!						
-1512	12	2286	Rocky/Carolyn/Herb	4/3/1995	2	SOUTH DAKOTA			2310	a mid-America holiday in South Dakota from Ramada Hotels including national park tours worth $2,310!						
-1513	12	2286	Rocky/Carolyn/Herb	4/3/1995	4	LAS VEGAS					No prize plug.					
-1510	12	2287	Herb/Donna/Amy	4/4/1995	2	TRAVEL			2017	an RV Roncato satin/aluminum luggage set and Bausch & Lomb compact binoculars worth $2,017!						
-1511	12	2287	Herb/Donna/Amy	4/4/1995	4	DIAMONDS					No prize plug.					
-1508	12	2288	M.E./Anne/Loretta	4/5/1995	2	ART			2495	a Signature One Series The Hero, The Hitter, and The American Dream lithograph signed by Joe DiMaggio worth $2,495!						
-1509	12	2288	M.E./Anne/Loretta	4/5/1995	4	RAFTING				a rafting trip	No prize plug.					
-1699	12	2289	Richard/Anne/Llewellyn	4/6/1995	2	ART			1450	a limited edition serigraph from Martin Lawrence Galleries worth $1,450!						
-1700	12	2289	Richard/Anne/Llewellyn	4/6/1995	4	PIANO				a piano.	No prize plug.					
-1663	12	2290	Lou/Joe/Richard	4/7/1995	2	BBQ			3416	a Robert H. Peterson Master Chef backyard barbecue worth $3,416!						
-1664	12	2290	Lou/Joe/Richard	4/7/1995	4	CRUISE					No prize plug.					
-1506	12	2291	Azie/Khalilah/Chris	4/10/1995	2	COMPUTER			1499	an AT&T personal multimedia desktop computer with CD-ROM, modem, and Microsoft Windows worth $1,499!						
-1507	12	2291	Azie/Khalilah/Chris	4/10/1995	4	TV					No prize plug.					
-1504	12	2292	Jennifer/Matt/Josh	4/11/1995	2	STEREO			1499	a Klipsch audio and home theater system worth $1,499!						
-1505	12	2292	Jennifer/Matt/Josh	4/11/1995	4	COMPUTER					No prize plug.					
-1641	12	2293	Stacey/Karsten/Krista	4/12/1995	2	COMPUTER			1779	a Gateway 2000 Family PC and 1 month subscription to the Prodigy computer service worth $1,779!						
-1642	12	2293	Stacey/Karsten/Krista	4/12/1995	4	TV					No prize plug.					
-1502	12	2294	T.J./Ricky/Richie	4/13/1995	2	MUSIC			1400	a Bose Lifestyle 5 music system with remote control and CD player worth $1,400!						
-1503	12	2294	T.J./Ricky/Richie	4/13/1995	4	COMPUTER					No prize plug.					
-1500	12	2295	Stacey/Chris/Matt	4/14/1995	2	SPACE CAMP			2500	a U.S. Space Camp holiday in Huntsville, Alabama worth $2,500!						
-1501	12	2295	Stacey/Chris/Matt	4/14/1995	4	JUKEBOX					No prize plug.					
-1498	12	2296	Jean/Lou/Manny	4/24/1995	2	CHINA			4140	a Rosenthal Studio porcelain dinnerware set worth $4,140!						
-1499	12	2296	Jean/Lou/Manny	4/24/1995	4	POLAND					No prize plug.					
-1496	12	2297	Jean/Brian/Nicole	4/25/1995	2	CRYSTAL			2600	a Victoria bowl by Lalique worth $2,600!						
-1497	12	2297	Jean/Brian/Nicole	4/25/1995	4	CAMPER					No prize plug.					
-1494	12	2298	Denise/Jean/Paul	4/26/1995	2	BRACELETS			2400	a pair of Fred Joaillier 18-karat gold braid bracelets worth $2,400!						
-1495	12	2298	Denise/Jean/Paul	4/26/1995	4	CHINA				a trip to China	No prize plug.					
-1492	12	2299	Denise/Dan/Peter	4/27/1995	2	PIN			3100	a Fred Joaillier 18-karat gold snooty poodle pin worth $3,100!						
-1493	12	2299	Denise/Dan/Peter	4/27/1995	4	POLAND			5000	a trip to Warsaw and stay at the Marriott 5-star luxury hotel worth $5,000!						
-1490	12	2300	Rita/Dan/Curt	4/28/1995	2	ART			1500	a Caldwell Snyder Galleries signed/numbered limited edition of Mason Con Frutas worth $1,500!						
-1491	12	2300	Rita/Dan/Curt	4/28/1995	4	NECKLACE					No prize plug.					
+1512	12	2286	Rocky/Carolyn/Herb	4/3/1995	2	SOUTH DAKOTA	SOUTH-DAKOTA-S12	WaitingForU	2310	a mid-America holiday in South Dakota from Ramada Hotels including national park tours worth $2,310!						
+1513	12	2286	Rocky/Carolyn/Herb	4/3/1995	4	LAS VEGAS	LAS-VEGAS-S12-C			a Las Vegas Trip	No prize plug.					
+1510	12	2287	Herb/Donna/Amy	4/4/1995	2	TRAVEL	TRAVEL-S10-B	Montreal	2017	an RV Roncato satin/aluminum luggage set and Bausch & Lomb compact binoculars worth $2,017!						
+1511	12	2287	Herb/Donna/Amy	4/4/1995	4	DIAMONDS	DIAMONDS-S12				No prize plug.					
+1508	12	2288	M.E./Anne/Loretta	4/5/1995	2	ART	ART-S10-B	SaxxyG	2495	a Signature One Series The Hero, The Hitter, and The American Dream lithograph signed by Joe DiMaggio worth $2,495!						
+1509	12	2288	M.E./Anne/Loretta	4/5/1995	4	RAFTING	RAFTING-S12			a rafting trip	No prize plug. A chyron partially blocks the only decent wedge shot in available source video.					
+1699	12	2289	Richard/Anne/Llewellyn	4/6/1995	2	ART	ART-S12-A	Bassment	1450	a limited edition serigraph from Martin Lawrence Galleries worth $1,450!						
+1700	12	2289	Richard/Anne/Llewellyn	4/6/1995	4	PIANO	PIANO-S7-B			a piano	No prize plug.					
+1663	12	2290	Lou/Joe/Richard	4/7/1995	2	BBQ	BBQ-S12	HeartBassDrum	3416	a Robert H. Peterson Master Chef backyard barbecue worth $3,416!						
+1664	12	2290	Lou/Joe/Richard	4/7/1995	4	CRUISE	CRUISE-S12-B			a cruise	No prize plug.					
+1506	12	2291	Azie/Khalilah/Chris	4/10/1995	2	COMPUTER	COMPUTER-S12-B	BassGuitarFusion	1499	an AT&T personal multimedia desktop computer with CD-ROM, modem, and Microsoft Windows worth $1,499!						
+1507	12	2291	Azie/Khalilah/Chris	4/10/1995	4	TV	TV-S12-A			a very nice 46 inch television set	No prize plug.					
+1504	12	2292	Jennifer/Matt/Josh	4/11/1995	2	STEREO	STEREO-S12	FastJazz	1499	a Klipsch audio and home theater system worth $1,499!						
+1505	12	2292	Jennifer/Matt/Josh	4/11/1995	4	COMPUTER	COMPUTER-S12-B			a terrific computer	No prize plug.					
+1641	12	2293	Stacey/Karsten/Krista	4/12/1995	2	COMPUTER	COMPUTER-S12-C	SplainSax	1779	a Gateway 2000 Family PC and 1 month subscription to the Prodigy computer service worth $1,779!						
+1642	12	2293	Stacey/Karsten/Krista	4/12/1995	4	TV	TV-S12-B			I assume that stands for television	No prize plug.					
+1502	12	2294	T.J./Ricky/Richie	4/13/1995	2	MUSIC	MUSIC-S12-B	SplainSax	1400	a Bose Lifestyle 5 music system with remote control and CD player worth $1,400!						
+1503	12	2294	T.J./Ricky/Richie	4/13/1995	4	COMPUTER	COMPUTER-S12-D			During Teen Week we love adding computers to the wheel, we figure that's a good thing to do.	No prize plug.					
+1500	12	2295	Stacey/Chris/Matt	4/14/1995	2	SPACE CAMP	SPACE-CAMP-S12	BassGuitarFusion	2500	a U.S. Space Camp holiday in Huntsville, Alabama worth $2,500!						
+1501	12	2295	Stacey/Chris/Matt	4/14/1995	4	JUKEBOX	JUKEBOX-S12			a jukebox	No prize plug.					
+1498	12	2296	Jean/Lou/Manny	4/24/1995	2	CHINA	CHINA-S12-A	TrumpetLonging	4140	a Rosenthal Studio porcelain dinnerware set worth $4,140!						
+1499	12	2296	Jean/Lou/Manny	4/24/1995	4	POLAND				a trip to Poland.	No prize plug. Prize wedge is never pictured.					
+1496	12	2297	Jean/Brian/Nicole	4/25/1995	2	CRYSTAL	CRYSTAL-S12-B	Bassment	2600	a Victoria bowl by Lalique worth $2,600!						
+1497	12	2297	Jean/Brian/Nicole	4/25/1995	4	CAMPER	CAMPER-S7			a Camper, another great prize.	No prize plug.					
+1494	12	2298	Denise/Jean/Paul	4/26/1995	2	BRACELETS	BRACELETS-S12	LegatoUpDownSax	2400	a pair of Fred Joaillier 18-karat gold braid bracelets worth $2,400!						
+1495	12	2298	Denise/Jean/Paul	4/26/1995	4	CHINA	CHINA-S10-A		6000	another nice trip too, to China, worth about $6,000	No prize plug.					
+1492	12	2299	Denise/Dan/Peter	4/27/1995	2	PIN	PIN-S10	Gliss	3100	a Fred Joaillier 18-karat gold snooty poodle pin worth $3,100!						
+1493	12	2299	Denise/Dan/Peter	4/27/1995	4	POLAND	POLAND-S12-A	BustleSax	5000	a trip to Warsaw and stay at the Marriott 5-star luxury hotel worth $5,000!	Pat: "A trip to the land of my birth"					
+1490	12	2300	Rita/Dan/Curt	4/28/1995	2	ART	ART-S12-B	BassmentLater	1500	a Caldwell Snyder Galleries signed/numbered limited edition of Mason Con Frutas worth $1,500!						
+1491	12	2300	Rita/Dan/Curt	4/28/1995	4	NECKLACE	NECKLACE-S11			a very expensive necklace	No prize plug. Prize wedge is never pictured clearly, but probably it is the S11 variant based on what can be seen during the final spin					
 1657	12	2301	Louis/Deidre/Richard	5/1/1995							No wheel prizes for this charity episode.					
 1489	12	2302	Paul/Chelsi/Jeffrey	5/2/1995							No wheel prizes for this charity episode.					
 1488	12	2303	Garrry/Jess/LL Cool J	5/3/1995							No wheel prizes for this charity episode.					
 1487	12	2304	Kimberlin/Al/Janet	5/4/1995							No wheel prizes for this charity episode.					
 1486	12	2305	Rita/Dave/Justine	5/5/1995							No wheel prizes for this charity episode.					
-1484	12	2306	Dan/Brenda/Joycena	5/8/1995	2	VIDEO			1499	a Panasonic Palmcorder camera worth $1,499!						
-1485	12	2306	Dan/Brenda/Joycena	5/8/1995	4	WATCH					No prize plug.					
-1482	12	2307	Lenora/J.T./Kathleen	5/9/1995	2	CHINA			3032	a French Limoges Bordelaise patterned porcelain set worth $3,032!						
-1483	12	2307	Lenora/J.T./Kathleen	5/9/1995	4	GOLF				a golf trip to North Carolina	No prize plug.					
-1480	12	2308	Patrick/Russ/Kathleen	5/10/1995	2	ESPRESSO			1683	a Rosenthal Studio artists' espresso cup set with Delonghi espresso/cappuccino maker worth $1,683!						
-1481	12	2308	Patrick/Russ/Kathleen	5/10/1995	4	CAMPER					No prize plug.					
-1476	12	2309	Victor/Kathleen/Chuck	5/11/1995	2	TRAVEL			2017	an RV Roncato aluminum/satin luggage set with Bausch & Lomb compact binoculars worth $2,017!						
-1477	12	2309	Victor/Kathleen/Chuck	5/11/1995	4	PIANO			3698	a Samick digital piano worth $3,698!						
-1478	12	2310	Ellie/Victor/Kristie	5/12/1995	2	STARS			3700	a Meade telescope worth $3,700!						
-1479	12	2310	Ellie/Victor/Kristie	5/12/1995	4	CRUISE					No prize plug.					
-1674	12	2311	Aarah/David/Billy	5/15/1995	2	G.C.			2500	a Service Merchandise Gift Certificate and a Sony Discman, worth $2,500!	No second prize this episode; round 4 was entirely a speed-up round.					
-1673	12	2312	Matthew/Nona/Yvonne	5/16/1995	2	SHOES			1250	Men's Allen-Edmonds Shoes, worth $1,250!	No second prize this episode; round 4 was entirely a speed-up round.					
-1672	12	2313	Sherrie/Brian/Scott	5/17/1995	2	DOCUMENT			3500	President Eisenhower's signed D-Day Order of the Day Document from the Kenneth Rendell Gallery, worth $3,500	No second prize this episode; round 4 was entirely a speed-up round.					
-1671	12	2314	Ron/Steve/Vince	5/18/1995	2	PALMCORDER			1499	a Panasonic Video Palmcorder, worth $1,499!	No second prize this episode; round 4 was entirely a speed-up round.					
-1670	12	2315	Yvonne/Billy/Brian	5/19/1995	2	SCOOTERS			2598	His & Hers Yahama Razz Motorscooters, worth $2,598!	No second prize this episode; round 4 was entirely a speed-up round.					
-1474	12	2316	Michael/Victoria/Valerie	5/22/1995	2	CHANDELIER			3300	an authentic reproduction Williamsburg Governor's Office chandelier worth $3,300!						
-1475	12	2316	Michael/Victoria/Valerie	5/22/1995	4	LONDON					No prize plug.					
-1639	12	2317	Victoria/Tabatha/James	5/23/1995	2	SILVER			1563	a Wallace Silversmiths tea service worth $1,563!						
-1640	12	2317	Victoria/Tabatha/James	5/23/1995	4	AUSTRALIA				a trip to Australia.	No prize plug.					
-1472	12	2318	Victoria/Mark/Mark	5/24/1995	2	HOBBY			2170	a Fila golf club set and Konica Big Mini 35-mm compact camera worth $2,170!						
-1473	12	2318	Victoria/Mark/Mark	5/24/1995	4	CHINA			6000	a trip to China including Beijing and the Great Wall, plus Xi'an and Nanjing, and finally Shanghai, and it's worth $6,000!						
-1470	12	2319	Kyle/Rebecca/Mark	5/25/1995	2	BICYCLES			3320	a pair of Klein Fervor bicycles worth $3,320!						
-1471	12	2319	Kyle/Rebecca/Mark	5/25/1995	4	SWITZERLAND					No prize plug.					
-1468	12	2320	Kevin/Kyle/Karen	5/26/1995	2	CHINA			4001	a Royal Doulton bone china dinnerware set with Wellesley crystal stemware worth $4,001!						
-1469	12	2320	Kevin/Kyle/Karen	5/26/1995	4	HAWAII					No prize plug.					
-1466	12	2321	Steve/Kristie/Dana	5/29/1995	2	MUSIC			1400	a Bose Lifestyle 5 music system with CD player and speakers worth $1,400!						
-1467	12	2321	Steve/Kristie/Dana	5/29/1995	4	LAS VEGAS					No prize plug.					
-1464	12	2322	Nancy/Steve/Jack	5/30/1995	2	POOL TABLE			2850	an Olhausen Eclipse pool table worth $2,850!						
-1465	12	2322	Nancy/Steve/Jack	5/30/1995	4	DINE					No prize plug.					
-1462	12	2323	Nedra/Steve/Andrea	5/31/1995	2	OUTDOORS			1996	a Sunbeam outdoor patio with barbecue and Omaha Steaks worth $1,996!						
-1463	12	2323	Nedra/Steve/Andrea	5/31/1995	4	SPA					No prize plug.					
-1458	12	2324	Corey/K.C./David	6/1/1995	2	ART			2495	a Signature One Series The Hitter, The Hero, and The American Dream seriolithograph signed by Joe DiMaggio worth $2,495!						
-1459	12	2324	Corey/K.C./David	6/1/1995	4	WAVERUNNER					No prize plug.					
-1460	12	2325	Elana/David/Michael	6/2/1995	2	G.C.			2500	a Service Merchandise gift certificate worth $2,500!						
-1461	12	2325	Elana/David/Michael	6/2/1995	4	CRUISE				a cruise to the Carribean!	No prize plug.					
-1456	12	2326	Kyle/David/David	6/5/1995	2	LAGUNA			5080	a Festival of Arts Pageant of the Masters holiday with stay at the Ritz-Carlton Laguna Niguel with palm tree acrylic on canvas worth $5,080!						
-1457	12	2326	Kyle/David/David	6/5/1995	4	SPA			7000	a Spa worth over $7,000	No prize plug.					
-1454	12	2327	Jeff/Natasha/Willie	6/6/1995	2	VIDEO			1350	a Sanyo 31-inch stereo TV with surround sound plus 4-head Hi-Fi VCR worth $1,350!						
-1455	12	2327	Jeff/Natasha/Willie	6/6/1995	4	CAMPER			9000	a Camper worth almost $9,000	No prize plug.					
-1452	12	2328	Willie/Bill/Donna	6/7/1995	2	TOOBIE BOAT			2395	a Water Ventures Toobie Boat with 2.5 HP motor worth $2,395						
-1453	12	2328	Willie/Bill/Donna	6/7/1995	4	GREECE			10000	a $10,000 trip to Greece!	No prize plug.					
-1451	12	2329	Beth/Donna/Susie	6/8/1995	2	EXERCISE			1350	Jacques Moret fashion bodyware and a Nordic Track exercise machine worth $1,350!	No second prize this episode; round 4 was entirely a speed-up round.					
-1691	12	2330	Bill/Dave/Beth	6/9/1995	2	HOME OFFICE			2398	a home office package worth $2,398!	No second prize this episode; round 4 was entirely a speed-up round.					
-1709	12	2331	Dave/Anna/Yvette	6/12/1995	2	HIKING			1500	a Gift certificate to Cabela's, with which a pair of boots may be purchased, $1,500!						
-1710	12	2331	Dave/Anna/Yvette	6/12/1995	4	FISHING				a fishing trip.	No prize plug.	20	Tangelo 400	Pink 200	Yellow 900	
-1689	12	2332	Nita/Jennifer/Dave	6/13/1995	2	KETCHIKAN			3188	a trip to Ketchikan, AK and a stay at the Cape Fox Lodge worth $3,188!						
-1690	12	2332	Nita/Jennifer/Dave	6/13/1995	4	DINE					No prize plug.					
-1688	12	2333	Nita/Kent/Edward	6/14/1995	2	SCULPTURE			4000	a bronze eagle sculpture worth $4,000!	No second prize this episode; round 4 was entirely a speed-up round.					
-1668	12	2334	Shawn/Edward/Faith	6/15/1995	2	MEMORABILIA			4500	a signed photograph of Jack London worth $4,500	No second prize this episode; round 4 was entirely a speed-up round.					
-1686	12	2335	Bruce/Faith/Denise	6/16/1995	2	OUTDOORS			1500	a Cabela's gift certificate worth $1,500!						
-1687	12	2335	Bruce/Faith/Denise	6/16/1995	4	MEDIA			5000	a media package worth over $5,000!	No prize plug.					
-1679	12	2336	Lavada/Jennifer/Erin	6/19/1995	2	SURF			2049	a windsurfer from Bic Sport and wetsuits/swimwear from Body Glove, Inc. worth $2,049!						
-1680	12	2336	Lavada/Jennifer/Erin	6/19/1995	4	C.D. JUKEBOX					No prize plug.					
-1450	12	2337	Angela/Adam/Ben	6/20/1995	2	COMPUTER			2199	a Gateway 2000 family PC with Corel Draw! worth $2,199!	No second prize this episode; round 4 was entirely a speed-up round.					
-1681	12	2338	Brook/Emily/Nikelola	6/21/1995	2	POOL TABLE			2850	a pool table worth $2,850!	No second prize this episode; round 4 was entirely a speed-up round.					
-1448	12	2339	David/John/Derek	6/22/1995	2	STUDY			2724	an Encyclopedia Britannica 32-volume library with Insight 486SX desktop computer worth $2,724!						
-1449	12	2339	David/John/Derek	6/22/1995	4	BAHAMAS				a trip to the Bahamas!	No prize plug. No value provided.					
-1675	12	2340	David/Brook/Angela	6/23/1995	2	ORLANDO			6788	a trip to Orlando! Walt Disney World, in the heart of EPCOT, connected by water or walkway to EPCOT and MGM Studios. Worth $6,788!						
-1676	12	2340	David/Brook/Angela	6/23/1995	4	WILD WEST					No prize plug.					
+1484	12	2306	Dan/Brenda/Joycena	5/8/1995	2	VIDEO	VIDEO-S10	BustleSax	1499	a Panasonic Palmcorder camera worth $1,499!						
+1485	12	2306	Dan/Brenda/Joycena	5/8/1995	4	WATCH	WATCH-S9-A			a beautiful watch.	No prize plug.					
+1482	12	2307	Lenora/J.T./Kathleen	5/9/1995	2	CHINA	CHINA-S12-A	Bassment	3032	a French Limoges Bordelaise patterned porcelain set worth $3,032!						
+1483	12	2307	Lenora/J.T./Kathleen	5/9/1995	4	GOLF	GOLF-S12-B			a golfing trip to North Carolina	No prize plug.					
+1480	12	2308	Patrick/Russ/Kathleen	5/10/1995	2	ESPRESSO	ESPRESSO-S12	ApartmentLobby	1683	a Rosenthal Studio artists' espresso cup set with Delonghi espresso/cappuccino maker worth $1,683!						
+1481	12	2308	Patrick/Russ/Kathleen	5/10/1995	4	CAMPER	CAMPER-S7		9000	a Camper worth almost $9,000	No prize plug.					
+1476	12	2309	Victor/Kathleen/Chuck	5/11/1995	2	TRAVEL	TRAVEL-S10-B	ScoldingSax	2017	an RV Roncato aluminum/satin luggage set with Bausch & Lomb compact binoculars worth $2,017!						
+1477	12	2309	Victor/Kathleen/Chuck	5/11/1995	4	PIANO	PIANO-S7-B		3698	a Samick digital piano worth $3,698!						
+1478	12	2310	Ellie/Victor/Kristie	5/12/1995	2	STARS	STARS-S12	Bassment	3700	a Meade telescope worth $3,700!						
+1479	12	2310	Ellie/Victor/Kristie	5/12/1995	4	CRUISE	CRUISE-S12-B			a Cruise	No prize plug.					
+1674	12	2311	Aarah/David/Billy	5/15/1995	2	G.C.	GC-S12-B	SplainSax	2500	a Service Merchandise Gift Certificate and a Sony Discman, worth $2,500!	No second prize this episode; round 4 was entirely a speed-up round.					
+1673	12	2312	Matthew/Nona/Yvonne	5/16/1995	2	SHOES	SHOES-S12	StruttinB	1250	Men's Allen-Edmonds Shoes, worth $1,250!	No second prize this episode; round 4 was entirely a speed-up round.					
+1672	12	2313	Sherrie/Brian/Scott	5/17/1995	2	DOCUMENT	DOCUMENT-S12-B	OneOff	3500	President Eisenhower's signed D-Day Order of the Day Document from the Kenneth Rendell Gallery, worth $3,500	No second prize this episode; round 4 was entirely a speed-up round.					
+1671	12	2314	Ron/Steve/Vince	5/18/1995	2	PALMCORDER	PALMCORDER-S12-B	BustleSax	1499	a Panasonic Video Palmcorder, worth $1,499!	No second prize this episode; round 4 was entirely a speed-up round.					
+1670	12	2315	Yvonne/Billy/Brian	5/19/1995	2	SCOOTERS	SCOOTERS-S7	RisingSax	2598	His & Hers Yahama Razz Motorscooters, worth $2,598!	No second prize this episode; round 4 was entirely a speed-up round.					
+1474	12	2316	Michael/Victoria/Valerie	5/22/1995	2	CHANDELIER	CHANDELIER-S12	SaxStoryContinues	3300	an authentic reproduction Williamsburg Governor's Office chandelier worth $3,300!						
+1475	12	2316	Michael/Victoria/Valerie	5/22/1995	4	LONDON				a trip to London.	No prize plug. Wedge is only ever on camera obliquely from a distance, variant not presumed.					
+1639	12	2317	Victoria/Tabatha/James	5/23/1995	2	SILVER	SILVER-S10	Bassment	1563	a Wallace Silversmiths tea service worth $1,563!						
+1640	12	2317	Victoria/Tabatha/James	5/23/1995	4	AUSTRALIA	AUSTRALIA-S7			a trip to Australia.	No prize plug.					
+1472	12	2318	Victoria/Mark/Mark	5/24/1995	2	HOBBY	HOBBY-S12	SynthSaxDuel	2170	a Fila golf club set and Konica Big Mini 35-mm compact camera worth $2,170!						
+1473	12	2318	Victoria/Mark/Mark	5/24/1995	4	CHINA	CHINA-S12-B	Oriental	6000	a trip to China including Beijing and the Great Wall, plus Xi'an and Nanjing, and finally Shanghai, and it's worth $6,000!						
+1470	12	2319	Kyle/Rebecca/Mark	5/25/1995	2	BICYCLES	BICYCLES-S12	HeartBassDrum	3320	a pair of Klein Fervor bicycles worth $3,320!						
+1471	12	2319	Kyle/Rebecca/Mark	5/25/1995	4	SWITZERLAND	SWITZERLAND-S12			a trip to Switzerland	No prize plug.					
+1468	12	2320	Kevin/Kyle/Karen	5/26/1995	2	CHINA	CHINA-S10-A	OneOff	4001	a Royal Doulton bone china dinnerware set with Wellesley crystal stemware worth $4,001!						
+1469	12	2320	Kevin/Kyle/Karen	5/26/1995	4	HAWAII	HAWAII-S12-A			a trip to Hawaii	No prize plug.					
+1466	12	2321	Steve/Kristie/Dana	5/29/1995	2	MUSIC	MUSIC-S10	SplainSax	1400	a Bose Lifestyle 5 music system with CD player and speakers worth $1,400!						
+1467	12	2321	Steve/Kristie/Dana	5/29/1995	4	LAS VEGAS	LAS-VEGAS-S12-A			a Las Vegas Trip	No prize plug.					
+1464	12	2322	Nancy/Steve/Jack	5/30/1995	2	POOL TABLE	POOL-TABLE-S11	SplainSax	2850	an Olhausen Eclipse pool table worth $2,850!						
+1465	12	2322	Nancy/Steve/Jack	5/30/1995	4	DINE	DINE-S9		9000	a dining package worth almost $9,000	No prize plug.					
+1462	12	2323	Nedra/Steve/Andrea	5/31/1995	2	OUTDOORS	OUTDOORS-S12	Fairytale	1996	a Sunbeam outdoor patio with barbecue and Omaha Steaks worth $1,996!						
+1463	12	2323	Nedra/Steve/Andrea	5/31/1995	4	SPA	SPA-S12			another great prize, a spa	No prize plug.					
+1458	12	2324	Corey/K.C./David	6/1/1995	2	ART	ART-S12-C	Fairytale	2495	a Signature One Series The Hitter, The Hero, and The American Dream seriolithograph signed by Joe DiMaggio worth $2,495!						
+1459	12	2324	Corey/K.C./David	6/1/1995	4	WAVERUNNER	WAVERUNNER-S12		7500	That goody that Charlie described earlier is out there as well. That's worth $7,500!	No prize plug.					
+1460	12	2325	Elana/David/Michael	6/2/1995	2	G.C.	GC-S12-C	SplainSax	2500	a Service Merchandise gift certificate worth $2,500!						
+1461	12	2325	Elana/David/Michael	6/2/1995	4	CRUISE	CRUISE-S12-C		5000	a Carribean Cruise worth over $5,000	No prize plug.					
+1456	12	2326	Kyle/David/David	6/5/1995	2	LAGUNA	LAGUNA-S12	SaxStoryContinues	5080	a Festival of Arts Pageant of the Masters holiday with stay at the Ritz-Carlton Laguna Niguel with palm tree acrylic on canvas worth $5,080!						
+1457	12	2326	Kyle/David/David	6/5/1995	4	SPA	SPA-S12		7000	a Spa worth over $7,000	No prize plug.					
+1454	12	2327	Jeff/Natasha/Willie	6/6/1995	2	VIDEO	VIDEO-S10	HeartBassDrum	1350	a Sanyo 31-inch stereo TV with surround sound plus 4-head Hi-Fi VCR worth $1,350!						
+1455	12	2327	Jeff/Natasha/Willie	6/6/1995	4	CAMPER	CAMPER-S7		9000	a Camper worth almost $9,000	No prize plug.					
+1452	12	2328	Willie/Bill/Donna	6/7/1995	2	TOOBIE BOAT	TOOBIE-BOAT-S12	BubbleTriplets	2395	a Water Ventures Toobie Boat with 2.5 HP motor worth $2,395						
+1453	12	2328	Willie/Bill/Donna	6/7/1995	4	GREECE	GREECE-S12		10000	a $10,000 trip to Greece!	No prize plug.					
+1451	12	2329	Beth/Donna/Susie	6/8/1995	2	EXERCISE	EXERCISE-S12	HeartBassDrum	1350	Jacques Moret fashion bodyware and a Nordic Track exercise machine worth $1,350!	No second prize this episode; round 4 was entirely a speed-up round.					
+1691	12	2330	Bill/Dave/Beth	6/9/1995	2	HOME OFFICE	HOME-OFFICE-S12	MorningSax	2398	a home office package worth $2,398!	No second prize this episode; round 4 was entirely a speed-up round.					
+1709	12	2331	Dave/Anna/Yvette	6/12/1995	2	HIKING	HIKING-S12	BustleSax	1500	a Gift certificate to Cabela's, with which a pair of boots may be purchased, $1,500!						
+1710	12	2331	Dave/Anna/Yvette	6/12/1995	4	FISHING	FISHING-S12			a fishing trip.	No prize plug.	20	Tangelo 400	Pink 200	Yellow 900	
+1689	12	2332	Nita/Jennifer/Dave	6/13/1995	2	KETCHIKAN	KETCHIKAN-S12	SynthSaxDuel	3188	a trip to Ketchikan, AK and a stay at the Cape Fox Lodge worth $3,188!						
+1690	12	2332	Nita/Jennifer/Dave	6/13/1995	4	DINE	DINE-S12			a dining package.	No prize plug.					
+1688	12	2333	Nita/Kent/Edward	6/14/1995	2	SCULPTURE	SCULPTURE-S12	LegatoUpDownSax	4000	a bronze eagle sculpture worth $4,000!	No second prize this episode; round 4 was entirely a speed-up round.					
+1668	12	2334	Shawn/Edward/Faith	6/15/1995	2	MEMORABILIA	MEMORABILIA-S12	BustleSax	4500	a signed photograph of Jack London worth $4,500	No second prize this episode; round 4 was entirely a speed-up round.					
+1686	12	2335	Bruce/Faith/Denise	6/16/1995	2	OUTDOORS	OUTDOORS-S12	LegatoUpDownSax	1500	a Cabela's gift certificate worth $1,500!						
+1687	12	2335	Bruce/Faith/Denise	6/16/1995	4	MEDIA	MEDIA-S12		5000	a media package worth over $5,000!	No prize plug.					
+1679	12	2336	Lavada/Jennifer/Erin	6/19/1995	2	SURF	SURF-S12	Luau	2049	a windsurfer from Bic Sport and wetsuits/swimwear from Body Glove, Inc. worth $2,049!						
+1680	12	2336	Lavada/Jennifer/Erin	6/19/1995	4	C.D. JUKEBOX	CD-JUKEBOX-S12			a terrific prize.	No prize plug.					
+1450	12	2337	Angela/Adam/Ben	6/20/1995	2	COMPUTER	COMPUTER-S12-C	BassGuitarFusion	2199	a Gateway 2000 family PC with Corel Draw! worth $2,199!	No second prize this episode; round 4 was entirely a speed-up round.					
+1681	12	2338	Brook/Emily/Nikelola	6/21/1995	2	POOL TABLE	POOL-TABLE-S12	DinnerSax	2850	a pool table worth $2,850!	No second prize this episode; round 4 was entirely a speed-up round.					
+1448	12	2339	David/John/Derek	6/22/1995	2	STUDY	STUDY-S12	LegatoUpDownSax	2724	an Encyclopedia Britannica 32-volume library with Insight 486SX desktop computer worth $2,724!						
+1449	12	2339	David/John/Derek	6/22/1995	4	BAHAMAS	BAHAMAS-S12			a trip to the Bahamas!	No prize plug. No value provided.					
+1675	12	2340	David/Brook/Angela	6/23/1995	2	ORLANDO	ORLANDO-S12	BustleSax	6788	a trip to Orlando! Walt Disney World, in the heart of EPCOT, connected by water or walkway to EPCOT and MGM Studios. Worth $6,788!						
+1676	12	2340	David/Brook/Angela	6/23/1995	4	WILD WEST	WILD-WEST-S12			another nice prize.	No prize plug. Prize wedge is not clearly featured, it is obscured by a network chyron.					
 1776	DC	C001	Fay/Rick/Lou	7/17/1989	2	TRIP	TRIP-DC-A	BustleSax	916	We'll fly you and a guest from Los Angeles to Lake Tahoe! For a 2 night, 3 day stay at Ceasar's Tahoe along the shore of Lake Tahoe. Elegant accomodations, memorable dining and entertainment, year-round entertainment and crystal-clear surroundings. From Caesar's Tahoe. Retail value, $916!		10	Arctic 75	Red 300	Yellow Lose A Turn	Expired end R2.
 1777	DC	C001	Fay/Rick/Lou	7/17/1989	3	SOFA	SOFA-DC-A	SaxxyG	1350	Carson's of Highpoint's softly sculptured sofa offers the ultimate in comfort and contemporary styling. It's richly upholstered in a luxurious fabric from Carson's of Highpoint. Retail value $1,350!		7	Red 400	Purple 100	Arctic 200	Expired end R4.
 1778	DC	C001	Fay/Rick/Lou	7/17/1989	3	JEWEL	JEWEL-DC-A	SaxxyG	1450	With your Fred Joaillier gift certificate, you might select this lovely neclace. A mother-of-pearl and diamond butterfly suspended on a delicate gold chain. $1,450!		21	Pink 100	Yellow 200	Arctic 100	Picked up R3 by P2, won end R3
@@ -1805,36 +1812,29 @@ Entry	S#	Ep#	Contestants	Air Date	Round	Wedge Text	Wedge Variant	Music Cue	Value
 1803	DC	C027	Marleen/Mary Ellen/Lee	8/22/1989	2	WATCHES	WATCHES-S6-B	Tony	510	A matched pair of Lord and Lady ultra-thin quartz wristwatches. Featuring an elegant dial accented by an attractive gold mesh bracelet, From Elgin Watch Company. Retail value $510!		5	Yellow Free Spin	Pink 50	Lt Gamboge 100	Moves to #7 R3, picked up R3 by P3, expired end R3
 1804	DC	C027	Marleen/Mary Ellen/Lee	8/22/1989	3	SHELVES	SHELVES-DC-A	SaxxyG	1299	Ashley's wall units offer a durable faux marble finish and soothing tones of color combined with contemporary form. They add a dramatic accent to any home. From Ashley. Retail value $1,299!		21	Pink 100	Yellow 200	Arctic 100	Expired end R5
 1805	DC	C027	Marleen/Mary Ellen/Lee	8/22/1989	4	RING	RING-S6	WaitingForU	2030	Artcarved's cascade diamond anniversary band. Seven sparkling marquis diamonds in a single band, with a total carat weight of 74 points. From Artcarved. Retail value $2,030!		7	Red 400	Purple 100	Arctic 200	Picked up R4 by P2, won end R4
-1807																
-1808																
-1809																
-1810																
-1811																
-1812																
-1813																
-1814																
-1815																
-1816																
-1817																
-1818																
-1819																
-1820																
-1821																
-1822																
-1823																
-1824																
-1825																
-1826																
-1827																
-1828																
-1829																
-1830																
-1831																
-1832																
-1833																
-1834																
-1835																
-1836																
+1814	DC	C029	Rose/Jim/Martha Ann	8/24/1989	2	ART	ART-DC-A	WaitingForU	625	"Edge of Pond" is the title of this gorgeous wall screen with water birds and lily pads. The screen is hand-done using a technique where many different coats of laquer are applied.		5	Yellow Free Spin	Pink 50	Lt Gamboge 100	Picked up R2 by P3, expired end R2
+1815	DC	C029	Rose/Jim/Martha Ann	8/24/1989	3	PEARLS	PEARLS-DC-A	Tony	1160	Majorica, the original organically man-made pearls from Spain, hand polished to perfection! Nearly a century of fine jewelry design from Majorica Jewelry. Retail value $1,160!		21	Pink 100	Yellow 200	Arctic 100	Expired end R4
+1816	DC	C029	Rose/Jim/Martha Ann	8/24/1989	3	TRIP	TRIP-DC-C	BustleSax	2458	We'll fly you and a companion from Los Angeles to Kentucky! Aboard Delta airlines with standard and wide body service. You may visit their exclusive Crown Room lounge and experience warm and friendly hospitality in flight. From Delta Airlines. You'll enjoy a weeks stay at the Gratz Park Inn, heart of thoroughbred country in Lexington, Kentucky, an elegant first-class hotel where the landmark and hallmark is personal service, from Gratz Park Inn. Total retail value $2,458!		7	Red 400	Purple 100	Arctic 200	Expired end R4
+1817	DC	C029	Rose/Jim/Martha Ann	8/24/1989	4	BED	BED-DC-A	SaxxyG	2625	Wesley Allen's elegant Kenwick Queen size bed! Beautifully crafted in pure polished brass. A welcome addition to any bedroom from Wesley Allen! And, three coordinating fabrics combine ribbons, florals and stripes in a quilted coverlet, sheared bed skirt, and shams called Magnollia Swag. From Norman's of Salisbury. $2,625!		13	Yellow 1250	Arctic 100	Pink 300	Expired end R4
+1818	DC	C090	Robin/Maureen/Nancy	11/17/1989	2	DINE	DINE-S7-A	HeartBassDrum	1990	A beautiful crystal set from Royal Prestige featuring champagne, wine, and water goblets. Each stem is hand-blown and cut from rim to put. The marquis. And a 45 piece service for eight of Royal Presige fine china. Enhance your dining pleasure for years to come with hand-crafted quality and exclusive patterns designed to complement any occasion. From Royal Presige. Retail value $1,990!		5	Yellow 400	Pink 25	Lt Gamboge 100	Picked up R2 by P1, won end R2
+1819	DC	C090	Robin/Maureen/Nancy	11/17/1989	3	JEWEL	JEWEL-S7-B	Tony	2500	Verdav Fancier's(?) Two in love pooches baying at a diamond moon. French enamel and 18 karat gold, this pendant may be yours with your gift certificate from Fred Joaillier. $2,500!		7	Red 400	Purple 100	Arctic 200	Moves to #21 R4, picked up R4 by P3, expired end R4
+1820	DC	C090	Robin/Maureen/Nancy	11/17/1989	4	MEDIA	MEDIA-S7	RisingSax	2890	Lane's "Carlton Manor" entertainment wall unit finished in rich cherry accenting the 18th century design. Complements any room and any décor, from Lane. Then, Emersons 20 inch stereo TV with 140 channel cable compatibility, 21 function remote control and sleep timer. And, Emerson's stereo VCR with eight event full-year programming, 117 cable channel selection, 38 key remote and on-screen programming, fine products from Emerson. Plus, Hitachi's compact disc changer. Plays 12 compact discs, independent disc exchange, and three play modes with built-in timer. Don't stop the music from Hitachi. Total retail value of this media center, $2,890!		7	Red 400	Purple 100	Arctic 200	Picked up R4 by P1, expired end R4
+1821	DC	C121	Mike/Marcia/Don	1/4/1990	2	MOVIES	MOVIES-DC-A	MorningSax	1250	Video Treasures will stock your video library with a collection of 50 family favorites including "It's a Wonderful Life", "Sleuth", and more. Family entertainment from Video Treasures. And from Cinebooks, everything you wanted to know about movies is in this 12 volume motion picture guide to more than 53,000 films: complete cast, credits, and comprehensive reviews. $1,250!		5	Yellow 400	Pink 25	Lt Gamboge 100	Moves to #7 R3, expired end R4
+1822	DC	C121	Mike/Marcia/Don	1/4/1990	3	ROOM	ROOM-S6	WaitingForU	3698	Lehigh Bedroom Furniture adds warmth and charm to your bedroom. This all wood bedroom furniture is beautifully styled, solidly built, and rich with detail. From Lehigh. Then, Kingsdown ultimate sleep set with coil on coil support, provides the perfect combination of firmness and comfort. A Kingsdown mattress is hand-crafted for your good health. And Waverly Home Fashions classic ensemble from Centennial Celebrations presents the traditional American look. From Waverly Home Fashions. This bedroom is $3,698!		21	Pink 100	Yellow 200	Arctic 100	Picked up R4 by P2, expired end R4
+1823	DC	C121	Mike/Marcia/Don	1/4/1990	4	CRUISE	CRUISE-DC-A	HeartBassDrum	4600	It's a cruise to Alaska! Marvel at the incredible scenery of the Alaskan Inside Passage as you and your guest fly from Los Angeles to Vancouver toward Holland America Line's M.S. Nortam. You'll spend seven days enjoying the comfort, services, and cuisine of Holland America Westours. Retail Value $4,600!		13	Yellow 1250	Arctic 100	Pink 300	Expired end R4
+1824	DC	C138	Mark/Jeff/Kristin	1/29/1990	2	TRIP	TRIP-DC-D	BustleSax	1984	It's a vacation in California, at the Bel-Air Summit Hotel. Features luxury rooms, nightly entertainment, fine dining at restaurant Echo, tennis, and swimming. The Bel-Air Summit Hotel. $1,984!		5	Yellow 400	Pink 25	Lt Gamboge 100	Moves to #21 R3, Picked up R3 by P2, won end R3
+1825	DC	C138	Mark/Jeff/Kristin	1/29/1990	3	BOAT	BOAT-DC-A				Prize plug is cut from video source	7	Red 400	Purple 100	Arctic 200	Expired end R5
+1826	DC	C138	Mark/Jeff/Kristin	1/29/1990	4	SPA	SPA-S6-B				Prize plug is cut from video source	21	Pink 100	Yellow 200	Arctic 100	Expired end R5
+1827	DC	C139	Jeff/Steve/Jim	1/30/1990	2	HEALTH	HEALTH-DC-A	RisingSax		Vita Mix stainless steel 3 minute bread maker and home yogurt factory that juices, cooks, and freezes instant ice cream with 800 other recipes. And…	Prize plug is cut off in video source	5	Yellow 400	Pink 25	Lt Gamboge 100	Moves to #21 R3, expired end R5
+1828	DC	C139	Jeff/Steve/Jim	1/30/1990	3	BED	BED-DC-A		3424		Prize plug is cut from video source	7	Red 400	Purple 100	Arctic 200	Picked up R4 by P2, expired end R4
+1829	DC	C139	Jeff/Steve/Jim	1/30/1990	4	CRUISE	CRUISE-DC-A				Prize plug is cut from video source	13	Yellow 1250	Arctic 100	Pink 300	Expired end R5
+1830	DC	C139	Jeff/Steve/Jim	1/30/1990	5	SHOP	SHOP-DC-A				Prize plug is cut from video source	7	Red 400	Purple 100	Arctic 200	Expired end R5
+1831	DC	C140	Abby/Jeff/James	1/31/1990	2	WATCH		Tony			Prize plug is cut from video source	5	Yellow 400	Pink 25	Lt Gamboge 100	Moves to #21 R3, Picked up R3 by P2, expired end R3
+1832	DC	C140	Abby/Jeff/James	1/31/1990	3	MEDIA	MEDIA-S7-A				Prize plug is cut from video source	7	Red 400	Purple 100	Arctic 200	Moves to #21 R4
+1833	DC	C140	Abby/Jeff/James	1/31/1990	4	TRIP	TRIP-DC-E				Prize plug is cut from video source	7	Red 400	Purple 100	Arctic 200	Picked Up R4 by P1, lost to Bankrupt
+1834	DC	C184	Ken/Raphael/Julie	4/3/1990	2	VASE	VASE-DC-A	Tony	660	Orrefor's exquisite crystal Stenhammar vase captures the beauty and strength of the Swedish castle for which it is named. Hand crafted and hand blown from fine lead crystal, by Orrefor. Retail value $660!		5	Yellow 400	Pink 25	Lt Gamboge 100	
+1835	DC	C184	Ken/Raphael/Julie	4/3/1990												
+1836	DC	C184	Ken/Raphael/Julie	4/3/1990												
 1837																
 1838																
 1839																
