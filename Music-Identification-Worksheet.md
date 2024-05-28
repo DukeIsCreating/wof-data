@@ -85,7 +85,6 @@ This music was used to introduce prizes to the wheel.
 | BubbleTriplets | ⚠️[Unknown] | ⚠️[Unknown] | S7-E1184-R2 (Jim/Kim/Jill)
 | MorningSax | ⚠️[Unknown] | ⚠️[Unknown] | S7-E1188-R4 (Jeanne/Tony/Suzy
 | SynthSaxDuel | ⚠️[Unknown] | ⚠️[Unknown] | S7-E1194-R2 (Allison/Jodi/Janet)
-| FlyingSax | ⚠️[Unknown] | ⚠️[Unknown] | S7-E1207-R2 (Ann Marie/Bill/Mark)
 | Otherworld | ⚠️[Unknown] | ⚠️[Unknown] | S7-E1221-R2 (Dawn/Kelly/Dennis)
 | Bassment | ⚠️[Unknown] | ⚠️[Unknown] | S7-E1225-R4 (Gary/Emily/Larry)
 | WestHarmonica | ⚠️[Unknown] | ⚠️[Unknown] | S7-E1227-R2 (John/Karen/Frances)

@@ -6,7 +6,7 @@ This document attempts to inform whether and when either case is true.
 
 ## Daytime
 
-Video source pass 11 of 31 complete.
+Video source pass 25 of 31 complete.
 
 ## Syndicated Seasons 8-10
 
@@ -21,7 +21,7 @@ I've located these episodes but have not fully processed prizes from them yet. P
 | S9-W315 | | S9-E1572
 | S9-W329 | S9-E1641 | S9-E1642 | S9-E1643 | S9-E1644 | S9-E1645
 | S9-W330 | S9-E1646 | S9-E1647 | S9-E1648 | | S9-E1650
-| S9-W352 | | | S10-E1758
+| S10-W352 | | | S10-E1758
 | S10-W353 | | S10-E1762 | S10-E1763
 
 # New Data Elements Not Complete
