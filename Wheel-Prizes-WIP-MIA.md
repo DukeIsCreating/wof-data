@@ -4,10 +4,6 @@ This document attempts to inform whether and when either case is true.
 
 # Episodes that are Work in Progress
 
-## Daytime
-
-Video source pass 25 of 31 complete.
-
 ## Syndicated Seasons 8-10
 
 I've located these episodes but have not fully processed prizes from them yet. Patience while I work through the list, please.
