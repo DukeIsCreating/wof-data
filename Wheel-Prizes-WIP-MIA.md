@@ -4,21 +4,21 @@ This document attempts to inform whether and when either case is true.
 
 # Episodes that are Work in Progress
 
-## Syndicated Seasons 8-10
+## Syndicated Seasons 9-10
 
 I've located these episodes but have not fully processed prizes from them yet. Patience while I work through the list, please.
 
 | Week | Ep | Ep | Ep | Ep | Ep |
 | --- | --- | --- | --- | --- | --- |
-| S8-W279 | | | | | S8-E1395
-| S8-W290 | S8-E1446 | S8-E1447 | S8-E1448 | S8-E1449 | S8-E1450
-| S8-W307 | S8-E1531 | | | S8-E1534 | S8-E1535
-| S9-W314 | | | S9-E1568 | S9-E1569 | S9-E1570
-| S9-W315 | | S9-E1572
 | S9-W329 | S9-E1641 | S9-E1642 | S9-E1643 | S9-E1644 | S9-E1645
 | S9-W330 | S9-E1646 | S9-E1647 | S9-E1648 | | S9-E1650
 | S10-W352 | | | S10-E1758
 | S10-W353 | | S10-E1762 | S10-E1763
+
+## Syndicated Season 13
+
+Recap pass 25/195 complete.
+Video source pass 0/195 complete.
 
 # New Data Elements Not Complete
 
@@ -33,9 +33,9 @@ These will be filled in as time permits.
 
 I hope to eventually include info about Surprise Wedge prizes for episodes in which the Surprise was awarded.
 
-## Syndicated Seasons 13+
+## Syndicated Seasons 14+
 
-I have not touched anything from season 13 or above yet.
+I have not touched anything from season 14 or above yet.
 
 # Missing In Action
 
@@ -172,7 +172,7 @@ These episodes have puzzles present in Buy-A-Vowel Puzzle Compendium, meaning th
 | | | | | S9-E1614 | S9-E1615
 | | | | | | S9-E1625
 | | | | S9-E1733 | S9-E1734
-| | | | | S9-E1744 | S9-E1745
+| | S9-E1741 | | | S9-E1744 | S9-E1745
 | | | | | | S10-E1805
 | | | S10-E1822 | | | S10-E1825
 | | | | | | S10-E1885
