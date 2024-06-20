@@ -4,20 +4,9 @@ This document attempts to inform whether and when either case is true.
 
 # Episodes that are Work in Progress
 
-## Syndicated Seasons 9-10
-
-I've located these episodes but have not fully processed prizes from them yet. Patience while I work through the list, please.
-
-| Week | Ep | Ep | Ep | Ep | Ep |
-| --- | --- | --- | --- | --- | --- |
-| S9-W329 | S9-E1641 | S9-E1642 | S9-E1643 | S9-E1644 | S9-E1645
-| S9-W330 | S9-E1646 | S9-E1647 | S9-E1648 | | S9-E1650
-| S10-W352 | | | S10-E1758
-| S10-W353 | | S10-E1762 | S10-E1763
-
 ## Syndicated Season 13
 
-Recap pass 25/195 complete.
+Recap pass complete.
 Video source pass 0/195 complete.
 
 # New Data Elements Not Complete
@@ -106,6 +95,7 @@ No new wedge variants are especially expected from these, just more instances of
 1. S11-E1959 Ben/Sue/Doug 9/16/1993
 1. S11-E1996 Maria/George/Karolyn 11/8/1993
 1. S11-E2080 Bob/Dan/Robin 3/11/1994
+1. S13-E2524 Carole/Victor/Kristy 5/30/1996
 
 ## Partial Episodes
 
@@ -169,7 +159,7 @@ These episodes have puzzles present in Buy-A-Vowel Puzzle Compendium, meaning th
 | | | | | | S8-E1550
 | | S8-E1551 | S8-E1552
 | | S9-E1586 | S9-E1587 | S9-E1588 | S9-E1589
-| | | | | S9-E1614 | S9-E1615
+| | | | | | S9-E1615
 | | | | | | S9-E1625
 | | | | S9-E1733 | S9-E1734
 | | S9-E1741 | | | S9-E1744 | S9-E1745
@@ -197,6 +187,11 @@ These episodes have puzzles present in Buy-A-Vowel Puzzle Compendium, meaning th
 | | S11-E2126 | S11-E2127 | S11-E2128 | S11-E2129 | S11-E2130
 | | S11-E2136 | S11-E2137 | S11-E2138 | S11-E2139
 | | S11-E2141 | S11-E2143
+
+1. S13-E2482 Brenda/Judy/Steve 3/26/1996
+1. S13-E2499 Sloan/Sheldon/Patsy 4/25/1996
+1. S13-E2505 Jennifer/David/Donna 5/3/1996
+1. S13-E2534 ?/?/? 7/18/1996
 
 ## Known to exist but not in circulation
 
@@ -240,3 +235,11 @@ E1561, E1563, E1564, E1571, E1574-E1580, E1583, E1584, E1590-E1600, E1605-E1613,
 E1852-E1860, E1862, E1864, E1866-E1869, E1871-E1878, E1881-E1883, E1886-E1888, E1891-E1899, E1902-E1909, E1916, E1919, E1921, E1922, E1928-E1930, E1933, E1934, E1936, E1938, E1940-E1945, E1947-E1949
 ### Season 11
 E1951-E1956, E1960, E1961, E1963-E1965, E1976, E1979-E1994, E1998, E1999, E2001, E2002, E2004-E2020, E2024-E2029, E2031-E2045, E2049, E2051, E2054, E2055, E2057, E2068-E2072, E2076-E2079, E2082-E2084, E2086-E2093, E2095, E2098, E2108, E2131, E2132, E2134, E2142, E2144
+### Season 13
+1. S13-E2526
+1. S13-E2527
+1. S13-E2528
+1. S13-E2531
+1. S13-E2532
+1. S13-E2533
+1. S13-E2535
