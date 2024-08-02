@@ -115,6 +115,16 @@ This music was used to introduce prizes to the wheel.
 | TrumpetFanfare | ⚠️[Unknown] | ⚠️[Unknown] | S12-E2205-R2 (Scott/Marilyn/Tom)
 | SteelDrums | ⚠️[Unknown] | ⚠️[Unknown] | S12-E2233-R2 (Owen & Grant/Sophie & Elenore/John & Mark)
 | SwingComputing | ⚠️[Unknown] | ⚠️[Unknown] | S12-E2265-R2 (Jean/Leigh/Alan)
+| CaliforniaDreamin | ⚠️[Unknown] | ⚠️[Unknown] | S13-E2376-R2 (Steve/John/Stacey)
+| Guaraldiesque | ⚠️[Unknown] | ⚠️[Unknown] | S13-E2417-R2 (Sarah & Sheila/Jim & Barbara/Ann & Jack)
+| UnchainedMelody | ⚠️[Unknown] | ⚠️[Unknown] | S13-E2448-R2 (Jill & Bob/Deborah & Peter/Chris & Ruthanne)
+| Disco1 | ⚠️[Unknown] | ⚠️[Unknown] | S13-E2508-R1 (Andrew/Kimberly/Carl)
+| MorseDisco | ⚠️[Unknown] | ⚠️[Unknown] | S13-E2509-R1 (Cathy/Shawn/Mike)
+| Disco2 | ⚠️[Unknown] | ⚠️[Unknown] | S13-E2518-R1 (Randy/Aaron/Tom)
+| Rockabilly | ⚠️[Unknown] | ⚠️[Unknown] | S13-E2519-R1 (Debra/Aaron/Ben)
+| BandBanjo | ⚠️[Unknown] | ⚠️[Unknown] | S13-E2521-R2 (Melissa/Damon/Susan)
+| EasyListen | ⚠️[Unknown] | ⚠️[Unknown] | S13-E2525-R2 (Victor/Wayne/David)
+
 
 # Prize Beds (One-offs and diagetics)
 

@@ -4,10 +4,9 @@ This document attempts to inform whether and when either case is true.
 
 # Episodes that are Work in Progress
 
-## Syndicated Season 13
+## Syndicated Season 14
 
-Recap pass complete.
-Video source pass 0/195 complete.
+Starting soon.
 
 # New Data Elements Not Complete
 
@@ -22,9 +21,9 @@ These will be filled in as time permits.
 
 I hope to eventually include info about Surprise Wedge prizes for episodes in which the Surprise was awarded.
 
-## Syndicated Seasons 14+
+## Syndicated Seasons 15+
 
-I have not touched anything from season 14 or above yet.
+I have not touched anything from season 15 or above yet.
 
 # Missing In Action
 
