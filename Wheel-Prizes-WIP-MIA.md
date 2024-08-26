@@ -6,7 +6,7 @@ This document attempts to inform whether and when either case is true.
 
 ## Syndicated Season 14
 
-Starting soon.
+Recap pass complete. Video source pass soon.
 
 # New Data Elements Not Complete
 
@@ -188,7 +188,9 @@ These episodes have puzzles present in Buy-A-Vowel Puzzle Compendium, meaning th
 | | S11-E2141 | S11-E2143
 
 1. S13-E2482 Brenda/Judy/Steve 3/26/1996
+1. S13-E2496 Jasonn/Brian/Cast 4/22/1996
 1. S13-E2499 Sloan/Sheldon/Patsy 4/25/1996
+1. S13-E2500 Jessica/Matt/Jason 4/26/1996
 1. S13-E2505 Jennifer/David/Donna 5/3/1996
 1. S13-E2534 ?/?/? 7/18/1996
 
