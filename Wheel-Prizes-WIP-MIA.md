@@ -4,14 +4,15 @@ This document attempts to inform whether and when either case is true.
 
 # Episodes that are Work in Progress
 
-## Syndicated Season 14
+## Syndicated Season 15
 
-Recap pass complete. Video source pass soon.
+Starting soon.
 
-# New Data Elements Not Complete
+# Data Elements Not Complete
 
 - Wheel Position
 - Disposition
+- Music (Season 14+)
 
 These will be filled in as time permits.
 
@@ -21,7 +22,7 @@ These will be filled in as time permits.
 
 I hope to eventually include info about Surprise Wedge prizes for episodes in which the Surprise was awarded.
 
-## Syndicated Seasons 15+
+## Syndicated Seasons 16+
 
 I have not touched anything from season 15 or above yet.
 
@@ -95,6 +96,7 @@ No new wedge variants are especially expected from these, just more instances of
 1. S11-E1996 Maria/George/Karolyn 11/8/1993
 1. S11-E2080 Bob/Dan/Robin 3/11/1994
 1. S13-E2524 Carole/Victor/Kristy 5/30/1996
+1. S14-E2724 James/Jeffrey/Stephanie 6/5/1997
 
 ## Partial Episodes
 
@@ -193,6 +195,7 @@ These episodes have puzzles present in Buy-A-Vowel Puzzle Compendium, meaning th
 1. S13-E2500 Jessica/Matt/Jason 4/26/1996
 1. S13-E2505 Jennifer/David/Donna 5/3/1996
 1. S13-E2534 ?/?/? 7/18/1996
+1. S14-E2541 Suzanne/Lisa/Frank 9/9/1996
 
 ## Known to exist but not in circulation
 
@@ -244,3 +247,7 @@ E1951-E1956, E1960, E1961, E1963-E1965, E1976, E1979-E1994, E1998, E1999, E2001,
 1. S13-E2532
 1. S13-E2533
 1. S13-E2535
+### Season 14
+1. S14-E2587
+1. S14-E2589
+1. S14-E2648
