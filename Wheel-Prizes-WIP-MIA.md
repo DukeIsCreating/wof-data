@@ -4,10 +4,6 @@ This document attempts to inform whether and when either case is true.
 
 # Episodes that are Work in Progress
 
-## Syndicated Season 15
-
-Starting soon.
-
 # Data Elements Not Complete
 
 - Wheel Position
@@ -24,7 +20,7 @@ I hope to eventually include info about Surprise Wedge prizes for episodes in wh
 
 ## Syndicated Seasons 16+
 
-I have not touched anything from season 15 or above yet.
+I have not touched anything from season 16 or above yet.
 
 # Missing In Action
 
@@ -42,7 +38,7 @@ I'm listing episodes for which I know or suspect I'm missing a prize wedge varia
 
 I do not have wedge exemplars for wedge variants from the following episodes:
 
-1. S5-E823 Deb/Art/Amy 11/11/1987 (For CURIO-S5 Wedge)
+1. S5-E854 Jim/Sheree/Anne 1/4/1988 (For JEEP-S5 Wedge)
 1. S6-E1104 Shirley/Pat/Jeff 3/28/1989 (For COUCH-S6 Wedge)
 1. S10-E1911 Wayne/Andrea/Al 4/19/1993 (For PINS-S10 Wedge)
 1. S11-E2121 Michelle/Jennifer/Andrea 5/16/1994 (For DARWIN-S11 Wedge)
@@ -51,7 +47,6 @@ I do not have wedge exemplars for wedge variants from the following episodes:
 
 I might be missing wedge exemplars for wedge variants from the following episodes:
 
-1. S5-E854 Jim/Sheree/Anne 1/4/1988 (For potential JEEP-S5 Wedge)
 1. S6-E1098 Ollie/Connie/Lori 3/9/1989 (For potential SPACE-S6 Wedge)
 1. S7-E1341 Rita/Anne/Patty 5/14/1990 (For potential TENNIS-S7 Wedge)
 
@@ -209,7 +204,6 @@ DN-DT032
 DN-DT??? Lonni/Kimberly/Martha 01/1991-02/1991
 DN-DT??? Edward/Diana/Patrick 01/1991-02/1991
 DN-DT005
-DN-DT066
 DN-DT147
 DN-DT148
 
