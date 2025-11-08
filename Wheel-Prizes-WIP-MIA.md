@@ -6,8 +6,8 @@ This document attempts to inform whether and when either case is true.
 
 # Data Elements Not Complete
 
-- Wheel Position
-- Disposition
+- Wheel Position (Season 7+)
+- Disposition (Season 7+)
 - Music (Season 14+)
 
 These will be filled in as time permits.
@@ -60,7 +60,6 @@ No new wedge variants are especially expected from these, just more instances of
 1. S5-E882 Hank/Nancy/Becky 2/12/1988
 1. S5-E886 Marj/Paula/Denia 2/26/1988
 1. S6-E1039 Debbie/Kim/Duncan 12/6/1988
-1. S6-E1040 Nadia/Cresia/Betty 12/7/1988
 1. S6-E1045 Kathy/Carol/Matt 1/10/1989
 1. S6-E1051 Edna/Tracy/Steve 12/9/1988
 1. S6-E1054 Jim/Debbie/Ken 12/14/1988
@@ -100,6 +99,7 @@ For the following episodes I only have access to partial video. Prize informatio
 1. S1-E10 Richard/Claire/Melissa 10/3/1983 (PARTIAL) (missing BR)
 1. S1-E22 Francine/Kim/Paul 10/18/1983 (PARTIAL) (Missing prize plug and pretty much everything else except Paul)
 1. S2-E350 Lu Ann/Rich/Sharon 4/19/1985 (PARTIAL) (ULTRA RARE BOX PRIZE WEDGE)
+1. S4-E627 Robin/Dave/Henry 11/17/1986 (PARTIAL)
 1. S4-E770 Jackie/Gail/Ron 6/15/1987 (PARTIAL)
 1. S6-E1121 Jimmy/Abbie/Maddy 3/13/1989 (PARTIAL)
 1. S6-E1125 Ted/Peggy/Mary 4/12/1989 (PARTIAL)
@@ -107,6 +107,7 @@ For the following episodes I only have access to partial video. Prize informatio
 1. S6-E1133 LaTanya/Andy/Kim 5/2/1989 (PARTIAL)
 1. S6-E1134 Ari/Bob/Gloria 5/22/1989 (PARTIAL)
 1. S6-E1139 Barry/Nicole/Linda 5/26/1989 (PARTIAL)
+1. S8-E1539 Albert/Annnette/Ken 5/23/1991 (PARTIAL)
 1. S9-E1564 Michelle/Carrie/Scott 9/5/1991 (PARTIAL)
 1. S9-E1610 Joe/Joan/Debbie 11/8/1991 (PARTIAL)
 1. S10-E1828 Jane/Carolyn/Skip 12/16/1992 (PARTIAL)
@@ -131,7 +132,6 @@ These episodes have puzzles present in Buy-A-Vowel Puzzle Compendium, meaning th
 1. S2-E345 Elliot/Babe/Ann 4/12/1985
 1. S3-E530 Brenda/Larry/Jack 3/20/1986
 1. S3-E563 Anne/Patti/Janice 5/21/1986
-1. S4-E627 Robin/Dave/Henry 11/7/1986
 
 
 | Week | Ep | Ep | Ep | Ep | Ep |
@@ -226,9 +226,9 @@ E1130, E1153
 ### Season 7
 E1358, E1361, E1363
 ### Season 8
-E1367, E1368, E1373-E1375, E1377-E1382, E1384-E1389, E1392, E1393, E1396-E1416, E1418-E1434, E1438-E1445, E1451-E1460, E1466-E1469, E1471-E1482, E1484, E1485, E1487, E1488, E1490-E1492, E1494-E1502, E1506-E1511, E1513-E1527, E1529, E1530, E1533, E1536-E1543, E1546-E1549, E1553-E1555
+E1367, E1368, E1373-E1375, E1377-E1382, E1384-E1389, E1392, E1393, E1396-E1416, E1418-E1434, E1438-E1445, E1451-E1460, E1466-E1469, E1471-E1482, E1484, E1485, E1487, E1488, E1490-E1492, E1494-E1502, E1506-E1511, E1513-E1527, E1529, E1530, E1533, E1536-E1538, E1540-E1543, E1546-E1549, E1553-E1555
 ### Season 9
-E1561, E1563, E1564, E1571, E1574-E1580, E1583, E1584, E1590-E1600, E1605-E1613, E1616-E1624, E1627-E1640, E1652-E1682, E1684-E1687, E1689-E1715, E1718-E1722, E1726-E1730, E1736-E1740, E1746-E1750, E1752-E1754
+E1561, E1563, E1564, E1571, E1574-E1580, E1583, E1584, E1590-E1600, E1605-E1613, E1616-E1624, E1627-E1636, E1638-E1640, E1652-E1682, E1684-E1687, E1689-E1715, E1718-E1722, E1726-E1730, E1736-E1740, E1746-E1750, E1752-E1754
 ### Season 10
 E1852-E1860, E1862, E1864, E1866-E1869, E1871-E1878, E1881-E1883, E1886-E1888, E1891-E1899, E1902-E1909, E1916, E1919, E1921, E1922, E1928-E1930, E1933, E1934, E1936, E1938, E1940-E1945, E1947-E1949
 ### Season 11
