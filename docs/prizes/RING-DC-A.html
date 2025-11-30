@@ -3,6 +3,9 @@
 <style>
 @import url('https://fonts.googleapis.com/css2?family=Besley:ital,wght@0,400..900;1,400..900&display=swap')
 </style>
+<script>
+$(function(){fetch('../WheelPrizesBySequenceReport-last-update.txt').then(response => response.text()).then(data => {document.getElementById('last-update-placeholder').innerHTML = data;});});
+</script>
 <link rel="stylesheet" href="../style.css">
 <link rel="stylesheet" href="../palette-vintage.css">
 </head>
@@ -14,6 +17,6 @@
 <tr><td rowspan="2" style="width: max-content;"><span class="thicc">SDC-EC002</span><br/>Eva/Patrick/Rick<br/>07/18/1989</td><td class="thicc" rowspan="2">4</td><td>WaitingForU</td><td class="thicc">$2,500</td><td class="petit">On <span class="c-yellow-shadow nobreak">Yellow <span class="thicc">$200</span></span> between <span class="c-pink-shadow nobreak">Pink <span class="thicc">$100</span></span> and <span class="c-arctic-shadow nobreak">Arctic <span class="thicc">$100</span></span>.</td><td class="petit">Picked up R4 by P2, won end R4</td></tr>
 <tr><td class="petit" colspan="4" >This is an unusual ring. The pretty rose stone is rubelite set in 18 karat gold. You might choose this with your Fred Joaillier gift certificate. Retail value $2,500!</td></tr>
 </table>
-<p style="text-align: center">Last updated: 11/8/2025 16:59:15</p>
+<p style="text-align: center">Last updated: <span id="last-update-placeholder">(Placeholder)</span></p>
 </body>
 </html>

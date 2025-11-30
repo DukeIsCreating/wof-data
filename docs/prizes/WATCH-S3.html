@@ -3,6 +3,9 @@
 <style>
 @import url('https://fonts.googleapis.com/css2?family=Besley:ital,wght@0,400..900;1,400..900&display=swap')
 </style>
+<script>
+$(function(){fetch('../WheelPrizesBySequenceReport-last-update.txt').then(response => response.text()).then(data => {document.getElementById('last-update-placeholder').innerHTML = data;});});
+</script>
 <link rel="stylesheet" href="../style.css">
 <link rel="stylesheet" href="../palette-vintage.css">
 </head>
@@ -24,6 +27,6 @@
 <tr><td rowspan="2" style="width: max-content;"><span class="thicc">S4-E774</span><br/>Irene/Ingrid/Jerry<br/>06/19/1987</td><td class="thicc" rowspan="2">2</td><td>DeepCalm</td><td class="thicc">$13,700</td><td class="petit">On <span class="c-purple-shadow nobreak">Purple <span class="thicc">$150</span></span> between <span class="c-red-shadow nobreak">Red <span class="thicc">$800</span></span> and <span class="c-arctic-shadow nobreak">Arctic <span class="thicc">$450</span></span>.</td><td class="petit">Picked up R2 by P3, won end R2</td></tr>
 <tr><td class="petit" colspan="4" >It's a ladies' Crown Collection Rolex watch! White, yellow, and pink gold with diamond bezel and diamond dial. It's water and shock resistant, self winding. It's from Fred Joaillier. $13,700!</td></tr>
 </table>
-<p style="text-align: center">Last updated: 11/8/2025 16:59:15</p>
+<p style="text-align: center">Last updated: <span id="last-update-placeholder">(Placeholder)</span></p>
 </body>
 </html>

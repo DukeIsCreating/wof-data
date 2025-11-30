@@ -3,6 +3,9 @@
 <style>
 @import url('https://fonts.googleapis.com/css2?family=Besley:ital,wght@0,400..900;1,400..900&display=swap')
 </style>
+<script>
+$(function(){fetch('../WheelPrizesBySequenceReport-last-update.txt').then(response => response.text()).then(data => {document.getElementById('last-update-placeholder').innerHTML = data;});});
+</script>
 <link rel="stylesheet" href="../style.css">
 <link rel="stylesheet" href="../palette-vintage.css">
 </head>
@@ -14,6 +17,6 @@
 <tr><td rowspan="2" style="width: max-content;"><span class="thicc">S9-E1755</span><br/>Melissa/Roger/John<br/>06/19/1992</td><td class="thicc" rowspan="2">4</td><td>NewOrleans</td><td class="thicc">$8,100</td><td class="petit"></td><td class="petit"></td></tr>
 <tr><td class="petit" colspan="4" >It's a city slickers getaway! Travel arrangements provided by Delta Airlines. Now Delta flies to more than 300 cities worldwide on over 4,800 flights a day. At Delta, we love to fly and it shows. Enjoy a week's stay at the Roseland Ranch in Stanfordville, New York. A casual ranch resort offering swimming, horseback riding and winter activities, year round fun from Roseland Ranch. $8,100!</td></tr>
 </table>
-<p style="text-align: center">Last updated: 11/8/2025 16:59:15</p>
+<p style="text-align: center">Last updated: <span id="last-update-placeholder">(Placeholder)</span></p>
 </body>
 </html>

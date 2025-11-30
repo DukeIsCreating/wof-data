@@ -3,6 +3,9 @@
 <style>
 @import url('https://fonts.googleapis.com/css2?family=Besley:ital,wght@0,400..900;1,400..900&display=swap')
 </style>
+<script>
+$(function(){fetch('../WheelPrizesBySequenceReport-last-update.txt').then(response => response.text()).then(data => {document.getElementById('last-update-placeholder').innerHTML = data;});});
+</script>
 <link rel="stylesheet" href="../style.css">
 <link rel="stylesheet" href="../palette-vintage.css">
 </head>
@@ -26,6 +29,6 @@
 <tr><td rowspan="2" style="width: max-content;"><span class="thicc">S7-E1324</span><br/>Dorothy/Linda/Mark<br/>04/19/1990</td><td class="thicc" rowspan="2">4</td><td>TangeloSax</td><td class="thicc">$11,000</td><td class="petit"></td><td class="petit"></td></tr>
 <tr><td class="petit" colspan="4" >A romantic signature piece, Van Cleef and Arpel's large pave diamond scalloped heart on gold chain. Retail value $11,000</td></tr>
 </table>
-<p style="text-align: center">Last updated: 11/8/2025 16:59:15</p>
+<p style="text-align: center">Last updated: <span id="last-update-placeholder">(Placeholder)</span></p>
 </body>
 </html>

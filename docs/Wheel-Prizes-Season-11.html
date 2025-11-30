@@ -3,6 +3,9 @@
 <style>
 @import url('https://fonts.googleapis.com/css2?family=Besley:ital,wght@0,400..900;1,400..900&display=swap')
 </style>
+<script>
+fetch('WheelPrizesBySeasonReport-last-update.txt').then(response => response.text()).then(data => {document.getElementById('last-update-placeholder').innerHTML = data;});
+</script>
 <link rel="stylesheet" href="style.css">
 <link rel="stylesheet" href="palette-vintage.css">
 </head>
@@ -114,6 +117,6 @@
 <tr><td class="thicc" rowspan="2">4</td><td>Otherworld</td><td class="thicc v-lime-shadow">RING</td><td>RING-S7-B</td><td class="thicc">$9,500</td><td class="petit"></td><td class="petit"></td></tr>
 <tr><td class="petit" colspan="6">a Frances Klein dinner ring with 2.41-karat diamond and platinum, worth $9,500!</td></tr>
 </table>
-<p>Last updated: 11/8/2025 16:58:19</p>
+<p style="text-align: center">Last updated: <span id="last-update-placeholder">(Placeholder)</span></p>
 </body>
 </html>

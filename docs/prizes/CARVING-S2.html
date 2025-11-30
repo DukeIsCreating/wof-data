@@ -3,6 +3,9 @@
 <style>
 @import url('https://fonts.googleapis.com/css2?family=Besley:ital,wght@0,400..900;1,400..900&display=swap')
 </style>
+<script>
+$(function(){fetch('../WheelPrizesBySequenceReport-last-update.txt').then(response => response.text()).then(data => {document.getElementById('last-update-placeholder').innerHTML = data;});});
+</script>
 <link rel="stylesheet" href="../style.css">
 <link rel="stylesheet" href="../palette-vintage.css">
 </head>
@@ -14,6 +17,6 @@
 <tr><td rowspan="2" style="width: max-content;"><span class="thicc">S2-E328</span><br/>Gene/Debi/Barry<br/>03/20/1985</td><td class="thicc" rowspan="2">2</td><td>Tony</td><td class="thicc">$4,250</td><td class="petit">On <span class="v-tangelo-shadow nobreak">Tangelo <span class="thicc">$150</span></span> between <span class="v-red-shadow nobreak">Red <span class="thicc">$500</span></span> and <span class="v-lt-gamboge-shadow nobreak">Lt Gamboge <span class="thicc">$800</span></span>.</td><td class="petit">Picked up R2 by P1, won end R2</td></tr>
 <tr><td class="petit" colspan="4" >It's hand carved in China! Using century-old techniques, this exquisite rose quartz-covered vase is embellished with intricate floral decoration. A work of art that will increase in value as the years go by. It's $4,250!</td></tr>
 </table>
-<p style="text-align: center">Last updated: 11/8/2025 16:59:15</p>
+<p style="text-align: center">Last updated: <span id="last-update-placeholder">(Placeholder)</span></p>
 </body>
 </html>

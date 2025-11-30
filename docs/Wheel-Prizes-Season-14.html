@@ -3,6 +3,9 @@
 <style>
 @import url('https://fonts.googleapis.com/css2?family=Besley:ital,wght@0,400..900;1,400..900&display=swap')
 </style>
+<script>
+fetch('WheelPrizesBySeasonReport-last-update.txt').then(response => response.text()).then(data => {document.getElementById('last-update-placeholder').innerHTML = data;});
+</script>
 <link rel="stylesheet" href="style.css">
 <link rel="stylesheet" href="palette-vintage.css">
 </head>
@@ -161,7 +164,7 @@
 <tr><td class="petit" colspan="6">a Magnavox television and Broyhill entertainment unit. This entertainment package is worth $4,388!</td></tr>
 <tr><td class="thicc" rowspan="2">14</td><td class="thicc" rowspan="2">2612</td><td rowspan="2"><table class="Contestants"><tr class="Player"><td class="Player Player1">SHEFALY</td><td class="Player Player1">AMEE</td></tr><tr class="Player"><td class="Player Player2">LAURA</td><td class="Player Player2">NANCY</td></tr><tr class="Player"><td class="Player Player3">JOSH</td><td class="Player Player3">ALICIA</td></tr></table></td><td rowspan="2">12/17/1996</td><td class="thicc" rowspan="2">2</td><td></td><td class="thicc v-lime-shadow">ART</td><td>ART-S14</td><td class="thicc">$3,050</td><td class="petit"></td><td class="petit"></td></tr>
 <tr><td class="petit" colspan="6">a Wyland mini acrylic sculpture of a dolphin family worth $3,050!</td></tr>
-<tr><td class="thicc" rowspan="2">14</td><td class="thicc" rowspan="2">2613</td><td rowspan="2"><table class="Contestants"><tr class="Player"><td class="Player Player1">STEVE</td><td class="Player Player1">KRIS</td></tr><tr class="Player"><td class="Player Player2">GARY</td><td class="Player Player2">GRACE</td></tr><tr class="Player"><td class="Player Player3">JENNY</td><td class="Player Player3">LYNN)</td></tr></table></td><td rowspan="2">12/18/1997</td><td class="thicc" rowspan="2">2</td><td></td><td class="thicc v-lime-shadow">WATCHES</td><td>WATCHES-S14-A</td><td class="thicc">$2,780</td><td class="petit"></td><td class="petit"></td></tr>
+<tr><td class="thicc" rowspan="2">14</td><td class="thicc" rowspan="2">2613</td><td rowspan="2"><table class="Contestants"><tr class="Player"><td class="Player Player1">STEVE</td><td class="Player Player1">KRIS</td></tr><tr class="Player"><td class="Player Player2">GARY</td><td class="Player Player2">GRACE</td></tr><tr class="Player"><td class="Player Player3">JENNY</td><td class="Player Player3">LYNN</td></tr></table></td><td rowspan="2">12/18/1996</td><td class="thicc" rowspan="2">2</td><td></td><td class="thicc v-lime-shadow">WATCHES</td><td>WATCHES-S14-A</td><td class="thicc">$2,780</td><td class="petit"></td><td class="petit"></td></tr>
 <tr><td class="petit" colspan="6">a pair of Wittnauer Montego watches worth $2,780!</td></tr>
 <tr><td class="thicc" rowspan="2">14</td><td class="thicc" rowspan="2">2614</td><td rowspan="2"><table class="Contestants"><tr class="Player"><td class="Player Player1">SCOTT</td><td class="Player Player1">PAM</td></tr><tr class="Player"><td class="Player Player2">ELVIA</td><td class="Player Player2">KAREN</td></tr><tr class="Player"><td class="Player Player3">KAREN</td><td class="Player Player3">PHYLLIS</td></tr></table></td><td rowspan="2">12/19/1996</td><td class="thicc" rowspan="2">2</td><td></td><td class="thicc v-lime-shadow">BIG SCREEN</td><td>BIG-SCREEN-S14-B</td><td class="thicc">$3,489</td><td class="petit"></td><td class="petit"></td></tr>
 <tr><td class="petit" colspan="6">a big screen package featuring Game Show Network and the necessary Sony equipment to watch, worth $3,489!</td></tr>
@@ -420,6 +423,6 @@
 <tr><td class="thicc" rowspan="2">3</td><td></td><td class="thicc v-lime-shadow">NEW ORLEANS</td><td>NEW-ORLEANS-S14</td><td class="thicc">$7,165</td><td class="petit"></td><td class="petit"></td></tr>
 <tr><td class="petit" colspan="6">a holiday at the French Market Inn Hotel in New Orleans' French Quarter, plus Paul D. Wegner "Jazz" bronze and glass table worth $7,165!</td></tr>
 </table>
-<p>Last updated: 11/8/2025 16:58:19</p>
+<p style="text-align: center">Last updated: <span id="last-update-placeholder">(Placeholder)</span></p>
 </body>
 </html>

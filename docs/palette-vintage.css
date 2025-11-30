@@ -22,6 +22,13 @@
 	--color-c-arctic: #40B9D1;
 	--color-c-purple: #9F85BC;
 	--color-c-pink: #F4A6C8;
+
+	--color-x-dk-grey: #606060;
+}
+
+.x-dk-grey-shadow {
+  color: var(--color-v-glitter-silver);
+  text-shadow: 0px 0px 3px var(--color-x-dk-grey), 0px 0px 5px var(--color-x-dk-grey), 0px 0px 8px var(--color-x-dk-grey), 0px 0px 3px var(--color-x-dk-grey), 0px 0px 5px var(--color-x-dk-grey), 0px 0px 8px var(--color-x-dk-grey), 0px 0px 3px var(--color-x-dk-grey), 0px 0px 5px var(--color-x-dk-grey), 0px 0px 8px var(--color-x-dk-grey), 0px 0px 3px var(--color-x-dk-grey), 0px 0px 5px var(--color-x-dk-grey), 0px 0px 8px var(--color-x-dk-grey);
 }
 
 .v-black-shadow {

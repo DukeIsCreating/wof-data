@@ -3,6 +3,9 @@
 <style>
 @import url('https://fonts.googleapis.com/css2?family=Besley:ital,wght@0,400..900;1,400..900&display=swap')
 </style>
+<script>
+$(function(){fetch('../WheelPrizesBySequenceReport-last-update.txt').then(response => response.text()).then(data => {document.getElementById('last-update-placeholder').innerHTML = data;});});
+</script>
 <link rel="stylesheet" href="../style.css">
 <link rel="stylesheet" href="../palette-vintage.css">
 </head>
@@ -11,11 +14,11 @@
 <table>
 <tr><th rowspan="2">Episode</th><th rowspan="2">R#</th><th>Music</th><th>Value</th><th>Position</th><th>Disposition</th></tr>
 <tr><th colspan="6">Plug / Description</th></tr>
-<tr><td rowspan="2" style="width: max-content;"><span class="thicc">S5-E887</span><br/>Joe/Missy/Annette<br/>02/18/1988</td><td class="thicc" rowspan="2">4</td><td>Mournful</td><td class="thicc">$6,900</td><td class="petit">On <span class="c-purple-shadow nobreak">Purple <span class="thicc">$150</span></span> between <span class="c-red-shadow nobreak">Red <span class="thicc">$800</span></span> and <span class="c-arctic-shadow nobreak">Arctic <span class="thicc">$450</span></span>.</td><td class="petit">Picked up R4 by P1, won end R4</td></tr>
+<tr><td rowspan="2" style="width: max-content;"><span class="thicc">S5-E893</span><br/>Joe/Missy/Annette<br/>02/18/1988</td><td class="thicc" rowspan="2">4</td><td>Mournful</td><td class="thicc">$6,900</td><td class="petit">On <span class="c-purple-shadow nobreak">Purple <span class="thicc">$150</span></span> between <span class="c-red-shadow nobreak">Red <span class="thicc">$800</span></span> and <span class="c-arctic-shadow nobreak">Arctic <span class="thicc">$450</span></span>.</td><td class="petit">Picked up R4 by P1, won end R4</td></tr>
 <tr><td class="petit" colspan="4" >This pin, oh, it's a, oh so cute! It's a gold mommy koala bear with a diamond baby koala bear. It could be one of our player's with their Van Cleef & Arpels gift certificate. This is $6,900!</td></tr>
 <tr><td rowspan="2" style="width: max-content;"><span class="thicc">S5-E908</span><br/>Rita/Malinda/Cheri<br/>03/16/1988</td><td class="thicc" rowspan="2">2</td><td>Tony</td><td class="thicc">$6,000</td><td class="petit">On <span class="c-arctic-shadow nobreak">Arctic <span class="thicc">$150</span></span> between <span class="c-gamboge-shadow nobreak">Gamboge <span class="thicc">$200</span></span> and <span class="c-red-shadow nobreak">Red <span class="thicc">$450</span></span>.</td><td class="petit">Picked up R2 by P1, expired end R2</td></tr>
 <tr><td class="petit" colspan="4" >For one of our ladies, the color of this flower pin is really stunning. It's created of fire coral, 18 karat gold and diamonds; it may be yours with yout Van Cleef & Arpels gift certificate. This is $6,000!</td></tr>
 </table>
-<p style="text-align: center">Last updated: 11/8/2025 16:59:15</p>
+<p style="text-align: center">Last updated: <span id="last-update-placeholder">(Placeholder)</span></p>
 </body>
 </html>

@@ -3,6 +3,9 @@
 <style>
 @import url('https://fonts.googleapis.com/css2?family=Besley:ital,wght@0,400..900;1,400..900&display=swap')
 </style>
+<script>
+$(function(){fetch('../WheelPrizesBySequenceReport-last-update.txt').then(response => response.text()).then(data => {document.getElementById('last-update-placeholder').innerHTML = data;});});
+</script>
 <link rel="stylesheet" href="../style.css">
 <link rel="stylesheet" href="../palette-vintage.css">
 </head>
@@ -16,6 +19,6 @@
 <tr><td rowspan="2" style="width: max-content;"><span class="thicc">S9-E1749</span><br/>Chris/David/Andrea<br/>06/11/1992</td><td class="thicc" rowspan="2">2</td><td>Chicago</td><td class="thicc">$5,040</td><td class="petit"></td><td class="petit"></td></tr>
 <tr><td class="petit" colspan="4" >It's your kind of town! Stay at Hotel Intercontinental, luxury, service, and style on the Magnificent Mile. Enjoy this beautifully restored landmark hotel in the heart of Chicago. Hotel Intercontinental Chicago. $5,040!</td></tr>
 </table>
-<p style="text-align: center">Last updated: 11/8/2025 16:59:15</p>
+<p style="text-align: center">Last updated: <span id="last-update-placeholder">(Placeholder)</span></p>
 </body>
 </html>

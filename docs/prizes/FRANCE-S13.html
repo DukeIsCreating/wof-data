@@ -3,6 +3,9 @@
 <style>
 @import url('https://fonts.googleapis.com/css2?family=Besley:ital,wght@0,400..900;1,400..900&display=swap')
 </style>
+<script>
+$(function(){fetch('../WheelPrizesBySequenceReport-last-update.txt').then(response => response.text()).then(data => {document.getElementById('last-update-placeholder').innerHTML = data;});});
+</script>
 <link rel="stylesheet" href="../style.css">
 <link rel="stylesheet" href="../palette-vintage.css">
 </head>
@@ -14,6 +17,6 @@
 <tr><td rowspan="2" style="width: max-content;"><span class="thicc">S13-E2394</span><br/>Jordan/Joy/Tyson<br/>11/16/1995</td><td class="thicc" rowspan="2">3</td><td>FightSong6</td><td class="thicc">$3,720</td><td class="petit"></td><td class="petit"></td></tr>
 <tr><td class="petit" colspan="4" >Contiki Holidays, the world's biggest travel company for 18 to 35 year olds offers you an exciting 13 day European tour of France. Almost everything is taken care of you on a Contiki holiday. Nobody does it better. $3,720!</td></tr>
 </table>
-<p style="text-align: center">Last updated: 11/8/2025 16:59:15</p>
+<p style="text-align: center">Last updated: <span id="last-update-placeholder">(Placeholder)</span></p>
 </body>
 </html>

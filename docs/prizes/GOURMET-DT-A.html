@@ -3,6 +3,9 @@
 <style>
 @import url('https://fonts.googleapis.com/css2?family=Besley:ital,wght@0,400..900;1,400..900&display=swap')
 </style>
+<script>
+$(function(){fetch('../WheelPrizesBySequenceReport-last-update.txt').then(response => response.text()).then(data => {document.getElementById('last-update-placeholder').innerHTML = data;});});
+</script>
 <link rel="stylesheet" href="../style.css">
 <link rel="stylesheet" href="../palette-vintage.css">
 </head>
@@ -14,6 +17,6 @@
 <tr><td rowspan="2" style="width: max-content;"><span class="thicc">SDN-EDT094</span><br/>Sherrie/Joyce/Suanne<br/>05/23/1991</td><td class="thicc" rowspan="2">2</td><td>HeartBassDrum</td><td class="thicc">$1,519</td><td class="petit">On <span class="c-purple-shadow nobreak">Purple <span class="thicc">$100</span></span> between <span class="c-gamboge-shadow nobreak">Lt Gamboge 125</span> and <span class="c-tangelo-shadow nobreak">Tangelo <span class="thicc">$175</span></span>.</td><td class="petit">Moves to #21 R3, expired end R4</td></tr>
 <tr><td class="petit" colspan="4" >A trio for tasty tidbits, first, this Empire Green KitchenAid mixer can handle most any task, from a single egg white to kneading yeast doughs. With attachments, it's a complete food preparer furnished by KitchenAid. Then, Aristokraft movable island work center featuring a solid maple butcher block top and slide out cutting board, furnished by Aristokraft, And a complete Joyce Chen Chinese cooking outfit including the fammous Peking Pan for stir frying, and Joyce Chen's own delicious cooking sauces. Furnished by Joyce Chen Products. $1,519!</td></tr>
 </table>
-<p style="text-align: center">Last updated: 11/8/2025 16:59:15</p>
+<p style="text-align: center">Last updated: <span id="last-update-placeholder">(Placeholder)</span></p>
 </body>
 </html>

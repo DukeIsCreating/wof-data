@@ -3,6 +3,9 @@
 <style>
 @import url('https://fonts.googleapis.com/css2?family=Besley:ital,wght@0,400..900;1,400..900&display=swap')
 </style>
+<script>
+$(function(){fetch('../WheelPrizesBySequenceReport-last-update.txt').then(response => response.text()).then(data => {document.getElementById('last-update-placeholder').innerHTML = data;});});
+</script>
 <link rel="stylesheet" href="../style.css">
 <link rel="stylesheet" href="../palette-vintage.css">
 </head>
@@ -20,6 +23,6 @@
 <tr><td rowspan="2" style="width: max-content;"><span class="thicc">S12-E2299</span><br/>Denise/Dan/Peter<br/>04/27/1995</td><td class="thicc" rowspan="2">4</td><td>BustleSax</td><td class="thicc">$5,000</td><td class="petit"></td><td class="petit"></td></tr>
 <tr><td class="petit" colspan="4" >a trip to Warsaw and stay at the Marriott 5-star luxury hotel worth $5,000!<br /><em>Notes: Pat: "A trip to the land of my birth"</em></td></tr>
 </table>
-<p style="text-align: center">Last updated: 11/8/2025 16:59:15</p>
+<p style="text-align: center">Last updated: <span id="last-update-placeholder">(Placeholder)</span></p>
 </body>
 </html>

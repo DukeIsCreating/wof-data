@@ -55,7 +55,6 @@ I might be missing wedge exemplars for wedge variants from the following episode
 No new wedge variants are especially expected from these, just more instances of existing variants.
 
 1. S1-E152 Mark/Carol/Debi 5/1/1984
-1. S5-E794 Doug/Wayne/Jamie 9/24/1987
 1. S5-E864 Dan/Larry/Elaine 1/14/1988
 1. S5-E882 Hank/Nancy/Becky 2/12/1988
 1. S5-E886 Marj/Paula/Denia 2/26/1988
@@ -72,7 +71,6 @@ No new wedge variants are especially expected from these, just more instances of
 1. S6-E1093 Kathy/Shelly/Lee 3/10/1989
 1. S6-E1099 Charles/Sherrie/Karen 2/28/1989
 1. S6-E1103 Lori/Diane/Teri 3/24/1989
-1. S6-E1159 Cynthia/Scott/Jeff 6/2/1989
 1. S8-E1417 Victoria/Roland/Henry 11/13/1990
 1. S8-E1528 Dori/Luke/Hillary 5/8/1991
 1. S9-E1573 Jerry/Matt/Steve 9/18/1991
@@ -106,7 +104,6 @@ For the following episodes I only have access to partial video. Prize informatio
 1. S6-E1129 Steve/Sandy/Roland 4/19/1989 (PARTIAL)
 1. S6-E1133 LaTanya/Andy/Kim 5/2/1989 (PARTIAL)
 1. S6-E1134 Ari/Bob/Gloria 5/22/1989 (PARTIAL)
-1. S6-E1139 Barry/Nicole/Linda 5/26/1989 (PARTIAL)
 1. S8-E1539 Albert/Annnette/Ken 5/23/1991 (PARTIAL)
 1. S9-E1564 Michelle/Carrie/Scott 9/5/1991 (PARTIAL)
 1. S9-E1610 Joe/Joan/Debbie 11/8/1991 (PARTIAL)

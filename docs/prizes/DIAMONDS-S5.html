@@ -3,6 +3,9 @@
 <style>
 @import url('https://fonts.googleapis.com/css2?family=Besley:ital,wght@0,400..900;1,400..900&display=swap')
 </style>
+<script>
+$(function(){fetch('../WheelPrizesBySequenceReport-last-update.txt').then(response => response.text()).then(data => {document.getElementById('last-update-placeholder').innerHTML = data;});});
+</script>
 <link rel="stylesheet" href="../style.css">
 <link rel="stylesheet" href="../palette-vintage.css">
 </head>
@@ -13,9 +16,9 @@
 <tr><th colspan="6">Plug / Description</th></tr>
 <tr><td rowspan="2" style="width: max-content;"><span class="thicc">S5-E857</span><br/>Cather/Kevin/Diane<br/>01/05/1988</td><td class="thicc" rowspan="2">2</td><td>Tony</td><td class="thicc">$4,100</td><td class="petit">On <span class="c-arctic-shadow nobreak">Arctic <span class="thicc">$150</span></span> between <span class="c-pink-shadow nobreak">Pink <span class="thicc">$250</span></span> and <span class="c-red-shadow nobreak">Red <span class="thicc">$400</span></span>.</td><td class="petit">Expired end R2</td></tr>
 <tr><td class="petit" colspan="4" >It's dazzling diamonds, they add drama to this pair of white gold cuff links. One of our players might choose these with a gift certificate from Fred Joaillier. $4,100!</td></tr>
-<tr><td rowspan="2" style="width: max-content;"><span class="thicc">S5-E909</span><br/>Lori/Marion/Becky<br/>03/17/1988</td><td class="thicc" rowspan="2">4</td><td>Tony</td><td class="thicc">$14,000</td><td class="petit">On <span class="c-red-shadow nobreak">Red <span class="thicc">$300</span></span> between <span class="c-arctic-shadow nobreak">Arctic <span class="thicc">$250</span></span> and <span class="c-gamboge-shadow nobreak">Gamboge <span class="thicc">$900</span></span>.</td><td class="petit">Expired end R4</td></tr>
+<tr><td rowspan="2" style="width: max-content;"><span class="thicc">S5-E923</span><br/>Lori/Marion/Becky<br/>03/17/1988</td><td class="thicc" rowspan="2">4</td><td>Tony</td><td class="thicc">$14,000</td><td class="petit">On <span class="c-red-shadow nobreak">Red <span class="thicc">$300</span></span> between <span class="c-arctic-shadow nobreak">Arctic <span class="thicc">$250</span></span> and <span class="c-gamboge-shadow nobreak">Gamboge <span class="thicc">$900</span></span>.</td><td class="petit">Expired end R4</td></tr>
 <tr><td class="petit" colspan="4" >Most unusual, it's over four carats of diamonds, decorate these unusual neck tie ear clips. A very contemporary look from Van Cleef & Arpels, and yours with a gift certificate, this is $14,000!</td></tr>
 </table>
-<p style="text-align: center">Last updated: 11/8/2025 16:59:15</p>
+<p style="text-align: center">Last updated: <span id="last-update-placeholder">(Placeholder)</span></p>
 </body>
 </html>

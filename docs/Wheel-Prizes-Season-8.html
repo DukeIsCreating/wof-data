@@ -3,6 +3,9 @@
 <style>
 @import url('https://fonts.googleapis.com/css2?family=Besley:ital,wght@0,400..900;1,400..900&display=swap')
 </style>
+<script>
+fetch('WheelPrizesBySeasonReport-last-update.txt').then(response => response.text()).then(data => {document.getElementById('last-update-placeholder').innerHTML = data;});
+</script>
 <link rel="stylesheet" href="style.css">
 <link rel="stylesheet" href="palette-vintage.css">
 </head>
@@ -144,6 +147,6 @@
 <tr><td class="thicc" rowspan="2">4</td><td>SaxxyG</td><td class="thicc v-lime-shadow">WATCH</td><td>WATCH-S7-C</td><td class="thicc">$7,390</td><td class="petit"></td><td class="petit"></td></tr>
 <tr><td class="petit" colspan="6">Lucien Picard's quintessential 2 carat diamond and 14 karat gold ladies watch. Swiss quartz movement accurate within seconds a year. Made in Switzerland by Lucien Picard. $7,390!</td></tr>
 </table>
-<p>Last updated: 11/8/2025 16:58:19</p>
+<p style="text-align: center">Last updated: <span id="last-update-placeholder">(Placeholder)</span></p>
 </body>
 </html>

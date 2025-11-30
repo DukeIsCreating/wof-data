@@ -3,6 +3,9 @@
 <style>
 @import url('https://fonts.googleapis.com/css2?family=Besley:ital,wght@0,400..900;1,400..900&display=swap')
 </style>
+<script>
+$(function(){fetch('../WheelPrizesBySequenceReport-last-update.txt').then(response => response.text()).then(data => {document.getElementById('last-update-placeholder').innerHTML = data;});});
+</script>
 <link rel="stylesheet" href="../style.css">
 <link rel="stylesheet" href="../palette-vintage.css">
 </head>
@@ -14,6 +17,6 @@
 <tr><td rowspan="2" style="width: max-content;"><span class="thicc">S6-E1115</span><br/>Karen/Judi/Marlene<br/>04/17/1989</td><td class="thicc" rowspan="2">2</td><td>LetsGoDancin</td><td class="thicc">$3,620</td><td class="petit">On <span class="c-arctic-shadow nobreak">Arctic <span class="thicc">$300</span></span> between <span class="c-purple-shadow nobreak">Purple <span class="thicc">$400</span></span> and <span class="c-red-shadow nobreak">Red <span class="thicc">$200</span></span>.</td><td class="petit">Expired end R2</td></tr>
 <tr><td class="petit" colspan="4" >Five suits from the "Colors by Alexander Julian" collection, award winning men's tailored clothing, fine style and fabrication, from the Greif companies. And, Allen-Edmonds shoes will keep you in step from casual to formal, complete with custom shoe trees. From Allen-Edmonds Shoes. This menswear package, $3,620!<br /><em>Notes: Nonstandard prize placement</em></td></tr>
 </table>
-<p style="text-align: center">Last updated: 11/8/2025 16:59:15</p>
+<p style="text-align: center">Last updated: <span id="last-update-placeholder">(Placeholder)</span></p>
 </body>
 </html>

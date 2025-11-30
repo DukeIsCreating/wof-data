@@ -3,6 +3,9 @@
 <style>
 @import url('https://fonts.googleapis.com/css2?family=Besley:ital,wght@0,400..900;1,400..900&display=swap')
 </style>
+<script>
+$(function(){fetch('../WheelPrizesBySequenceReport-last-update.txt').then(response => response.text()).then(data => {document.getElementById('last-update-placeholder').innerHTML = data;});});
+</script>
 <link rel="stylesheet" href="../style.css">
 <link rel="stylesheet" href="../palette-vintage.css">
 </head>
@@ -14,6 +17,6 @@
 <tr><td rowspan="2" style="width: max-content;"><span class="thicc">S15-E2820</span><br/>Susan/Linda/Noel<br/>01/09/1998</td><td class="thicc" rowspan="2">2</td><td></td><td class="thicc">$4,350</td><td class="petit"></td><td class="petit"></td></tr>
 <tr><td class="petit" colspan="4" >a trip to Los Cabos in Mexico and 5-night stay at the Westin Regina, plus cash for Spanish lessons totaling $4,350!</td></tr>
 </table>
-<p style="text-align: center">Last updated: 11/8/2025 16:59:15</p>
+<p style="text-align: center">Last updated: <span id="last-update-placeholder">(Placeholder)</span></p>
 </body>
 </html>

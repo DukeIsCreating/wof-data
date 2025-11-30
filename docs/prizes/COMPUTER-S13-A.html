@@ -3,6 +3,9 @@
 <style>
 @import url('https://fonts.googleapis.com/css2?family=Besley:ital,wght@0,400..900;1,400..900&display=swap')
 </style>
+<script>
+$(function(){fetch('../WheelPrizesBySequenceReport-last-update.txt').then(response => response.text()).then(data => {document.getElementById('last-update-placeholder').innerHTML = data;});});
+</script>
 <link rel="stylesheet" href="../style.css">
 <link rel="stylesheet" href="../palette-vintage.css">
 </head>
@@ -16,6 +19,6 @@
 <tr><td rowspan="2" style="width: max-content;"><span class="thicc">S13-E2420</span><br/>Chris & Cindy/Mary & Brenda/Jim & Barbara<br/>12/22/1995</td><td class="thicc" rowspan="2">2</td><td>SplainSax</td><td class="thicc">$3,597</td><td class="petit"></td><td class="petit"></td></tr>
 <tr><td class="petit" colspan="4" >an Apple Computer Performa 6200CD, plus Laserwriter 300, and Microsoft Encarta and Bookshelf '95 worth $3,597!</td></tr>
 </table>
-<p style="text-align: center">Last updated: 11/8/2025 16:59:15</p>
+<p style="text-align: center">Last updated: <span id="last-update-placeholder">(Placeholder)</span></p>
 </body>
 </html>

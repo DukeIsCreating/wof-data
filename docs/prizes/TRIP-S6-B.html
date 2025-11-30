@@ -3,6 +3,9 @@
 <style>
 @import url('https://fonts.googleapis.com/css2?family=Besley:ital,wght@0,400..900;1,400..900&display=swap')
 </style>
+<script>
+$(function(){fetch('../WheelPrizesBySequenceReport-last-update.txt').then(response => response.text()).then(data => {document.getElementById('last-update-placeholder').innerHTML = data;});});
+</script>
 <link rel="stylesheet" href="../style.css">
 <link rel="stylesheet" href="../palette-vintage.css">
 </head>
@@ -19,13 +22,13 @@
 <tr><td class="petit" colspan="4" >How about a trip to Germany? LTU International Airways says "Wilkommen" to you as you head to centuries old castles or the modern cities of today's Germany. A private airline that gets you there in style and comfort from LTU International Airways. Spend a week at the Dusseldorf Hilton, your host while absorbing the romance of its historic city. Top drawer accommodations and deluxe sightseeing tour included, from the Dusseldorf Hilton. Total retail value, $3,290!</td></tr>
 <tr><td rowspan="2" style="width: max-content;"><span class="thicc">S6-E1164</span><br/>Theresa/Pat/Roland<br/>06/13/1989</td><td class="thicc" rowspan="2">4</td><td>LetsGoDancin</td><td class="thicc">$11,019</td><td class="petit">On <span class="c-red-shadow nobreak">Red <span class="thicc">$300</span></span> between <span class="c-arctic-shadow nobreak">Arctic <span class="thicc">$250</span></span> and <span class="c-gamboge-shadow nobreak">Gamboge <span class="thicc">$900</span></span>.</td><td class="petit">Picked up R4 by P1, lost to Bankrupt R4</td></tr>
 <tr><td class="petit" colspan="4" >It's a "city of lights" trip. First stop, New York! You'll stay at the Drake Hotel. Swiss hospitality, in an ambiance of intimacy and elegance. The finest touches of European savoir faire in the heart of Manhatten. From The Drake Hotel. Next, London. Stay at the St. James Court, a unique and luxurious London hotel, next to Buckingham Palace. Deluxe rooms, splendid dining and health and business centers available for you, at the St. James Court. Then, it's off to Paris, where you'll stay at the ultra-modern Pullam-Hotel-Saint Jacques, on the exciting Left Bank. Enjoy gourmet food and famous French hospitality, at the Pullman-Saint Jacques, this trip is $11,019!</td></tr>
-<tr><td rowspan="2" style="width: max-content;"><span class="thicc">S7-E1172</span><br/>Rob/Jackie/Susie<br/>09/05/1989</td><td class="thicc" rowspan="2">4</td><td>SaxxyG</td><td class="thicc">$6,322</td><td class="petit"></td><td class="petit"></td></tr>
-<tr><td class="petit" colspan="4" >a trip to Zurich, Switzerland worth $6,322!</td></tr>
+<tr><td rowspan="2" style="width: max-content;"><span class="thicc">S7-E1172</span><br/>Rob/Jackie/Susie<br/>09/05/1989</td><td class="thicc" rowspan="2">4</td><td>SaxxyG</td><td class="thicc">$6,322</td><td class="petit">On <span class="c-purple-shadow nobreak">Purple <span class="thicc">$150</span></span> between <span class="c-red-shadow nobreak">Red <span class="thicc">$800</span></span> and <span class="c-arctic-shadow nobreak">Arctic <span class="thicc">$450</span></span>.</td><td class="petit">Picked up R4 by P1, expired end R4</td></tr>
+<tr><td class="petit" colspan="4" >We'll fly you and a guest from Los Angeles to Switzerland for a week's stay at the Hotel Zurich. The deluxe hotel in the heart of Zurich on the bank of the Limmat River features an indoor swimming pool, fitness club, and shopping arcade. Swiss hospitality from Hotel Zurich, $6,322!</td></tr>
 <tr><td rowspan="2" style="width: max-content;"><span class="thicc">S7-E1178</span><br/>Kate/Linda/Mike<br/>09/13/1989</td><td class="thicc" rowspan="2">2</td><td>BustleSax</td><td class="thicc">$5,116</td><td class="petit"></td><td class="petit"></td></tr>
 <tr><td class="petit" colspan="4" >a 5-piece T. Anthony luggage set with a trip to D.C. and stay at Hotel Washington worth $5,116!</td></tr>
 <tr><td rowspan="2" style="width: max-content;"><span class="thicc">S7-E1184</span><br/>Jim/Kim/Jill<br/>09/21/1989</td><td class="thicc" rowspan="2">2</td><td>BubbleTriplets</td><td class="thicc">$2,616</td><td class="petit"></td><td class="petit"></td></tr>
 <tr><td class="petit" colspan="4" >a trip to Arizona, stay at the Wickenburg Inn and Dynasport tennis rackets valued at $2,616!</td></tr>
 </table>
-<p style="text-align: center">Last updated: 11/8/2025 16:59:15</p>
+<p style="text-align: center">Last updated: <span id="last-update-placeholder">(Placeholder)</span></p>
 </body>
 </html>

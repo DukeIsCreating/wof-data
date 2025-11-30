@@ -3,6 +3,9 @@
 <style>
 @import url('https://fonts.googleapis.com/css2?family=Besley:ital,wght@0,400..900;1,400..900&display=swap')
 </style>
+<script>
+$(function(){fetch('../WheelPrizesBySequenceReport-last-update.txt').then(response => response.text()).then(data => {document.getElementById('last-update-placeholder').innerHTML = data;});});
+</script>
 <link rel="stylesheet" href="../style.css">
 <link rel="stylesheet" href="../palette-vintage.css">
 </head>
@@ -42,6 +45,6 @@
 <tr><td rowspan="2" style="width: max-content;"><span class="thicc">SDC-EC251</span><br/>Karen/Terry/Barry<br/>07/05/1990</td><td class="thicc" rowspan="2">3</td><td>BubbleTriplets</td><td class="thicc">$3,902</td><td class="petit">On <span class="c-yellow-shadow nobreak">Yellow <span class="thicc">$200</span></span> between <span class="c-pink-shadow nobreak">Pink <span class="thicc">$100</span></span> and <span class="c-arctic-shadow nobreak">Arctic <span class="thicc">$100</span></span>.</td><td class="petit">Expired end R3</td></tr>
 <tr><td class="petit" colspan="4" >It's a seven day Caribbean cruise! We'll fly you and a guest from Los Angeles to Miami, where you'll board Norwegian Cruise Line's Seaward. A floating resort in the Western Caribbean, offering one of the widest ranges of dining options available on any cruise ship. From Norwegian Cruise Line. Retail value $3,902!</td></tr>
 </table>
-<p style="text-align: center">Last updated: 11/8/2025 16:59:15</p>
+<p style="text-align: center">Last updated: <span id="last-update-placeholder">(Placeholder)</span></p>
 </body>
 </html>

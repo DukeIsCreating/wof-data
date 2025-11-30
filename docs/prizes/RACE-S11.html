@@ -3,6 +3,9 @@
 <style>
 @import url('https://fonts.googleapis.com/css2?family=Besley:ital,wght@0,400..900;1,400..900&display=swap')
 </style>
+<script>
+$(function(){fetch('../WheelPrizesBySequenceReport-last-update.txt').then(response => response.text()).then(data => {document.getElementById('last-update-placeholder').innerHTML = data;});});
+</script>
 <link rel="stylesheet" href="../style.css">
 <link rel="stylesheet" href="../palette-vintage.css">
 </head>
@@ -14,6 +17,6 @@
 <tr><td rowspan="2" style="width: max-content;"><span class="thicc">S11-E2030</span><br/>David & Elbertha/Chuck & Bridget/Kitty & Mariann<br/>12/24/1993</td><td class="thicc" rowspan="2">2</td><td>Nightwalk</td><td class="thicc">$8,990</td><td class="petit"></td><td class="petit"></td></tr>
 <tr><td class="petit" colspan="4" >Aquatread premium  tires from Goodyear. Aquatread's advanced design channels water out of your way for dependable all-season traction, especially in rain. From The Goodyear Tire and Rubber Company. Fulfill your dream - three exciting days at the famous Skip Barber Racing School. Over 20 locations coast to coast. Rest between laps at the Sonoma Mission Inn & Spa, a luxury resort set in the heart of Northern California's Wine Country. Enjoy elegant acccomodations, fine dining, and a massage after each race day at their world class spa. $8,990!</td></tr>
 </table>
-<p style="text-align: center">Last updated: 11/8/2025 16:59:15</p>
+<p style="text-align: center">Last updated: <span id="last-update-placeholder">(Placeholder)</span></p>
 </body>
 </html>

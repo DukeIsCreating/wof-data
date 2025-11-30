@@ -3,6 +3,9 @@
 <style>
 @import url('https://fonts.googleapis.com/css2?family=Besley:ital,wght@0,400..900;1,400..900&display=swap')
 </style>
+<script>
+$(function(){fetch('../WheelPrizesBySequenceReport-last-update.txt').then(response => response.text()).then(data => {document.getElementById('last-update-placeholder').innerHTML = data;});});
+</script>
 <link rel="stylesheet" href="../style.css">
 <link rel="stylesheet" href="../palette-vintage.css">
 </head>
@@ -14,6 +17,6 @@
 <tr><td rowspan="2" style="width: max-content;"><span class="thicc">SDN-EDT001</span><br/>Chuck/Jim/Tony<br/>01/14/1991</td><td class="thicc" rowspan="2">3</td><td>MorningSax</td><td class="thicc">$1,875</td><td class="petit">On <span class="c-yellow-shadow nobreak">Yellow <span class="thicc">$200</span></span> between <span class="c-pink-shadow nobreak">Pink <span class="thicc">$100</span></span> and <span class="c-arctic-shadow nobreak">Arctic <span class="thicc">$100</span></span>.</td><td class="petit">Picked up R3 by P2, won end R3</td></tr>
 <tr><td class="petit" colspan="4" >Lloyd Flanders heirloom all-weather wicker furniture. Elegant comfort indoors to spacious relaxation outdoors. Can grace a dining room as well as a patio. Furnished by Lloyd Flanders. And enjoy Little Debbie snack cakes by the box or single pack. Individually wrapped and so delicious. From Little Debbie, America's number one snack cake. Total retail value, $1,875!</td></tr>
 </table>
-<p style="text-align: center">Last updated: 11/8/2025 16:59:15</p>
+<p style="text-align: center">Last updated: <span id="last-update-placeholder">(Placeholder)</span></p>
 </body>
 </html>

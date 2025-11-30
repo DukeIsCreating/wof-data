@@ -3,6 +3,9 @@
 <style>
 @import url('https://fonts.googleapis.com/css2?family=Besley:ital,wght@0,400..900;1,400..900&display=swap')
 </style>
+<script>
+$(function(){fetch('../WheelPrizesBySequenceReport-last-update.txt').then(response => response.text()).then(data => {document.getElementById('last-update-placeholder').innerHTML = data;});});
+</script>
 <link rel="stylesheet" href="../style.css">
 <link rel="stylesheet" href="../palette-vintage.css">
 </head>
@@ -14,6 +17,6 @@
 <tr><td rowspan="2" style="width: max-content;"><span class="thicc">SDN-EDT041</span><br/>Jennifer/Trei/Whitney<br/>03/11/1991</td><td class="thicc" rowspan="2">1</td><td>RisingSax</td><td class="thicc">$1,250</td><td class="petit">On <span class="c-pink-shadow nobreak">Pink <span class="thicc">$250</span></span> between <span class="c-yellow-shadow nobreak">Yellow <span class="thicc">$400</span></span> and <span class="c-gamboge-shadow nobreak">Lt Gamboge 100</span>.</td><td class="petit">Moves to #21 R2, expired end R3</td></tr>
 <tr><td class="petit" colspan="4" >Start with Gitano Handbags. Shoulder up in style. Fashion from Gitano that reflects your individual lifestyle. Gitano, a new American tradition for the spirited family. Add Sonni Hats for the modern woman combining style and flair with the sweet nostalgia of femininity and romance. Furnished by Sonni Hats. And Maine Woods introduces a new concept in casual footwear. Hand crafted from soft full grain leather, the ultimate in walking comfort furnished by Maine Woods. For a glimmering touch, a Helbros watch! This elegant diminutive timepiece features carefully selected and matched diamonds, furnished by Helbros Watches. Total retail value $1,250!</td></tr>
 </table>
-<p style="text-align: center">Last updated: 11/8/2025 16:59:15</p>
+<p style="text-align: center">Last updated: <span id="last-update-placeholder">(Placeholder)</span></p>
 </body>
 </html>

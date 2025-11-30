@@ -3,6 +3,9 @@
 <style>
 @import url('https://fonts.googleapis.com/css2?family=Besley:ital,wght@0,400..900;1,400..900&display=swap')
 </style>
+<script>
+fetch('WheelPrizesBySeasonReport-last-update.txt').then(response => response.text()).then(data => {document.getElementById('last-update-placeholder').innerHTML = data;});
+</script>
 <link rel="stylesheet" href="style.css">
 <link rel="stylesheet" href="palette-vintage.css">
 </head>
@@ -61,7 +64,7 @@
 <tr><td class="petit" colspan="6">a gift certificate to Fred Hayman Beverly Hills worth $2000</td></tr>
 <tr><td class="thicc" rowspan="2">4</td><td>BustleSax</td><td class="thicc v-lime-shadow">NEW YORK</td><td>NEW-YORK-S10</td><td class="thicc">$5,380</td><td class="petit"></td><td class="petit"></td></tr>
 <tr><td class="petit" colspan="6">a trip to the Big Apple including a 4 night 5 day stay at the Drake Hotel. $5,380!</td></tr>
-<tr><td class="thicc" rowspan="4">10</td><td class="thicc" rowspan="4">1768</td><td rowspan="4"><table class="Contestants"><tr class="Player"><td class="Player Player1">DANISE</td></tr><tr class="Player"><td class="Player Player2">CAROL</td></tr><tr class="Player"><td class="Player Player3">ROBERT</td></tr></table></td><td rowspan="4">9/23/1992</td><td class="thicc" rowspan="2">2</td><td>SaxxyG</td><td class="thicc v-lime-shadow">ART</td><td>ART-S7-A</td><td class="thicc">$7,750</td><td class="petit"></td><td class="petit"></td></tr>
+<tr><td class="thicc" rowspan="4">10</td><td class="thicc" rowspan="4">1768</td><td rowspan="4"><table class="Contestants"><tr class="Player"><td class="Player Player1">DENISE</td></tr><tr class="Player"><td class="Player Player2">CAROL</td></tr><tr class="Player"><td class="Player Player3">ROBERT</td></tr></table></td><td rowspan="4">9/23/1992</td><td class="thicc" rowspan="2">2</td><td>SaxxyG</td><td class="thicc v-lime-shadow">ART</td><td>ART-S7-A</td><td class="thicc">$7,750</td><td class="petit"></td><td class="petit"></td></tr>
 <tr><td class="petit" colspan="6">"Caf� de Flore, La Nuit", a serigraph by LeRoy Neiman, found at Bowles Sorokko gallery of Beverly Hills worth $7,750!</td></tr>
 <tr><td class="thicc" rowspan="2">4</td><td>1980PrizeCue</td><td class="thicc v-lime-shadow">CHINA</td><td>CHINA-S10-A</td><td class="thicc">$8,823</td><td class="petit"></td><td class="petit"></td></tr>
 <tr><td class="petit" colspan="6">a Rosenthal Classic porcelain dinner service set, plus Oneida silverware and crystal stemware, totaling $8,823!</td></tr>
@@ -141,7 +144,7 @@
 <tr><td class="petit" colspan="6">Singer's Quantum XL-1 sewing machine. $2,500!</td></tr>
 <tr><td class="thicc" rowspan="2">4</td><td>WaitingForU</td><td class="thicc v-lime-shadow">JEWELRY</td><td>JEWELRY-S7</td><td class="thicc">$9,000</td><td class="petit"></td><td class="petit"></td></tr>
 <tr><td class="petit" colspan="6">Earrings from the designer collection of Hammerman, 60 diamonds surround faceted black onyx for a dramatic earring of gold and platinum. You may choose these with your gift certificate from Hammerman. $9,000!</td></tr>
-<tr><td class="thicc" rowspan="4">10</td><td class="thicc" rowspan="4">1789</td><td rowspan="4"><table class="Contestants"><tr class="Player"><td class="Player Player1">MICHAEL</td></tr><tr class="Player"><td class="Player Player2">JORGE</td></tr><tr class="Player"><td class="Player Player3">CAROLYN</td></tr></table></td><td rowspan="4">12/22/1992</td><td class="thicc" rowspan="2">2</td><td>WaitingForU</td><td class="thicc v-lime-shadow">ART</td><td>ART-S7-A</td><td class="thicc">$4,200</td><td class="petit"></td><td class="petit"></td></tr>
+<tr><td class="thicc" rowspan="4">10</td><td class="thicc" rowspan="4">1789</td><td rowspan="4"><table class="Contestants"><tr class="Player"><td class="Player Player1">MICHAEL</td></tr><tr class="Player"><td class="Player Player2">JORGE</td></tr><tr class="Player"><td class="Player Player3">CAROLYN</td></tr></table></td><td rowspan="4">10/22/1992</td><td class="thicc" rowspan="2">2</td><td>WaitingForU</td><td class="thicc v-lime-shadow">ART</td><td>ART-S7-A</td><td class="thicc">$4,200</td><td class="petit"></td><td class="petit"></td></tr>
 <tr><td class="petit" colspan="6">a pair of porcelain doves worth $4,200!</td></tr>
 <tr><td class="thicc" rowspan="2">4</td><td>Island</td><td class="thicc v-lime-shadow">GRENADA</td><td>GRENADA-S10</td><td class="thicc">$6,220</td><td class="petit"></td><td class="petit"></td></tr>
 <tr><td class="petit" colspan="6">A Fantasy Vacation in the Caribbean. Air travel by BWIA, and you'll enjoy 6 nights in Grenada at the Spice Island Inn. Worth $6220!</td></tr>
@@ -460,6 +463,6 @@
 <tr><td class="thicc" rowspan="2">4</td><td>Escape</td><td class="thicc v-lime-shadow">AUSTRALIA</td><td>AUSTRALIA-S7</td><td class="thicc">$11,435</td><td class="petit"></td><td class="petit"></td></tr>
 <tr><td class="petit" colspan="6">a trip to Australia, including attendance at Sydney Opera House and tour of Alice Springs and Ayers Rock, totaling $11,435!</td></tr>
 </table>
-<p>Last updated: 11/8/2025 16:58:19</p>
+<p style="text-align: center">Last updated: <span id="last-update-placeholder">(Placeholder)</span></p>
 </body>
 </html>

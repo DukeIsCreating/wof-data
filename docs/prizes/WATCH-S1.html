@@ -3,6 +3,9 @@
 <style>
 @import url('https://fonts.googleapis.com/css2?family=Besley:ital,wght@0,400..900;1,400..900&display=swap')
 </style>
+<script>
+$(function(){fetch('../WheelPrizesBySequenceReport-last-update.txt').then(response => response.text()).then(data => {document.getElementById('last-update-placeholder').innerHTML = data;});});
+</script>
 <link rel="stylesheet" href="../style.css">
 <link rel="stylesheet" href="../palette-vintage.css">
 </head>
@@ -19,7 +22,7 @@
 <tr><td class="petit" colspan="4" >You'll enjoy your new 18-karat Audemars Piguet watch. Hand made with diamond border, gold face, with black lizard strap. This watch is furnished by Tiffany and Company. $2,900!</td></tr>
 <tr><td rowspan="2" style="width: max-content;"><span class="thicc">S1-E128</span><br/>Lydia/Jessica/Jill<br/>03/21/1984</td><td class="thicc" rowspan="2">2</td><td>Tony</td><td class="thicc">$2,900</td><td class="petit">On <span class="v-tangelo-shadow nobreak">Tangelo <span class="thicc">$150</span></span> between <span class="v-red-shadow nobreak">Red <span class="thicc">$500</span></span> and <span class="v-lt-gamboge-shadow nobreak">Lt Gamboge <span class="thicc">$800</span></span>.</td><td class="petit">Expired end R2</td></tr>
 <tr><td class="petit" colspan="4" >You'll enjoy your new 18-karat Audemars Piguet watch. Hand made with diamond border and gold face with black lizard strap. This watch is furnished by Tiffany and Company. $2,900!</td></tr>
-<tr><td rowspan="2" style="width: max-content;"><span class="thicc">S2-E209</span><br/>June/Elizabeth/Bonnie<br/>09/27/1984</td><td class="thicc" rowspan="2">2</td><td>Tony</td><td class="thicc">$1,075</td><td class="petit">On <span class="v-tangelo-shadow nobreak">Tangelo <span class="thicc">$150</span></span> between <span class="v-red-shadow nobreak">Red <span class="thicc">$500</span></span> and <span class="v-lt-gamboge-shadow nobreak">Lt Gamboge <span class="thicc">$800</span></span>.</td><td class="petit">Picked up R2 by P2, won end R2</td></tr>
+<tr><td rowspan="2" style="width: max-content;"><span class="thicc">S2-E210</span><br/>June/Elizabeth/Bonnie<br/>09/27/1984</td><td class="thicc" rowspan="2">2</td><td>Tony</td><td class="thicc">$1,075</td><td class="petit">On <span class="v-tangelo-shadow nobreak">Tangelo <span class="thicc">$150</span></span> between <span class="v-red-shadow nobreak">Red <span class="thicc">$500</span></span> and <span class="v-lt-gamboge-shadow nobreak">Lt Gamboge <span class="thicc">$800</span></span>.</td><td class="petit">Picked up R2 by P2, won end R2</td></tr>
 <tr><td class="petit" colspan="4" >For him, the "Rolex Oyster" on a stainless steel band shows time and date, waterproof, delicate precision, and rugged strength. By Van Cleef & Arpels. $1,075!</td></tr>
 <tr><td rowspan="2" style="width: max-content;"><span class="thicc">S2-E253</span><br/>Jean/Anita/Julia<br/>11/28/1984</td><td class="thicc" rowspan="2">2</td><td>Frisco</td><td class="thicc">$2,100</td><td class="petit">On <span class="v-tangelo-shadow nobreak">Tangelo <span class="thicc">$150</span></span> between <span class="v-red-shadow nobreak">Red <span class="thicc">$500</span></span> and <span class="v-lt-gamboge-shadow nobreak">Lt Gamboge <span class="thicc">$800</span></span>.</td><td class="petit">Expired end R2</td></tr>
 <tr><td class="petit" colspan="4" >You'll receive a Gucci gift certificate with which you might select this elegant 18 karat gold pocket watch with bit design. It's $2,100!</td></tr>
@@ -36,6 +39,6 @@
 <tr><td rowspan="2" style="width: max-content;"><span class="thicc">S3-E417</span><br/>Ednita/Mario/Kathy<br/>10/10/1985</td><td class="thicc" rowspan="2">2</td><td>Tony</td><td class="thicc">$2,275</td><td class="petit">On <span class="v-tangelo-shadow nobreak">Tangelo <span class="thicc">$150</span></span> between <span class="v-red-shadow nobreak">Red <span class="thicc">$500</span></span> and <span class="v-lt-gamboge-shadow nobreak">Lt Gamboge <span class="thicc">$800</span></span>.</td><td class="petit">Expired end R2</td></tr>
 <tr><td class="petit" colspan="4" >One of our contestants could get a chance at this elegant Jules Jurgensen Ladies quartz watch. It's styled in a 14 karat yellow gold pace set with 28 firey diamonds and basket weave bracelet. It's elegance by Jules Jurgensen, $2,275!</td></tr>
 </table>
-<p style="text-align: center">Last updated: 11/8/2025 16:59:15</p>
+<p style="text-align: center">Last updated: <span id="last-update-placeholder">(Placeholder)</span></p>
 </body>
 </html>

@@ -1,0 +1,21 @@
+<html>
+<head>
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Besley:ital,wght@0,400..900;1,400..900&display=swap')
+</style>
+<script>
+$(function(){fetch('../PlayerPositionBiasReport-last-update.txt').then(response => response.text()).then(data => {document.getElementById('last-update-placeholder').innerHTML = data;});});
+</script>
+<link rel="stylesheet" href="../style.css">
+<link rel="stylesheet" href="../palette-vintage.css">
+</head>
+<body>
+<h1>Player Position Apparent Advantage by Gameplay Epoch</h1>
+<p>It has been a matter of substantial debate in my household what kind of advantage is held by each player podium position in the pre-tossup days of Wheel of Fortune.</p>
+<p>This report is an attempt to answer that question through empirical statistics. For each major gameplay rules epoch, the winnings of each podium position have been summed and observed advantages calculated. Bonus round winnings are excluded.</p>
+<p>Wins: Shows number of game wins, followed by delta from expected wins and percentage of games won. Note that for daytime era, the deltas of all three x-win deviations do not sum to zero due to the possibilities of ties which resulted in a no-decision, no bonus round played, and both players returning the following day.</p><p>Avg: Shows average winnings excluding bonus round winnings. On Account amounts left on the table are also excluded.</p><p>The line below Avg shows player advantage in winnings, as a percentage and as a average dollar amount per game above the most disadvantaged player.</p><table>
+<tr><th>Epoch</th><th># Samples</th><th>Player 1</th><th>Player 2</th><th>Player 3</th></tr>
+<tr><td>Daytime $2,000 Top Dollar Value Era (Nov 1979 - Jun 1989)</td><td>132</td><td><span class="c-lime-shadow" nobreak >Wins: 51 (+7.0, 38.6%)</span><br/><span class="c-lime-shadow" nobreak >Avg: $3,740<br/>+35.4% (+$1,324)</span></td><td><span class="v-lemon-shadow" nobreak >Wins: 44 (0.0, 33.3%)</span><br/><span class="c-lime-shadow" nobreak >Avg: $3,267<br/>+18.3% (+$597)</span></td><td><span class="c-red-shadow" nobreak >Wins: 36 (-8.0, 27.3%)</span><br/><span class="c-red-shadow" nobreak >Avg: $2,762</td></tr><tr><td>Syndicated Shopping Era (Sep 1983 - Oct 1987)</td><td>279</td><td><span class="v-lemon-shadow" nobreak >Wins: 93 (0.0, 33.3%)</span><br/><span class="c-lime-shadow" nobreak >Avg: $6,642<br/>+19.2% (+$1,277)</span></td><td><span class="v-lemon-shadow" nobreak >Wins: 92 (-1.0, 33.0%)</span><br/><span class="c-lime-shadow" nobreak >Avg: $6,365<br/>+14.2% (+$907)</span></td><td><span class="v-lemon-shadow" nobreak >Wins: 94 (+1.0, 33.7%)</span><br/><span class="c-red-shadow" nobreak >Avg: $5,571</td></tr><tr><td>Syndicated Cash Era (Oct 1987 - Oct 1989)</td><td>207</td><td><span class="c-red-shadow" nobreak >Wins: 63 (-6.0, 30.4%)</span><br/><span class="c-red-shadow" nobreak >Avg: $9,225</td><td><span class="c-lime-shadow" nobreak >Wins: 73 (+4.0, 35.3%)</span><br/><span class="c-lime-shadow" nobreak >Avg: $12,595<br/>+36.5% (+$4,600)</span></td><td><span class="v-lemon-shadow" nobreak >Wins: 71 (+2.0, 34.3%)</span><br/><span class="c-lime-shadow" nobreak >Avg: $11,260<br/>+22.1% (+$2,484)</span></td></tr><tr><td>Total</td><td>636</td><td><span class="v-lemon-shadow" nobreak >Wins: 215 (+3.0, 33.8%)</span><br/><span class="c-lime-shadow" nobreak >Avg: $6,759<br/>+0.4% (+$30)</span></td><td><span class="v-lemon-shadow" nobreak >Wins: 216 (+4.0, 34.0%)</span><br/><span class="c-lime-shadow" nobreak >Avg: $7,647<br/>+13.6% (+$1,042)</span></td><td><span class="c-red-shadow" nobreak >Wins: 204 (-8.0, 32.1%)</span><br/><span class="c-red-shadow" nobreak >Avg: $6,730</td></tr></table>
+<p style="text-align: center">Last updated: <span id="last-update-placeholder">(Placeholder)</span></p>
+</body>
+</html>

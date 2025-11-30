@@ -3,6 +3,9 @@
 <style>
 @import url('https://fonts.googleapis.com/css2?family=Besley:ital,wght@0,400..900;1,400..900&display=swap')
 </style>
+<script>
+$(function(){fetch('../WheelPrizesBySequenceReport-last-update.txt').then(response => response.text()).then(data => {document.getElementById('last-update-placeholder').innerHTML = data;});});
+</script>
 <link rel="stylesheet" href="../style.css">
 <link rel="stylesheet" href="../palette-vintage.css">
 </head>
@@ -19,9 +22,9 @@
 <tr><td class="petit" colspan="4" >a trip to Australia and stay at Hayman Island Resort in Queensland, plus a tour of the Great Barrier Reef worth $8,200!</td></tr>
 <tr><td rowspan="2" style="width: max-content;"><span class="thicc">S9-E1647</span><br/>Axel/Steve/Angela<br/>12/31/1991</td><td class="thicc" rowspan="2">2</td><td>BustleSax</td><td class="thicc">$3,880</td><td class="petit"></td><td class="petit"></td></tr>
 <tr><td class="petit" colspan="4" >A family trip to San Diego! You'll spend six nights in luxury at the San Diego Marriot Mission Valley, and enjoy your days exploring San Diego's 70 miles of beaches and visiting its major attractions. Including a blimp ride! Soar above beautiful southern California on a fabulous flight aboard the famous airship Columbia. From the Goodyear Tire and Rubber Company. $3,880!</td></tr>
-<tr><td rowspan="2" style="width: max-content;"><span class="thicc">SDN-EDT057</span><br/>Rick/Cindy/Maureen<br/>04/02/1991</td><td class="thicc" rowspan="2">2</td><td>RisingSax</td><td class="thicc">$1,540</td><td class="petit">On <span class="c-pink-shadow nobreak">Pink <span class="thicc">$250</span></span> between <span class="c-yellow-shadow nobreak">Yellow <span class="thicc">$400</span></span> and <span class="c-gamboge-shadow nobreak">Lt Gamboge 100</span>.</td><td class="petit">Moves to #7 R3, moves to #13 R4, expired end R4</td></tr>
+<tr><td rowspan="2" style="width: max-content;"><span class="thicc">SDN-EDT052</span><br/>Rick/Cindy/Maureen<br/>03/26/1991</td><td class="thicc" rowspan="2">2</td><td>RisingSax</td><td class="thicc">$1,540</td><td class="petit">On <span class="c-pink-shadow nobreak">Pink <span class="thicc">$250</span></span> between <span class="c-yellow-shadow nobreak">Yellow <span class="thicc">$400</span></span> and <span class="c-gamboge-shadow nobreak">Lt Gamboge 100</span>.</td><td class="petit">Moves to #7 R3, moves to #13 R4, expired end R4</td></tr>
 <tr><td class="petit" colspan="4" >It's a trip to San Diego! You and your guest will spend a week in luxury at the San Diego Marriott Mission Valley, and spend your days exploring San Diego's 70 miles of beaches and visiting its major attractions. $1,540!</td></tr>
 </table>
-<p style="text-align: center">Last updated: 11/8/2025 16:59:15</p>
+<p style="text-align: center">Last updated: <span id="last-update-placeholder">(Placeholder)</span></p>
 </body>
 </html>

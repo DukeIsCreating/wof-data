@@ -3,6 +3,9 @@
 <style>
 @import url('https://fonts.googleapis.com/css2?family=Besley:ital,wght@0,400..900;1,400..900&display=swap')
 </style>
+<script>
+$(function(){fetch('../WheelPrizesBySequenceReport-last-update.txt').then(response => response.text()).then(data => {document.getElementById('last-update-placeholder').innerHTML = data;});});
+</script>
 <link rel="stylesheet" href="../style.css">
 <link rel="stylesheet" href="../palette-vintage.css">
 </head>
@@ -17,7 +20,7 @@
 <tr><td class="petit" colspan="4" >The tiger eye and diamond dome ring! Really unique and wonderful, very avant, yours with your gift certificate from Fred Joaillier. $8,000 worth of ring!</td></tr>
 <tr><td rowspan="2" style="width: max-content;"><span class="thicc">S6-E986</span><br/>Mary/Karen/David<br/>09/23/1988</td><td class="thicc" rowspan="2">2</td><td>DeepCalm</td><td class="thicc">$2,725</td><td class="petit">On <span class="c-arctic-shadow nobreak">Arctic <span class="thicc">$150</span></span> between <span class="c-gamboge-shadow nobreak">Gamboge <span class="thicc">$200</span></span> and <span class="c-red-shadow nobreak">Red <span class="thicc">$450</span></span>.</td><td class="petit">Picked up R2 by P2, expired end R2</td></tr>
 <tr><td class="petit" colspan="4" >From Krementz Jewelry, this is very beautiful, 14-karat yellow gold ring, designed with three genuine opal topaz center stones and four full-cut diamonds. From Krementz Jewelry, the price of this incredible prize is $2,725!</td></tr>
-<tr><td rowspan="2" style="width: max-content;"><span class="thicc">S6-E989</span><br/>Varda/Sam/Kathy<br/>09/27/1988</td><td class="thicc" rowspan="2">4</td><td>Child</td><td class="thicc">$6,000</td><td class="petit">On <span class="c-red-shadow nobreak">Red <span class="thicc">$300</span></span> between <span class="c-arctic-shadow nobreak">Arctic <span class="thicc">$250</span></span> and <span class="c-gamboge-shadow nobreak">Gamboge <span class="thicc">$900</span></span>.</td><td class="petit">Expired end R4</td></tr>
+<tr><td rowspan="2" style="width: max-content;"><span class="thicc">S6-E988</span><br/>Varda/Sam/Kathy<br/>09/27/1988</td><td class="thicc" rowspan="2">4</td><td>Child</td><td class="thicc">$6,000</td><td class="petit">On <span class="c-red-shadow nobreak">Red <span class="thicc">$300</span></span> between <span class="c-arctic-shadow nobreak">Arctic <span class="thicc">$250</span></span> and <span class="c-gamboge-shadow nobreak">Gamboge <span class="thicc">$900</span></span>.</td><td class="petit">Expired end R4</td></tr>
 <tr><td class="petit" colspan="4" >a Fred Joaillier gift certificate, with which you might get this appealing carved coral and diamond ring. $6,000 on this one!</td></tr>
 <tr><td rowspan="2" style="width: max-content;"><span class="thicc">S6-E1009</span><br/>Altorlee/Anne/Jeff<br/>10/20/1988</td><td class="thicc" rowspan="2">4</td><td>Elevator</td><td class="thicc">$5,800</td><td class="petit">On <span class="c-red-shadow nobreak">Red <span class="thicc">$300</span></span> between <span class="c-arctic-shadow nobreak">Arctic <span class="thicc">$250</span></span> and <span class="c-gamboge-shadow nobreak">Gamboge <span class="thicc">$900</span></span>.</td><td class="petit">Expired end R4</td></tr>
 <tr><td class="petit" colspan="4" >With your Van Cleef & Arpels gift certificate, you might choose this unusual ring. Gold hearts, and a diamond background, It's $5,800!</td></tr>
@@ -30,6 +33,6 @@
 <tr><td rowspan="2" style="width: max-content;"><span class="thicc">S6-E1106</span><br/>Deborah/Andy/Judy<br/>03/17/1989</td><td class="thicc" rowspan="2">4</td><td>DeepCalm</td><td class="thicc">$16,000</td><td class="petit">On <span class="c-red-shadow nobreak">Red <span class="thicc">$300</span></span> between <span class="c-arctic-shadow nobreak">Arctic <span class="thicc">$250</span></span> and <span class="c-gamboge-shadow nobreak">Gamboge <span class="thicc">$900</span></span>.</td><td class="petit">Expired end R4</td></tr>
 <tr><td class="petit" colspan="4" >With your gift certificate, you might choose this magnificent ring! The 2.21 carat diamond background is decorated with over 3 carats of deep blue sapphires. From Fred Joaillier. Retail value $16,000!</td></tr>
 </table>
-<p style="text-align: center">Last updated: 11/8/2025 16:59:15</p>
+<p style="text-align: center">Last updated: <span id="last-update-placeholder">(Placeholder)</span></p>
 </body>
 </html>

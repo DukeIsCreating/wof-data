@@ -3,6 +3,9 @@
 <style>
 @import url('https://fonts.googleapis.com/css2?family=Besley:ital,wght@0,400..900;1,400..900&display=swap')
 </style>
+<script>
+$(function(){fetch('../WheelPrizesBySequenceReport-last-update.txt').then(response => response.text()).then(data => {document.getElementById('last-update-placeholder').innerHTML = data;});});
+</script>
 <link rel="stylesheet" href="../style.css">
 <link rel="stylesheet" href="../palette-vintage.css">
 </head>
@@ -34,6 +37,6 @@
 <tr><td rowspan="2" style="width: max-content;"><span class="thicc">S6-E1141</span><br/>Steve/Nilou/Nancy<br/>04/21/1989</td><td class="thicc" rowspan="2">2</td><td>Frisco</td><td class="thicc">$3,348</td><td class="petit">On <span class="c-arctic-shadow nobreak">Arctic <span class="thicc">$150</span></span> between <span class="c-gamboge-shadow nobreak">Gamboge <span class="thicc">$200</span></span> and <span class="c-red-shadow nobreak">Red <span class="thicc">$450</span></span>.</td><td class="petit">Expired end R2</td></tr>
 <tr><td class="petit" colspan="4" >An inviting family room created around the La-Z-Boy Signature 2 sleep sofa, with supreme comfort deluxe inner spring mattress, elegance by day and comfort by night, thanks to La-Z-Boy. The early American theme is complemented by custom furniture and accessories from Colonial Heirlooms, including, the overseer's roll top desk and gourmet hutch. Both quality crafted with attention to detail. Then homespun accents are added by an autographed and painted fire screen, liberty red parlor basket, and  waterfowl accents and hand painted waterfowl trunk, all Colonial Heirlooms. Retail value $3,348!</td></tr>
 </table>
-<p style="text-align: center">Last updated: 11/8/2025 16:59:15</p>
+<p style="text-align: center">Last updated: <span id="last-update-placeholder">(Placeholder)</span></p>
 </body>
 </html>

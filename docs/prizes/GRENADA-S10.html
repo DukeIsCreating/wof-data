@@ -3,6 +3,9 @@
 <style>
 @import url('https://fonts.googleapis.com/css2?family=Besley:ital,wght@0,400..900;1,400..900&display=swap')
 </style>
+<script>
+$(function(){fetch('../WheelPrizesBySequenceReport-last-update.txt').then(response => response.text()).then(data => {document.getElementById('last-update-placeholder').innerHTML = data;});});
+</script>
 <link rel="stylesheet" href="../style.css">
 <link rel="stylesheet" href="../palette-vintage.css">
 </head>
@@ -11,11 +14,11 @@
 <table>
 <tr><th rowspan="2">Episode</th><th rowspan="2">R#</th><th>Music</th><th>Value</th><th>Position</th><th>Disposition</th></tr>
 <tr><th colspan="6">Plug / Description</th></tr>
-<tr><td rowspan="2" style="width: max-content;"><span class="thicc">S10-E1789</span><br/>Michael/Jorge/Carolyn<br/>12/22/1992</td><td class="thicc" rowspan="2">4</td><td>Island</td><td class="thicc">$6,220</td><td class="petit"></td><td class="petit"></td></tr>
+<tr><td rowspan="2" style="width: max-content;"><span class="thicc">S10-E1789</span><br/>Michael/Jorge/Carolyn<br/>10/22/1992</td><td class="thicc" rowspan="2">4</td><td>Island</td><td class="thicc">$6,220</td><td class="petit"></td><td class="petit"></td></tr>
 <tr><td class="petit" colspan="4" >A Fantasy Vacation in the Caribbean. Air travel by BWIA, and you'll enjoy 6 nights in Grenada at the Spice Island Inn. Worth $6220!</td></tr>
 <tr><td rowspan="2" style="width: max-content;"><span class="thicc">S10-E1823</span><br/>David/John/Chris<br/>12/09/1992</td><td class="thicc" rowspan="2">4</td><td>Island</td><td class="thicc">$6,220</td><td class="petit"></td><td class="petit"></td></tr>
 <tr><td class="petit" colspan="4" >A Fantasy Vacation in the Caribbean. You'll enjoy 6 nights in Grenada at the Spice Island Inn. Worth $6220!</td></tr>
 </table>
-<p style="text-align: center">Last updated: 11/8/2025 16:59:15</p>
+<p style="text-align: center">Last updated: <span id="last-update-placeholder">(Placeholder)</span></p>
 </body>
 </html>

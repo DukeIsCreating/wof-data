@@ -3,6 +3,9 @@
 <style>
 @import url('https://fonts.googleapis.com/css2?family=Besley:ital,wght@0,400..900;1,400..900&display=swap')
 </style>
+<script>
+$(function(){fetch('../WheelPrizesBySequenceReport-last-update.txt').then(response => response.text()).then(data => {document.getElementById('last-update-placeholder').innerHTML = data;});});
+</script>
 <link rel="stylesheet" href="../style.css">
 <link rel="stylesheet" href="../palette-vintage.css">
 </head>
@@ -16,6 +19,6 @@
 <tr><td rowspan="2" style="width: max-content;"><span class="thicc">S6-E1147</span><br/>David & Irene/Debbie & Vickie/Shirley & LaToucha<br/>05/09/1989</td><td class="thicc" rowspan="2">2</td><td>CatWalk</td><td class="thicc">$4,175</td><td class="petit">On <span class="c-arctic-shadow nobreak">Arctic <span class="thicc">$150</span></span> between <span class="c-gamboge-shadow nobreak">Gamboge <span class="thicc">$200</span></span> and <span class="c-red-shadow nobreak">Red <span class="thicc">$450</span></span>.</td><td class="petit">Picked up R2 by P2, lost to Bankrupt R2</td></tr>
 <tr><td class="petit" colspan="4" >It's a jungle in there. Nature's Window introduces The Aviarium. Fine handcrafted bird cases. Environmentally controlled. In custom styles to fit any decor. $4,175!<br /><em>Notes: No second prize this episode; round 4 was entirely a speed-up round.</em></td></tr>
 </table>
-<p style="text-align: center">Last updated: 11/8/2025 16:59:15</p>
+<p style="text-align: center">Last updated: <span id="last-update-placeholder">(Placeholder)</span></p>
 </body>
 </html>

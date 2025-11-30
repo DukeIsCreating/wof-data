@@ -3,6 +3,9 @@
 <style>
 @import url('https://fonts.googleapis.com/css2?family=Besley:ital,wght@0,400..900;1,400..900&display=swap')
 </style>
+<script>
+$(function(){fetch('../WheelPrizesBySequenceReport-last-update.txt').then(response => response.text()).then(data => {document.getElementById('last-update-placeholder').innerHTML = data;});});
+</script>
 <link rel="stylesheet" href="../style.css">
 <link rel="stylesheet" href="../palette-vintage.css">
 </head>
@@ -19,11 +22,11 @@
 <tr><td class="petit" colspan="4" >Got you covered right here. M???nd by Haviland, fine French limoges porcelain. Service for twelve, featuring a colorful array of flowers, trimmed in 24-karat gold. From Haviland,  $5,290!</td></tr>
 <tr><td rowspan="2" style="width: max-content;"><span class="thicc">S6-E1137</span><br/>Mike/Franny/Andy<br/>05/01/1989</td><td class="thicc" rowspan="2">4</td><td>Tony</td><td class="thicc">$5,290</td><td class="petit">On <span class="c-red-shadow nobreak">Red <span class="thicc">$300</span></span> between <span class="c-arctic-shadow nobreak">Arctic <span class="thicc">$250</span></span> and <span class="c-gamboge-shadow nobreak">Gamboge <span class="thicc">$900</span></span>.</td><td class="petit">Expired end R4</td></tr>
 <tr><td class="petit" colspan="4" >"Kien Long" by Haviland, fine French limoges porcelain. Service for twelve in an elegant oriental pattern trimmed in 24 karat gold, from Haviland. $5,290!</td></tr>
-<tr><td rowspan="2" style="width: max-content;"><span class="thicc">S7-E1171</span><br/>Gisele/Julie/Jackie<br/>09/04/1989</td><td class="thicc" rowspan="2">2</td><td>Tony</td><td class="thicc">$5,290</td><td class="petit"></td><td class="petit"></td></tr>
-<tr><td class="petit" colspan="4" >a set of plates and flatware worth $5,290!</td></tr>
+<tr><td rowspan="2" style="width: max-content;"><span class="thicc">S7-E1171</span><br/>Gisele/Julie/Jackie<br/>09/04/1989</td><td class="thicc" rowspan="2">2</td><td>Tony</td><td class="thicc">$5,290</td><td class="petit">On <span class="c-arctic-shadow nobreak">Arctic <span class="thicc">$150</span></span> between <span class="c-pink-shadow nobreak">Pink <span class="thicc">$250</span></span> and <span class="c-red-shadow nobreak">Red <span class="thicc">$400</span></span>.</td><td class="petit">Expired end R2</td></tr>
+<tr><td class="petit" colspan="4" >Rubans by Haviland, fine French Limoges porcelain, a 90 piece serving for twelve decorated with ribbons and bows and trimmed in 24-karat gold. From Haviland. $5,290!</td></tr>
 <tr><td rowspan="2" style="width: max-content;"><span class="thicc">S7-E1177</span><br/>Bob/Druanne/Kate<br/>09/12/1989</td><td class="thicc" rowspan="2">4</td><td>Tony</td><td class="thicc">$6,386</td><td class="petit"></td><td class="petit"></td></tr>
 <tr><td class="petit" colspan="4" >a set of fine china dinnerware and crystal stemware from Orrefors worth $6,386!</td></tr>
 </table>
-<p style="text-align: center">Last updated: 11/8/2025 16:59:15</p>
+<p style="text-align: center">Last updated: <span id="last-update-placeholder">(Placeholder)</span></p>
 </body>
 </html>

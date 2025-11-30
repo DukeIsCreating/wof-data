@@ -3,6 +3,9 @@
 <style>
 @import url('https://fonts.googleapis.com/css2?family=Besley:ital,wght@0,400..900;1,400..900&display=swap')
 </style>
+<script>
+$(function(){fetch('../WheelPrizesBySequenceReport-last-update.txt').then(response => response.text()).then(data => {document.getElementById('last-update-placeholder').innerHTML = data;});});
+</script>
 <link rel="stylesheet" href="../style.css">
 <link rel="stylesheet" href="../palette-vintage.css">
 </head>
@@ -15,7 +18,7 @@
 <tr><td class="petit" colspan="4" >Anybody would love this: translucent soft green jade has been carved into a gorgeous perfume bottle decorated with roses and leaves. A contemporary creation using techniques from past centuries. Imported from mainland China. A small work of art to treasure. Retail value $1,500!</td></tr>
 <tr><td rowspan="2" style="width: max-content;"><span class="thicc">S1-E71</span><br/>Lloyd/Linda/Debbie<br/>01/02/1984</td><td class="thicc" rowspan="2">2</td><td>Child</td><td class="thicc">$2,250</td><td class="petit">On <span class="v-tangelo-shadow nobreak">Tangelo <span class="thicc">$150</span></span> between <span class="v-red-shadow nobreak">Red <span class="thicc">$500</span></span> and <span class="v-lt-gamboge-shadow nobreak">Lt Gamboge <span class="thicc">$800</span></span>.</td><td class="petit">Expired end R2</td></tr>
 <tr><td class="petit" colspan="4" >It's imported from China. This new Jade incense burner is hand carved. The design inspired by a 16th century antique incense burner, and interest is added to its inviting shape by elephant handles and feet, displayed attractively on a black laquer base. This jade carving is $2,250!</td></tr>
-<tr><td rowspan="2" style="width: max-content;"><span class="thicc">S2-E198</span><br/>Anita/Paula/Wayne<br/>09/10/1984</td><td class="thicc" rowspan="2">2</td><td>Samba</td><td class="thicc">$1,875</td><td class="petit">On <span class="v-tangelo-shadow nobreak">Tangelo <span class="thicc">$150</span></span> between <span class="v-red-shadow nobreak">Red <span class="thicc">$500</span></span> and <span class="v-lt-gamboge-shadow nobreak">Lt Gamboge <span class="thicc">$800</span></span>.</td><td class="petit">Picked up R2 by P2, won end R2</td></tr>
+<tr><td rowspan="2" style="width: max-content;"><span class="thicc">S2-E200</span><br/>Anita/Paula/Wayne<br/>09/10/1984</td><td class="thicc" rowspan="2">2</td><td>Samba</td><td class="thicc">$1,875</td><td class="petit">On <span class="v-tangelo-shadow nobreak">Tangelo <span class="thicc">$150</span></span> between <span class="v-red-shadow nobreak">Red <span class="thicc">$500</span></span> and <span class="v-lt-gamboge-shadow nobreak">Lt Gamboge <span class="thicc">$800</span></span>.</td><td class="petit">Picked up R2 by P2, won end R2</td></tr>
 <tr><td class="petit" colspan="4" >It's almost breathtakingly beautiful: This magnificently carved new Jade Quan Yin figure is the goddess of mercy. Every intricate detail of her demeanor has been captured by the artist, including her flowing robes. It's $1,875!</td></tr>
 <tr><td rowspan="2" style="width: max-content;"><span class="thicc">S2-E226</span><br/>Linda/Tim/Rhea<br/>10/22/1984</td><td class="thicc" rowspan="2">2</td><td>Tony</td><td class="thicc">$1,500</td><td class="petit">On <span class="v-tangelo-shadow nobreak">Tangelo <span class="thicc">$150</span></span> between <span class="v-red-shadow nobreak">Red <span class="thicc">$500</span></span> and <span class="v-lt-gamboge-shadow nobreak">Lt Gamboge <span class="thicc">$800</span></span>.</td><td class="petit">Expired end R2</td></tr>
 <tr><td class="petit" colspan="4" >It's translucent soft green jade has been carved into a gorgeous perfume bottle decorated with roses and leaves. A contemporary creation using techniques from past centuries. Small work of art to treasure. $1,500!</td></tr>
@@ -28,6 +31,6 @@
 <tr><td rowspan="2" style="width: max-content;"><span class="thicc">S2-E304</span><br/>Joyce/Nancy/Mark<br/>02/08/1985</td><td class="thicc" rowspan="2">2</td><td>Tony</td><td class="thicc">$2,250</td><td class="petit">On <span class="v-tangelo-shadow nobreak">Tangelo <span class="thicc">$150</span></span> between <span class="v-red-shadow nobreak">Red <span class="thicc">$500</span></span> and <span class="v-lt-gamboge-shadow nobreak">Lt Gamboge <span class="thicc">$800</span></span>.</td><td class="petit">Expired end R2</td></tr>
 <tr><td class="petit" colspan="4" >It's imported from China. This new Jade incense burner is hand carved. Inspired by a 16th century antique, elephant handles and feet add interest, This jade carving is $2,250!</td></tr>
 </table>
-<p style="text-align: center">Last updated: 11/8/2025 16:59:15</p>
+<p style="text-align: center">Last updated: <span id="last-update-placeholder">(Placeholder)</span></p>
 </body>
 </html>

@@ -3,6 +3,9 @@
 <style>
 @import url('https://fonts.googleapis.com/css2?family=Besley:ital,wght@0,400..900;1,400..900&display=swap')
 </style>
+<script>
+$(function(){fetch('../WheelPrizesBySequenceReport-last-update.txt').then(response => response.text()).then(data => {document.getElementById('last-update-placeholder').innerHTML = data;});});
+</script>
 <link rel="stylesheet" href="../style.css">
 <link rel="stylesheet" href="../palette-vintage.css">
 </head>
@@ -14,6 +17,6 @@
 <tr><td rowspan="2" style="width: max-content;"><span class="thicc">S5-E852</span><br/>Eileen/Peggy/Paul<br/>12/17/1987</td><td class="thicc" rowspan="2">4</td><td>Elevator</td><td class="thicc">$9,000</td><td class="petit">On <span class="c-red-shadow nobreak">Red <span class="thicc">$300</span></span> between <span class="c-arctic-shadow nobreak">Arctic <span class="thicc">$250</span></span> and <span class="c-gamboge-shadow nobreak">Gamboge <span class="thicc">$900</span></span>.</td><td class="petit">Expired end R4</td></tr>
 <tr><td class="petit" colspan="4" >One of our players could win this, it's a very rare, very collectable Persian Qum 100% silk rug. It would take one person weaving 25 to 30 years to make this rug. It's from Emser of Los Angeles. This is $9,000!</td></tr>
 </table>
-<p style="text-align: center">Last updated: 11/8/2025 16:59:15</p>
+<p style="text-align: center">Last updated: <span id="last-update-placeholder">(Placeholder)</span></p>
 </body>
 </html>

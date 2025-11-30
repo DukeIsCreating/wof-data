@@ -3,6 +3,9 @@
 <style>
 @import url('https://fonts.googleapis.com/css2?family=Besley:ital,wght@0,400..900;1,400..900&display=swap')
 </style>
+<script>
+fetch('WheelPrizesReport-last-update.txt').then(response => response.text()).then(data => {document.getElementById('last-update-placeholder').innerHTML = data;});
+</script>
 <link rel="stylesheet" href="style.css">
 <link rel="stylesheet" href="palette-vintage.css">
 </head>
@@ -48,6 +51,6 @@
   <li><a href="Wheel-Prizes-Season-15.html">Season 15</a>
 </li>
 </ul>
-<p>Last updated: 11/8/2025 16:58:19</p>
+<p style="text-align: center">Last updated: <span id="last-update-placeholder">(Placeholder)</span></p>
 </body>
 </html>

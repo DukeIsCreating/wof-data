@@ -3,6 +3,9 @@
 <style>
 @import url('https://fonts.googleapis.com/css2?family=Besley:ital,wght@0,400..900;1,400..900&display=swap')
 </style>
+<script>
+$(function(){fetch('../WheelPrizesBySequenceReport-last-update.txt').then(response => response.text()).then(data => {document.getElementById('last-update-placeholder').innerHTML = data;});});
+</script>
 <link rel="stylesheet" href="../style.css">
 <link rel="stylesheet" href="../palette-vintage.css">
 </head>
@@ -11,7 +14,7 @@
 <table>
 <tr><th rowspan="2">Episode</th><th rowspan="2">R#</th><th>Music</th><th>Value</th><th>Position</th><th>Disposition</th></tr>
 <tr><th colspan="6">Plug / Description</th></tr>
-<tr><td rowspan="2" style="width: max-content;"><span class="thicc">S2-E207</span><br/>Terry/Mitch/Georgia<br/>09/25/1984</td><td class="thicc" rowspan="2">2</td><td>Tony</td><td class="thicc">$5,200</td><td class="petit">On <span class="v-tangelo-shadow nobreak">Tangelo <span class="thicc">$150</span></span> between <span class="v-red-shadow nobreak">Red <span class="thicc">$500</span></span> and <span class="v-lt-gamboge-shadow nobreak">Lt Gamboge <span class="thicc">$800</span></span>.</td><td class="petit">Expired end R2</td></tr>
+<tr><td rowspan="2" style="width: max-content;"><span class="thicc">S2-E209</span><br/>Terry/Mitch/Georgia<br/>09/25/1984</td><td class="thicc" rowspan="2">2</td><td>Tony</td><td class="thicc">$5,200</td><td class="petit">On <span class="v-tangelo-shadow nobreak">Tangelo <span class="thicc">$150</span></span> between <span class="v-red-shadow nobreak">Red <span class="thicc">$500</span></span> and <span class="v-lt-gamboge-shadow nobreak">Lt Gamboge <span class="thicc">$800</span></span>.</td><td class="petit">Expired end R2</td></tr>
 <tr><td class="petit" colspan="4" >With your Gucci gift certificate, you might choose this lovely pin! It's a multi-colored basket of flowers done in French enamel, decorated with a diamond bow and butterfly. It's retail value $5,200!</td></tr>
 <tr><td rowspan="2" style="width: max-content;"><span class="thicc">S2-E239</span><br/>Lance/Virginia/Brenda<br/>11/07/1984</td><td class="thicc" rowspan="2">2</td><td>Mournful</td><td class="thicc">$5,950</td><td class="petit">On <span class="v-tangelo-shadow nobreak">Tangelo <span class="thicc">$150</span></span> between <span class="v-red-shadow nobreak">Red <span class="thicc">$500</span></span> and <span class="v-lt-gamboge-shadow nobreak">Lt Gamboge <span class="thicc">$800</span></span>.</td><td class="petit">Expired end R2</td></tr>
 <tr><td class="petit" colspan="4" >This dazzling diamond star pin may be yours with your Tiffany gift certificate. It has 43 diamonds totaling over 2 carats. $5,950!</td></tr>
@@ -24,6 +27,6 @@
 <tr><td rowspan="2" style="width: max-content;"><span class="thicc">S2-E307</span><br/>Pat/Mike/Tammie<br/>03/08/1985</td><td class="thicc" rowspan="2">2</td><td>Tony</td><td class="thicc">$1,800</td><td class="petit">On <span class="v-tangelo-shadow nobreak">Tangelo <span class="thicc">$150</span></span> between <span class="v-red-shadow nobreak">Red <span class="thicc">$500</span></span> and <span class="v-lt-gamboge-shadow nobreak">Lt Gamboge <span class="thicc">$800</span></span>.</td><td class="petit">Picked up R2 by P2, won end R2</td></tr>
 <tr><td class="petit" colspan="4" >One of our contestants might get a Gucci gift certificate, with which he or she might choose this sizzling stainless steel and 18-karat gold pin with sapphire ornament. It's new to the "Krako" collection. It's $1,800!</td></tr>
 </table>
-<p style="text-align: center">Last updated: 11/8/2025 16:59:15</p>
+<p style="text-align: center">Last updated: <span id="last-update-placeholder">(Placeholder)</span></p>
 </body>
 </html>

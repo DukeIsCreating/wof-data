@@ -3,6 +3,9 @@
 <style>
 @import url('https://fonts.googleapis.com/css2?family=Besley:ital,wght@0,400..900;1,400..900&display=swap')
 </style>
+<script>
+$(function(){fetch('../WheelPrizesBySequenceReport-last-update.txt').then(response => response.text()).then(data => {document.getElementById('last-update-placeholder').innerHTML = data;});});
+</script>
 <link rel="stylesheet" href="../style.css">
 <link rel="stylesheet" href="../palette-vintage.css">
 </head>
@@ -14,6 +17,6 @@
 <tr><td rowspan="2" style="width: max-content;"><span class="thicc">S9-E1642</span><br/>Patrick & Nicole/Bert & Walt/Katie & Jolene<br/>12/24/1991</td><td class="thicc" rowspan="2">4</td><td>BustleSax</td><td class="thicc">$7,816</td><td class="petit"></td><td class="petit"></td></tr>
 <tr><td class="petit" colspan="4" >It's a family ski trip to Colorado! Travel arrangements provided by Delta Airlines. Now Delta flies to more than 300 cities worldwide on over 4,800 flights a day. At Delta, we love to fly, and it shows. For six nights and seven days, you'll stay at the Viking Suite Hotel, located in beautiful Teluride, Colorado. This all-suite hotel features a restaurant, outdoor pool and spa, and kitchenettes in all rooms. From The Lodges at Teluride. $7,816!</td></tr>
 </table>
-<p style="text-align: center">Last updated: 11/8/2025 16:59:15</p>
+<p style="text-align: center">Last updated: <span id="last-update-placeholder">(Placeholder)</span></p>
 </body>
 </html>

@@ -3,6 +3,9 @@
 <style>
 @import url('https://fonts.googleapis.com/css2?family=Besley:ital,wght@0,400..900;1,400..900&display=swap')
 </style>
+<script>
+$(function(){fetch('../WheelPrizesBySequenceReport-last-update.txt').then(response => response.text()).then(data => {document.getElementById('last-update-placeholder').innerHTML = data;});});
+</script>
 <link rel="stylesheet" href="../style.css">
 <link rel="stylesheet" href="../palette-vintage.css">
 </head>
@@ -13,7 +16,9 @@
 <tr><th colspan="6">Plug / Description</th></tr>
 <tr><td rowspan="2" style="width: max-content;"><span class="thicc">S13-E2423</span><br/>Jennifer/Melanie/Jack<br/>01/03/1996</td><td class="thicc" rowspan="2">2</td><td>LegatoUpDownSax</td><td class="thicc">$2,450</td><td class="petit"></td><td class="petit"></td></tr>
 <tr><td class="petit" colspan="4" >a gentleman's wardrobe from Allen-Edmonds and Perry Ellis, worth $2,450!</td></tr>
+<tr><td rowspan="2" style="width: max-content;"><span class="thicc">S13-E2524</span><br/>Carole/Victor/Kristy<br/>05/30/1996</td><td class="thicc" rowspan="2">2</td><td></td><td class="thicc"></td><td class="petit"></td><td class="petit"></td></tr>
+<tr><td class="petit" colspan="4" ><br /><em>Notes: Prize plug missing. No second prize this episode.</em></td></tr>
 </table>
-<p style="text-align: center">Last updated: 11/8/2025 16:59:15</p>
+<p style="text-align: center">Last updated: <span id="last-update-placeholder">(Placeholder)</span></p>
 </body>
 </html>

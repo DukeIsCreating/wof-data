@@ -3,6 +3,9 @@
 <style>
 @import url('https://fonts.googleapis.com/css2?family=Besley:ital,wght@0,400..900;1,400..900&display=swap')
 </style>
+<script>
+$(function(){fetch('../WheelPrizesBySequenceReport-last-update.txt').then(response => response.text()).then(data => {document.getElementById('last-update-placeholder').innerHTML = data;});});
+</script>
 <link rel="stylesheet" href="../style.css">
 <link rel="stylesheet" href="../palette-vintage.css">
 </head>
@@ -13,7 +16,7 @@
 <tr><th colspan="6">Plug / Description</th></tr>
 <tr><td rowspan="2" style="width: max-content;"><span class="thicc">S10-E1765</span><br/>Joy/Betty/Tony<br/>09/18/1992</td><td class="thicc" rowspan="2">2</td><td>SaxxyG</td><td class="thicc">$2,958</td><td class="petit"></td><td class="petit"></td></tr>
 <tr><td class="petit" colspan="4" >a set of porcelain fine china dinnerware from Rosenthal Classic worth $2,958!</td></tr>
-<tr><td rowspan="2" style="width: max-content;"><span class="thicc">S10-E1768</span><br/>Danise/Carol/Robert<br/>09/23/1992</td><td class="thicc" rowspan="2">4</td><td>1980PrizeCue</td><td class="thicc">$8,823</td><td class="petit"></td><td class="petit"></td></tr>
+<tr><td rowspan="2" style="width: max-content;"><span class="thicc">S10-E1768</span><br/>Denise/Carol/Robert<br/>09/23/1992</td><td class="thicc" rowspan="2">4</td><td>1980PrizeCue</td><td class="thicc">$8,823</td><td class="petit"></td><td class="petit"></td></tr>
 <tr><td class="petit" colspan="4" >a Rosenthal Classic porcelain dinner service set, plus Oneida silverware and crystal stemware, totaling $8,823!</td></tr>
 <tr><td rowspan="2" style="width: max-content;"><span class="thicc">S12-E2272</span><br/>Donnie/Glenn/Jan<br/>03/14/1995</td><td class="thicc" rowspan="2">2</td><td>SaxStoryContinues</td><td class="thicc">$4,450</td><td class="petit"></td><td class="petit"></td></tr>
 <tr><td class="petit" colspan="4" >a Rosenthal porcelain dinnerware set worth $4,450!</td></tr>
@@ -22,6 +25,6 @@
 <tr><td rowspan="2" style="width: max-content;"><span class="thicc">S12-E2320</span><br/>Kevin/Kyle/Karen<br/>05/26/1995</td><td class="thicc" rowspan="2">2</td><td>OneOff</td><td class="thicc">$4,001</td><td class="petit"></td><td class="petit"></td></tr>
 <tr><td class="petit" colspan="4" >a Royal Doulton bone china dinnerware set with Wellesley crystal stemware worth $4,001!</td></tr>
 </table>
-<p style="text-align: center">Last updated: 11/8/2025 16:59:15</p>
+<p style="text-align: center">Last updated: <span id="last-update-placeholder">(Placeholder)</span></p>
 </body>
 </html>

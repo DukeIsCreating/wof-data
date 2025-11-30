@@ -3,6 +3,9 @@
 <style>
 @import url('https://fonts.googleapis.com/css2?family=Besley:ital,wght@0,400..900;1,400..900&display=swap')
 </style>
+<script>
+$(function(){fetch('../WheelPrizesBySequenceReport-last-update.txt').then(response => response.text()).then(data => {document.getElementById('last-update-placeholder').innerHTML = data;});});
+</script>
 <link rel="stylesheet" href="../style.css">
 <link rel="stylesheet" href="../palette-vintage.css">
 </head>
@@ -18,6 +21,6 @@
 <tr><td rowspan="2" style="width: max-content;"><span class="thicc">S6-E1165</span><br/>Charlie/Dorothy/Robert<br/>06/16/1989</td><td class="thicc" rowspan="2">4</td><td>Elevator</td><td class="thicc">$7,518</td><td class="petit">On <span class="c-red-shadow nobreak">Red <span class="thicc">$300</span></span> between <span class="c-arctic-shadow nobreak">Arctic <span class="thicc">$250</span></span> and <span class="c-gamboge-shadow nobreak">Gamboge <span class="thicc">$900</span></span>.</td><td class="petit">Picked up R4 by P1, won end R4</td></tr>
 <tr><td class="petit" colspan="4" >A five foot two inch Sojin grand piano. Built with an uncompromising commitment to European standards, award winning quality designed for a lifetime of enjoyment from Sojin Pianos, $7,518!</td></tr>
 </table>
-<p style="text-align: center">Last updated: 11/8/2025 16:59:15</p>
+<p style="text-align: center">Last updated: <span id="last-update-placeholder">(Placeholder)</span></p>
 </body>
 </html>

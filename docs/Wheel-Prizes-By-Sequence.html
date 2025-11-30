@@ -3,6 +3,9 @@
 <style>
 @import url('https://fonts.googleapis.com/css2?family=Besley:ital,wght@0,400..900;1,400..900&display=swap')
 </style>
+<script>
+fetch('WheelPrizesBySequenceReport-last-update.txt').then(response => response.text()).then(data => {document.getElementById('last-update-placeholder').innerHTML = data;});
+</script>
 <link rel="stylesheet" href="style.css">
 <link rel="stylesheet" href="palette-vintage.css">
 </head>
@@ -13,17 +16,17 @@
 <tr><td class="thicc" >#1: FUR-S1-A</td></tr>
 <tr><td class="thicc" >#2: RING-S1</td></tr>
 <tr><td class="thicc" >#3: TRIP-S1-A</td></tr>
-<tr><td class="thicc" >#4: CASH-S1</td></tr>
-<tr><td class="thicc" >#5: PIN-S1</td></tr>
-<tr><td class="thicc" >#6: FUR-S1-B</td></tr>
-<tr><td class="thicc" >#7: SCOOTER-S1</td></tr>
-<tr><td class="thicc" >#8: SILVER-S1</td></tr>
-<tr><td class="thicc" >#9: VIDEO-S1</td></tr>
-<tr><td class="thicc" >#10: WATCH-S1</td></tr>
-<tr><td class="thicc" >#11: WATCHES-S1</td></tr>
-<tr><td class="thicc" >#12: TRIP-S1-B</td></tr>
-<tr><td class="thicc" >#13: TV-S1</td></tr>
-<tr><td class="thicc" >#14: BIKE-S1</td></tr>
+<tr><td class="thicc" >#4: PIN-S1</td></tr>
+<tr><td class="thicc" >#5: FUR-S1-B</td></tr>
+<tr><td class="thicc" >#6: SCOOTER-S1</td></tr>
+<tr><td class="thicc" >#7: SILVER-S1</td></tr>
+<tr><td class="thicc" >#8: VIDEO-S1</td></tr>
+<tr><td class="thicc" >#9: WATCH-S1</td></tr>
+<tr><td class="thicc" >#10: WATCHES-S1</td></tr>
+<tr><td class="thicc" >#11: TRIP-S1-B</td></tr>
+<tr><td class="thicc" >#12: TV-S1</td></tr>
+<tr><td class="thicc" >#13: BIKE-S1</td></tr>
+<tr><td class="thicc" >#14: CASH-S1</td></tr>
 <tr><td class="thicc" >#15: JADE-S1-A</td></tr>
 <tr><td class="thicc" >#16: CRYSTAL-S1</td></tr>
 <tr><td class="thicc" >#17: JADE-S1-B</td></tr>
@@ -35,11 +38,11 @@
 <table>
 <tr><th>Season 2</th></tr>
 <tr><td class="thicc" >#21: GRAPHIC-S2-A</td></tr>
-<tr><td class="thicc" >#22: VASE-S2</td></tr>
-<tr><td class="thicc" >#23: HEART-S2</td></tr>
-<tr><td class="thicc" >#24: PIN-S2</td></tr>
-<tr><td class="thicc" >#25: CRUISE-S2</td></tr>
-<tr><td class="thicc" >#26: LUGGAGE-S2</td></tr>
+<tr><td class="thicc" >#22: CRUISE-S2</td></tr>
+<tr><td class="thicc" >#23: PIN-S2</td></tr>
+<tr><td class="thicc" >#24: LUGGAGE-S2</td></tr>
+<tr><td class="thicc" >#25: HEART-S2</td></tr>
+<tr><td class="thicc" >#26: VASE-S2</td></tr>
 <tr><td class="thicc" >#27: SCULPTURE-S2</td></tr>
 <tr><td class="thicc" >#28: JEWEL-S2-A</td></tr>
 <tr><td class="thicc" >#29: MINI-CAR-S2-A</td></tr>
@@ -69,12 +72,12 @@
 <tr><th>Season 3</th></tr>
 <tr><td class="thicc" >#50: VIDEO-S3</td></tr>
 <tr><td class="thicc" >#51: TRUCK-S3</td></tr>
-<tr><td class="thicc" >#52: FUR-S3</td></tr>
-<tr><td class="thicc" >#53: SILVER-S3</td></tr>
-<tr><td class="thicc" >#54: PEARLS-S3</td></tr>
-<tr><td class="thicc" >#55: EARCLIPS-S3</td></tr>
-<tr><td class="thicc" >#56: WATCH-S3</td></tr>
-<tr><td class="thicc" >#57: TRIP-S3</td></tr>
+<tr><td class="thicc" >#52: TRIP-S3</td></tr>
+<tr><td class="thicc" >#53: FUR-S3</td></tr>
+<tr><td class="thicc" >#54: SILVER-S3</td></tr>
+<tr><td class="thicc" >#55: PEARLS-S3</td></tr>
+<tr><td class="thicc" >#56: EARCLIPS-S3</td></tr>
+<tr><td class="thicc" >#57: WATCH-S3</td></tr>
 <tr><td class="thicc" >#58: GEM-S3</td></tr>
 <tr><td class="thicc" >#59: BRACELET-S3</td></tr>
 <tr><td class="thicc" >#60: ART-S3</td></tr>
@@ -141,12 +144,12 @@
 <tr><td class="thicc" >#109: CLOCK-S6-A</td></tr>
 <tr><td class="thicc" >#110: WINDOW-S6-A</td></tr>
 <tr><td class="thicc" >#111: CHAIRS-S6</td></tr>
-<tr><td class="thicc" >#112: DIAMONDS-S6</td></tr>
-<tr><td class="thicc" >#113: WATER-S6</td></tr>
-<tr><td class="thicc" >#114: VIDEO-S6-A</td></tr>
-<tr><td class="thicc" >#115: CAR-S6-A</td></tr>
-<tr><td class="thicc" >#116: SPA-S6-A</td></tr>
-<tr><td class="thicc" >#117: NEON-S6</td></tr>
+<tr><td class="thicc" >#112: VIDEO-S6-A</td></tr>
+<tr><td class="thicc" >#113: CAR-S6-A</td></tr>
+<tr><td class="thicc" >#114: DIAMONDS-S6</td></tr>
+<tr><td class="thicc" >#115: WATER-S6</td></tr>
+<tr><td class="thicc" >#116: NEON-S6</td></tr>
+<tr><td class="thicc" >#117: SPA-S6-A</td></tr>
 <tr><td class="thicc" >#118: PEARLS-S6</td></tr>
 <tr><td class="thicc" >#119: FUR-S6-A</td></tr>
 <tr><td class="thicc" >#120: AVIARY-S6</td></tr>
@@ -1012,9 +1015,9 @@
 <tr><td class="thicc" >#940: ART-DC-B</td></tr>
 <tr><td class="thicc" >#941: FRIDGE-DT-B</td></tr>
 <tr><td class="thicc" >#942: DEN-DT-A</td></tr>
-<tr><td class="thicc" >#943: HOBBIES-DT-A</td></tr>
-<tr><td class="thicc" >#944: MUSIC-DC-A</td></tr>
-<tr><td class="thicc" >#945: TRAVEL-DT-A</td></tr>
+<tr><td class="thicc" >#943: TRAVEL-DT-A</td></tr>
+<tr><td class="thicc" >#944: HOBBIES-DT-A</td></tr>
+<tr><td class="thicc" >#945: MUSIC-DC-A</td></tr>
 <tr><td class="thicc" >#946: SPORTS-DN-A</td></tr>
 <tr><td class="thicc" >#947: ROOM-DC-B</td></tr>
 <tr><td class="thicc" >#948: HI-TECH-DT-A</td></tr>
@@ -1177,6 +1180,6 @@
 <tr><td class="thicc" >#1101: BACKYARD-S15</td></tr>
 <tr><th>Count: 142</th></tr>
 </table>
-<p style="text-align: center">Last updated: 11/8/2025 16:59:15</p>
+<p style="text-align: center">Last updated: <span id="last-update-placeholder">(Placeholder)</span></p>
 </body>
 </html>

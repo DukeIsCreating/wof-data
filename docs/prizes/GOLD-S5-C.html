@@ -3,6 +3,9 @@
 <style>
 @import url('https://fonts.googleapis.com/css2?family=Besley:ital,wght@0,400..900;1,400..900&display=swap')
 </style>
+<script>
+$(function(){fetch('../WheelPrizesBySequenceReport-last-update.txt').then(response => response.text()).then(data => {document.getElementById('last-update-placeholder').innerHTML = data;});});
+</script>
 <link rel="stylesheet" href="../style.css">
 <link rel="stylesheet" href="../palette-vintage.css">
 </head>
@@ -23,9 +26,9 @@
 <tr><td class="petit" colspan="4" >You might choose this with your a Fred Joaillier gift certificate, a man's heavy white and yellow gold chain link bracelet. It's $7,200!</td></tr>
 <tr><td rowspan="2" style="width: max-content;"><span class="thicc">S6-E1142</span><br/>Sue/Susan/Vince<br/>04/24/1989</td><td class="thicc" rowspan="2">4</td><td>Child</td><td class="thicc">$11,500</td><td class="petit">On <span class="c-red-shadow nobreak">Red <span class="thicc">$300</span></span> between <span class="c-arctic-shadow nobreak">Arctic <span class="thicc">$250</span></span> and <span class="c-gamboge-shadow nobreak">Gamboge <span class="thicc">$900</span></span>.</td><td class="petit">Picked up R4 by P1, expired end R4</td></tr>
 <tr><td class="petit" colspan="4" >It's a pair of magnificent sculptured diamond flowers add interest to this polished gold bracelet. Yours with your Fred Joaillier gift certificate. Retail value, $11,500!</td></tr>
-<tr><td rowspan="2" style="width: max-content;"><span class="thicc">S7-E1173</span><br/>Susie/Elizabeth/John<br/>09/06/1989</td><td class="thicc" rowspan="2">4</td><td>Tony</td><td class="thicc">$11,500</td><td class="petit"></td><td class="petit"></td></tr>
-<tr><td class="petit" colspan="4" >a gift certificate from Fred Joaillier featuring a pair of sculptured diamond flowers set in a polished gold bracelet worth $11,500!</td></tr>
+<tr><td rowspan="2" style="width: max-content;"><span class="thicc">S7-E1173</span><br/>Susie/Elizabeth/John<br/>09/06/1989</td><td class="thicc" rowspan="2">4</td><td>Tony</td><td class="thicc">$11,500</td><td class="petit">On <span class="c-purple-shadow nobreak">Purple <span class="thicc">$150</span></span> between <span class="c-red-shadow nobreak">Red <span class="thicc">$800</span></span> and <span class="c-arctic-shadow nobreak">Arctic <span class="thicc">$450</span></span>.</td><td class="petit">Picked up R4 by P2, expired end R4</td></tr>
+<tr><td class="petit" colspan="4" >A pair of magnificent sculptured diamond flowers add interest to this polished gold bracelet. Yours with your Fred Joaillier gift certificate, retail value, $11,500!</td></tr>
 </table>
-<p style="text-align: center">Last updated: 11/8/2025 16:59:15</p>
+<p style="text-align: center">Last updated: <span id="last-update-placeholder">(Placeholder)</span></p>
 </body>
 </html>

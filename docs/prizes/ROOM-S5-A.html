@@ -3,6 +3,9 @@
 <style>
 @import url('https://fonts.googleapis.com/css2?family=Besley:ital,wght@0,400..900;1,400..900&display=swap')
 </style>
+<script>
+$(function(){fetch('../WheelPrizesBySequenceReport-last-update.txt').then(response => response.text()).then(data => {document.getElementById('last-update-placeholder').innerHTML = data;});});
+</script>
 <link rel="stylesheet" href="../style.css">
 <link rel="stylesheet" href="../palette-vintage.css">
 </head>
@@ -14,6 +17,6 @@
 <tr><td rowspan="2" style="width: max-content;"><span class="thicc">S5-E874</span><br/>Rick/Julie/Gretchen<br/>01/28/1988</td><td class="thicc" rowspan="2">4</td><td>DeepCalm</td><td class="thicc">$5,479</td><td class="petit">On <span class="c-red-shadow nobreak">Red <span class="thicc">$300</span></span> between <span class="c-arctic-shadow nobreak">Arctic <span class="thicc">$250</span></span> and <span class="c-gamboge-shadow nobreak">Gamboge <span class="thicc">$900</span></span>.</td><td class="petit">Expired end R4</td></tr>
 <tr><td class="petit" colspan="4" >Enjoyable dining begins with Crawford of Jamestown's Pennsylvania Oak dining room. Lighted china and buffet, trestle table, and chairs. From Crawford of Jamestown. And, the Landes five piece silver hostess serving set. It's part of the Mystree(?) series, it's fine Italian silver plate, it's from Landes. And finally, service for eight in the Koutani pattern. It's fine limoge china. It's from Raynaud Ceralene. Really nice. This dining room is $5,479!</td></tr>
 </table>
-<p style="text-align: center">Last updated: 11/8/2025 16:59:15</p>
+<p style="text-align: center">Last updated: <span id="last-update-placeholder">(Placeholder)</span></p>
 </body>
 </html>

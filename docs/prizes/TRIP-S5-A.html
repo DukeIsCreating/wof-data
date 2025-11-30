@@ -3,6 +3,9 @@
 <style>
 @import url('https://fonts.googleapis.com/css2?family=Besley:ital,wght@0,400..900;1,400..900&display=swap')
 </style>
+<script>
+$(function(){fetch('../WheelPrizesBySequenceReport-last-update.txt').then(response => response.text()).then(data => {document.getElementById('last-update-placeholder').innerHTML = data;});});
+</script>
 <link rel="stylesheet" href="../style.css">
 <link rel="stylesheet" href="../palette-vintage.css">
 </head>
@@ -28,6 +31,6 @@
 <tr><td rowspan="2" style="width: max-content;"><span class="thicc">S5-E937</span><br/>Conrad/Erica/Verna<br/>05/03/1988</td><td class="thicc" rowspan="2">4</td><td>LetsGoDancin</td><td class="thicc">$5,895</td><td class="petit">On <span class="c-purple-shadow nobreak">Purple <span class="thicc">$150</span></span> between <span class="c-red-shadow nobreak">Red <span class="thicc">$800</span></span> and <span class="c-arctic-shadow nobreak">Arctic <span class="thicc">$450</span></span>.</td><td class="petit">Picked up R4 by P1, expired end R4</td></tr>
 <tr><td class="petit" colspan="4" >We could fly one of you three to Florida, aboard Delta Airlines, warm and friendly in-flight hospitality. It's from Delta Airlines. And, you'll take a set of totally matched Square Two golf clubs, finely engineered for optimum performance. Square Two is the official club of the Ladies Professional Golf Association. And, try out your new clubs at the PGA Sheraton Resort in Palm Beach, Florida. Enjoy golf, tennis, swimming, gourmet dining, and deluxe accomodations. From PGA Sheraton Resort. This is $5,895!</td></tr>
 </table>
-<p style="text-align: center">Last updated: 11/8/2025 16:59:15</p>
+<p style="text-align: center">Last updated: <span id="last-update-placeholder">(Placeholder)</span></p>
 </body>
 </html>

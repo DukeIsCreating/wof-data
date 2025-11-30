@@ -3,6 +3,9 @@
 <style>
 @import url('https://fonts.googleapis.com/css2?family=Besley:ital,wght@0,400..900;1,400..900&display=swap')
 </style>
+<script>
+$(function(){fetch('../WheelPrizesBySequenceReport-last-update.txt').then(response => response.text()).then(data => {document.getElementById('last-update-placeholder').innerHTML = data;});});
+</script>
 <link rel="stylesheet" href="../style.css">
 <link rel="stylesheet" href="../palette-vintage.css">
 </head>
@@ -16,6 +19,6 @@
 <tr><td rowspan="2" style="width: max-content;"><span class="thicc">SDN-EDT095</span><br/>Tracye/Suanne/Mary Lu<br/>05/24/1991</td><td class="thicc" rowspan="2">2</td><td>MorningSax</td><td class="thicc">$1,100</td><td class="petit">On <span class="c-purple-shadow nobreak">Purple <span class="thicc">$100</span></span> between <span class="c-gamboge-shadow nobreak">Lt Gamboge 125</span> and <span class="c-tangelo-shadow nobreak">Tangelo <span class="thicc">$175</span></span>.</td><td class="petit">Moves to #7 R3, moves to #13 R4, expired end R4</td></tr>
 <tr><td class="petit" colspan="4" >For the man, an Augustus suit clasically styled and traditionally tailored in fine fabrics to wear to a variety of occasions. Furnished by Augustus. Add Jules Jurgensen's handsome man's quartz slim line calendar watch. In a 14 karat gold round case with leather strap, furnished by Jules Jurgensen, a new look for your new man. $1,100!</td></tr>
 </table>
-<p style="text-align: center">Last updated: 11/8/2025 16:59:15</p>
+<p style="text-align: center">Last updated: <span id="last-update-placeholder">(Placeholder)</span></p>
 </body>
 </html>

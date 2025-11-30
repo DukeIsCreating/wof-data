@@ -3,6 +3,9 @@
 <style>
 @import url('https://fonts.googleapis.com/css2?family=Besley:ital,wght@0,400..900;1,400..900&display=swap')
 </style>
+<script>
+$(function(){fetch('../WheelPrizesBySequenceReport-last-update.txt').then(response => response.text()).then(data => {document.getElementById('last-update-placeholder').innerHTML = data;});});
+</script>
 <link rel="stylesheet" href="../style.css">
 <link rel="stylesheet" href="../palette-vintage.css">
 </head>
@@ -13,7 +16,7 @@
 <tr><th colspan="6">Plug / Description</th></tr>
 <tr><td rowspan="2" style="width: max-content;"><span class="thicc">S6-E980</span><br/>Judy/Bob/Lynne<br/>09/09/1988</td><td class="thicc" rowspan="2">4</td><td>DiscoSax</td><td class="thicc">$9,579</td><td class="petit">On <span class="c-red-shadow nobreak">Red <span class="thicc">$300</span></span> between <span class="c-arctic-shadow nobreak">Arctic <span class="thicc">$250</span></span> and <span class="c-gamboge-shadow nobreak">Gamboge <span class="thicc">$900</span></span>.</td><td class="petit">Expired end R4</td></tr>
 <tr><td class="petit" colspan="4" >The new Comanche Pioneer, it's a true mid-size pickup, acclaimed for its exceptional design and engineering, rugged capabilities, and bold Jeep tough styling. From Jeep.  $9,579!</td></tr>
-<tr><td rowspan="2" style="width: max-content;"><span class="thicc">S6-E993</span><br/>Kathleen/Addie/Betsie<br/>09/26/1988</td><td class="thicc" rowspan="2">4</td><td>DiscoSax</td><td class="thicc">$12,793</td><td class="petit">On <span class="c-purple-shadow nobreak">Purple <span class="thicc">$150</span></span> between <span class="c-red-shadow nobreak">Red <span class="thicc">$800</span></span> and <span class="c-arctic-shadow nobreak">Arctic <span class="thicc">$450</span></span>.</td><td class="petit">Picked up R4 by P1, won end R4</td></tr>
+<tr><td rowspan="2" style="width: max-content;"><span class="thicc">S6-E991</span><br/>Kathleen/Addie/Betsie<br/>09/26/1988</td><td class="thicc" rowspan="2">4</td><td>DiscoSax</td><td class="thicc">$12,793</td><td class="petit">On <span class="c-purple-shadow nobreak">Purple <span class="thicc">$150</span></span> between <span class="c-red-shadow nobreak">Red <span class="thicc">$800</span></span> and <span class="c-arctic-shadow nobreak">Arctic <span class="thicc">$450</span></span>.</td><td class="petit">Picked up R4 by P1, won end R4</td></tr>
 <tr><td class="petit" colspan="4" >When you're talking Jeep, you're talking about the Wrangler, combining four wheel drive capability and the Jeep prowess with smart design and engineering to make it all comfortable in the mountains as it is on the city streets. From Jeep, $12,793!</td></tr>
 <tr><td rowspan="2" style="width: max-content;"><span class="thicc">S6-E1019</span><br/>Rob/Valerie/Martha<br/>11/07/1988</td><td class="thicc" rowspan="2">4</td><td>Struttin</td><td class="thicc">$9,579</td><td class="petit">On <span class="c-red-shadow nobreak">Red <span class="thicc">$300</span></span> between <span class="c-arctic-shadow nobreak">Arctic <span class="thicc">$250</span></span> and <span class="c-gamboge-shadow nobreak">Gamboge <span class="thicc">$900</span></span>.</td><td class="petit">Expired end R4</td></tr>
 <tr><td class="petit" colspan="4" >The new Comanche Pioneer! A true mid-size pickup acclaimed for its exceptional design and engineering. Rugged capabilities and bold Jeep tough styling.  From Jeep, $9,579!</td></tr>
@@ -24,6 +27,6 @@
 <tr><td rowspan="2" style="width: max-content;"><span class="thicc">S6-E1139</span><br/>Barry/Nicole/Linda<br/>05/26/1989</td><td class="thicc" rowspan="2">4</td><td>DiscoSax</td><td class="thicc">$16,338</td><td class="petit">On <span class="c-red-shadow nobreak">Red <span class="thicc">$300</span></span> between <span class="c-arctic-shadow nobreak">Arctic <span class="thicc">$250</span></span> and <span class="c-gamboge-shadow nobreak">Gamboge <span class="thicc">$900</span></span>.</td><td class="petit">Expired end R4</td></tr>
 <tr><td class="petit" colspan="4" >The full sized Chevy C/K fleetside pickup. When you've got a big job to do, Chevrolet's advanced full sized C/K pickup cuts it down to size. $16,338!</td></tr>
 </table>
-<p style="text-align: center">Last updated: 11/8/2025 16:59:15</p>
+<p style="text-align: center">Last updated: <span id="last-update-placeholder">(Placeholder)</span></p>
 </body>
 </html>

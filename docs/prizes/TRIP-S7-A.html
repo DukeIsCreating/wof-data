@@ -3,6 +3,9 @@
 <style>
 @import url('https://fonts.googleapis.com/css2?family=Besley:ital,wght@0,400..900;1,400..900&display=swap')
 </style>
+<script>
+$(function(){fetch('../WheelPrizesBySequenceReport-last-update.txt').then(response => response.text()).then(data => {document.getElementById('last-update-placeholder').innerHTML = data;});});
+</script>
 <link rel="stylesheet" href="../style.css">
 <link rel="stylesheet" href="../palette-vintage.css">
 </head>
@@ -11,8 +14,8 @@
 <table>
 <tr><th rowspan="2">Episode</th><th rowspan="2">R#</th><th>Music</th><th>Value</th><th>Position</th><th>Disposition</th></tr>
 <tr><th colspan="6">Plug / Description</th></tr>
-<tr><td rowspan="2" style="width: max-content;"><span class="thicc">S7-E1173</span><br/>Susie/Elizabeth/John<br/>09/06/1989</td><td class="thicc" rowspan="2">2</td><td>Island</td><td class="thicc">$3,771</td><td class="petit"></td><td class="petit"></td></tr>
-<tr><td class="petit" colspan="4" >a trip to the Bahamas worth $3,771!</td></tr>
+<tr><td rowspan="2" style="width: max-content;"><span class="thicc">S7-E1173</span><br/>Susie/Elizabeth/John<br/>09/06/1989</td><td class="thicc" rowspan="2">2</td><td>Island</td><td class="thicc">$3,771</td><td class="petit">On <span class="c-arctic-shadow nobreak">Arctic <span class="thicc">$150</span></span> between <span class="c-pink-shadow nobreak">Pink <span class="thicc">$250</span></span> and <span class="c-red-shadow nobreak">Red <span class="thicc">$400</span></span>.</td><td class="petit">Expired end R2</td></tr>
+<tr><td class="petit" colspan="4" >We'll fly you and a guest from Los Angeles to the Bahamas aboard Delta Airlines, with standard and wide body service. You may visit their exclusive Crown Room Lounge and experience warm and friendly hospitality in flight, from Delta Airlines. You'll spend a week in the heart of Paradise Island, The Paradise Island Resort & Casino, where you may enjoy watersports, golf, tennis, gourmet dining, miles of private beaches and a myriad of night life attractions, from the Paradise Island Resort & Casino, $3,771!</td></tr>
 <tr><td rowspan="2" style="width: max-content;"><span class="thicc">S7-E1212</span><br/>Beverly/Larry/Nicole<br/>10/31/1989</td><td class="thicc" rowspan="2">2</td><td>Tony</td><td class="thicc">$3,001</td><td class="petit"></td><td class="petit"></td></tr>
 <tr><td class="petit" colspan="4" >a trip to San Francisco! The trip includes Ricardo Beverly Hills luggage as well. Retail value is $3,001!</td></tr>
 <tr><td rowspan="2" style="width: max-content;"><span class="thicc">S7-E1334</span><br/>Merge/Doug/Dale<br/>05/03/1990</td><td class="thicc" rowspan="2">4</td><td>1980PrizeCue</td><td class="thicc">$8,739</td><td class="petit"></td><td class="petit"></td></tr>
@@ -30,6 +33,6 @@
 <tr><td rowspan="2" style="width: max-content;"><span class="thicc">S12-E2230</span><br/>Chris/Arsalan/Betty<br/>01/13/1995</td><td class="thicc" rowspan="2">2</td><td>DinnerSax</td><td class="thicc">$3,000</td><td class="petit"></td><td class="petit"></td></tr>
 <tr><td class="petit" colspan="4" >a holiday at Nashville's Opryland Hotel including theme park tour and Grand Ole Opry worth $3,000!</td></tr>
 </table>
-<p style="text-align: center">Last updated: 11/8/2025 16:59:15</p>
+<p style="text-align: center">Last updated: <span id="last-update-placeholder">(Placeholder)</span></p>
 </body>
 </html>

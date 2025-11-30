@@ -12,6 +12,8 @@ Please note that as of now everything is in a preliminary state. Schemas, folder
 | Data Set | Description |
 | --- | --- |
 | [Wheel-Prizes](Wheel-Prizes.html) | Contains a database of wheel prizes offered. |
+| [Player-Position-Bias](Player-Position-Bias.html) | Contains statistics of which player positions had an advantage in different gameplay epochs. |
+| [Episode-Source-Status](Episode-Source-Status.html) | Status of video sources that are used for this database. |
 | | More to come
 
 ## Credits

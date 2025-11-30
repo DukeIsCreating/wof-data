@@ -3,6 +3,9 @@
 <style>
 @import url('https://fonts.googleapis.com/css2?family=Besley:ital,wght@0,400..900;1,400..900&display=swap')
 </style>
+<script>
+$(function(){fetch('../WheelPrizesBySequenceReport-last-update.txt').then(response => response.text()).then(data => {document.getElementById('last-update-placeholder').innerHTML = data;});});
+</script>
 <link rel="stylesheet" href="../style.css">
 <link rel="stylesheet" href="../palette-vintage.css">
 </head>
@@ -16,6 +19,6 @@
 <tr><td rowspan="2" style="width: max-content;"><span class="thicc">S14-E2669</span><br/>John/Andy/Denise<br/>03/13/1997</td><td class="thicc" rowspan="2">2</td><td></td><td class="thicc">$2,371</td><td class="petit"></td><td class="petit"></td></tr>
 <tr><td class="petit" colspan="4" >a Broyhill entertainment armoire, Magnavox VCR, and Magnavox 27" TV. This prize is worth $2,371!</td></tr>
 </table>
-<p style="text-align: center">Last updated: 11/8/2025 16:59:15</p>
+<p style="text-align: center">Last updated: <span id="last-update-placeholder">(Placeholder)</span></p>
 </body>
 </html>

@@ -3,6 +3,9 @@
 <style>
 @import url('https://fonts.googleapis.com/css2?family=Besley:ital,wght@0,400..900;1,400..900&display=swap')
 </style>
+<script>
+$(function(){fetch('../WheelPrizesBySequenceReport-last-update.txt').then(response => response.text()).then(data => {document.getElementById('last-update-placeholder').innerHTML = data;});});
+</script>
 <link rel="stylesheet" href="../style.css">
 <link rel="stylesheet" href="../palette-vintage.css">
 </head>
@@ -27,11 +30,11 @@
 <tr><td class="petit" colspan="4" >Classic dining - an elegant Stirling Silver host set. Six assorted server pieces to complement every table service. Richly detailed. And, you'll be the envied hostess with this 24 karat gold plate flatware service. 92 pieces in a deluxe walnut chest. Finally, elegant Irish crystal. Eight each of highball and old fashioned in the popular mistmoore pattern, hand cut in full lead crystal, all from the Michael C. Fina Company. $2,924!</td></tr>
 <tr><td rowspan="2" style="width: max-content;"><span class="thicc">S9-E1717</span><br/>Stuart/Prasenjit/Justin<br/>04/28/1992</td><td class="thicc" rowspan="2">2</td><td>SaxxyG</td><td class="thicc">$4,248</td><td class="petit"></td><td class="petit"></td></tr>
 <tr><td class="petit" colspan="4" >a Dining Package from the Royal Dolton shop in the United Kingdom section of EPCOT, worth $4,248!</td></tr>
-<tr><td rowspan="2" style="width: max-content;"><span class="thicc">SDN-EDT057</span><br/>Rick/Cindy/Maureen<br/>04/02/1991</td><td class="thicc" rowspan="2">3</td><td>WaitingForU</td><td class="thicc">$3,198</td><td class="petit">On <span class="c-yellow-shadow nobreak">Yellow <span class="thicc">$200</span></span> between <span class="c-pink-shadow nobreak">Pink <span class="thicc">$100</span></span> and <span class="c-arctic-shadow nobreak">Arctic <span class="thicc">$100</span></span>.</td><td class="petit">Expired end R4</td></tr>
+<tr><td rowspan="2" style="width: max-content;"><span class="thicc">SDN-EDT052</span><br/>Rick/Cindy/Maureen<br/>03/26/1991</td><td class="thicc" rowspan="2">3</td><td>WaitingForU</td><td class="thicc">$3,198</td><td class="petit">On <span class="c-yellow-shadow nobreak">Yellow <span class="thicc">$200</span></span> between <span class="c-pink-shadow nobreak">Pink <span class="thicc">$100</span></span> and <span class="c-arctic-shadow nobreak">Arctic <span class="thicc">$100</span></span>.</td><td class="petit">Expired end R4</td></tr>
 <tr><td class="petit" colspan="4" >Broyhill's elegant Mahogany finish dining room. Crafted of selected hardwoods and maple veneers, group includes Duncan Phyfe table, six chairs, and lighted mirrored back china. Furnished by Broyhill. And, Landes's five piece silver hostess serving set, part of the Mystree series crafted from fine Italian silver plate, and designed in contemporary elegance, furnished by Landes. Always a favorite, New Idahoan Complete Mashed Potatoes! Tastes like homemade, but faster than instant beccause all you add is hot water. Another fine product from Idahoan! Total retail value, $3,198!</td></tr>
 <tr><td rowspan="2" style="width: max-content;"><span class="thicc">SDN-EDT081</span><br/>Jean & Stephanie/Josh & Joanne/Brendan & Arlene<br/>05/06/1991</td><td class="thicc" rowspan="2">3</td><td>SaxxyG</td><td class="thicc">$2,458</td><td class="petit">On <span class="c-purple-shadow nobreak">Purple <span class="thicc">$100</span></span> between <span class="c-red-shadow nobreak">Red <span class="thicc">$400</span></span> and <span class="c-arctic-shadow nobreak">Arctic <span class="thicc">$200</span></span>.</td><td class="petit">Expired end R3</td></tr>
 <tr><td class="petit" colspan="4" >Chromecraft's 5-piece dining group in beautiful Rattan. Features outstanding designs, square round glass top, and pedestal chairs that roll, swivel, and tilt. Furnished by Chromecraft. Add Landes's five piece silver hostess serving set, part of the Mystree series crafted from fine Italian silver plate, and designed in contemporary elegance, furnished by Landes. And enjoy Archway Ginger Snaps and Oatmeal Cookies. Low in sodium, low cholesterol with no palm oil. The good food cookies always fresh in your store. $2,458!</td></tr>
 </table>
-<p style="text-align: center">Last updated: 11/8/2025 16:59:15</p>
+<p style="text-align: center">Last updated: <span id="last-update-placeholder">(Placeholder)</span></p>
 </body>
 </html>

@@ -3,6 +3,9 @@
 <style>
 @import url('https://fonts.googleapis.com/css2?family=Besley:ital,wght@0,400..900;1,400..900&display=swap')
 </style>
+<script>
+$(function(){fetch('../WheelPrizesBySequenceReport-last-update.txt').then(response => response.text()).then(data => {document.getElementById('last-update-placeholder').innerHTML = data;});});
+</script>
 <link rel="stylesheet" href="../style.css">
 <link rel="stylesheet" href="../palette-vintage.css">
 </head>
@@ -11,7 +14,7 @@
 <table>
 <tr><th rowspan="2">Episode</th><th rowspan="2">R#</th><th>Music</th><th>Value</th><th>Position</th><th>Disposition</th></tr>
 <tr><th colspan="6">Plug / Description</th></tr>
-<tr><td rowspan="2" style="width: max-content;"><span class="thicc">S3-E524</span><br/>Linda/Joan/Tom<br/>03/19/1986</td><td class="thicc" rowspan="2">2</td><td>Samba</td><td class="thicc">$2,848</td><td class="petit">On <span class="v-tangelo-shadow nobreak">Tangelo <span class="thicc">$150</span></span> between <span class="v-red-shadow nobreak">Red <span class="thicc">$500</span></span> and <span class="v-lt-gamboge-shadow nobreak">Lt Gamboge <span class="thicc">$800</span></span>.</td><td class="petit">Picked up R2 by P3, won end R2</td></tr>
+<tr><td rowspan="2" style="width: max-content;"><span class="thicc">S3-E486</span><br/>Linda/Joan/Tom<br/>01/27/1986</td><td class="thicc" rowspan="2">2</td><td>Samba</td><td class="thicc">$2,848</td><td class="petit">On <span class="v-tangelo-shadow nobreak">Tangelo <span class="thicc">$150</span></span> between <span class="v-red-shadow nobreak">Red <span class="thicc">$500</span></span> and <span class="v-lt-gamboge-shadow nobreak">Lt Gamboge <span class="thicc">$800</span></span>.</td><td class="petit">Picked up R2 by P3, won end R2</td></tr>
 <tr><td class="petit" colspan="4" >One of our contestants could be flown with a guest from Los Angeles to the Grotto Bay Beach Hotel Bermuda. Has brilliant sun, pink beaches, fresh water pools, tennis, disco entertainment, and superb meals, served with true Bermuda hospitality, at the Grotto Bay Beach Hotel. It's $2,848!</td></tr>
 <tr><td rowspan="2" style="width: max-content;"><span class="thicc">S4-E600</span><br/>Brenda/David/Cary<br/>09/26/1986</td><td class="thicc" rowspan="2">2</td><td>Samba</td><td class="thicc">$2,247</td><td class="petit">On <span class="c-purple-shadow nobreak">Purple <span class="thicc">$150</span></span> between <span class="c-red-shadow nobreak">Red <span class="thicc">$800</span></span> and <span class="c-arctic-shadow nobreak">Arctic <span class="thicc">$450</span></span>.</td><td class="petit">Expired end R2</td></tr>
 <tr><td class="petit" colspan="4" >One of our players could win a trip to Nashville! We'll fly them and a guest for a six night stay at the magnificent Opryland Hotel, fabulous Opryland Show Park, tickets to the famous Grand Ole Opry, plus a dinner and show excursion on the brand new General Jackson showboat. It's $2,247!</td></tr>
@@ -42,6 +45,6 @@
 <tr><td rowspan="2" style="width: max-content;"><span class="thicc">S5-E809</span><br/>Mary Beth/Donna/Robin<br/>10/22/1987</td><td class="thicc" rowspan="2">4</td><td>Samba</td><td class="thicc">$4,850</td><td class="petit">On <span class="c-red-shadow nobreak">Red <span class="thicc">$300</span></span> between <span class="c-arctic-shadow nobreak">Arctic <span class="thicc">$250</span></span> and <span class="c-gamboge-shadow nobreak">Gamboge <span class="thicc">$900</span></span>.</td><td class="petit">Expired end R4</td></tr>
 <tr><td class="petit" colspan="4" >One of our players might win this dream vacation to fabulous Rio de Janeiro! You and your guest will fly round trip coach from Los Angeles to Rio via Varig Brazilian Airlines, the world class airline of Brazil. And then you'll spend  6 nights at the exciting Hotel Inter-Continental Rio, located on Sao Conrado Beach. Enjoy the sun and Samba and quality of this full service resort hotel. TThe total retail value is $4,850.</td></tr>
 </table>
-<p style="text-align: center">Last updated: 11/8/2025 16:59:15</p>
+<p style="text-align: center">Last updated: <span id="last-update-placeholder">(Placeholder)</span></p>
 </body>
 </html>
