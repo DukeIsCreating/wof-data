@@ -17,10 +17,10 @@
 	--color-v-red: #ff624b;
 
 	--color-c-tangelo: #FF651E;
-	--color-c-gamboge: #FFC32D;
+	--color-c-amber: #FFC32D;
 	--color-c-glitter-gold: #EAD152;
 	--color-c-arctic: #40B9D1;
-	--color-c-purple: #9F85BC;
+	--color-c-lilac: #9F85BC;
 	--color-c-pink: #F4A6C8;
 
 	--color-x-dk-grey: #606060;
@@ -113,8 +113,8 @@
   text-shadow: 0px 0px 3px var(--color-c-tangelo), 0px 0px 5px var(--color-c-tangelo), 0px 0px 8px var(--color-c-tangelo), 0px 0px 3px var(--color-c-tangelo), 0px 0px 5px var(--color-c-tangelo), 0px 0px 8px var(--color-c-tangelo), 0px 0px 3px var(--color-c-tangelo), 0px 0px 5px var(--color-c-tangelo), 0px 0px 8px var(--color-c-tangelo), 0px 0px 3px var(--color-c-tangelo), 0px 0px 5px var(--color-c-tangelo), 0px 0px 8px var(--color-c-tangelo);
 }
 
-.c-gamboge-shadow {
-  text-shadow: 0px 0px 3px var(--color-c-gamboge), 0px 0px 5px var(--color-c-gamboge), 0px 0px 8px var(--color-c-gamboge), 0px 0px 3px var(--color-c-gamboge), 0px 0px 5px var(--color-c-gamboge), 0px 0px 8px var(--color-c-gamboge), 0px 0px 3px var(--color-c-gamboge), 0px 0px 5px var(--color-c-gamboge), 0px 0px 8px var(--color-c-gamboge), 0px 0px 3px var(--color-c-gamboge), 0px 0px 5px var(--color-c-gamboge), 0px 0px 8px var(--color-c-gamboge);
+.c-amber-shadow {
+  text-shadow: 0px 0px 3px var(--color-c-amber), 0px 0px 5px var(--color-c-amber), 0px 0px 8px var(--color-c-amber), 0px 0px 3px var(--color-c-amber), 0px 0px 5px var(--color-c-amber), 0px 0px 8px var(--color-c-amber), 0px 0px 3px var(--color-c-amber), 0px 0px 5px var(--color-c-amber), 0px 0px 8px var(--color-c-amber), 0px 0px 3px var(--color-c-amber), 0px 0px 5px var(--color-c-amber), 0px 0px 8px var(--color-c-amber);
 }
 
 .c-glitter-gold-shadow {
@@ -133,8 +133,8 @@
   text-shadow: 0px 0px 3px var(--color-c-arctic), 0px 0px 5px var(--color-c-arctic), 0px 0px 8px var(--color-c-arctic), 0px 0px 3px var(--color-c-arctic), 0px 0px 5px var(--color-c-arctic), 0px 0px 8px var(--color-c-arctic), 0px 0px 3px var(--color-c-arctic), 0px 0px 5px var(--color-c-arctic), 0px 0px 8px var(--color-c-arctic), 0px 0px 3px var(--color-c-arctic), 0px 0px 5px var(--color-c-arctic), 0px 0px 8px var(--color-c-arctic);
 }
 
-.c-purple-shadow {
-  text-shadow: 0px 0px 3px var(--color-c-purple), 0px 0px 5px var(--color-c-purple), 0px 0px 8px var(--color-c-purple), 0px 0px 3px var(--color-c-purple), 0px 0px 5px var(--color-c-purple), 0px 0px 8px var(--color-c-purple), 0px 0px 3px var(--color-c-purple), 0px 0px 5px var(--color-c-purple), 0px 0px 8px var(--color-c-purple), 0px 0px 3px var(--color-c-purple), 0px 0px 5px var(--color-c-purple), 0px 0px 8px var(--color-c-purple);
+.c-lilac-shadow {
+  text-shadow: 0px 0px 3px var(--color-c-lilac), 0px 0px 5px var(--color-c-lilac), 0px 0px 8px var(--color-c-lilac), 0px 0px 3px var(--color-c-lilac), 0px 0px 5px var(--color-c-lilac), 0px 0px 8px var(--color-c-lilac), 0px 0px 3px var(--color-c-lilac), 0px 0px 5px var(--color-c-lilac), 0px 0px 8px var(--color-c-lilac), 0px 0px 3px var(--color-c-lilac), 0px 0px 5px var(--color-c-lilac), 0px 0px 8px var(--color-c-lilac);
 }
 
 .c-pink-shadow {

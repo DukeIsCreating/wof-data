@@ -1,0 +1,22 @@
+<html>
+<head>
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Besley:ital,wght@0,400..900;1,400..900&display=swap')
+</style>
+<script>
+$(function(){fetch('../WheelPrizesBySequenceReport-last-update.txt').then(response => response.text()).then(data => {document.getElementById('last-update-placeholder').innerHTML = data;});});
+</script>
+<link rel="stylesheet" href="../style.css">
+<link rel="stylesheet" href="../palette-vintage.css">
+</head>
+<body>
+<h1>SEW-S8</h1>
+<table>
+<tr><th rowspan="2">Episode</th><th rowspan="2">R#</th><th>Music</th><th>Value</th><th>Position</th><th>Disposition</th></tr>
+<tr><th colspan="6">Plug / Description</th></tr>
+<tr><td rowspan="2" style="width: max-content;"><span class="thicc">SDC-EC263</span><br/>Rochelle/Tammy/Hury<br/>07/23/1990</td><td class="thicc" rowspan="2">2</td><td>HeartBassDrum</td><td class="thicc">$630</td><td class="petit">On <span class="c-pink-shadow nobreak">Pink <span class="thicc">$250</span></span> between <span class="c-yellow-shadow nobreak">Yellow <span class="thicc">$400</span></span> and Lt Gamboge 100.</td><td class="petit">Moves to #21 R3, picked up R4 by P2, lost to Bankrupt</td></tr>
+<tr><td class="petit" colspan="4" >For quality performance, the New Home 2022. Versitile top loading machine has 22 stitches, button holer, and other features. The New Home Sewing Machine Company. Retail value $630!</td></tr>
+</table>
+<p style="text-align: center">Last updated: <span id="last-update-placeholder">(Placeholder)</span></p>
+</body>
+</html>

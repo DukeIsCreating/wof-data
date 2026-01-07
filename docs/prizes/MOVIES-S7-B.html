@@ -1,0 +1,22 @@
+<html>
+<head>
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Besley:ital,wght@0,400..900;1,400..900&display=swap')
+</style>
+<script>
+$(function(){fetch('../WheelPrizesBySequenceReport-last-update.txt').then(response => response.text()).then(data => {document.getElementById('last-update-placeholder').innerHTML = data;});});
+</script>
+<link rel="stylesheet" href="../style.css">
+<link rel="stylesheet" href="../palette-vintage.css">
+</head>
+<body>
+<h1>MOVIES-S7-B</h1>
+<table>
+<tr><th rowspan="2">Episode</th><th rowspan="2">R#</th><th>Music</th><th>Value</th><th>Position</th><th>Disposition</th></tr>
+<tr><th colspan="6">Plug / Description</th></tr>
+<tr><td rowspan="2" style="width: max-content;"><span class="thicc">S7-E1324</span><br/>Dorothy/Linda/Mark<br/>04/19/1990</td><td class="thicc" rowspan="2">2</td><td>HeartBassDrum</td><td class="thicc">$3,798</td><td class="petit"></td><td class="petit"></td></tr>
+<tr><td class="petit" colspan="4" >Everything you've ever wanted to know about movies is in this twelve volume encyclopedia of motion pictures, covering more than 53,000 films, casts, credits, and reviews. Published by Cinebooks. Enjoy the oldies on Colortyme's ultra home entertainment center, with unified remote control. Features a big 25 inch TV, VCR, and stereo, from ColorTyme Rent-To-Own systems. Or, make your own with this: The Magnavox Movie Maker is smart, very smart! Fully automatic and easy to use, so light sensitive you get accurate color under low light conditions, from Magnavox. This movie package: $3,798!</td></tr>
+</table>
+<p style="text-align: center">Last updated: <span id="last-update-placeholder">(Placeholder)</span></p>
+</body>
+</html>

@@ -1,0 +1,22 @@
+<html>
+<head>
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Besley:ital,wght@0,400..900;1,400..900&display=swap')
+</style>
+<script>
+$(function(){fetch('../WheelPrizesBySequenceReport-last-update.txt').then(response => response.text()).then(data => {document.getElementById('last-update-placeholder').innerHTML = data;});});
+</script>
+<link rel="stylesheet" href="../style.css">
+<link rel="stylesheet" href="../palette-vintage.css">
+</head>
+<body>
+<h1>STEREO-S7</h1>
+<table>
+<tr><th rowspan="2">Episode</th><th rowspan="2">R#</th><th>Music</th><th>Value</th><th>Position</th><th>Disposition</th></tr>
+<tr><th colspan="6">Plug / Description</th></tr>
+<tr><td rowspan="2" style="width: max-content;"><span class="thicc">SDC-EC003</span><br/>Suzy/Jeff/Patrick<br/>07/19/1989</td><td class="thicc" rowspan="2">2</td><td>HeartBassDrum</td><td class="thicc">$599</td><td class="petit">On <span class="c-pink-shadow nobreak">Pink <span class="thicc">$50</span></span> between <span class="c-yellow-shadow nobreak"><span class="thicc">Free Spin</span></span> and Lt Gamboge 100.</td><td class="petit">Picked up R2 by P2, expired end R2</td></tr>
+<tr><td class="petit" colspan="4" >Sherwood's audio component system features a 100 watts per channel low distortion amplifier, dual cassette deck, graphic equalizer, and hicory finished cabinet. From Sherwood. Retail value, $599!</td></tr>
+</table>
+<p style="text-align: center">Last updated: <span id="last-update-placeholder">(Placeholder)</span></p>
+</body>
+</html>

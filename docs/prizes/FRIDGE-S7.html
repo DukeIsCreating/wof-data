@@ -1,0 +1,22 @@
+<html>
+<head>
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Besley:ital,wght@0,400..900;1,400..900&display=swap')
+</style>
+<script>
+$(function(){fetch('../WheelPrizesBySequenceReport-last-update.txt').then(response => response.text()).then(data => {document.getElementById('last-update-placeholder').innerHTML = data;});});
+</script>
+<link rel="stylesheet" href="../style.css">
+<link rel="stylesheet" href="../palette-vintage.css">
+</head>
+<body>
+<h1>FRIDGE-S7</h1>
+<table>
+<tr><th rowspan="2">Episode</th><th rowspan="2">R#</th><th>Music</th><th>Value</th><th>Position</th><th>Disposition</th></tr>
+<tr><th colspan="6">Plug / Description</th></tr>
+<tr><td rowspan="2" style="width: max-content;"><span class="thicc">SDC-EC004</span><br/>Julie/Patrick/Lesa<br/>07/20/1989</td><td class="thicc" rowspan="2">3</td><td>HeartBassDrum</td><td class="thicc">$1,300</td><td class="petit">On <span class="c-yellow-shadow nobreak">Yellow <span class="thicc">$200</span></span> between <span class="c-pink-shadow nobreak">Pink <span class="thicc">$100</span></span> and <span class="c-arctic-shadow nobreak">Arctic <span class="thicc">$100</span></span>.</td><td class="petit">Expired end R5</td></tr>
+<tr><td class="petit" colspan="4" >A Tappan side by side refrigerator freezer features chilled water dispenser, automatic ice maker, no frost feature in both refrigerator and freezer, from Tappan. Retail value $1,300!</td></tr>
+</table>
+<p style="text-align: center">Last updated: <span id="last-update-placeholder">(Placeholder)</span></p>
+</body>
+</html>

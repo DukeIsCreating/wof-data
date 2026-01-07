@@ -1,0 +1,26 @@
+<html>
+<head>
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Besley:ital,wght@0,400..900;1,400..900&display=swap')
+</style>
+<script>
+$(function(){fetch('../WheelPrizesBySequenceReport-last-update.txt').then(response => response.text()).then(data => {document.getElementById('last-update-placeholder').innerHTML = data;});});
+</script>
+<link rel="stylesheet" href="../style.css">
+<link rel="stylesheet" href="../palette-vintage.css">
+</head>
+<body>
+<h1>BOAT-S7-C</h1>
+<table>
+<tr><th rowspan="2">Episode</th><th rowspan="2">R#</th><th>Music</th><th>Value</th><th>Position</th><th>Disposition</th></tr>
+<tr><th colspan="6">Plug / Description</th></tr>
+<tr><td rowspan="2" style="width: max-content;"><span class="thicc">S7-E1291</span><br/>Terri-Jo/Bill/Susie<br/>02/26/1990</td><td class="thicc" rowspan="2">4</td><td>HeartBassDrum</td><td class="thicc">$7,985</td><td class="petit"></td><td class="petit"></td></tr>
+<tr><td class="petit" colspan="4" >an Addictor 333 Bambino boat worth $7,985!</td></tr>
+<tr><td rowspan="2" style="width: max-content;"><span class="thicc">SDC-EC251</span><br/>Karen/Terry/Barry<br/>07/05/1990</td><td class="thicc" rowspan="2">2</td><td>MorningSax</td><td class="thicc">$2,454</td><td class="petit">On Purple 100 between <span class="c-red-shadow nobreak">Red <span class="thicc">$400</span></span> and <span class="c-arctic-shadow nobreak">Arctic <span class="thicc">$200</span></span>.</td><td class="petit">Picked up R3 by P2, expired end R3</td></tr>
+<tr><td class="petit" colspan="4" >How about this Buffalo Mini Boat? Weighs 98 pounds, holds two people, three horsepower, goes 16 miles per hour, includes horn, anchor, compass, radio and trailer. From Buffalo Mini Boat. Retail value $2,454!</td></tr>
+<tr><td rowspan="2" style="width: max-content;"><span class="thicc">SDN-EDT096</span><br/>Suanne/Steve/Danette<br/>05/27/1991</td><td class="thicc" rowspan="2">3</td><td>RisingSax</td><td class="thicc">$1,895</td><td class="petit">On <span class="c-yellow-shadow nobreak">Yellow <span class="thicc">$200</span></span> between <span class="c-pink-shadow nobreak">Pink <span class="thicc">$100</span></span> and <span class="c-arctic-shadow nobreak">Arctic <span class="thicc">$100</span></span>.</td><td class="petit">Picked up R3 by P3, won end R3</td></tr>
+<tr><td class="petit" colspan="4" >This is the Toobie Boat. Lightweight and maneuverable for two people, ideal for fishing or bay cruising with its 2.5 horsepower motor. Furnished by Water Ventures. $1,895!</td></tr>
+</table>
+<p style="text-align: center">Last updated: <span id="last-update-placeholder">(Placeholder)</span></p>
+</body>
+</html>
